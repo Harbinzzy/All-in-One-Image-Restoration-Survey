@@ -1,5 +1,9 @@
 # All-in-One-Image-Restoration-Survey
 ### 2024
+#### `[ACCV2024]`**TANet: Triplet Attention Network for All-In-One Adverse Weather Image Restoration**
+*Hsing-Hua Wang, Fu-Jen Tsai, Yen-Yu Lin, Chia-Wen Lin*
+- Paper: https://arxiv.org/abs/2410.08177
+- Code: https://github.com/xhuachris/TANet-ACCV-2024
 #### `[ECCV2024]`**Restore Anything with Masks: Leveraging Mask Image Modeling for Blind All-in-One Image Restoration**
 *Chu-Jie Qin, Rui-Qi Wu, Zikun Liu, Xin Lin, Chun-Le Guo, Hyun Hee Park, Chongyi Li*
 - Paper: https://arxiv.org/abs/2409.19403
