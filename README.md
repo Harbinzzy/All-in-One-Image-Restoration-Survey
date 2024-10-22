@@ -14,6 +14,11 @@
 </div>
 
 
+## News
+- [x] 🚀 Our comprehensive survey paper on All-in-One Image Restoration has been [released](https://arxiv.org/abs/2410.15067). We are actively developing this project and will provide regular updates to reflect the latest advancements in the field.
+
+
+## Awesome All-in-one Image Restoration Paper List
 
 ### 2024
 #### `[ACCV2024]`**TANet: Triplet Attention Network for All-In-One Adverse Weather Image Restoration**
