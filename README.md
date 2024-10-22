@@ -1,4 +1,20 @@
-# All-in-One-Image-Restoration-Survey
+<div align="center">
+
+# [🔥] A Survey on All-in-One Image Restoration: Taxonomy, Evaluation and Future Trends
+
+[Junjun Jiang](http://homepage.hit.edu.cn/jiangjunjun), [Zengyuan Zuo](),[Gang Wu](https://scholar.google.com/citations?user=JSqb7QIAAAAJ), [Kui Jiang](https://homepage.hit.edu.cn/jiangkui) and [Xianming Liu](http://homepage.hit.edu.cn/xmliu)
+
+[AIIA Lab](https://aiialabhit.github.io/team/), Harbin Institute of Technology.
+
+---
+
+[![Paper2](https://img.shields.io/badge/Paper-arXiv-red)]([https://arxiv.org/abs/2401.05633](https://arxiv.org/abs/2410.15067))
+[![Hits](https://hits.sh/github.com/Harbinzzy/All-in-One-Image-Restoration-Survey.svg)](https://hits.sh/github.com/Harbinzzy/All-in-One-Image-Restoration-Survey/)
+
+</div>
+
+
+
 ### 2024
 #### `[ACCV2024]`**TANet: Triplet Attention Network for All-In-One Adverse Weather Image Restoration**
 *Hsing-Hua Wang, Fu-Jen Tsai, Yen-Yu Lin, Chia-Wen Lin*
