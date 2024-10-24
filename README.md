@@ -22,7 +22,7 @@
 
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
-|An Intelligent Agentic System for Complex Image Restoration Problems<br><sub> Kaiwen Zhu, Jinjin Gu, Zhiyuan You, Yu Qiao, Chao Dong</sub> |Arxiv| [Paper]([https://arxiv.org/abs/2410.15385](https://arxiv.org/abs/2410.17809))||
+|An Intelligent Agentic System for Complex Image Restoration Problems<br><sub> Kaiwen Zhu, Jinjin Gu, Zhiyuan You, Yu Qiao, Chao Dong</sub> |Arxiv| [Paper](https://arxiv.org/abs/2410.17809)||
 | LoRA-IR: Taming Low-Rank Experts for Efficient All-in-One Image Restoration<br><sub>Yuang Ai, Huaibo Huang, Ran He</sub> | Arxiv | [Paper](https://arxiv.org/abs/2410.15385) | [Code](https://github.com/shallowdream204/LoRA-IR) |
 | TANet: Triplet Attention Network for All-In-One Adverse Weather Image Restoration<br><sub>Hsing-Hua Wang, Fu-Jen Tsai, Yen-Yu Lin, Chia-Wen Lin</sub> | ACCV2024 | [Paper](https://arxiv.org/abs/2410.08177) | [Code](https://github.com/xhuachris/TANet-ACCV-2024) |
 | Restore Anything with Masks: Leveraging Mask Image Modeling for Blind All-in-One Image Restoration<br><sub>Chu-Jie Qin, Rui-Qi Wu, Zikun Liu, Xin Lin, Chun-Le Guo, Hyun Hee Park, Chongyi Li</sub> | ECCV2024 | [Paper](https://arxiv.org/abs/2409.19403) | [Code](https://github.com/Dragonisss/RAM) |
