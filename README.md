@@ -22,6 +22,7 @@
 
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+|All-in-one Weather-degraded Image Restoration via Adaptive Degradation-aware Self-prompting Model<br><sub> Yuanbo Wen, Tao Gao, Ziqi Li, Jing Zhang, Kaihao Zhang, Ting Chen </sub> |Arxiv|[Paper](https://arxiv.org/abs/2411.07445) | |
 |Degradation-Aware Residual-Conditioned Optimal Transport for Unified Image Restoration<br><sub> Xiaole Tang, Xiang Gu, Xiaoyi He, Xin Hu, Jian Sun</sub> | Arxiv | [Paper](https://arxiv.org/abs/2411.01656v1) | [Code](https://github.com/xl-tang3/DA-RCOT) |
 |An Intelligent Agentic System for Complex Image Restoration Problems<br><sub> Kaiwen Zhu, Jinjin Gu, Zhiyuan You, Yu Qiao, Chao Dong</sub> |Arxiv| [Paper](https://arxiv.org/abs/2410.17809)||
 | LoRA-IR: Taming Low-Rank Experts for Efficient All-in-One Image Restoration<br><sub>Yuang Ai, Huaibo Huang, Ran He</sub> | Arxiv | [Paper](https://arxiv.org/abs/2410.15385) | [Code](https://github.com/shallowdream204/LoRA-IR) |
@@ -106,6 +107,9 @@
 
 ### 2024
 
+#### `[Arxiv]`**All-in-one Weather-degraded Image Restoration via Adaptive Degradation-aware Self-prompting Model**
+*Yuanbo Wen, Tao Gao, Ziqi Li, Jing Zhang, Kaihao Zhang, Ting Chen*
+- Paper: https://arxiv.org/abs/2411.07445
 #### `[Arxiv]`**Degradation-Aware Residual-Conditioned Optimal Transport for Unified Image Restoration**
 *Xiaole Tang, Xiang Gu, Xiaoyi He, Xin Hu, Jian Sun*
 - Paper: https://arxiv.org/abs/2411.01656v1
