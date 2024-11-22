@@ -13,6 +13,11 @@
 
 </div>
 
+## Overview
+<div align="center">
+<a href="https://www.imagehub.cc/image/WX20241122-165719%402x.CWoiOq"><img src="https://s1.imagehub.cc/images/2024/11/22/693b55225d0f3292bbfce01a6b029191.png" alt="WX20241122 165719@2x" border="0"></a>
+</div>
+
 
 ## News
 - [x] 🚀 Our comprehensive survey paper on All-in-One Image Restoration has been [released](https://arxiv.org/abs/2410.15067). We are actively developing this project and will provide regular updates to reflect the latest advancements in the field.
@@ -22,6 +27,10 @@
 
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+|AllRestorer: All-in-One Transformer for Image Restoration under Composite Degradations<br><sub> Jiawei Mao, Yu Yang, Xuesong Yin, Ling Shao, Hao Tang</sub> |Arxiv| [Paper](https://arxiv.org/abs/2411.10708)||
+|All-in-one Weather-degraded Image Restoration via Adaptive Degradation-aware Self-prompting Model<br><sub> Yuanbo Wen, Tao Gao, Ziqi Li, Jing Zhang, Kaihao Zhang, Ting Chen</sub> |Arxiv| [Paper](https://arxiv.org/abs/2411.07445)||
+|Degradation-Aware Residual-Conditioned Optimal Transport for Unified Image Restoration<br><sub> Xiaole Tang, Xiang Gu, Xiaoyi He, Xin Hu, Jian Sun</sub> |Arxiv| [Paper](https://arxiv.org/abs/2411.01656)| [Code](https://github.com/xl-tang3/DA-RCOT)|
+|Chain-of-Restoration: Multi-Task Image Restoration Models are Zero-Shot Step-by-Step Universal Image Restorers<br><sub> Jin Cao, Deyu Meng, Xiangyong Cao</sub> |Arxiv| [Paper](https://arxiv.org/abs/2410.08688)| [Code](https://github.com/toummHus/Chain-of-Restoration)|
 |All-in-one Weather-degraded Image Restoration via Adaptive Degradation-aware Self-prompting Model<br><sub> Yuanbo Wen, Tao Gao, Ziqi Li, Jing Zhang, Kaihao Zhang, Ting Chen </sub> |Arxiv|[Paper](https://arxiv.org/abs/2411.07445) | |
 |Degradation-Aware Residual-Conditioned Optimal Transport for Unified Image Restoration<br><sub> Xiaole Tang, Xiang Gu, Xiaoyi He, Xin Hu, Jian Sun</sub> | Arxiv | [Paper](https://arxiv.org/abs/2411.01656v1) | [Code](https://github.com/xl-tang3/DA-RCOT) |
 |An Intelligent Agentic System for Complex Image Restoration Problems<br><sub> Kaiwen Zhu, Jinjin Gu, Zhiyuan You, Yu Qiao, Chao Dong</sub> |Arxiv| [Paper](https://arxiv.org/abs/2410.17809)||
