@@ -17,6 +17,7 @@
 <div align="center">
 <a href="https://www.imagehub.cc/image/WX20241122-165719%402x.CWoiOq"><img src="https://s1.imagehub.cc/images/2024/11/22/693b55225d0f3292bbfce01a6b029191.png" alt="WX20241122 165719@2x" border="0"></a>
 </div>
+**🆕 Always updating...!**
 
 
 ## News
