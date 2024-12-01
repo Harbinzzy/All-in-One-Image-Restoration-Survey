@@ -27,6 +27,11 @@
 
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| Complexity Experts are Task-Discriminative Learners for Any Image Restoration<br><sub>Eduard Zamfir, Zongwei Wu, Nancy Mehta, Yuedong Tan, Danda Pani Paudel, Yulun Zhang, Radu Timofte</sub> | Arxiv | [Paper](https://arxiv.org/abs/2411.18466) | [Code](https://github.com/eduardzamfir/MoCE-IR) |
+| Adaptive Blind All-in-One Image Restoration<br><sub>David Serrano-Lozano, Luis Herranz, Shaolin Su, Javier Vazquez-Corral</sub> | Arxiv | [Paper](https://arxiv.org/abs/2411.18412) | [Code](https://github.com/davidserra9/abair/) |
+| GenDeg: Diffusion-Based Degradation Synthesis for Generalizable All-in-One Image Restoration<br><sub>Sudarshan Rajagopalan, Nithin Gopalakrishnan Nair, Jay N. Paranjape, Vishal M. Patel</sub> | Arxiv | [Paper](https://arxiv.org/abs/2411.17687) | [Code](https://sudraj2002.github.io/gendegpage/) |
+| Mixed Degradation Image Restoration via Local Dynamic Optimization and Conditional Embedding<br><sub>Yubin Gu, Yuan Meng, Xiaoshuai Sun, Jiayi Ji, Weijian Ruan, Rongrong Ji</sub> | Arxiv | [Paper](https://arxiv.org/abs/2411.16217) |  |
+| PromptHSI: Universal Hyperspectral Image Restoration Framework for Composite Degradation<br><sub>Chia-Ming Lee, Ching-Heng Cheng, Yu-Fan Lin, Yi-Ching Cheng, Wo-Ting Liao, Chih-Chung Hsu, Fu-En Yang, Yu-Chiang Frank Wang</sub> | Arxiv | [Paper](https://arxiv.org/abs/2411.15922) |  |
 |AllRestorer: All-in-One Transformer for Image Restoration under Composite Degradations<br><sub> Jiawei Mao, Yu Yang, Xuesong Yin, Ling Shao, Hao Tang</sub> |Arxiv| [Paper](https://arxiv.org/abs/2411.10708)||
 |All-in-one Weather-degraded Image Restoration via Adaptive Degradation-aware Self-prompting Model<br><sub> Yuanbo Wen, Tao Gao, Ziqi Li, Jing Zhang, Kaihao Zhang, Ting Chen</sub> |Arxiv| [Paper](https://arxiv.org/abs/2411.07445)||
 |Degradation-Aware Residual-Conditioned Optimal Transport for Unified Image Restoration<br><sub> Xiaole Tang, Xiang Gu, Xiaoyi He, Xin Hu, Jian Sun</sub> |Arxiv| [Paper](https://arxiv.org/abs/2411.01656)| [Code](https://github.com/xl-tang3/DA-RCOT)|
@@ -116,6 +121,27 @@
 
 ### 2024
 
+#### `[Arxiv]`**Complexity Experts are Task-Discriminative Learners for Any Image Restoration**
+*Eduard Zamfir, Zongwei Wu, Nancy Mehta, Yuedong Tan, Danda Pani Paudel, Yulun Zhang, Radu Timofte*
+- Paper: https://arxiv.org/abs/2411.18466
+- Code: https://github.com/eduardzamfir/MoCE-IR
+#### `[Arxiv]`**Adaptive Blind All-in-One Image Restoration**
+*David Serrano-Lozano, Luis Herranz, Shaolin Su, Javier Vazquez-Corral*
+- Paper: https://arxiv.org/abs/2411.18412
+- Code: https://github.com/davidserra9/abair/
+#### `[Arxiv]`**GenDeg: Diffusion-Based Degradation Synthesis for Generalizable All-in-One Image Restoration**
+*Sudarshan Rajagopalan, Nithin Gopalakrishnan Nair, Jay N. Paranjape, Vishal M. Patel*
+- Paper: https://arxiv.org/abs/2411.17687
+- Code: https://sudraj2002.github.io/gendegpage/
+#### `[Arxiv]`**Mixed Degradation Image Restoration via Local Dynamic Optimization and Conditional Embedding**
+*Yubin Gu, Yuan Meng, Xiaoshuai Sun, Jiayi Ji, Weijian Ruan, Rongrong Ji*
+- Paper: https://arxiv.org/abs/2411.16217
+#### `[Arxiv]`**PromptHSI: Universal Hyperspectral Image Restoration Framework for Composite Degradation**
+*Chia-Ming Lee, Ching-Heng Cheng, Yu-Fan Lin, Yi-Ching Cheng, Wo-Ting Liao, Chih-Chung Hsu, Fu-En Yang, Yu-Chiang Frank Wang*
+- Paper: https://arxiv.org/abs/2411.15922
+#### `[Arxiv]`**AllRestorer: All-in-One Transformer for Image Restoration under Composite Degradations**
+*Jiawei Mao, Yu Yang, Xuesong Yin, Ling Shao, Hao Tang*
+- Paper: https://arxiv.org/abs/2411.10708
 #### `[Arxiv]`**All-in-one Weather-degraded Image Restoration via Adaptive Degradation-aware Self-prompting Model**
 *Yuanbo Wen, Tao Gao, Ziqi Li, Jing Zhang, Kaihao Zhang, Ting Chen*
 - Paper: https://arxiv.org/abs/2411.07445
