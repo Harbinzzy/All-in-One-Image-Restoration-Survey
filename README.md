@@ -26,6 +26,7 @@
 
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| MWFormer: Multi-Weather Image Restoration Using Degradation-Aware Transformers<br><sub>Ruoxi Zhu, Zhengzhong Tu, Jiaming Liu, Alan C. Bovik, Yibo Fan</sub> | TIP | [Paper](https://arxiv.org/abs/2411.17226) | [Code](https://github.com/taco-group/MWFormer) | 
 | FoundIR: Unleashing Million-scale Training Data to Advance Foundation Models for Image Restoration<br><sub>Hao Li, Xiang Chen, Jiangxin Dong, Jinhui Tang, Jinshan Pan</sub> | Arixv | [Paper](https://arxiv.org/abs/2412.01427) | |
 | Complexity Experts are Task-Discriminative Learners for Any Image Restoration<br><sub>Eduard Zamfir, Zongwei Wu, Nancy Mehta, Yuedong Tan, Danda Pani Paudel, Yulun Zhang, Radu Timofte</sub> | Arxiv | [Paper](https://arxiv.org/abs/2411.18466) | [Code](https://github.com/eduardzamfir/MoCE-IR) |
 | Adaptive Blind All-in-One Image Restoration<br><sub>David Serrano-Lozano, Luis Herranz, Shaolin Su, Javier Vazquez-Corral</sub> | Arxiv | [Paper](https://arxiv.org/abs/2411.18412) | [Code](https://github.com/davidserra9/abair/) |
@@ -121,6 +122,10 @@
 
 ### 2024
 
+#### `[TIP]`**MWFormer: Multi-Weather Image Restoration Using Degradation-Aware Transformers**
+*Ruoxi Zhu, Zhengzhong Tu, Jiaming Liu, Alan C. Bovik, Yibo Fan*
+- Paper: https://arxiv.org/abs/2411.17226
+- Code: https://github.com/taco-group/MWFormer
 #### `[Arxiv]`**FoundIR: Unleashing Million-scale Training Data to Advance Foundation Models for Image Restoration**
 *Hao Li, Xiang Chen, Jiangxin Dong, Jinhui Tang, Jinshan Pan*
 - Paper: https://arxiv.org/abs/2412.01427
