@@ -26,6 +26,8 @@
 
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| Multi-dimensional Visual Prompt Enhanced Image Restoration via Mamba-Transformer Aggregation<br><sub>Aiwen Jiang, Hourong Chen, Zhiwen Chen, Jihua Ye, Mingwen Wang</sub> | Arxiv | [Paper](https://arxiv.org/abs/2412.15845) | [Code](https://github.com/12138-chr/MTAIR) |
+| Universal Image Restoration Pre-training via Degradation Classification<br><sub>Kaiwen Zhu, Jinjin Gu, Zhiyuan You, Yu Qiao, Chao Dong</sub> | | [Paper](https://openreview.net/forum?id=PacBhLzeGO) | |
 | MWFormer: Multi-Weather Image Restoration Using Degradation-Aware Transformers<br><sub>Ruoxi Zhu, Zhengzhong Tu, Jiaming Liu, Alan C. Bovik, Yibo Fan</sub> | TIP | [Paper](https://arxiv.org/abs/2411.17226) | [Code](https://github.com/taco-group/MWFormer) | 
 | FoundIR: Unleashing Million-scale Training Data to Advance Foundation Models for Image Restoration<br><sub>Hao Li, Xiang Chen, Jiangxin Dong, Jinhui Tang, Jinshan Pan</sub> | Arixv | [Paper](https://arxiv.org/abs/2412.01427) | |
 | Complexity Experts are Task-Discriminative Learners for Any Image Restoration<br><sub>Eduard Zamfir, Zongwei Wu, Nancy Mehta, Yuedong Tan, Danda Pani Paudel, Yulun Zhang, Radu Timofte</sub> | Arxiv | [Paper](https://arxiv.org/abs/2411.18466) | [Code](https://github.com/eduardzamfir/MoCE-IR) |
@@ -122,6 +124,13 @@
 
 ### 2024
 
+#### `[Arxiv]`**Multi-dimensional Visual Prompt Enhanced Image Restoration via Mamba-Transformer Aggregation**
+*Aiwen Jiang, Hourong Chen, Zhiwen Chen, Jihua Ye, Mingwen Wang*
+- Paper: https://arxiv.org/abs/2412.15845
+- Code: https://github.com/12138-chr/MTAIR
+#### **Universal Image Restoration Pre-training via Degradation Classification**
+*Kaiwen Zhu, Jinjin Gu, Zhiyuan You, Yu Qiao, Chao Dong*
+- Paper: https://openreview.net/forum?id=PacBhLzeGO
 #### `[TIP]`**MWFormer: Multi-Weather Image Restoration Using Degradation-Aware Transformers**
 *Ruoxi Zhu, Zhengzhong Tu, Jiaming Liu, Alan C. Bovik, Yibo Fan*
 - Paper: https://arxiv.org/abs/2411.17226
