@@ -26,6 +26,7 @@
 
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| UniRestorer: Universal Image Restoration via Adaptively Estimating Image Degradation at Proper Granularity<br><sub>Jingbo Lin, Zhilu Zhang, Wenbo Li, Renjing Pei, Hang Xu, Hongzhi Zhang, Wangmeng Zuo</sub> | Arxiv | [Paper](https://arxiv.org/pdf/2412.20157) | [Code](https://github.com/mrluin/UniRestorer) |
 | Multi-dimensional Visual Prompt Enhanced Image Restoration via Mamba-Transformer Aggregation<br><sub>Aiwen Jiang, Hourong Chen, Zhiwen Chen, Jihua Ye, Mingwen Wang</sub> | Arxiv | [Paper](https://arxiv.org/abs/2412.15845) | [Code](https://github.com/12138-chr/MTAIR) |
 | Universal Image Restoration Pre-training via Degradation Classification<br><sub></sub> | | [Paper](https://openreview.net/forum?id=PacBhLzeGO) | |
 | MWFormer: Multi-Weather Image Restoration Using Degradation-Aware Transformers<br><sub>Ruoxi Zhu, Zhengzhong Tu, Jiaming Liu, Alan C. Bovik, Yibo Fan</sub> | TIP | [Paper](https://arxiv.org/abs/2411.17226) | [Code](https://github.com/taco-group/MWFormer) | 
@@ -124,6 +125,10 @@
 
 ### 2024
 
+#### `[Arxiv]`**UniRestorer: Universal Image Restoration via Adaptively Estimating Image Degradation at Proper Granularity**
+*Jingbo Lin, Zhilu Zhang, Wenbo Li, Renjing Pei, Hang Xu, Hongzhi Zhang, Wangmeng Zuo*
+- Paper: https://arxiv.org/pdf/2412.20157
+- Coder: https://github.com/mrluin/UniRestorer
 #### `[Arxiv]`**Multi-dimensional Visual Prompt Enhanced Image Restoration via Mamba-Transformer Aggregation**
 *Aiwen Jiang, Hourong Chen, Zhiwen Chen, Jihua Ye, Mingwen Wang*
 - Paper: https://arxiv.org/abs/2412.15845
