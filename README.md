@@ -28,7 +28,7 @@
 |-------|--------|------|------|
 | UniRestorer: Universal Image Restoration via Adaptively Estimating Image Degradation at Proper Granularity<br><sub>Jingbo Lin, Zhilu Zhang, Wenbo Li, Renjing Pei, Hang Xu, Hongzhi Zhang, Wangmeng Zuo</sub> | Arxiv | [Paper](https://arxiv.org/pdf/2412.20157) | [Code](https://github.com/mrluin/UniRestorer) |
 | Multi-dimensional Visual Prompt Enhanced Image Restoration via Mamba-Transformer Aggregation<br><sub>Aiwen Jiang, Hourong Chen, Zhiwen Chen, Jihua Ye, Mingwen Wang</sub> | Arxiv | [Paper](https://arxiv.org/abs/2412.15845) | [Code](https://github.com/12138-chr/MTAIR) |
-| Universal Image Restoration Pre-training via Degradation Classification<br><sub></sub> | | [Paper](https://openreview.net/forum?id=PacBhLzeGO) | |
+| Universal Image Restoration Pre-training via Degradation Classification<br><sub>JiaKui Hu, Lujia Jin, Zhengjian Yao, Yanye Lu</sub> | ICLR2025 | [Paper](https://arxiv.org/abs/2501.15510) | [Code](https://github.com/MILab-PKU/dcpt) |
 | MWFormer: Multi-Weather Image Restoration Using Degradation-Aware Transformers<br><sub>Ruoxi Zhu, Zhengzhong Tu, Jiaming Liu, Alan C. Bovik, Yibo Fan</sub> | TIP | [Paper](https://arxiv.org/abs/2411.17226) | [Code](https://github.com/taco-group/MWFormer) | 
 | FoundIR: Unleashing Million-scale Training Data to Advance Foundation Models for Image Restoration<br><sub>Hao Li, Xiang Chen, Jiangxin Dong, Jinhui Tang, Jinshan Pan</sub> | Arixv | [Paper](https://arxiv.org/abs/2412.01427) | |
 | Complexity Experts are Task-Discriminative Learners for Any Image Restoration<br><sub>Eduard Zamfir, Zongwei Wu, Nancy Mehta, Yuedong Tan, Danda Pani Paudel, Yulun Zhang, Radu Timofte</sub> | Arxiv | [Paper](https://arxiv.org/abs/2411.18466) | [Code](https://github.com/eduardzamfir/MoCE-IR) |
@@ -133,8 +133,10 @@
 *Aiwen Jiang, Hourong Chen, Zhiwen Chen, Jihua Ye, Mingwen Wang*
 - Paper: https://arxiv.org/abs/2412.15845
 - Code: https://github.com/12138-chr/MTAIR
-#### **Universal Image Restoration Pre-training via Degradation Classification**
-- Paper: https://openreview.net/forum?id=PacBhLzeGO
+#### `[ICLR2025]`**Universal Image Restoration Pre-training via Degradation Classification**
+*JiaKui Hu, Lujia Jin, Zhengjian Yao, Yanye Lu*
+- Paper: https://arxiv.org/abs/2501.15510
+- Code: https://github.com/MILab-PKU/dcpt
 #### `[TIP]`**MWFormer: Multi-Weather Image Restoration Using Degradation-Aware Transformers**
 *Ruoxi Zhu, Zhengzhong Tu, Jiaming Liu, Alan C. Bovik, Yibo Fan*
 - Paper: https://arxiv.org/abs/2411.17226
