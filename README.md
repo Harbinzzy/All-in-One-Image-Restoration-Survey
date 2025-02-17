@@ -130,7 +130,7 @@
 #### `[Arxiv]`**USRNet: Unified Scene Recovery Network for Enhancing Traffic Imaging under Multiple Adverse Weather Conditions**
 *Yuxu Lu, Ai Chen, Dong Yang, Ryan Wen Liu*
 - Paper: https://arxiv.org/abs/2502.07372
--Code: https://github.com/LouisYxLu/USRNet
+- Code: https://github.com/LouisYxLu/USRNet
 #### `[WACV2025]`**All-in-One Image Compression and Restoration**
 *Huimin Zeng, Jiacheng Li, Ziqiang Zheng, Zhiwei Xiong*
 - Paper: https://arxiv.org/abs/2502.03649
