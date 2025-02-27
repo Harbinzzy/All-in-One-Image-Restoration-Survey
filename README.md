@@ -34,7 +34,7 @@
 | Universal Image Restoration Pre-training via Degradation Classification<br><sub>JiaKui Hu, Lujia Jin, Zhengjian Yao, Yanye Lu</sub> | ICLR2025 | [Paper](https://arxiv.org/abs/2501.15510) | [Code](https://github.com/MILab-PKU/dcpt) |
 | MWFormer: Multi-Weather Image Restoration Using Degradation-Aware Transformers<br><sub>Ruoxi Zhu, Zhengzhong Tu, Jiaming Liu, Alan C. Bovik, Yibo Fan</sub> | TIP | [Paper](https://arxiv.org/abs/2411.17226) | [Code](https://github.com/taco-group/MWFormer) | 
 | FoundIR: Unleashing Million-scale Training Data to Advance Foundation Models for Image Restoration<br><sub>Hao Li, Xiang Chen, Jiangxin Dong, Jinhui Tang, Jinshan Pan</sub> | Arixv | [Paper](https://arxiv.org/abs/2412.01427) | |
-| Complexity Experts are Task-Discriminative Learners for Any Image Restoration<br><sub>Eduard Zamfir, Zongwei Wu, Nancy Mehta, Yuedong Tan, Danda Pani Paudel, Yulun Zhang, Radu Timofte</sub> | Arxiv | [Paper](https://arxiv.org/abs/2411.18466) | [Code](https://github.com/eduardzamfir/MoCE-IR) |
+| Complexity Experts are Task-Discriminative Learners for Any Image Restoration<br><sub>Eduard Zamfir, Zongwei Wu, Nancy Mehta, Yuedong Tan, Danda Pani Paudel, Yulun Zhang, Radu Timofte</sub> | CVPR2025 | [Paper](https://arxiv.org/abs/2411.18466) | [Code](https://github.com/eduardzamfir/MoCE-IR) |
 | Adaptive Blind All-in-One Image Restoration<br><sub>David Serrano-Lozano, Luis Herranz, Shaolin Su, Javier Vazquez-Corral</sub> | Arxiv | [Paper](https://arxiv.org/abs/2411.18412) | [Code](https://github.com/davidserra9/abair/) |
 | GenDeg: Diffusion-Based Degradation Synthesis for Generalizable All-in-One Image Restoration<br><sub>Sudarshan Rajagopalan, Nithin Gopalakrishnan Nair, Jay N. Paranjape, Vishal M. Patel</sub> | Arxiv | [Paper](https://arxiv.org/abs/2411.17687) | [Code](https://sudraj2002.github.io/gendegpage/) |
 | Mixed Degradation Image Restoration via Local Dynamic Optimization and Conditional Embedding<br><sub>Yubin Gu, Yuan Meng, Xiaoshuai Sun, Jiayi Ji, Weijian Ruan, Rongrong Ji</sub> | Arxiv | [Paper](https://arxiv.org/abs/2411.16217) |  |
@@ -158,7 +158,7 @@
 #### `[Arxiv]`**FoundIR: Unleashing Million-scale Training Data to Advance Foundation Models for Image Restoration**
 *Hao Li, Xiang Chen, Jiangxin Dong, Jinhui Tang, Jinshan Pan*
 - Paper: https://arxiv.org/abs/2412.01427
-#### `[Arxiv]`**Complexity Experts are Task-Discriminative Learners for Any Image Restoration**
+#### `[CVPR2025]`**Complexity Experts are Task-Discriminative Learners for Any Image Restoration**
 *Eduard Zamfir, Zongwei Wu, Nancy Mehta, Yuedong Tan, Danda Pani Paudel, Yulun Zhang, Radu Timofte*
 - Paper: https://arxiv.org/abs/2411.18466
 - Code: https://github.com/eduardzamfir/MoCE-IR
