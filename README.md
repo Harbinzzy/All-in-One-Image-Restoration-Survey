@@ -26,6 +26,7 @@
 
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+|Dynamic Degradation Decomposition Network for All-in-One Image Restoration<br><sub>Huiqiang Wang, Mingchen Song, Guoqiang Zhong</sub>|Arxiv |[Paper](https://arxiv.org/abs/2502.19068)||
 | USRNet: Unified Scene Recovery Network for Enhancing Traffic Imaging under Multiple Adverse Weather Conditions<br><sub>Yuxu Lu, Ai Chen, Dong Yang, Ryan Wen Liu</sub> | Arxiv| [Paper](https://arxiv.org/abs/2502.07372) | [Code](https://github.com/LouisYxLu/USRNet)|
 | All-in-One Image Compression and Restoration<br><sub>Huimin Zeng, Jiacheng Li, Ziqiang Zheng, Zhiwei Xiong</sub> | WACV2025 | [Paper](https://arxiv.org/abs/2502.03649) | [Code](https://github.com/ZeldaM1/All-in-one) |
 | UniRestorer: Universal Image Restoration via Adaptively Estimating Image Degradation at Proper Granularity<br><sub>Jingbo Lin, Zhilu Zhang, Wenbo Li, Renjing Pei, Hang Xu, Hongzhi Zhang, Wangmeng Zuo</sub> | Arxiv | [Paper](https://arxiv.org/pdf/2412.20157) | [Code](https://github.com/mrluin/UniRestorer) |
@@ -127,6 +128,9 @@
 
 ### 2024
 
+#### `[Arxiv]`**Dynamic Degradation Decomposition Network for All-in-One Image Restoration**
+*Huiqiang Wang, Mingchen Song, Guoqiang Zhong*
+- Paper: https://arxiv.org/pdf/2502.19068
 #### `[Arxiv]`**USRNet: Unified Scene Recovery Network for Enhancing Traffic Imaging under Multiple Adverse Weather Conditions**
 *Yuxu Lu, Ai Chen, Dong Yang, Ryan Wen Liu*
 - Paper: https://arxiv.org/abs/2502.07372
