@@ -26,6 +26,8 @@
 
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| Multi-Agent Image Restoration<br><sub>Xu Jiang, Gehui Li, Bin Chen, Jian Zhang</sub> | Arxiv | [Paper](https://arxiv.org/abs/2503.09403) ||  
+| MP-HSIR: A Multi-Prompt Framework for Universal Hyperspectral Image Restoration<br><sub>Zhehui Wu, Yong Chen, Naoto Yokoya, Wei He</sub> | Arxiv | [Paper](https://arxiv.org/abs/2503.09131) | [Code](https://github.com/ZhehuiWu/MP-HSIR) |  
 |Dynamic Degradation Decomposition Network for All-in-One Image Restoration<br><sub>Huiqiang Wang, Mingchen Song, Guoqiang Zhong</sub>|Arxiv |[Paper](https://arxiv.org/abs/2502.19068)||
 | USRNet: Unified Scene Recovery Network for Enhancing Traffic Imaging under Multiple Adverse Weather Conditions<br><sub>Yuxu Lu, Ai Chen, Dong Yang, Ryan Wen Liu</sub> | Arxiv| [Paper](https://arxiv.org/abs/2502.07372) | [Code](https://github.com/LouisYxLu/USRNet)|
 | All-in-One Image Compression and Restoration<br><sub>Huimin Zeng, Jiacheng Li, Ziqiang Zheng, Zhiwei Xiong</sub> | WACV2025 | [Paper](https://arxiv.org/abs/2502.03649) | [Code](https://github.com/ZeldaM1/All-in-one) |
@@ -128,6 +130,13 @@
 
 ### 2024
 
+#### `[Arxiv]`**Multi-Agent Image Restoration**  
+*Xu Jiang, Gehui Li, Bin Chen, Jian Zhang*  
+- Paper: https://arxiv.org/abs/2503.09403  
+#### `[Arxiv]`**MP-HSIR: A Multi-Prompt Framework for Universal Hyperspectral Image Restoration**  
+*Zhehui Wu, Yong Chen, Naoto Yokoya, Wei He*  
+- Paper: https://arxiv.org/abs/2503.09131  
+- Code: https://github.com/ZhehuiWu/MP-HSIR  
 #### `[Arxiv]`**Dynamic Degradation Decomposition Network for All-in-One Image Restoration**
 *Huiqiang Wang, Mingchen Song, Guoqiang Zhong*
 - Paper: https://arxiv.org/pdf/2502.19068
