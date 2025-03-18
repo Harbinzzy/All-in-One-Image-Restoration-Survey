@@ -26,8 +26,6 @@
 
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
-| Multi-Agent Image Restoration<br><sub>Xu Jiang, Gehui Li, Bin Chen, Jian Zhang</sub> | Arxiv | [Paper](https://arxiv.org/abs/2503.09403) ||  
-| MP-HSIR: A Multi-Prompt Framework for Universal Hyperspectral Image Restoration<br><sub>Zhehui Wu, Yong Chen, Naoto Yokoya, Wei He</sub> | Arxiv | [Paper](https://arxiv.org/abs/2503.09131) | [Code](https://github.com/ZhehuiWu/MP-HSIR) |  
 |Dynamic Degradation Decomposition Network for All-in-One Image Restoration<br><sub>Huiqiang Wang, Mingchen Song, Guoqiang Zhong</sub>|Arxiv |[Paper](https://arxiv.org/abs/2502.19068)||
 | USRNet: Unified Scene Recovery Network for Enhancing Traffic Imaging under Multiple Adverse Weather Conditions<br><sub>Yuxu Lu, Ai Chen, Dong Yang, Ryan Wen Liu</sub> | Arxiv| [Paper](https://arxiv.org/abs/2502.07372) | [Code](https://github.com/LouisYxLu/USRNet)|
 | All-in-One Image Compression and Restoration<br><sub>Huimin Zeng, Jiacheng Li, Ziqiang Zheng, Zhiwei Xiong</sub> | WACV2025 | [Paper](https://arxiv.org/abs/2502.03649) | [Code](https://github.com/ZeldaM1/All-in-one) |
@@ -52,7 +50,7 @@
 | TANet: Triplet Attention Network for All-In-One Adverse Weather Image Restoration<br><sub>Hsing-Hua Wang, Fu-Jen Tsai, Yen-Yu Lin, Chia-Wen Lin</sub> | ACCV2024 | [Paper](https://arxiv.org/abs/2410.08177) | [Code](https://github.com/xhuachris/TANet-ACCV-2024) |
 | Restore Anything with Masks: Leveraging Mask Image Modeling for Blind All-in-One Image Restoration<br><sub>Chu-Jie Qin, Rui-Qi Wu, Zikun Liu, Xin Lin, Chun-Le Guo, Hyun Hee Park, Chongyi Li</sub> | ECCV2024 | [Paper](https://arxiv.org/abs/2409.19403) | [Code](https://github.com/Dragonisss/RAM) |
 | Accurate Forgetting for All-in-One Image Restoration Model<br><sub>Xin Su, Zhuoran Zheng</sub> | Arxiv | [Paper](https://arxiv.org/abs/2409.00685) |  |
-| Perceive-IR: Learning to Perceive Degradation Better for All-in-One Image Restoration<br><sub>Xu Zhang, Jiaqi Ma, Guoli Wang, Qian Zhang, Huan Zhang, Lefei Zhang</sub> | Arxiv | [Paper](https://arxiv.org/abs/2108.02774) |  |
+| Perceive-IR: Learning to Perceive Degradation Better for All-in-One Image Restoration<br><sub>Xu Zhang, Jiaqi Ma, Guoli Wang, Qian Zhang, Huan Zhang, Lefei Zhang</sub> | Arxiv | [Paper](https://arxiv.org/abs/2408.15994) |  |
 | Learning A Low-Level Vision Generalist via Visual Task Prompt<br><sub>Xiangyu Chen, Yihao Liu, Yuandong Pu, Wenlong Zhang, Jiantao Zhou, Yu Qiao, Chao Dong</sub> | ACMMM2024 | [Paper](https://arxiv.org/abs/2408.08601) | [Code](https://github.com/chxy95/GenLV) |
 | HAIR: Hypernetworks-based All-in-One Image Restoration<br><sub>Jin Cao, Yi Cao, Li Pang, Deyu Meng, Xiangyong Cao</sub> | Arxiv | [Paper](https://arxiv.org/abs/2408.08091) | [Code](https://github.com/toummHus/HAIR) |
 | Review Learning: Advancing All-in-One Ultra-High-Definition Image Restoration Training Method<br><sub>Xin Su, Zhuoran Zheng, Chen Wu</sub> | Arxiv | [Paper](https://arxiv.org/abs/2408.06709) |  |
@@ -130,13 +128,6 @@
 
 ### 2024
 
-#### `[Arxiv]`**Multi-Agent Image Restoration**  
-*Xu Jiang, Gehui Li, Bin Chen, Jian Zhang*  
-- Paper: https://arxiv.org/abs/2503.09403  
-#### `[Arxiv]`**MP-HSIR: A Multi-Prompt Framework for Universal Hyperspectral Image Restoration**  
-*Zhehui Wu, Yong Chen, Naoto Yokoya, Wei He*  
-- Paper: https://arxiv.org/abs/2503.09131  
-- Code: https://github.com/ZhehuiWu/MP-HSIR  
 #### `[Arxiv]`**Dynamic Degradation Decomposition Network for All-in-One Image Restoration**
 *Huiqiang Wang, Mingchen Song, Guoqiang Zhong*
 - Paper: https://arxiv.org/pdf/2502.19068
@@ -215,7 +206,7 @@
 - Paper: https://arxiv.org/abs/2409.00685
 #### **Perceive-IR: Learning to Perceive Degradation Better for All-in-One Image Restoration**
 *Xu Zhang, Jiaqi Ma, Guoli Wang, Qian Zhang, Huan Zhang, Lefei Zhang*
-- Paper: https://arxiv.org/abs/2108.02774
+- Paper: https://arxiv.org/abs/2408.15994
 #### `[ACMMM2024]`**Learning A Low-Level Vision Generalist via Visual Task Prompt**
 *Xiangyu Chen, Yihao Liu, Yuandong Pu, Wenlong Zhang, Jiantao Zhou, Yu Qiao, Chao Dong*
 - Paper: https://arxiv.org/abs/2408.08601
