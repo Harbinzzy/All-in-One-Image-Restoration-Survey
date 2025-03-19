@@ -26,14 +26,17 @@
 
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+|Degradation-Aware Feature Perturbation for All-in-One Image Restoration<br><sub>Xiangpeng Tian, Xiangyu Liao, Xiao Liu, Meng Li, Chao Ren</sub>|CVPR2025|[Paper](https://cvpr.thecvf.com/virtual/2025/poster/35103)||
+|Visual-Instructed Degradation Diffusion for All-in-One Image Restoration<br><sub>Haina Qin, Wenyang Luo, Zewen Chen, Yufan Liu, Bing Li, Weiming Hu, libin wang, DanDan Zheng, Yuming Li</sub>|CVPR2025|[Paper](https://cvpr.thecvf.com/virtual/2025/poster/32448)||
 | Multi-Agent Image Restoration<br><sub>Xu Jiang, Gehui Li, Bin Chen, Jian Zhang</sub> | Arxiv | [Paper](https://arxiv.org/abs/2503.09403) ||  
 | MP-HSIR: A Multi-Prompt Framework for Universal Hyperspectral Image Restoration<br><sub>Zhehui Wu, Yong Chen, Naoto Yokoya, Wei He</sub> | Arxiv | [Paper](https://arxiv.org/abs/2503.09131) | [Code](https://github.com/ZhehuiWu/MP-HSIR) |  
 |Dynamic Degradation Decomposition Network for All-in-One Image Restoration<br><sub>Huiqiang Wang, Mingchen Song, Guoqiang Zhong</sub>|Arxiv |[Paper](https://arxiv.org/abs/2502.19068)||
 | USRNet: Unified Scene Recovery Network for Enhancing Traffic Imaging under Multiple Adverse Weather Conditions<br><sub>Yuxu Lu, Ai Chen, Dong Yang, Ryan Wen Liu</sub> | Arxiv| [Paper](https://arxiv.org/abs/2502.07372) | [Code](https://github.com/LouisYxLu/USRNet)|
 | All-in-One Image Compression and Restoration<br><sub>Huimin Zeng, Jiacheng Li, Ziqiang Zheng, Zhiwei Xiong</sub> | WACV2025 | [Paper](https://arxiv.org/abs/2502.03649) | [Code](https://github.com/ZeldaM1/All-in-one) |
+|UniRestore: Unified Perceptual and Task-Oriented Image Restoration Model Using Diffusion Prior<br><sub>I-Hsiang Chen, Wei-Ting Chen, Yu-Wei Liu, Yuan-Chun Chiang, Sy-Yen Kuo, Ming-Hsuan Yang</sub>|CVPR2025|[Paper](https://arxiv.org/abs/2501.13134v1)||
+| Universal Image Restoration Pre-training via Degradation Classification<br><sub>JiaKui Hu, Lujia Jin, Zhengjian Yao, Yanye Lu</sub> | ICLR2025 | [Paper](https://arxiv.org/abs/2501.15510) | [Code](https://github.com/MILab-PKU/dcpt) |
 | UniRestorer: Universal Image Restoration via Adaptively Estimating Image Degradation at Proper Granularity<br><sub>Jingbo Lin, Zhilu Zhang, Wenbo Li, Renjing Pei, Hang Xu, Hongzhi Zhang, Wangmeng Zuo</sub> | Arxiv | [Paper](https://arxiv.org/pdf/2412.20157) | [Code](https://github.com/mrluin/UniRestorer) |
 | Multi-dimensional Visual Prompt Enhanced Image Restoration via Mamba-Transformer Aggregation<br><sub>Aiwen Jiang, Hourong Chen, Zhiwen Chen, Jihua Ye, Mingwen Wang</sub> | Arxiv | [Paper](https://arxiv.org/abs/2412.15845) | [Code](https://github.com/12138-chr/MTAIR) |
-| Universal Image Restoration Pre-training via Degradation Classification<br><sub>JiaKui Hu, Lujia Jin, Zhengjian Yao, Yanye Lu</sub> | ICLR2025 | [Paper](https://arxiv.org/abs/2501.15510) | [Code](https://github.com/MILab-PKU/dcpt) |
 | MWFormer: Multi-Weather Image Restoration Using Degradation-Aware Transformers<br><sub>Ruoxi Zhu, Zhengzhong Tu, Jiaming Liu, Alan C. Bovik, Yibo Fan</sub> | TIP | [Paper](https://arxiv.org/abs/2411.17226) | [Code](https://github.com/taco-group/MWFormer) | 
 | FoundIR: Unleashing Million-scale Training Data to Advance Foundation Models for Image Restoration<br><sub>Hao Li, Xiang Chen, Jiangxin Dong, Jinhui Tang, Jinshan Pan</sub> | Arixv | [Paper](https://arxiv.org/abs/2412.01427) | |
 | Complexity Experts are Task-Discriminative Learners for Any Image Restoration<br><sub>Eduard Zamfir, Zongwei Wu, Nancy Mehta, Yuedong Tan, Danda Pani Paudel, Yulun Zhang, Radu Timofte</sub> | CVPR2025 | [Paper](https://arxiv.org/abs/2411.18466) | [Code](https://github.com/eduardzamfir/MoCE-IR) |
@@ -130,6 +133,12 @@
 
 
 ### 2025
+#### `[CVPR2025]`**Degradation-Aware Feature Perturbation for All-in-One Image Restoration**
+*Xiangpeng Tian, Xiangyu Liao, Xiao Liu, Meng Li, Chao Ren*
+- Paper: https://cvpr.thecvf.com/virtual/2025/poster/35103
+#### `[CVPR2025]`**Visual-Instructed Degradation Diffusion for All-in-One Image Restoration**
+*Haina Qin, Wenyang Luo, Zewen Chen, Yufan Liu, Bing Li, Weiming Hu, libin wang, DanDan Zheng, Yuming Li*
+- Paper: https://cvpr.thecvf.com/virtual/2025/poster/32448
 #### `[Arxiv]`**Multi-Agent Image Restoration**  
 *Xu Jiang, Gehui Li, Bin Chen, Jian Zhang*  
 - Paper: https://arxiv.org/abs/2503.09403  
@@ -148,6 +157,13 @@
 *Huimin Zeng, Jiacheng Li, Ziqiang Zheng, Zhiwei Xiong*
 - Paper: https://arxiv.org/abs/2502.03649
 - Code: https://github.com/ZeldaM1/All-in-one
+#### `[CVPR2025]`**UniRestore: Unified Perceptual and Task-Oriented Image Restoration Model Using Diffusion Prior**
+*I-Hsiang Chen, Wei-Ting Chen, Yu-Wei Liu, Yuan-Chun Chiang, Sy-Yen Kuo, Ming-Hsuan Yang*
+- Paper: https://arxiv.org/abs/2501.13134v1
+#### `[ICLR2025]`**Universal Image Restoration Pre-training via Degradation Classification**
+*JiaKui Hu, Lujia Jin, Zhengjian Yao, Yanye Lu*
+- Paper: https://arxiv.org/abs/2501.15510
+- Code: https://github.com/MILab-PKU/dcpt
 ### 2024
 #### `[Arxiv]`**UniRestorer: Universal Image Restoration via Adaptively Estimating Image Degradation at Proper Granularity**
 *Jingbo Lin, Zhilu Zhang, Wenbo Li, Renjing Pei, Hang Xu, Hongzhi Zhang, Wangmeng Zuo*
@@ -157,10 +173,6 @@
 *Aiwen Jiang, Hourong Chen, Zhiwen Chen, Jihua Ye, Mingwen Wang*
 - Paper: https://arxiv.org/abs/2412.15845
 - Code: https://github.com/12138-chr/MTAIR
-#### `[ICLR2025]`**Universal Image Restoration Pre-training via Degradation Classification**
-*JiaKui Hu, Lujia Jin, Zhengjian Yao, Yanye Lu*
-- Paper: https://arxiv.org/abs/2501.15510
-- Code: https://github.com/MILab-PKU/dcpt
 #### `[TIP]`**MWFormer: Multi-Weather Image Restoration Using Degradation-Aware Transformers**
 *Ruoxi Zhu, Zhengzhong Tu, Jiaming Liu, Alan C. Bovik, Yibo Fan*
 - Paper: https://arxiv.org/abs/2411.17226
