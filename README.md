@@ -26,6 +26,7 @@
 
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+|Vision-Language Gradient Descent-driven All-in-One Deep Unfolding Networks<br><sub>Haijin Zeng, Xiangming Wang, Yongyong Chen, Jingyong Su, Jie Liu</sub>|CVPR2025|[Paper](https://arxiv.org/abs/2503.16930)|[Code](https://github.com/xianggkl/VLU-Net)|
 |Degradation-Aware Feature Perturbation for All-in-One Image Restoration<br><sub>Xiangpeng Tian, Xiangyu Liao, Xiao Liu, Meng Li, Chao Ren</sub>|CVPR2025|[Paper](https://cvpr.thecvf.com/virtual/2025/poster/35103)||
 |Visual-Instructed Degradation Diffusion for All-in-One Image Restoration<br><sub>Haina Qin, Wenyang Luo, Zewen Chen, Yufan Liu, Bing Li, Weiming Hu, libin wang, DanDan Zheng, Yuming Li</sub>|CVPR2025|[Paper](https://cvpr.thecvf.com/virtual/2025/poster/32448)||
 | Multi-Agent Image Restoration<br><sub>Xu Jiang, Gehui Li, Bin Chen, Jian Zhang</sub> | Arxiv | [Paper](https://arxiv.org/abs/2503.09403) ||  
@@ -133,6 +134,10 @@
 
 
 ### 2025
+#### `[CVPR2025]`**Vision-Language Gradient Descent-driven All-in-One Deep Unfolding Networks**
+*Haijin Zeng, Xiangming Wang, Yongyong Chen, Jingyong Su, Jie Liu*
+- Paper: https://arxiv.org/abs/2503.16930
+- Code: https://github.com/xianggkl/VLU-Net
 #### `[CVPR2025]`**Degradation-Aware Feature Perturbation for All-in-One Image Restoration**
 *Xiangpeng Tian, Xiangyu Liao, Xiao Liu, Meng Li, Chao Ren*
 - Paper: https://cvpr.thecvf.com/virtual/2025/poster/35103
