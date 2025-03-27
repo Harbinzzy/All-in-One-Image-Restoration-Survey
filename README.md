@@ -26,6 +26,8 @@
 
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+|Cat-AIR: Content and Task-Aware All-in-One Image Restoration<br><sub>Jiachen Jiang, Tianyu Ding, Ke Zhang, Jinxin Zhou, Tianyi Chen, Ilya Zharkov, Zhihui Zhu, Luming Liang</sub>|Arxiv|[Paper](https://arxiv.org/abs/2503.17915)|[Code](https://kongwanbianjinyu.github.io/Cat-AIR/)|  
+|Hybrid Agents for Image Restoration<br><sub>Bingchen Li, Xin Li, Yiting Lu, Zhibo Chen</sub>|Arxiv|[Paper](https://arxiv.org/abs/2503.10120)||  
 |Vision-Language Gradient Descent-driven All-in-One Deep Unfolding Networks<br><sub>Haijin Zeng, Xiangming Wang, Yongyong Chen, Jingyong Su, Jie Liu</sub>|CVPR2025|[Paper](https://arxiv.org/abs/2503.16930)|[Code](https://github.com/xianggkl/VLU-Net)|
 |Degradation-Aware Feature Perturbation for All-in-One Image Restoration<br><sub>Xiangpeng Tian, Xiangyu Liao, Xiao Liu, Meng Li, Chao Ren</sub>|CVPR2025|[Paper](https://cvpr.thecvf.com/virtual/2025/poster/35103)||
 |Visual-Instructed Degradation Diffusion for All-in-One Image Restoration<br><sub>Haina Qin, Wenyang Luo, Zewen Chen, Yufan Liu, Bing Li, Weiming Hu, libin wang, DanDan Zheng, Yuming Li</sub>|CVPR2025|[Paper](https://cvpr.thecvf.com/virtual/2025/poster/32448)||
@@ -134,6 +136,13 @@
 
 
 ### 2025
+#### `[Arxiv]`**Cat-AIR: Content and Task-Aware All-in-One Image Restoration**
+*Jiachen Jiang, Tianyu Ding, Ke Zhang, Jinxin Zhou, Tianyi Chen, Ilya Zharkov, Zhihui Zhu, Luming Liang*
+- Paper: https://arxiv.org/abs/2503.17915
+- Code: https://kongwanbianjinyu.github.io/Cat-AIR/
+#### `[Arxiv]`**Hybrid Agents for Image Restoration**
+*Bingchen Li, Xin Li, Yiting Lu, Zhibo Chen*
+- Paper: https://arxiv.org/abs/2503.10120
 #### `[CVPR2025]`**Vision-Language Gradient Descent-driven All-in-One Deep Unfolding Networks**
 *Haijin Zeng, Xiangming Wang, Yongyong Chen, Jingyong Su, Jie Liu*
 - Paper: https://arxiv.org/abs/2503.16930
