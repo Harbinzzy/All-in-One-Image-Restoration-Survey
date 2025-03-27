@@ -99,7 +99,7 @@
 | Test-Time Degradation Adaptation for Open-Set Image Restoration<br><sub>Yuanbiao Gou, Haiyu Zhao, Boyun Li, Xinyan Xiao, Xi Peng</sub> | ICML2024 | [Paper](https://arxiv.org/abs/2312.02197) | [Code](https://github.com/XLearning-SCU/2024-ICML-TAO) |
 | Clarity ChatGPT: An Interactive and Adaptive Processing System for Image Restoration and Enhancement<br><sub>Yanyan Wei, Zhao Zhang, Jiahuan Ren, Xiaogang Xu, Richang Hong, Yi Yang, Shuicheng Yan, Meng Wang</sub> | Arxiv | [Paper](https://arxiv.org/abs/2311.11695) |  |
 | Always Clear Days: Degradation Type and Severity Aware All-In-One Adverse Weather Removal<br><sub>Yu-Wei Chen, Soo-Chang Pei</sub> | Arxiv | [Paper](https://arxiv.org/abs/2310.18293) | [Code](https://github.com/fordevoted/UtilityIR) |
-| Neural Degradation Representation Learning for All-In-One Image Restoration<br><sub>Mingde Yao, Ruikang Xu, Yuanshen Guan, Jie Huang, Zhiwei Xiong</sub> | Arxiv | [Paper](https://arxiv.org/abs/2310.12848) |  |
+| Neural Degradation Representation Learning for All-In-One Image Restoration<br><sub>Mingde Yao, Ruikang Xu, Yuanshen Guan, Jie Huang, Zhiwei Xiong</sub> | TIP2024 | [Paper](https://arxiv.org/abs/2310.12848) | [Code](https://github.com/mdyao/NDR-Restore) |
 | AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion<br><sub>Yitong Jiang, Zhaoyang Zhang, Tianfan Xue, Jinwei Gu</sub> | Arxiv | [Paper](https://arxiv.org/abs/2310.10123) | [Code](https://jiangyitong.github.io/AutoDIR_webpage/) |
 | Unifying Image Processing as Visual Prompting Question Answering<br><sub>Yihao Liu, Xiangyu Chen, Xianzheng Ma, Xintao Wang, Jiantao Zhou, Yu Qiao, Chao Dong</sub> | Arxiv | [Paper](https://arxiv.org/abs/2310.10513) |  |
 | Controlling Vision-Language Models for Universal Image Restoration<br><sub>Ziwei Luo, Zheng Zhao, Thomas B. Schön</sub> | ICLR2024 | [Paper](https://arxiv.org/abs/2310.01018) | [Code](https://github.com/Algolzw/daclip-uir) |
@@ -393,6 +393,7 @@
 #### **Neural Degradation Representation Learning for All-In-One Image Restoration**
 *Mingde Yao, Ruikang Xu, Yuanshen Guan, Jie Huang, Zhiwei Xiong*
 - Paper: https://arxiv.org/abs/2310.12848
+- Code: https://github.com/mdyao/NDR-Restore
 #### **AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion**
 *Yitong Jiang, Zhaoyang Zhang, Tianfan Xue, Jinwei Gu*
 - Paper: https://arxiv.org/abs/2310.10123
