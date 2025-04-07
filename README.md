@@ -39,6 +39,7 @@
 | Debiased All-in-one Image Restoration with Task Uncertainty Regularization<br><sub>Gang Wu, Junjun Jiang, Yijun Wang, Kui Jiang, Xianming Liu</sub> | AAAI2025 | [Paper](https://openreview.net/forum?id=kx7eyKgEGz) | [Code](https://github.com/Aitical/TUR) |
 | All-in-One Image Compression and Restoration<br><sub>Huimin Zeng, Jiacheng Li, Ziqiang Zheng, Zhiwei Xiong</sub> | WACV2025 | [Paper](https://arxiv.org/abs/2502.03649) | [Code](https://github.com/ZeldaM1/All-in-one) |
 |UniRestore: Unified Perceptual and Task-Oriented Image Restoration Model Using Diffusion Prior<br><sub>I-Hsiang Chen, Wei-Ting Chen, Yu-Wei Liu, Yuan-Chun Chiang, Sy-Yen Kuo, Ming-Hsuan Yang</sub>|CVPR2025|[Paper](https://arxiv.org/abs/2501.13134v1)||
+| RamIR: Reasoning and action prompting with Mamba for all-in-one image restoration<br><sub>Aiqiang Tang, Yan Wu, Yuwei Zhang</sub> | Applied Intelligence | [Paper](https://link.springer.com/article/10.1007/s10489-024-06226-y) |  |
 | Universal Image Restoration Pre-training via Degradation Classification<br><sub>JiaKui Hu, Lujia Jin, Zhengjian Yao, Yanye Lu</sub> | ICLR2025 | [Paper](https://arxiv.org/abs/2501.15510) | [Code](https://github.com/MILab-PKU/dcpt) |
 | UniRestorer: Universal Image Restoration via Adaptively Estimating Image Degradation at Proper Granularity<br><sub>Jingbo Lin, Zhilu Zhang, Wenbo Li, Renjing Pei, Hang Xu, Hongzhi Zhang, Wangmeng Zuo</sub> | Arxiv | [Paper](https://arxiv.org/pdf/2412.20157) | [Code](https://github.com/mrluin/UniRestorer) |
 | Multi-dimensional Visual Prompt Enhanced Image Restoration via Mamba-Transformer Aggregation<br><sub>Aiwen Jiang, Hourong Chen, Zhiwen Chen, Jihua Ye, Mingwen Wang</sub> | Arxiv | [Paper](https://arxiv.org/abs/2412.15845) | [Code](https://github.com/12138-chr/MTAIR) |
@@ -184,6 +185,9 @@
 #### `[CVPR2025]`**UniRestore: Unified Perceptual and Task-Oriented Image Restoration Model Using Diffusion Prior**
 *I-Hsiang Chen, Wei-Ting Chen, Yu-Wei Liu, Yuan-Chun Chiang, Sy-Yen Kuo, Ming-Hsuan Yang*
 - Paper: https://arxiv.org/abs/2501.13134v1
+#### `[Applied Intelligence]`**RamIR: Reasoning and action prompting with Mamba for all-in-one image restoration**
+*Aiqiang Tang, Yan Wu, Yuwei Zhang*
+- Paper: https://link.springer.com/article/10.1007/s10489-024-06226-y
 #### `[ICLR2025]`**Universal Image Restoration Pre-training via Degradation Classification**
 *JiaKui Hu, Lujia Jin, Zhengjian Yao, Yanye Lu*
 - Paper: https://arxiv.org/abs/2501.15510
