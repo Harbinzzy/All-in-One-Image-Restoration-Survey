@@ -35,6 +35,8 @@
 | MP-HSIR: A Multi-Prompt Framework for Universal Hyperspectral Image Restoration<br><sub>Zhehui Wu, Yong Chen, Naoto Yokoya, Wei He</sub> | Arxiv | [Paper](https://arxiv.org/abs/2503.09131) | [Code](https://github.com/ZhehuiWu/MP-HSIR) |  
 |Dynamic Degradation Decomposition Network for All-in-One Image Restoration<br><sub>Huiqiang Wang, Mingchen Song, Guoqiang Zhong</sub>|Arxiv |[Paper](https://arxiv.org/abs/2502.19068)||
 | USRNet: Unified Scene Recovery Network for Enhancing Traffic Imaging under Multiple Adverse Weather Conditions<br><sub>Yuxu Lu, Ai Chen, Dong Yang, Ryan Wen Liu</sub> | Arxiv| [Paper](https://arxiv.org/abs/2502.07372) | [Code](https://github.com/LouisYxLu/USRNet)|
+| Up-Restorer: When Unrolling Meets Prompts for Unified Image Restoration<br><sub>Minghao Liu, Wenhan Yang, Jinyi Luo, Jiaying Liu</sub> | AAAI2025 | [Paper](https://github.com/StaryMoon/AAAI_2025_UpRestorer_git) |  |
+| Debiased All-in-one Image Restoration with Task Uncertainty Regularization<br><sub>Gang Wu, Junjun Jiang, Yijun Wang, Kui Jiang, Xianming Liu</sub> | AAAI2025 | [Paper](https://openreview.net/forum?id=kx7eyKgEGz) | [Code](https://github.com/Aitical/TUR) |
 | All-in-One Image Compression and Restoration<br><sub>Huimin Zeng, Jiacheng Li, Ziqiang Zheng, Zhiwei Xiong</sub> | WACV2025 | [Paper](https://arxiv.org/abs/2502.03649) | [Code](https://github.com/ZeldaM1/All-in-one) |
 |UniRestore: Unified Perceptual and Task-Oriented Image Restoration Model Using Diffusion Prior<br><sub>I-Hsiang Chen, Wei-Ting Chen, Yu-Wei Liu, Yuan-Chun Chiang, Sy-Yen Kuo, Ming-Hsuan Yang</sub>|CVPR2025|[Paper](https://arxiv.org/abs/2501.13134v1)||
 | Universal Image Restoration Pre-training via Degradation Classification<br><sub>JiaKui Hu, Lujia Jin, Zhengjian Yao, Yanye Lu</sub> | ICLR2025 | [Paper](https://arxiv.org/abs/2501.15510) | [Code](https://github.com/MILab-PKU/dcpt) |
@@ -58,6 +60,7 @@
 | LoRA-IR: Taming Low-Rank Experts for Efficient All-in-One Image Restoration<br><sub>Yuang Ai, Huaibo Huang, Ran He</sub> | Arxiv | [Paper](https://arxiv.org/abs/2410.15385) | [Code](https://github.com/shallowdream204/LoRA-IR) |
 | TANet: Triplet Attention Network for All-In-One Adverse Weather Image Restoration<br><sub>Hsing-Hua Wang, Fu-Jen Tsai, Yen-Yu Lin, Chia-Wen Lin</sub> | ACCV2024 | [Paper](https://arxiv.org/abs/2410.08177) | [Code](https://github.com/xhuachris/TANet-ACCV-2024) |
 | Restore Anything with Masks: Leveraging Mask Image Modeling for Blind All-in-One Image Restoration<br><sub>Chu-Jie Qin, Rui-Qi Wu, Zikun Liu, Xin Lin, Chun-Le Guo, Hyun Hee Park, Chongyi Li</sub> | ECCV2024 | [Paper](https://arxiv.org/abs/2409.19403) | [Code](https://github.com/Dragonisss/RAM) |
+| Teaching Tailored to Talent: Adverse Weather Restoration via Prompt Pool and Depth-Anything Constraint<br><sub>Sixiang Chen, Tian Ye, Kai Zhang, Zhaohu Xing, Yunlong Lin, Lei Zhu</sub> | ECCV2024 | [Paper](https://arxiv.org/abs/2409.15739) | [Code](https://github.com/Ephemeral182/ECCV24_T3-DiffWeather) |
 | Accurate Forgetting for All-in-One Image Restoration Model<br><sub>Xin Su, Zhuoran Zheng</sub> | Arxiv | [Paper](https://arxiv.org/abs/2409.00685) |  |
 | Perceive-IR: Learning to Perceive Degradation Better for All-in-One Image Restoration<br><sub>Xu Zhang, Jiaqi Ma, Guoli Wang, Qian Zhang, Huan Zhang, Lefei Zhang</sub> | Arxiv | [Paper](https://arxiv.org/abs/2408.15994) |  |
 | Learning A Low-Level Vision Generalist via Visual Task Prompt<br><sub>Xiangyu Chen, Yihao Liu, Yuandong Pu, Wenlong Zhang, Jiantao Zhou, Yu Qiao, Chao Dong</sub> | ACMMM2024 | [Paper](https://arxiv.org/abs/2408.08601) | [Code](https://github.com/chxy95/GenLV) |
@@ -167,6 +170,13 @@
 *Yuxu Lu, Ai Chen, Dong Yang, Ryan Wen Liu*
 - Paper: https://arxiv.org/abs/2502.07372
 - Code: https://github.com/LouisYxLu/USRNet
+#### `[AAAI2025]`**Up-Restorer: When Unrolling Meets Prompts for Unified Image Restoration**
+*Minghao Liu, Wenhan Yang, Jinyi Luo, Jiaying Liu*
+- Paper: https://github.com/StaryMoon/AAAI_2025_UpRestorer_git
+#### `[AAAI2025]`**Debiased All-in-one Image Restoration with Task Uncertainty Regularization**
+*Gang Wu, Junjun Jiang, Yijun Wang, Kui Jiang, Xianming Liu*
+- Paper: https://openreview.net/forum?id=kx7eyKgEGz
+- Code: https://github.com/Aitical/TUR
 #### `[WACV2025]`**All-in-One Image Compression and Restoration**
 *Huimin Zeng, Jiacheng Li, Ziqiang Zheng, Zhiwei Xiong*
 - Paper: https://arxiv.org/abs/2502.03649
@@ -241,6 +251,10 @@
 *Chu-Jie Qin, Rui-Qi Wu, Zikun Liu, Xin Lin, Chun-Le Guo, Hyun Hee Park, Chongyi Li*
 - Paper: https://arxiv.org/abs/2409.19403
 - Code: https://github.com/Dragonisss/RAM
+#### `[ECCV2024]`**Teaching Tailored to Talent: Adverse Weather Restoration via Prompt Pool and Depth-Anything Constraint**
+*Sixiang Chen, Tian Ye, Kai Zhang, Zhaohu Xing, Yunlong Lin, Lei Zhu*
+- Paper: https://arxiv.org/abs/2409.15739
+- Code: https://github.com/Ephemeral182/ECCV24_T3-DiffWeather
 #### **Accurate Forgetting for All-in-One Image Restoration Model**
 *Xin Su, Zhuoran Zheng*
 - Paper: https://arxiv.org/abs/2409.00685
