@@ -26,6 +26,8 @@
 
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| DA2Diff: Exploring Degradation-aware Adaptive Diffusion Priors for All-in-One Weather Restoration<br><sub>Jiamei Xiong, Xuefeng Yan, Yongzhen Wang, Wei Zhao, Xiao-Ping Zhang, Mingqiang Wei</sub> | Arxiv | [Paper](https://arxiv.org/abs/2504.05135) |  |
+| Content-Aware Transformer for All-in-one Image Restoration<br><sub>Gang Wu, Junjun Jiang, Kui Jiang, Xianming Liu</sub> | Arxiv | [Paper](https://arxiv.org/abs/2504.04869) | [Code](https://github.com/Aitical/DSwinIR) |
 |Cat-AIR: Content and Task-Aware All-in-One Image Restoration<br><sub>Jiachen Jiang, Tianyu Ding, Ke Zhang, Jinxin Zhou, Tianyi Chen, Ilya Zharkov, Zhihui Zhu, Luming Liang</sub>|Arxiv|[Paper](https://arxiv.org/abs/2503.17915)|[Code](https://kongwanbianjinyu.github.io/Cat-AIR/)|  
 |Hybrid Agents for Image Restoration<br><sub>Bingchen Li, Xin Li, Yiting Lu, Zhibo Chen</sub>|Arxiv|[Paper](https://arxiv.org/abs/2503.10120)||  
 |Vision-Language Gradient Descent-driven All-in-One Deep Unfolding Networks<br><sub>Haijin Zeng, Xiangming Wang, Yongyong Chen, Jingyong Su, Jie Liu</sub>|CVPR2025|[Paper](https://arxiv.org/abs/2503.16930)|[Code](https://github.com/xianggkl/VLU-Net)|
@@ -45,6 +47,7 @@
 | Multi-dimensional Visual Prompt Enhanced Image Restoration via Mamba-Transformer Aggregation<br><sub>Aiwen Jiang, Hourong Chen, Zhiwen Chen, Jihua Ye, Mingwen Wang</sub> | Arxiv | [Paper](https://arxiv.org/abs/2412.15845) | [Code](https://github.com/12138-chr/MTAIR) |
 | MWFormer: Multi-Weather Image Restoration Using Degradation-Aware Transformers<br><sub>Ruoxi Zhu, Zhengzhong Tu, Jiaming Liu, Alan C. Bovik, Yibo Fan</sub> | TIP | [Paper](https://arxiv.org/abs/2411.17226) | [Code](https://github.com/taco-group/MWFormer) | 
 | FoundIR: Unleashing Million-scale Training Data to Advance Foundation Models for Image Restoration<br><sub>Hao Li, Xiang Chen, Jiangxin Dong, Jinhui Tang, Jinshan Pan</sub> | Arixv | [Paper](https://arxiv.org/abs/2412.01427) | |
+| Multi-task Image Restoration Guided By Robust DINO Features<br><sub>Xin Lin, Jingtong Yue, Kelvin C.K. Chan, Lu Qi, Chao Ren, Jinshan Pan, Ming-Hsuan Yang</sub> | Arxiv | [Paper](https://arxiv.org/abs/2312.01677) |  |
 | Complexity Experts are Task-Discriminative Learners for Any Image Restoration<br><sub>Eduard Zamfir, Zongwei Wu, Nancy Mehta, Yuedong Tan, Danda Pani Paudel, Yulun Zhang, Radu Timofte</sub> | CVPR2025 | [Paper](https://arxiv.org/abs/2411.18466) | [Code](https://github.com/eduardzamfir/MoCE-IR) |
 |Debiased All-in-one Image Restoration with Task Uncertainty Regularization<br><sub>Gang Wu, Junjun Jiang, Yijun Wang, Kui Jiang, Xianming Liu</sub> | AAAI2025| [Paper](https://openreview.net/forum?id=kx7eyKgEGz&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2025%2FConference%2FAuthors%23your-submissions))|[Code](https://github.com/Aitical/TUR/blob/main)|
 | Adaptive Blind All-in-One Image Restoration<br><sub>David Serrano-Lozano, Luis Herranz, Shaolin Su, Javier Vazquez-Corral</sub> | Arxiv | [Paper](https://arxiv.org/abs/2411.18412) | [Code](https://github.com/davidserra9/abair/) |
@@ -140,6 +143,13 @@
 
 
 ### 2025
+#### `[Arxiv]`**DA2Diff: Exploring Degradation-aware Adaptive Diffusion Priors for All-in-One Weather Restoration**
+*Jiamei Xiong, Xuefeng Yan, Yongzhen Wang, Wei Zhao, Xiao-Ping Zhang, Mingqiang Wei*
+- Paper: https://arxiv.org/abs/2504.05135
+#### `[Arxiv]`**Content-Aware Transformer for All-in-one Image Restoration**
+*Gang Wu, Junjun Jiang, Kui Jiang, Xianming Liu*
+- Paper: https://arxiv.org/abs/2504.04869
+- Code: https://github.com/Aitical/DSwinIR
 #### `[Arxiv]`**Cat-AIR: Content and Task-Aware All-in-One Image Restoration**
 *Jiachen Jiang, Tianyu Ding, Ke Zhang, Jinxin Zhou, Tianyi Chen, Ilya Zharkov, Zhihui Zhu, Luming Liang*
 - Paper: https://arxiv.org/abs/2503.17915
@@ -208,6 +218,9 @@
 #### `[Arxiv]`**FoundIR: Unleashing Million-scale Training Data to Advance Foundation Models for Image Restoration**
 *Hao Li, Xiang Chen, Jiangxin Dong, Jinhui Tang, Jinshan Pan*
 - Paper: https://arxiv.org/abs/2412.01427
+#### `[Arxiv]`**Multi-task Image Restoration Guided By Robust DINO Features**
+*Xin Lin, Jingtong Yue, Kelvin C.K. Chan, Lu Qi, Chao Ren, Jinshan Pan, Ming-Hsuan Yang*
+- Paper: https://arxiv.org/abs/2312.01677
 #### `[CVPR2025]`**Complexity Experts are Task-Discriminative Learners for Any Image Restoration**
 *Eduard Zamfir, Zongwei Wu, Nancy Mehta, Yuedong Tan, Danda Pani Paudel, Yulun Zhang, Radu Timofte*
 - Paper: https://arxiv.org/abs/2411.18466
