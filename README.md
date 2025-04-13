@@ -26,6 +26,7 @@
 
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| Q-Agent: Quality-Driven Chain-of-Thought Image Restoration Agent through Robust Multimodal Large Language Model <br><sub>Yingjie Zhou, Jiezhang Cao, Zicheng Zhang, Farong Wen, Yanwei Jiang, Jun Jia, Xiaohong Liu, Xiongkuo Min, Guangtao Zhai</sub> | Arxiv | [Paper](https://arxiv.org/abs/2504.07148) |  |
 | DA2Diff: Exploring Degradation-aware Adaptive Diffusion Priors for All-in-One Weather Restoration<br><sub>Jiamei Xiong, Xuefeng Yan, Yongzhen Wang, Wei Zhao, Xiao-Ping Zhang, Mingqiang Wei</sub> | Arxiv | [Paper](https://arxiv.org/abs/2504.05135) |  |
 | Content-Aware Transformer for All-in-one Image Restoration<br><sub>Gang Wu, Junjun Jiang, Kui Jiang, Xianming Liu</sub> | Arxiv | [Paper](https://arxiv.org/abs/2504.04869) | [Code](https://github.com/Aitical/DSwinIR) |
 |Cat-AIR: Content and Task-Aware All-in-One Image Restoration<br><sub>Jiachen Jiang, Tianyu Ding, Ke Zhang, Jinxin Zhou, Tianyi Chen, Ilya Zharkov, Zhihui Zhu, Luming Liang</sub>|Arxiv|[Paper](https://arxiv.org/abs/2503.17915)|[Code](https://kongwanbianjinyu.github.io/Cat-AIR/)|  
@@ -143,6 +144,9 @@
 
 
 ### 2025
+#### `[Arxiv]`**Q-Agent: Quality-Driven Chain-of-Thought Image Restoration Agent through Robust Multimodal Large Language Model**
+*Yingjie Zhou, Jiezhang Cao, Zicheng Zhang, Farong Wen, Yanwei Jiang, Jun Jia, Xiaohong Liu, Xiongkuo Min, Guangtao Zhai*
+- Paper: https://arxiv.org/abs/2504.07148
 #### `[Arxiv]`**DA2Diff: Exploring Degradation-aware Adaptive Diffusion Priors for All-in-One Weather Restoration**
 *Jiamei Xiong, Xuefeng Yan, Yongzhen Wang, Wei Zhao, Xiao-Ping Zhang, Mingqiang Wei*
 - Paper: https://arxiv.org/abs/2504.05135
