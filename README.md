@@ -26,10 +26,14 @@
 
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| Multi-axis Prompt and Multi-dimension Fusion Network for All-in-one Weather-degraded Image Restoration <br><sub>Yuanbo Wen, Tao Gao, Jing Zhang, Ziqi Li, Ting Chen</sub> | AAAI 2025 | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32898) | [Code](https://github.com/chdwyb/MPMF-Net) |
 | Q-Agent: Quality-Driven Chain-of-Thought Image Restoration Agent through Robust Multimodal Large Language Model <br><sub>Yingjie Zhou, Jiezhang Cao, Zicheng Zhang, Farong Wen, Yanwei Jiang, Jun Jia, Xiaohong Liu, Xiongkuo Min, Guangtao Zhai</sub> | Arxiv | [Paper](https://arxiv.org/abs/2504.07148) |  |
 | DA2Diff: Exploring Degradation-aware Adaptive Diffusion Priors for All-in-One Weather Restoration<br><sub>Jiamei Xiong, Xuefeng Yan, Yongzhen Wang, Wei Zhao, Xiao-Ping Zhang, Mingqiang Wei</sub> | Arxiv | [Paper](https://arxiv.org/abs/2504.05135) |  |
 | Content-Aware Transformer for All-in-one Image Restoration<br><sub>Gang Wu, Junjun Jiang, Kui Jiang, Xianming Liu</sub> | Arxiv | [Paper](https://arxiv.org/abs/2504.04869) | [Code](https://github.com/Aitical/DSwinIR) |
 |Cat-AIR: Content and Task-Aware All-in-One Image Restoration<br><sub>Jiachen Jiang, Tianyu Ding, Ke Zhang, Jinxin Zhou, Tianyi Chen, Ilya Zharkov, Zhihui Zhu, Luming Liang</sub>|Arxiv|[Paper](https://arxiv.org/abs/2503.17915)|[Code](https://kongwanbianjinyu.github.io/Cat-AIR/)|  
+| UniCoRN: Latent Diffusion-based Unified Controllable Image Restoration Network across Multiple Degradations <br><sub>Debabrata Mandal, Soumitri Chattopadhyay, Guansen Tong, Praneeth Chakravarthula</sub> | Arxiv | [Paper](https://arxiv.org/abs/2503.15868) | [Code](https://codejaeger.github.io/unicorn-gh) |
+| Prompt to Restore, Restore to Prompt: Cyclic Prompting for Universal Adverse Weather Removal <br><sub>Rongxin Liao, Feng Li, Yanyan Wei, Zenglin Shi, Le Zhang, Huihui Bai, Meng Wang</sub> | Arxiv | [Paper](https://arxiv.org/abs/2503.09013) | [Code](https://github.com/RongxinL/CyclicPrompt) |
+| TextDoctor: Unified Document Image Inpainting via Patch Pyramid Diffusion Models <br><sub>Wanglong Lu, Lingming Su, Jingjing Zheng, Vinícius Veloso de Melo, Farzaneh Shoeleh, John Hawkin, Terrence Tricco, Hanli Zhao, Xianta Jiang</sub> | Arxiv | [Paper](https://arxiv.org/abs/2503.04021) |  |
 |Hybrid Agents for Image Restoration<br><sub>Bingchen Li, Xin Li, Yiting Lu, Zhibo Chen</sub>|Arxiv|[Paper](https://arxiv.org/abs/2503.10120)||  
 |Vision-Language Gradient Descent-driven All-in-One Deep Unfolding Networks<br><sub>Haijin Zeng, Xiangming Wang, Yongyong Chen, Jingyong Su, Jie Liu</sub>|CVPR2025|[Paper](https://arxiv.org/abs/2503.16930)|[Code](https://github.com/xianggkl/VLU-Net)|
 |Degradation-Aware Feature Perturbation for All-in-One Image Restoration<br><sub>Xiangpeng Tian, Xiangyu Liao, Xiao Liu, Meng Li, Chao Ren</sub>|CVPR2025|[Paper](https://cvpr.thecvf.com/virtual/2025/poster/35103)||
@@ -144,6 +148,10 @@
 
 
 ### 2025
+#### `[AAAI2025]`**Multi-axis Prompt and Multi-dimension Fusion Network for All-in-one Weather-degraded Image Restoration**
+*Yuanbo Wen, Tao Gao, Jing Zhang, Ziqi Li, Ting Chen*
+- Paper: https://ojs.aaai.org/index.php/AAAI/article/view/32898
+- Code: https://github.com/chdwyb/MPMF-Net
 #### `[Arxiv]`**Q-Agent: Quality-Driven Chain-of-Thought Image Restoration Agent through Robust Multimodal Large Language Model**
 *Yingjie Zhou, Jiezhang Cao, Zicheng Zhang, Farong Wen, Yanwei Jiang, Jun Jia, Xiaohong Liu, Xiongkuo Min, Guangtao Zhai*
 - Paper: https://arxiv.org/abs/2504.07148
@@ -158,6 +166,17 @@
 *Jiachen Jiang, Tianyu Ding, Ke Zhang, Jinxin Zhou, Tianyi Chen, Ilya Zharkov, Zhihui Zhu, Luming Liang*
 - Paper: https://arxiv.org/abs/2503.17915
 - Code: https://kongwanbianjinyu.github.io/Cat-AIR/
+#### `[Arxiv]`**UniCoRN: Latent Diffusion-based Unified Controllable Image Restoration Network across Multiple Degradations**
+*Debabrata Mandal, Soumitri Chattopadhyay, Guansen Tong, Praneeth Chakravarthula*
+- Paper: https://arxiv.org/abs/2503.15868
+- Code: https://codejaeger.github.io/unicorn-gh
+#### `[Arxiv]`**Prompt to Restore, Restore to Prompt: Cyclic Prompting for Universal Adverse Weather Removal**
+*Rongxin Liao, Feng Li, Yanyan Wei, Zenglin Shi, Le Zhang, Huihui Bai, Meng Wang*
+- Paper: https://arxiv.org/abs/2503.09013
+- Code: https://github.com/RongxinL/CyclicPrompt
+#### `[Arxiv]`**TextDoctor: Unified Document Image Inpainting via Patch Pyramid Diffusion Models**
+*Wanglong Lu, Lingming Su, Jingjing Zheng, Vinícius Veloso de Melo, Farzaneh Shoeleh, John Hawkin, Terrence Tricco, Hanli Zhao, Xianta Jiang*
+- Paper: https://arxiv.org/abs/2503.04021
 #### `[Arxiv]`**Hybrid Agents for Image Restoration**
 *Bingchen Li, Xin Li, Yiting Lu, Zhibo Chen*
 - Paper: https://arxiv.org/abs/2503.10120
