@@ -26,6 +26,7 @@
 
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| Lumina-OmniLV: A Unified Multimodal Framework for General Low-Level Vision <br><sub>Yuandong Pu, Le Zhuo, Kaiwen Zhu, Liangbin Xie, Wenlong Zhang, Xiangyu Chen, Peng Gao, Yu Qiao, Chao Dong, Yihao Liu</sub> | Arxiv | [Paper](https://arxiv.org/pdf/2504.04903) | [Code](https://andrew0613.github.io/OmniLV_page/) |
 | Multi-axis Prompt and Multi-dimension Fusion Network for All-in-one Weather-degraded Image Restoration <br><sub>Yuanbo Wen, Tao Gao, Jing Zhang, Ziqi Li, Ting Chen</sub> | AAAI 2025 | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32898) | [Code](https://github.com/chdwyb/MPMF-Net) |
 | Q-Agent: Quality-Driven Chain-of-Thought Image Restoration Agent through Robust Multimodal Large Language Model <br><sub>Yingjie Zhou, Jiezhang Cao, Zicheng Zhang, Farong Wen, Yanwei Jiang, Jun Jia, Xiaohong Liu, Xiongkuo Min, Guangtao Zhai</sub> | Arxiv | [Paper](https://arxiv.org/abs/2504.07148) |  |
 | DA2Diff: Exploring Degradation-aware Adaptive Diffusion Priors for All-in-One Weather Restoration<br><sub>Jiamei Xiong, Xuefeng Yan, Yongzhen Wang, Wei Zhao, Xiao-Ping Zhang, Mingqiang Wei</sub> | Arxiv | [Paper](https://arxiv.org/abs/2504.05135) |  |
@@ -148,6 +149,10 @@
 
 
 ### 2025
+#### `[Arxiv]`**Lumina-OmniLV: A Unified Multimodal Framework for General Low-Level Vision**
+*Yuandong Pu, Le Zhuo, Kaiwen Zhu, Liangbin Xie, Wenlong Zhang, Xiangyu Chen, Peng Gao, Yu Qiao, Chao Dong, Yihao Liu*
+- Paper: https://arxiv.org/pdf/2504.04903
+- Code: https://andrew0613.github.io/OmniLV_page/
 #### `[AAAI2025]`**Multi-axis Prompt and Multi-dimension Fusion Network for All-in-one Weather-degraded Image Restoration**
 *Yuanbo Wen, Tao Gao, Jing Zhang, Ziqi Li, Ting Chen*
 - Paper: https://ojs.aaai.org/index.php/AAAI/article/view/32898
