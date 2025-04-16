@@ -57,7 +57,6 @@
 | FoundIR: Unleashing Million-scale Training Data to Advance Foundation Models for Image Restoration<br><sub>Hao Li, Xiang Chen, Jiangxin Dong, Jinhui Tang, Jinshan Pan</sub> | Arixv | [Paper](https://arxiv.org/abs/2412.01427) | |
 | Multi-task Image Restoration Guided By Robust DINO Features<br><sub>Xin Lin, Jingtong Yue, Kelvin C.K. Chan, Lu Qi, Chao Ren, Jinshan Pan, Ming-Hsuan Yang</sub> | Arxiv | [Paper](https://arxiv.org/abs/2312.01677) |  |
 | Complexity Experts are Task-Discriminative Learners for Any Image Restoration<br><sub>Eduard Zamfir, Zongwei Wu, Nancy Mehta, Yuedong Tan, Danda Pani Paudel, Yulun Zhang, Radu Timofte</sub> | CVPR2025 | [Paper](https://arxiv.org/abs/2411.18466) | [Code](https://github.com/eduardzamfir/MoCE-IR) |
-|Debiased All-in-one Image Restoration with Task Uncertainty Regularization<br><sub>Gang Wu, Junjun Jiang, Yijun Wang, Kui Jiang, Xianming Liu</sub> | AAAI2025| [Paper](https://openreview.net/forum?id=kx7eyKgEGz&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2025%2FConference%2FAuthors%23your-submissions))|[Code](https://github.com/Aitical/TUR/blob/main)|
 | Adaptive Blind All-in-One Image Restoration<br><sub>David Serrano-Lozano, Luis Herranz, Shaolin Su, Javier Vazquez-Corral</sub> | Arxiv | [Paper](https://arxiv.org/abs/2411.18412) | [Code](https://github.com/davidserra9/abair/) |
 | GenDeg: Diffusion-Based Degradation Synthesis for Generalizable All-in-One Image Restoration<br><sub>Sudarshan Rajagopalan, Nithin Gopalakrishnan Nair, Jay N. Paranjape, Vishal M. Patel</sub> | CVPR2025 | [Paper](https://arxiv.org/abs/2411.17687) | [Code](https://sudraj2002.github.io/gendegpage/) |
 | Mixed Degradation Image Restoration via Local Dynamic Optimization and Conditional Embedding<br><sub>Yubin Gu, Yuan Meng, Xiaoshuai Sun, Jiayi Ji, Weijian Ruan, Rongrong Ji</sub> | Arxiv | [Paper](https://arxiv.org/abs/2411.16217) |  |
@@ -263,10 +262,6 @@
 *Eduard Zamfir, Zongwei Wu, Nancy Mehta, Yuedong Tan, Danda Pani Paudel, Yulun Zhang, Radu Timofte*
 - Paper: https://arxiv.org/abs/2411.18466
 - Code: https://github.com/eduardzamfir/MoCE-IR
-#### `[AAAI2025]`**Debiased All-in-one Image Restoration with Task Uncertainty Regularization**
-*Gang Wu, Junjun Jiang, Yijun Wang, Kui Jiang, Xianming Liu*
-- Paper: https://openreview.net/forum?id=kx7eyKgEGz&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2025%2FConference%2FAuthors%23your-submissions)
-- Code: https://github.com/Aitical/TUR/blob/main
 #### `[Arxiv]`**Adaptive Blind All-in-One Image Restoration**
 *David Serrano-Lozano, Luis Herranz, Shaolin Su, Javier Vazquez-Corral*
 - Paper: https://arxiv.org/abs/2411.18412
