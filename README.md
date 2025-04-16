@@ -26,6 +26,8 @@
 
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| Beyond Degradation Redundancy: Contrastive Prompt Learning for All-in-One Image Restoration <br><sub>Gang Wu, Junjun Jiang, Kui Jiang, Xianming Liu, Liqiang Nie</sub> | Arxiv | [Paper](https://arxiv.org/pdf/2504.09973) | [Code](https://github.com/Aitical/CPLIR) |
+| Beyond Degradation Conditions: All-in-One Image Restoration via HOG Transformers <br><sub>Jiawei Wu, Zhifei Yang, Zhe Wang, Zhi Jin</sub> | Arxiv | [Paper](https://arxiv.org/abs/2504.09377) | [Code](https://github.com/Fire-friend/HOGformer) |
 | Lumina-OmniLV: A Unified Multimodal Framework for General Low-Level Vision <br><sub>Yuandong Pu, Le Zhuo, Kaiwen Zhu, Liangbin Xie, Wenlong Zhang, Xiangyu Chen, Peng Gao, Yu Qiao, Chao Dong, Yihao Liu</sub> | Arxiv | [Paper](https://arxiv.org/pdf/2504.04903) | [Code](https://andrew0613.github.io/OmniLV_page/) |
 | Multi-axis Prompt and Multi-dimension Fusion Network for All-in-one Weather-degraded Image Restoration <br><sub>Yuanbo Wen, Tao Gao, Jing Zhang, Ziqi Li, Ting Chen</sub> | AAAI 2025 | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32898) | [Code](https://github.com/chdwyb/MPMF-Net) |
 | Q-Agent: Quality-Driven Chain-of-Thought Image Restoration Agent through Robust Multimodal Large Language Model <br><sub>Yingjie Zhou, Jiezhang Cao, Zicheng Zhang, Farong Wen, Yanwei Jiang, Jun Jia, Xiaohong Liu, Xiongkuo Min, Guangtao Zhai</sub> | Arxiv | [Paper](https://arxiv.org/abs/2504.07148) |  |
@@ -149,6 +151,14 @@
 
 
 ### 2025
+#### `[Arxiv]`**Beyond Degradation Redundancy: Contrastive Prompt Learning for All-in-One Image Restoration**
+*Gang Wu, Junjun Jiang, Kui Jiang, Xianming Liu, Liqiang Nie*
+- Paper: https://arxiv.org/pdf/2504.09973
+- Code: https://github.com/Aitical/CPLIR
+#### `[Arxiv]`**Beyond Degradation Conditions: All-in-One Image Restoration via HOG Transformers**
+*Jiawei Wu, Zhifei Yang, Zhe Wang, Zhi Jin*
+- Paper: https://arxiv.org/abs/2504.09377
+- Code: https://github.com/Fire-friend/HOGformer
 #### `[Arxiv]`**Lumina-OmniLV: A Unified Multimodal Framework for General Low-Level Vision**
 *Yuandong Pu, Le Zhuo, Kaiwen Zhu, Liangbin Xie, Wenlong Zhang, Xiangyu Chen, Peng Gao, Yu Qiao, Chao Dong, Yihao Liu*
 - Paper: https://arxiv.org/pdf/2504.04903
