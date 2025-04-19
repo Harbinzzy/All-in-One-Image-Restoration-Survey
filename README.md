@@ -82,6 +82,7 @@
 | RestoreAgent: Autonomous Image Restoration Agent via Multimodal Large Language Models<br><sub>Haoyu Chen, Wenbo Li, Jinjin Gu, Jingjing Ren, Sixiang Chen, Tian Ye, Renjing Pei, Kaiwen Zhou, Fenglong Song, Lei Zhu</sub> | Arxiv | [Paper](https://arxiv.org/abs/2407.18035) |  |
 | Training-Free Large Model Priors for Multiple-in-One Image Restoration<br><sub>Xuanhua He, Lang Li, Yingying Wang, Hui Zheng, Ke Cao, Keyu Yan, Rui Li, Chengjun Xie, Jie Zhang, Man Zhou</sub> | Arxiv | [Paper](https://arxiv.org/abs/2407.13181) |  |
 | Any Image Restoration with Efficient Automatic Degradation Adaptation<br><sub>Bin Ren, Eduard Zamfir, Yawei Li, Zongwei Wu, Danda Pani Paudel, Radu Timofte, Nicu Sebe, Luc Van Gool</sub> | Arxiv | [Paper](https://arxiv.org/abs/2407.13372) | [Code](https://github.com/Amazingren/AnyIR) |
+| Restoring Images in Adverse Weather Conditions via Histogram Transformer <br><sub>Shangquan Sun, Wenqi Ren, Xinwei Gao, Rui Wang, Xiaochun Cao</sub> | ECCV 2024 | [Paper](https://arxiv.org/abs/2407.10172) | [Code](https://github.com/sunshangquan/Histoformer) |
 | GRIDS: Grouped Multiple-Degradation Restoration with Image Degradation Similarity<br><sub>Shuo Cao, Yihao Liu, Wenlong Zhang, Yu Qiao, Chao Dong</sub> | ECCV2024 | [Paper](https://arxiv.org/abs/2407.12273) |  |
 | OneRestore: A Universal Restoration Framework for Composite Degradation<br><sub>Yu Guo, Yuan Gao, Yuxu Lu, Huilin Zhu, Ryan Wen Liu, Shengfeng He</sub> | Arxiv | [Paper](https://arxiv.org/abs/2407.04621) |  |
 | Learning Frequency-Aware Dynamic Transformers for All-In-One Image Restoration<br><sub>Zenglin Shi, Tong Su, Pei Liu, Yunpeng Wu, Le Zhang, Meng Wang</sub> | Arxiv | [Paper](https://arxiv.org/abs/2407.01636) |  |
@@ -340,6 +341,10 @@
 *Bin Ren, Eduard Zamfir, Yawei Li, Zongwei Wu, Danda Pani Paudel, Radu Timofte, Nicu Sebe, Luc Van Gool*
 - Paper: https://arxiv.org/abs/2407.13372
 - Code: https://github.com/Amazingren/AnyIR
+#### `[ECCV2024]`**Restoring Images in Adverse Weather Conditions via Histogram Transformer**
+*Shangquan Sun, Wenqi Ren, Xinwei Gao, Rui Wang, Xiaochun Cao*
+- Paper: https://arxiv.org/abs/2407.10172
+- Code: https://github.com/sunshangquan/Histoformer
 #### `[ECCV2024]`**GRIDS: Grouped Multiple-Degradation Restoration with Image Degradation Similarity**
 *Shuo Cao, Yihao Liu, Wenlong Zhang, Yu Qiao, Chao Dong*
 - Paper: https://arxiv.org/abs/2407.12273
