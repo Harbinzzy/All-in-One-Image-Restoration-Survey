@@ -96,7 +96,8 @@
 | Joint Conditional Diffusion Model for Image Restoration with Mixed Degradations<br><sub>Yufeng Yue, Meng Yu, Luojie Yang, Yi Yang</sub> | Arxiv | [Paper](https://arxiv.org/abs/2404.07770) |  |
 | Dynamic Pre-training: Towards Efficient and Scalable All-in-One Image Restoration<br><sub>Akshay Dudhane, Omkar Thawakar, Syed Waqas Zamir, Salman Khan, Fahad Shahbaz Khan, Ming-Hsuan Yang</sub> | Arxiv | [Paper](https://arxiv.org/abs/2404.02154) | [Code](https://github.com/akshaydudhane16/DyNet) |
 | WM-MoE: Weather-aware Multi-scale Mixture-of-Experts for Blind Adverse Weather Removal<br><sub>Yulin Luo, Rui Zhao, Xiaobao Wei, Jinwei Chen, Yijie Lu, Shenghao Xie, Tianyu Wang, Ruiqin Xiong, Ming Lu, Shanghang Zhang</sub> | Arxiv | [Paper](https://arxiv.org/abs/2303.13739) |  |
-| AdaIR: Adaptive All-in-One Image Restoration via Frequency Mining and Modulation<br><sub>Yuning Cui, Syed Waqas Zamir, Salman Khan, Alois Knoll, Mubarak Shah, Fahad Shahbaz Khan</sub> | Arxiv | [Paper](https://arxiv.org/abs/2403.14614) | [Code](https://github.com/c-yn/AdaIR) |
+| AdaIR: Adaptive All-in-One Image Restoration via Frequency Mining and Modulation<br><sub>Yuning Cui, Syed Waqas Zamir, Salman Khan, Alois Knoll, Mubarak Shah, Fahad Shahbaz Khan</sub> | ICLR2025 | [Paper](https://arxiv.org/abs/2403.14614) | [Code](https://github.com/c-yn/AdaIR) |
+| DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks <br><sub>Jiaxin Zhang, Dezhi Peng, Chongyu Liu, Peirong Zhang, Lianwen Jin</sub> | CVPR 2024 | [Paper](https://arxiv.org/abs/2405.04408) | [Code](https://github.com/ZZZHANG-jx/DocRes) |
 | Selective Hourglass Mapping for Universal Image Restoration Based on Diffusion Model<br><sub>Dian Zheng, Xiao-Ming Wu, Shuzhou Yang, Jian Zhang, Jian-Fang Hu, Wei-Shi Zheng</sub> | CVPR2024 | [Paper](https://arxiv.org/abs/2403.11157) | [Code](https://github.com/iSEE-Laboratory/DiffUIR) |
 | Continual All-in-One Adverse Weather Removal with Knowledge Replay on a Unified Network Structure<br><sub>De Cheng, Yanling Ji, Dong Gong, Yan Li, Nannan Wang, Junwei Han, Dingwen Zhang</sub> | Arxiv | [Paper](https://arxiv.org/abs/2403.07292) | [Code](https://github.com/xiaojihh/CL_all-in-one) |
 | AoSRNet: All-in-One Scene Recovery Networks via Multi-knowledge Integration<br><sub>Yuxu Lu, Dong Yang, Yuan Gao, Ryan Wen Liu, Jun Liu, Yu Guo</sub> | Arxiv | [Paper](https://arxiv.org/abs/2402.03738) | [Code](https://github.com/LouisYuxuLu/AoSRNet) |
@@ -390,10 +391,14 @@
 #### **WM-MoE: Weather-aware Multi-scale Mixture-of-Experts for Blind Adverse Weather Removal**
 *Yulin Luo, Rui Zhao, Xiaobao Wei, Jinwei Chen, Yijie Lu, Shenghao Xie, Tianyu Wang, Ruiqin Xiong, Ming Lu, Shanghang Zhang*
 - Paper: https://arxiv.org/abs/2303.13739
-#### **AdaIR: Adaptive All-in-One Image Restoration via Frequency Mining and Modulation**
+#### `[ICLR2025]`**AdaIR: Adaptive All-in-One Image Restoration via Frequency Mining and Modulation**
 *Yuning Cui, Syed Waqas Zamir, Salman Khan, Alois Knoll, Mubarak Shah, Fahad Shahbaz Khan*
 - Paper: https://arxiv.org/abs/2403.14614
 - Code: https://github.com/c-yn/AdaIR
+#### `[CVPR2024]`**DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks**
+*Jiaxin Zhang, Dezhi Peng, Chongyu Liu, Peirong Zhang, Lianwen Jin*
+- Paper: https://arxiv.org/abs/2405.04408
+- Code: https://github.com/ZZZHANG-jx/DocRes
 #### `[CVPR2024]`**Selective Hourglass Mapping for Universal Image Restoration Based on Diffusion Model**
 *Dian Zheng, Xiao-Ming Wu, Shuzhou Yang, Jian Zhang, Jian-Fang Hu, Wei-Shi Zheng*
 - Paper: https://arxiv.org/abs/2403.11157
