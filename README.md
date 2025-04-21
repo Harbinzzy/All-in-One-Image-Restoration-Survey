@@ -63,10 +63,8 @@
 | PromptHSI: Universal Hyperspectral Image Restoration Framework for Composite Degradation<br><sub>Chia-Ming Lee, Ching-Heng Cheng, Yu-Fan Lin, Yi-Ching Cheng, Wo-Ting Liao, Chih-Chung Hsu, Fu-En Yang, Yu-Chiang Frank Wang</sub> | Arxiv | [Paper](https://arxiv.org/abs/2411.15922) |  |
 | AllRestorer: All-in-One Transformer for Image Restoration under Composite Degradations<br><sub> Jiawei Mao, Yu Yang, Xuesong Yin, Ling Shao, Hao Tang</sub> |Arxiv| [Paper](https://arxiv.org/abs/2411.10708)||
 | All-in-one Weather-degraded Image Restoration via Adaptive Degradation-aware Self-prompting Model<br><sub> Yuanbo Wen, Tao Gao, Ziqi Li, Jing Zhang, Kaihao Zhang, Ting Chen</sub> |Arxiv| [Paper](https://arxiv.org/abs/2411.07445)||
-| Degradation-Aware Residual-Conditioned Optimal Transport for Unified Image Restoration<br><sub> Xiaole Tang, Xiang Gu, Xiaoyi He, Xin Hu, Jian Sun</sub> |Arxiv| [Paper](https://arxiv.org/abs/2411.01656)| [Code](https://github.com/xl-tang3/DA-RCOT)|
+| Degradation-Aware Residual-Conditioned Optimal Transport for Unified Image Restoration<br><sub> Xiaole Tang, Xiang Gu, Xiaoyi He, Xin Hu, Jian Sun</sub> |TPAMI'25| [Paper](https://arxiv.org/abs/2411.01656)| [Code](https://github.com/xl-tang3/DA-RCOT)|
 | Chain-of-Restoration: Multi-Task Image Restoration Models are Zero-Shot Step-by-Step Universal Image Restorers<br><sub> Jin Cao, Deyu Meng, Xiangyong Cao</sub> |Arxiv| [Paper](https://arxiv.org/abs/2410.08688)| [Code](https://github.com/toummHus/Chain-of-Restoration)|
-| All-in-one Weather-degraded Image Restoration via Adaptive Degradation-aware Self-prompting Model<br><sub> Yuanbo Wen, Tao Gao, Ziqi Li, Jing Zhang, Kaihao Zhang, Ting Chen </sub> |Arxiv|[Paper](https://arxiv.org/abs/2411.07445) | |
-| Degradation-Aware Residual-Conditioned Optimal Transport for Unified Image Restoration<br><sub> Xiaole Tang, Xiang Gu, Xiaoyi He, Xin Hu, Jian Sun</sub> | Arxiv | [Paper](https://arxiv.org/abs/2411.01656v1) | [Code](https://github.com/xl-tang3/DA-RCOT) |
 | An Intelligent Agentic System for Complex Image Restoration Problems<br><sub> Kaiwen Zhu, Jinjin Gu, Zhiyuan You, Yu Qiao, Chao Dong</sub> |Arxiv| [Paper](https://arxiv.org/abs/2410.17809)||
 | LoRA-IR: Taming Low-Rank Experts for Efficient All-in-One Image Restoration<br><sub>Yuang Ai, Huaibo Huang, Ran He</sub> | Arxiv | [Paper](https://arxiv.org/abs/2410.15385) | [Code](https://github.com/shallowdream204/LoRA-IR) |
 | TANet: Triplet Attention Network for All-In-One Adverse Weather Image Restoration<br><sub>Hsing-Hua Wang, Fu-Jen Tsai, Yen-Yu Lin, Chia-Wen Lin</sub> | ACCV2024 | [Paper](https://arxiv.org/abs/2410.08177) | [Code](https://github.com/xhuachris/TANet-ACCV-2024) |
@@ -284,7 +282,7 @@
 #### `[Arxiv]`**All-in-one Weather-degraded Image Restoration via Adaptive Degradation-aware Self-prompting Model**
 *Yuanbo Wen, Tao Gao, Ziqi Li, Jing Zhang, Kaihao Zhang, Ting Chen*
 - Paper: https://arxiv.org/abs/2411.07445
-#### `[Arxiv]`**Degradation-Aware Residual-Conditioned Optimal Transport for Unified Image Restoration**
+#### `[TPAMI'25]`**Degradation-Aware Residual-Conditioned Optimal Transport for Unified Image Restoration**
 *Xiaole Tang, Xiang Gu, Xiaoyi He, Xin Hu, Jian Sun*
 - Paper: https://arxiv.org/abs/2411.01656v1
 - Code: https://github.com/xl-tang3/DA-RCOT
