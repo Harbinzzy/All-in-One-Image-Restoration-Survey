@@ -26,6 +26,7 @@
 
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| Any Image Restoration via Efficient Spatial-Frequency Degradation Adaptation <br><sub>Bin Ren, Eduard Zamfir, Zongwei Wu, Yawei Li, Yidi Li, Danda Pani Paudel, Radu Timofte, Ming-Hsuan Yang, Luc Van Gool, Nicu Sebe</sub> | Arxiv | [Paper](https://arxiv.org/abs/2504.14249) | [Code](https://amazingren.github.io/AnyIR/) |
 | Beyond Degradation Redundancy: Contrastive Prompt Learning for All-in-One Image Restoration <br><sub>Gang Wu, Junjun Jiang, Kui Jiang, Xianming Liu, Liqiang Nie</sub> | Arxiv | [Paper](https://arxiv.org/pdf/2504.09973) | [Code](https://github.com/Aitical/CPLIR) |
 | Beyond Degradation Conditions: All-in-One Image Restoration via HOG Transformers <br><sub>Jiawei Wu, Zhifei Yang, Zhe Wang, Zhi Jin</sub> | Arxiv | [Paper](https://arxiv.org/abs/2504.09377) | [Code](https://github.com/Fire-friend/HOGformer) |
 | Lumina-OmniLV: A Unified Multimodal Framework for General Low-Level Vision <br><sub>Yuandong Pu, Le Zhuo, Kaiwen Zhu, Liangbin Xie, Wenlong Zhang, Xiangyu Chen, Peng Gao, Yu Qiao, Chao Dong, Yihao Liu</sub> | Arxiv | [Paper](https://arxiv.org/pdf/2504.04903) | [Code](https://andrew0613.github.io/OmniLV_page/) |
@@ -150,6 +151,10 @@
 
 
 ### 2025
+#### `[Arxiv]`**Any Image Restoration via Efficient Spatial-Frequency Degradation Adaptation**
+*Bin Ren, Eduard Zamfir, Zongwei Wu, Yawei Li, Yidi Li, Danda Pani Paudel, Radu Timofte, Ming-Hsuan Yang, Luc Van Gool, Nicu Sebe*
+- Paper: https://arxiv.org/abs/2504.14249
+- Code: https://amazingren.github.io/AnyIR/
 #### `[Arxiv]`**Beyond Degradation Redundancy: Contrastive Prompt Learning for All-in-One Image Restoration**
 *Gang Wu, Junjun Jiang, Kui Jiang, Xianming Liu, Liqiang Nie*
 - Paper: https://arxiv.org/pdf/2504.09973
