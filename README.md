@@ -26,7 +26,7 @@
 
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
-| DPMambaIR: All-in-One Image Restoration via Degradation-Aware Prompt State Space Model <br><sub>Zhanwen Liu, Sai Zhou, Yuchao Dai, Yang Wang, Yisheng An, Xiangmo Zhao</sub> | Arxiv | [Paper](https://arxiv.org/pdf/2504.17732) | - |
+| DPMambaIR: All-in-One Image Restoration via Degradation-Aware Prompt State Space Model <br><sub>Zhanwen Liu, Sai Zhou, Yuchao Dai, Yang Wang, Yisheng An, Xiangmo Zhao</sub> | Arxiv | [Paper](https://arxiv.org/pdf/2504.17732) |  |
 | Any Image Restoration via Efficient Spatial-Frequency Degradation Adaptation <br><sub>Bin Ren, Eduard Zamfir, Zongwei Wu, Yawei Li, Yidi Li, Danda Pani Paudel, Radu Timofte, Ming-Hsuan Yang, Luc Van Gool, Nicu Sebe</sub> | Arxiv | [Paper](https://arxiv.org/abs/2504.14249) | [Code](https://amazingren.github.io/AnyIR/) |
 | Beyond Degradation Redundancy: Contrastive Prompt Learning for All-in-One Image Restoration <br><sub>Gang Wu, Junjun Jiang, Kui Jiang, Xianming Liu, Liqiang Nie</sub> | Arxiv | [Paper](https://arxiv.org/pdf/2504.09973) | [Code](https://github.com/Aitical/CPLIR) |
 | Beyond Degradation Conditions: All-in-One Image Restoration via HOG Transformers <br><sub>Jiawei Wu, Zhifei Yang, Zhe Wang, Zhi Jin</sub> | Arxiv | [Paper](https://arxiv.org/abs/2504.09377) | [Code](https://github.com/Fire-friend/HOGformer) |
