@@ -26,6 +26,9 @@
 
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| Paper | Avenue | Link | Code |
+|-------|--------|------|------|
+| DPMambaIR: All-in-One Image Restoration via Degradation-Aware Prompt State Space Model <br><sub>Zhanwen Liu, Sai Zhou, Yuchao Dai, Yang Wang, Yisheng An, Xiangmo Zhao</sub> | Arxiv | [Paper](https://arxiv.org/pdf/2504.17732) | - |
 | Beyond Degradation Redundancy: Contrastive Prompt Learning for All-in-One Image Restoration <br><sub>Gang Wu, Junjun Jiang, Kui Jiang, Xianming Liu, Liqiang Nie</sub> | Arxiv | [Paper](https://arxiv.org/pdf/2504.09973) | [Code](https://github.com/Aitical/CPLIR) |
 | Beyond Degradation Conditions: All-in-One Image Restoration via HOG Transformers <br><sub>Jiawei Wu, Zhifei Yang, Zhe Wang, Zhi Jin</sub> | Arxiv | [Paper](https://arxiv.org/abs/2504.09377) | [Code](https://github.com/Fire-friend/HOGformer) |
 | Lumina-OmniLV: A Unified Multimodal Framework for General Low-Level Vision <br><sub>Yuandong Pu, Le Zhuo, Kaiwen Zhu, Liangbin Xie, Wenlong Zhang, Xiangyu Chen, Peng Gao, Yu Qiao, Chao Dong, Yihao Liu</sub> | Arxiv | [Paper](https://arxiv.org/pdf/2504.04903) | [Code](https://andrew0613.github.io/OmniLV_page/) |
@@ -151,6 +154,9 @@
 
 
 ### 2025
+#### `[Arxiv]`**DPMambaIR:All-in-One Image Restoration via Degradation-Aware Prompt State Space Model**
+*Zhanwen Liu, Sai Zhou, Yuchao Dai, Yang Wang, Yisheng An, Xiangmo Zhao*
+- Paper: https://arxiv.org/pdf/2504.17732
 #### `[Arxiv]`**Beyond Degradation Redundancy: Contrastive Prompt Learning for All-in-One Image Restoration**
 *Gang Wu, Junjun Jiang, Kui Jiang, Xianming Liu, Liqiang Nie*
 - Paper: https://arxiv.org/pdf/2504.09973
