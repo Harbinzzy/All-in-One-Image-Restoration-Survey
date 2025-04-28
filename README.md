@@ -26,9 +26,8 @@
 
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
-| Paper | Avenue | Link | Code |
-|-------|--------|------|------|
 | DPMambaIR: All-in-One Image Restoration via Degradation-Aware Prompt State Space Model <br><sub>Zhanwen Liu, Sai Zhou, Yuchao Dai, Yang Wang, Yisheng An, Xiangmo Zhao</sub> | Arxiv | [Paper](https://arxiv.org/pdf/2504.17732) | - |
+| Any Image Restoration via Efficient Spatial-Frequency Degradation Adaptation <br><sub>Bin Ren, Eduard Zamfir, Zongwei Wu, Yawei Li, Yidi Li, Danda Pani Paudel, Radu Timofte, Ming-Hsuan Yang, Luc Van Gool, Nicu Sebe</sub> | Arxiv | [Paper](https://arxiv.org/abs/2504.14249) | [Code](https://amazingren.github.io/AnyIR/) |
 | Beyond Degradation Redundancy: Contrastive Prompt Learning for All-in-One Image Restoration <br><sub>Gang Wu, Junjun Jiang, Kui Jiang, Xianming Liu, Liqiang Nie</sub> | Arxiv | [Paper](https://arxiv.org/pdf/2504.09973) | [Code](https://github.com/Aitical/CPLIR) |
 | Beyond Degradation Conditions: All-in-One Image Restoration via HOG Transformers <br><sub>Jiawei Wu, Zhifei Yang, Zhe Wang, Zhi Jin</sub> | Arxiv | [Paper](https://arxiv.org/abs/2504.09377) | [Code](https://github.com/Fire-friend/HOGformer) |
 | Lumina-OmniLV: A Unified Multimodal Framework for General Low-Level Vision <br><sub>Yuandong Pu, Le Zhuo, Kaiwen Zhu, Liangbin Xie, Wenlong Zhang, Xiangyu Chen, Peng Gao, Yu Qiao, Chao Dong, Yihao Liu</sub> | Arxiv | [Paper](https://arxiv.org/pdf/2504.04903) | [Code](https://andrew0613.github.io/OmniLV_page/) |
@@ -66,10 +65,8 @@
 | PromptHSI: Universal Hyperspectral Image Restoration Framework for Composite Degradation<br><sub>Chia-Ming Lee, Ching-Heng Cheng, Yu-Fan Lin, Yi-Ching Cheng, Wo-Ting Liao, Chih-Chung Hsu, Fu-En Yang, Yu-Chiang Frank Wang</sub> | Arxiv | [Paper](https://arxiv.org/abs/2411.15922) |  |
 | AllRestorer: All-in-One Transformer for Image Restoration under Composite Degradations<br><sub> Jiawei Mao, Yu Yang, Xuesong Yin, Ling Shao, Hao Tang</sub> |Arxiv| [Paper](https://arxiv.org/abs/2411.10708)||
 | All-in-one Weather-degraded Image Restoration via Adaptive Degradation-aware Self-prompting Model<br><sub> Yuanbo Wen, Tao Gao, Ziqi Li, Jing Zhang, Kaihao Zhang, Ting Chen</sub> |Arxiv| [Paper](https://arxiv.org/abs/2411.07445)||
-| Degradation-Aware Residual-Conditioned Optimal Transport for Unified Image Restoration<br><sub> Xiaole Tang, Xiang Gu, Xiaoyi He, Xin Hu, Jian Sun</sub> |Arxiv| [Paper](https://arxiv.org/abs/2411.01656)| [Code](https://github.com/xl-tang3/DA-RCOT)|
+| Degradation-Aware Residual-Conditioned Optimal Transport for Unified Image Restoration<br><sub> Xiaole Tang, Xiang Gu, Xiaoyi He, Xin Hu, Jian Sun</sub> |TPAMI'25| [Paper](https://arxiv.org/abs/2411.01656)| [Code](https://github.com/xl-tang3/DA-RCOT)|
 | Chain-of-Restoration: Multi-Task Image Restoration Models are Zero-Shot Step-by-Step Universal Image Restorers<br><sub> Jin Cao, Deyu Meng, Xiangyong Cao</sub> |Arxiv| [Paper](https://arxiv.org/abs/2410.08688)| [Code](https://github.com/toummHus/Chain-of-Restoration)|
-| All-in-one Weather-degraded Image Restoration via Adaptive Degradation-aware Self-prompting Model<br><sub> Yuanbo Wen, Tao Gao, Ziqi Li, Jing Zhang, Kaihao Zhang, Ting Chen </sub> |Arxiv|[Paper](https://arxiv.org/abs/2411.07445) | |
-| Degradation-Aware Residual-Conditioned Optimal Transport for Unified Image Restoration<br><sub> Xiaole Tang, Xiang Gu, Xiaoyi He, Xin Hu, Jian Sun</sub> | Arxiv | [Paper](https://arxiv.org/abs/2411.01656v1) | [Code](https://github.com/xl-tang3/DA-RCOT) |
 | An Intelligent Agentic System for Complex Image Restoration Problems<br><sub> Kaiwen Zhu, Jinjin Gu, Zhiyuan You, Yu Qiao, Chao Dong</sub> |Arxiv| [Paper](https://arxiv.org/abs/2410.17809)||
 | LoRA-IR: Taming Low-Rank Experts for Efficient All-in-One Image Restoration<br><sub>Yuang Ai, Huaibo Huang, Ran He</sub> | Arxiv | [Paper](https://arxiv.org/abs/2410.15385) | [Code](https://github.com/shallowdream204/LoRA-IR) |
 | TANet: Triplet Attention Network for All-In-One Adverse Weather Image Restoration<br><sub>Hsing-Hua Wang, Fu-Jen Tsai, Yen-Yu Lin, Chia-Wen Lin</sub> | ACCV2024 | [Paper](https://arxiv.org/abs/2410.08177) | [Code](https://github.com/xhuachris/TANet-ACCV-2024) |
@@ -85,6 +82,7 @@
 | RestoreAgent: Autonomous Image Restoration Agent via Multimodal Large Language Models<br><sub>Haoyu Chen, Wenbo Li, Jinjin Gu, Jingjing Ren, Sixiang Chen, Tian Ye, Renjing Pei, Kaiwen Zhou, Fenglong Song, Lei Zhu</sub> | Arxiv | [Paper](https://arxiv.org/abs/2407.18035) |  |
 | Training-Free Large Model Priors for Multiple-in-One Image Restoration<br><sub>Xuanhua He, Lang Li, Yingying Wang, Hui Zheng, Ke Cao, Keyu Yan, Rui Li, Chengjun Xie, Jie Zhang, Man Zhou</sub> | Arxiv | [Paper](https://arxiv.org/abs/2407.13181) |  |
 | Any Image Restoration with Efficient Automatic Degradation Adaptation<br><sub>Bin Ren, Eduard Zamfir, Yawei Li, Zongwei Wu, Danda Pani Paudel, Radu Timofte, Nicu Sebe, Luc Van Gool</sub> | Arxiv | [Paper](https://arxiv.org/abs/2407.13372) | [Code](https://github.com/Amazingren/AnyIR) |
+| Restoring Images in Adverse Weather Conditions via Histogram Transformer <br><sub>Shangquan Sun, Wenqi Ren, Xinwei Gao, Rui Wang, Xiaochun Cao</sub> | ECCV 2024 | [Paper](https://arxiv.org/abs/2407.10172) | [Code](https://github.com/sunshangquan/Histoformer) |
 | GRIDS: Grouped Multiple-Degradation Restoration with Image Degradation Similarity<br><sub>Shuo Cao, Yihao Liu, Wenlong Zhang, Yu Qiao, Chao Dong</sub> | ECCV2024 | [Paper](https://arxiv.org/abs/2407.12273) |  |
 | OneRestore: A Universal Restoration Framework for Composite Degradation<br><sub>Yu Guo, Yuan Gao, Yuxu Lu, Huilin Zhu, Ryan Wen Liu, Shengfeng He</sub> | Arxiv | [Paper](https://arxiv.org/abs/2407.04621) |  |
 | Learning Frequency-Aware Dynamic Transformers for All-In-One Image Restoration<br><sub>Zenglin Shi, Tong Su, Pei Liu, Yunpeng Wu, Le Zhang, Meng Wang</sub> | Arxiv | [Paper](https://arxiv.org/abs/2407.01636) |  |
@@ -157,6 +155,10 @@
 #### `[Arxiv]`**DPMambaIR:All-in-One Image Restoration via Degradation-Aware Prompt State Space Model**
 *Zhanwen Liu, Sai Zhou, Yuchao Dai, Yang Wang, Yisheng An, Xiangmo Zhao*
 - Paper: https://arxiv.org/pdf/2504.17732
+#### `[Arxiv]`**Any Image Restoration via Efficient Spatial-Frequency Degradation Adaptation**
+*Bin Ren, Eduard Zamfir, Zongwei Wu, Yawei Li, Yidi Li, Danda Pani Paudel, Radu Timofte, Ming-Hsuan Yang, Luc Van Gool, Nicu Sebe*
+- Paper: https://arxiv.org/abs/2504.14249
+- Code: https://amazingren.github.io/AnyIR/
 #### `[Arxiv]`**Beyond Degradation Redundancy: Contrastive Prompt Learning for All-in-One Image Restoration**
 *Gang Wu, Junjun Jiang, Kui Jiang, Xianming Liu, Liqiang Nie*
 - Paper: https://arxiv.org/pdf/2504.09973
@@ -289,7 +291,7 @@
 #### `[Arxiv]`**All-in-one Weather-degraded Image Restoration via Adaptive Degradation-aware Self-prompting Model**
 *Yuanbo Wen, Tao Gao, Ziqi Li, Jing Zhang, Kaihao Zhang, Ting Chen*
 - Paper: https://arxiv.org/abs/2411.07445
-#### `[Arxiv]`**Degradation-Aware Residual-Conditioned Optimal Transport for Unified Image Restoration**
+#### `[TPAMI'25]`**Degradation-Aware Residual-Conditioned Optimal Transport for Unified Image Restoration**
 *Xiaole Tang, Xiang Gu, Xiaoyi He, Xin Hu, Jian Sun*
 - Paper: https://arxiv.org/abs/2411.01656v1
 - Code: https://github.com/xl-tang3/DA-RCOT
@@ -346,6 +348,10 @@
 *Bin Ren, Eduard Zamfir, Yawei Li, Zongwei Wu, Danda Pani Paudel, Radu Timofte, Nicu Sebe, Luc Van Gool*
 - Paper: https://arxiv.org/abs/2407.13372
 - Code: https://github.com/Amazingren/AnyIR
+#### `[ECCV2024]`**Restoring Images in Adverse Weather Conditions via Histogram Transformer**
+*Shangquan Sun, Wenqi Ren, Xinwei Gao, Rui Wang, Xiaochun Cao*
+- Paper: https://arxiv.org/abs/2407.10172
+- Code: https://github.com/sunshangquan/Histoformer
 #### `[ECCV2024]`**GRIDS: Grouped Multiple-Degradation Restoration with Image Degradation Similarity**
 *Shuo Cao, Yihao Liu, Wenlong Zhang, Yu Qiao, Chao Dong*
 - Paper: https://arxiv.org/abs/2407.12273
