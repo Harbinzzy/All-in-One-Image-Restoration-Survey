@@ -26,6 +26,7 @@
 
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| AWRaCLe: All-Weather Image Restoration using Visual In-Context Learning <br><sub>Sudarshan Rajagopalan, Vishal M. Patel</sub> | AAAI 2025 | [Paper](https://arxiv.org/abs/2409.00263) | [Code](https://github.com/sudraj2002/AWRaCLe) |
 | CMAWRNet: Multiple Adverse Weather Removal via a Unified Quaternion Neural Architecture <br><sub>Vladimir Frants, Sos Agaian, Karen Panetta, Peter Huang</sub> | Arxiv | [Paper](https://arxiv.org/pdf/2505.01882) | |
 | DPMambaIR: All-in-One Image Restoration via Degradation-Aware Prompt State Space Model <br><sub>Zhanwen Liu, Sai Zhou, Yuchao Dai, Yang Wang, Yisheng An, Xiangmo Zhao</sub> | Arxiv | [Paper](https://arxiv.org/pdf/2504.17732) |  |
 | Any Image Restoration via Efficient Spatial-Frequency Degradation Adaptation <br><sub>Bin Ren, Eduard Zamfir, Zongwei Wu, Yawei Li, Yidi Li, Danda Pani Paudel, Radu Timofte, Ming-Hsuan Yang, Luc Van Gool, Nicu Sebe</sub> | Arxiv | [Paper](https://arxiv.org/abs/2504.14249) | [Code](https://amazingren.github.io/AnyIR/) |
@@ -155,6 +156,10 @@
 
 
 ### 2025
+#### `[AAAI2025]`**AWRaCLe: All-Weather Image Restoration using Visual In-Context Learning**
+*Sudarshan Rajagopalan, Vishal M. Patel*
+- Paper: https://arxiv.org/abs/2409.00263
+- Code: https://github.com/sudraj2002/AWRaCLe
 #### `[Arxiv]`**CMAWRNet: Multiple Adverse Weather Removal via a Unified Quaternion Neural Architecture**
 *Vladimir Frants, Sos Agaian, Karen Panetta, Peter Huang*
 - Paper: https://arxiv.org/pdf/2505.01882
