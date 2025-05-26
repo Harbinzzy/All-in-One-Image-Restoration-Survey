@@ -26,6 +26,7 @@
 
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| RestoreVAR: Visual Autoregressive Generation for All-in-One Image Restoration <br><sub>Sudarshan Rajagopalan, Kartik Narayan, Vishal M. Patel</sub> | Arxiv | [Paper](https://arxiv.org/abs/2505.18047) | [Code](https://github.com/sudraj2002/RestoreVAR) |
 | AWRaCLe: All-Weather Image Restoration using Visual In-Context Learning <br><sub>Sudarshan Rajagopalan, Vishal M. Patel</sub> | AAAI 2025 | [Paper](https://arxiv.org/abs/2409.00263) | [Code](https://github.com/sudraj2002/AWRaCLe) |
 | CMAWRNet: Multiple Adverse Weather Removal via a Unified Quaternion Neural Architecture <br><sub>Vladimir Frants, Sos Agaian, Karen Panetta, Peter Huang</sub> | Arxiv | [Paper](https://arxiv.org/pdf/2505.01882) | |
 | DPMambaIR: All-in-One Image Restoration via Degradation-Aware Prompt State Space Model <br><sub>Zhanwen Liu, Sai Zhou, Yuchao Dai, Yang Wang, Yisheng An, Xiangmo Zhao</sub> | Arxiv | [Paper](https://arxiv.org/pdf/2504.17732) |  |
@@ -156,6 +157,10 @@
 
 
 ### 2025
+#### `[Arxiv]`**RestoreVAR: Visual Autoregressive Generation for All-in-One Image Restoration**
+*Sudarshan Rajagopalan, Kartik Narayan, Vishal M. Patel*
+- Paper: https://arxiv.org/abs/2505.18047
+- Code: https://github.com/sudraj2002/RestoreVAR
 #### `[AAAI2025]`**AWRaCLe: All-Weather Image Restoration using Visual In-Context Learning**
 *Sudarshan Rajagopalan, Vishal M. Patel*
 - Paper: https://arxiv.org/abs/2409.00263
