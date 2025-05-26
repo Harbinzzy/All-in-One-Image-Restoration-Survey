@@ -26,6 +26,8 @@
 
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| MODEM: A Morton-Order Degradation Estimation Mechanism for Adverse Weather Image Recovery <br><sub>Hainuo Wang, Qiming Hu, Xiaojie Guo</sub> | Arxiv | [Paper](https://arxiv.org/abs/2505.17581) | [Code](https://github.com/hainuo-wang/MODEM) |
+| Clear Nights Ahead: Towards Multi-Weather Nighttime Image Restoration <br><sub>Yuetong Liu, Yunqiu Xu, Yang Wei, Xiuli Bi, Bin Xiao</sub> | Arxiv | [Paper](https://arxiv.org/abs/2505.16479) | [Code](https://github.com/henlyta/ClearNight) |
 | RestoreVAR: Visual Autoregressive Generation for All-in-One Image Restoration <br><sub>Sudarshan Rajagopalan, Kartik Narayan, Vishal M. Patel</sub> | Arxiv | [Paper](https://arxiv.org/abs/2505.18047) | [Code](https://github.com/sudraj2002/RestoreVAR) |
 | AWRaCLe: All-Weather Image Restoration using Visual In-Context Learning <br><sub>Sudarshan Rajagopalan, Vishal M. Patel</sub> | AAAI 2025 | [Paper](https://arxiv.org/abs/2409.00263) | [Code](https://github.com/sudraj2002/AWRaCLe) |
 | CMAWRNet: Multiple Adverse Weather Removal via a Unified Quaternion Neural Architecture <br><sub>Vladimir Frants, Sos Agaian, Karen Panetta, Peter Huang</sub> | Arxiv | [Paper](https://arxiv.org/pdf/2505.01882) | |
@@ -157,6 +159,14 @@
 
 
 ### 2025
+#### `[Arxiv]`**MODEM: A Morton-Order Degradation Estimation Mechanism for Adverse Weather Image Recovery**
+*Hainuo Wang, Qiming Hu, Xiaojie Guo*
+- Paper: https://arxiv.org/abs/2505.17581
+- Code: https://github.com/hainuo-wang/MODEM
+#### `[Arxiv]`**Clear Nights Ahead: Towards Multi-Weather Nighttime Image Restoration**
+*Yuetong Liu, Yunqiu Xu, Yang Wei, Xiuli Bi, Bin Xiao*
+- Paper: https://arxiv.org/abs/2505.16479
+- Code: https://github.com/henlyta/ClearNight
 #### `[Arxiv]`**RestoreVAR: Visual Autoregressive Generation for All-in-One Image Restoration**
 *Sudarshan Rajagopalan, Kartik Narayan, Vishal M. Patel*
 - Paper: https://arxiv.org/abs/2505.18047
