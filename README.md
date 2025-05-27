@@ -26,6 +26,8 @@
 
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| Manifold-aware Representation Learning for Degradation-agnostic Image Restoration <br><sub>Bin Ren, Yawei Li, Xu Zheng, Yuqian Fu, Danda Pani Paudel, Ming-Hsuan Yang, Luc Van Gool, Nicu Sebe</sub> | Arxiv | [Paper](https://arxiv.org/pdf/2505.18679) | [Code](https://amazingren.github.io/MIRAGE/) |
+| Learning Dynamic Prompts for All-in-One Image Restoration <br><sub>Gang Wu, Junjun Jiang, Kui Jiang, Xianming Liu, Liqiang Nie</sub> | TIP 2025 | [Paper](https://ieeexplore.ieee.org/document/11002360) | [Code](https://github.com/Aitical/DPPD) |
 | MODEM: A Morton-Order Degradation Estimation Mechanism for Adverse Weather Image Recovery <br><sub>Hainuo Wang, Qiming Hu, Xiaojie Guo</sub> | Arxiv | [Paper](https://arxiv.org/abs/2505.17581) | [Code](https://github.com/hainuo-wang/MODEM) |
 | Clear Nights Ahead: Towards Multi-Weather Nighttime Image Restoration <br><sub>Yuetong Liu, Yunqiu Xu, Yang Wei, Xiuli Bi, Bin Xiao</sub> | Arxiv | [Paper](https://arxiv.org/abs/2505.16479) | [Code](https://github.com/henlyta/ClearNight) |
 | RestoreVAR: Visual Autoregressive Generation for All-in-One Image Restoration <br><sub>Sudarshan Rajagopalan, Kartik Narayan, Vishal M. Patel</sub> | Arxiv | [Paper](https://arxiv.org/abs/2505.18047) | [Code](https://github.com/sudraj2002/RestoreVAR) |
@@ -159,6 +161,14 @@
 
 
 ### 2025
+#### `[Arxiv]`**Manifold-aware Representation Learning for Degradation-agnostic Image Restoration**
+*Bin Ren, Yawei Li, Xu Zheng, Yuqian Fu, Danda Pani Paudel, Ming-Hsuan Yang, Luc Van Gool, Nicu Sebe*
+- Paper: https://arxiv.org/pdf/2505.18679
+- Code: https://amazingren.github.io/MIRAGE/
+#### `[TIP2025]`**Learning Dynamic Prompts for All-in-One Image Restoration**
+*Gang Wu, Junjun Jiang, Kui Jiang, Xianming Liu, Liqiang Nie*
+- Paper: https://ieeexplore.ieee.org/document/11002360
+- Code: https://github.com/Aitical/DPPD
 #### `[Arxiv]`**MODEM: A Morton-Order Degradation Estimation Mechanism for Adverse Weather Image Recovery**
 *Hainuo Wang, Qiming Hu, Xiaojie Guo*
 - Paper: https://arxiv.org/abs/2505.17581
