@@ -26,6 +26,8 @@
 
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| From Controlled Scenarios to Real-World: Cross-Domain Degradation Pattern Matching for All-in-One Image Restoration <br><sub>Junyu Fan, Chuanlin Liao, Yi Lin</sub> | Arxiv | [Paper](https://arxiv.org/abs/2505.22284) |  |
+| BaryIR: Learning Multi-Source Unified Representation in Continuous Barycenter Space for Generalizable All-in-One Image Restoration <br><sub>Xiaole Tang, Xiaoyi He, Xiang Gu, Jian Sun</sub> | Arxiv | [Paper](https://arxiv.org/abs/2505.21637) | [Code](https://github.com/xl-tang3/BaryIR) |
 | Manifold-aware Representation Learning for Degradation-agnostic Image Restoration <br><sub>Bin Ren, Yawei Li, Xu Zheng, Yuqian Fu, Danda Pani Paudel, Ming-Hsuan Yang, Luc Van Gool, Nicu Sebe</sub> | Arxiv | [Paper](https://arxiv.org/pdf/2505.18679) | [Code](https://amazingren.github.io/MIRAGE/) |
 | Learning Dynamic Prompts for All-in-One Image Restoration <br><sub>Gang Wu, Junjun Jiang, Kui Jiang, Xianming Liu, Liqiang Nie</sub> | TIP 2025 | [Paper](https://ieeexplore.ieee.org/document/11002360) | [Code](https://github.com/Aitical/DPPD) |
 | MODEM: A Morton-Order Degradation Estimation Mechanism for Adverse Weather Image Recovery <br><sub>Hainuo Wang, Qiming Hu, Xiaojie Guo</sub> | Arxiv | [Paper](https://arxiv.org/abs/2505.17581) | [Code](https://github.com/hainuo-wang/MODEM) |
@@ -161,6 +163,13 @@
 
 
 ### 2025
+#### `[Arxiv]`**From Controlled Scenarios to Real-World: Cross-Domain Degradation Pattern Matching for All-in-One Image Restoration**
+*Junyu Fan, Chuanlin Liao, Yi Lin*
+- Paper: https://arxiv.org/abs/2505.22284
+#### `[Arxiv]`**BaryIR: Learning Multi-Source Unified Representation in Continuous Barycenter Space for Generalizable All-in-One Image Restoration**
+*Xiaole Tang, Xiaoyi He, Xiang Gu, Jian Sun*
+- Paper: https://arxiv.org/abs/2505.21637
+- Code: https://github.com/xl-tang3/BaryIR
 #### `[Arxiv]`**Manifold-aware Representation Learning for Degradation-agnostic Image Restoration**
 *Bin Ren, Yawei Li, Xu Zheng, Yuqian Fu, Danda Pani Paudel, Ming-Hsuan Yang, Luc Van Gool, Nicu Sebe*
 - Paper: https://arxiv.org/pdf/2505.18679
