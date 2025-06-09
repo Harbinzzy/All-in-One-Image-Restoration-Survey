@@ -26,6 +26,7 @@
 
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| UniRes: Universal Image Restoration for Complex Degradations <br><sub></sub> | Arxiv | [Paper](https://arxiv.org/abs/2506.05599) |  |
 | Boosting All-in-One Image Restoration via Self-Improved Privilege Learning <br><sub></sub> | Arxiv | [Paper](https://arxiv.org/abs/2505.24207) | [Code](https://github.com/Aitical/SIPL) |
 | Navigating Image Restoration with VAR's Distribution Alignment Prior <br><sub>Siyang Wang, Feng Zhao</sub> | Arxiv | [Paper](https://arxiv.org/abs/2412.21063) | [Code](https://github.com/siywang541/Varformer) |
 | Diff-Restorer: Unleashing Visual Prompts for Diffusion-based Universal Image Restoration <br><sub>Yuhong Zhang, Hengsheng Zhang, Xinning Chai, Zhengxue Cheng, Rong Xie, Li Song, Wenjun Zhang</sub> | Arxiv | [Paper](https://arxiv.org/abs/2407.03636) | [Code](https://github.com/zyhrainbow/Diff-Restorer) |
@@ -166,6 +167,8 @@
 
 
 ### 2025
+#### `[Arxiv]`**UniRes: Universal Image Restoration for Complex Degradations**
+- Paper: https://arxiv.org/abs/2506.05599
 #### `[Arxiv]`**Boosting All-in-One Image Restoration via Self-Improved Privilege Learning**
 - Paper: https://arxiv.org/abs/2505.24207
 - Code: https://github.com/Aitical/SIPL
