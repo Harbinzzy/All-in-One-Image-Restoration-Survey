@@ -13,19 +13,22 @@
 
 </div>
 
-<!-- ## Overview
+## Overview
 <div align="center">
-<a href="https://www.imagehub.cc/image/WX20241122-165719%402x.CWoiOq"><img src="https://s1.imagehub.cc/images/2024/11/22/693b55225d0f3292bbfce01a6b029191.png" alt="WX20241122 165719@2x" border="0"></a>
-</div> -->
+<a href="https://www.imagehub.cc/image/time.Ii9w56"><img src="https://s1.imagehub.cc/images/2025/06/13/fe9993d34ac1929a437b0bf25ee13570.png" alt="time" border="0"></a>
+</div>
 
 ## News
-- [x] 🚀 Our comprehensive survey paper on All-in-One Image Restoration has been [released](https://arxiv.org/abs/2410.15067). We are actively developing this project and will provide regular updates to reflect the latest advancements in the field.
+- ✅ 🚀 Our comprehensive survey paper on All-in-One Image Restoration has been [released](https://arxiv.org/abs/2410.15067) and is actively maintained.  
+  📝 **Submitted** on 19 Oct 2024 *(v1)*, **last revised** on 12 Jun 2025 *(v2)* with major updates and reductions.  
+  We will continue to reflect the latest advancements in this evolving field.
 
 
 ## Awesome All-in-one Image Restoration Paper List
 
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration <br><sub></sub> | Arxiv | [Paper](https://arxiv.org/abs/2506.07814) |  |
 | Boosting All-in-One Image Restoration via Self-Improved Privilege Learning <br><sub></sub> | Arxiv | [Paper](https://arxiv.org/abs/2505.24207) | [Code](https://github.com/Aitical/SIPL) |
 | Navigating Image Restoration with VAR's Distribution Alignment Prior <br><sub>Siyang Wang, Feng Zhao</sub> | Arxiv | [Paper](https://arxiv.org/abs/2412.21063) | [Code](https://github.com/siywang541/Varformer) |
 | Diff-Restorer: Unleashing Visual Prompts for Diffusion-based Universal Image Restoration <br><sub>Yuhong Zhang, Hengsheng Zhang, Xinning Chai, Zhengxue Cheng, Rong Xie, Li Song, Wenjun Zhang</sub> | Arxiv | [Paper](https://arxiv.org/abs/2407.03636) | [Code](https://github.com/zyhrainbow/Diff-Restorer) |
@@ -158,14 +161,31 @@
 | All in One Bad Weather Removal Using Architectural Search<br><sub>Ruoteng Li, Robby T. Tan, Loong-Fah Cheong</sub> | CVPR2020 | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_All_in_One_Bad_Weather_Removal_Using_Architectural_Search_CVPR_2020_paper.pdf) |  |
 | A General Decoupled Learning Framework for Parameterized Image Operators<br><sub>Qingnan Fan, Dongdong Chen, Lu Yuan, Gang Hua, Nenghai Yu, Baoquan Chen</sub> | TPAMI2019 | [Paper](https://arxiv.org/abs/1907.05852) |  |
 
+### Citations
+If our survey helps your research or work, please consider citing our paper.
+The following are BibTeX references:
+
+```
+@article{jiang2024survey,
+  title={A survey on all-in-one image restoration: Taxonomy, evaluation and future trends},
+  author={Jiang, Junjun and Zuo, Zengyuan and Wu, Gang and Jiang, Kui and Liu, Xianming},
+  journal={arXiv preprint arXiv:2410.15067},
+  year={2024}
+}
+```
+
+---
+
+#### Contact
+If you have any question, please contact: gwu@hit.edu.cn
 
 
 
 
 
-
-
-### 2025
+<!-- ### 2025
+#### `[Arxiv]`**M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration**
+- Paper: https://arxiv.org/abs/2506.07814 
 #### `[Arxiv]`**Boosting All-in-One Image Restoration via Self-Improved Privilege Learning**
 - Paper: https://arxiv.org/abs/2505.24207
 - Code: https://github.com/Aitical/SIPL
@@ -646,4 +666,4 @@ Yurui Zhu, Tianyu Wang, Xueyang Fu, Xuanyu Yang, Xin Guo, Jifeng Dai, Yu Qiao, X
 ### 2019
 #### `[TPAMI2019]` **A General Decoupled Learning Framework for Parameterized Image Operators**
 *Qingnan Fan, Dongdong Chen, Lu Yuan, Gang Hua, Nenghai Yu, Baoquan Chen*
-- Paper: https://arxiv.org/abs/1907.05852
+- Paper: https://arxiv.org/abs/1907.05852 -->
