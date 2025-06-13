@@ -28,6 +28,7 @@
 
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| UniRes: Universal Image Restoration for Complex Degradations <br><sub></sub> | Arxiv | [Paper](https://arxiv.org/abs/2506.05599) |  |
 | M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration <br><sub></sub> | Arxiv | [Paper](https://arxiv.org/abs/2506.07814) |  |
 | Boosting All-in-One Image Restoration via Self-Improved Privilege Learning <br><sub></sub> | Arxiv | [Paper](https://arxiv.org/abs/2505.24207) | [Code](https://github.com/Aitical/SIPL) |
 | Navigating Image Restoration with VAR's Distribution Alignment Prior <br><sub>Siyang Wang, Feng Zhao</sub> | Arxiv | [Paper](https://arxiv.org/abs/2412.21063) | [Code](https://github.com/siywang541/Varformer) |
@@ -175,11 +176,6 @@ The following are BibTeX references:
 ```
 
 ---
-
-#### Contact
-If you have any question, please contact: gwu@hit.edu.cn
-
-
 
 
 
