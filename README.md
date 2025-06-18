@@ -164,7 +164,7 @@
 | All in One Bad Weather Removal Using Architectural Search<br><sub>Ruoteng Li, Robby T. Tan, Loong-Fah Cheong</sub> | CVPR2020 | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_All_in_One_Bad_Weather_Removal_Using_Architectural_Search_CVPR_2020_paper.pdf) |  |
 | A General Decoupled Learning Framework for Parameterized Image Operators<br><sub>Qingnan Fan, Dongdong Chen, Lu Yuan, Gang Hua, Nenghai Yu, Baoquan Chen</sub> | TPAMI2019 | [Paper](https://arxiv.org/abs/1907.05852) |  |
 
-### Citations
+## Citations
 If our survey helps your research or work, please consider citing our paper.
 The following are BibTeX references:
 
