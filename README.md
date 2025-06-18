@@ -179,7 +179,9 @@ The following are BibTeX references:
 
 ---
 
+## Contributing
 
+📮📮📮 If you want to add your model in our leaderboards, please feel free to fork and update your work in the table. You can also email **<3565741165@qq.com>**. We will response to your request as soon as possible!
 
 <!-- ### 2025
 #### `[Arxiv]`**M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration**
