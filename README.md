@@ -9,7 +9,9 @@
 ---
 
 [![Paper2](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2410.15067)
+[![Survey](https://img.shields.io/badge/Survey-AiOIR-blue)](https://github.com/Harbinzzy/All-in-One-Image-Restoration-Survey) 
 [![Hits](https://hits.sh/github.com/Harbinzzy/All-in-One-Image-Restoration-Survey.svg)](https://hits.sh/github.com/Harbinzzy/All-in-One-Image-Restoration-Survey/)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 </div>
 
