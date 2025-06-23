@@ -60,7 +60,7 @@
 | TextDoctor: Unified Document Image Inpainting via Patch Pyramid Diffusion Models <br><sub>Wanglong Lu, Lingming Su, Jingjing Zheng, Vinícius Veloso de Melo, Farzaneh Shoeleh, John Hawkin, Terrence Tricco, Hanli Zhao, Xianta Jiang</sub> | Arxiv | [Paper](https://arxiv.org/abs/2503.04021) |  |
 |Hybrid Agents for Image Restoration<br><sub>Bingchen Li, Xin Li, Yiting Lu, Zhibo Chen</sub>|Arxiv|[Paper](https://arxiv.org/abs/2503.10120)||  
 |Vision-Language Gradient Descent-driven All-in-One Deep Unfolding Networks<br><sub>Haijin Zeng, Xiangming Wang, Yongyong Chen, Jingyong Su, Jie Liu</sub>|CVPR2025|[Paper](https://arxiv.org/abs/2503.16930)|[Code](https://github.com/xianggkl/VLU-Net)|
-|Degradation-Aware Feature Perturbation for All-in-One Image Restoration<br><sub>Xiangpeng Tian, Xiangyu Liao, Xiao Liu, Meng Li, Chao Ren</sub>|CVPR2025|[Paper](https://cvpr.thecvf.com/virtual/2025/poster/35103)||
+|Degradation-Aware Feature Perturbation for All-in-One Image Restoration<br><sub>Xiangpeng Tian, Xiangyu Liao, Xiao Liu, Meng Li, Chao Ren</sub>|CVPR2025|[Paper](https://cvpr.thecvf.com/virtual/2025/poster/35103)| [Code](https://github.com/TxpHome/DFPIR) |
 | Multi-Agent Image Restoration<br><sub>Xu Jiang, Gehui Li, Bin Chen, Jian Zhang</sub> | Arxiv | [Paper](https://arxiv.org/abs/2503.09403) ||  
 | MP-HSIR: A Multi-Prompt Framework for Universal Hyperspectral Image Restoration<br><sub>Zhehui Wu, Yong Chen, Naoto Yokoya, Wei He</sub> | Arxiv | [Paper](https://arxiv.org/abs/2503.09131) | [Code](https://github.com/ZhehuiWu/MP-HSIR) |  
 |Dynamic Degradation Decomposition Network for All-in-One Image Restoration<br><sub>Huiqiang Wang, Mingchen Song, Guoqiang Zhong</sub>|Arxiv |[Paper](https://arxiv.org/abs/2502.19068)||
