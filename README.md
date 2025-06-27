@@ -30,6 +30,7 @@
 
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| FoundIR: Unleashing Million-scale Training Data to Advance Foundation Models for Image Restoration<br><sub>Hao Li, Xiang Chen, Jiangxin Dong, Jinhui Tang, Jinshan Pan</sub> | ICCV2025 | [Paper](https://arxiv.org/abs/2412.01427) | [Code](https://github.com/House-Leo/FoundIR) |
 |Visual-Instructed Degradation Diffusion for All-in-One Image Restoration<br><sub>Haina Qin, Wenyang Luo, Zewen Chen, Yufan Liu, Bing Li, Weiming Hu, libin wang, DanDan Zheng, Yuming Li</sub>|CVPR2025|[Paper](https://arxiv.org/abs/2506.16960)| [Code](https://github.com/luowyang/Defusion) |
 | M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration <br><sub></sub> | Arxiv | [Paper](https://arxiv.org/abs/2506.07814) |  |
 | UniRes: Universal Image Restoration for Complex Degradations <br><sub></sub> | Arxiv | [Paper](https://arxiv.org/abs/2506.05599) |  |
@@ -74,7 +75,6 @@
 | UniRestorer: Universal Image Restoration via Adaptively Estimating Image Degradation at Proper Granularity<br><sub>Jingbo Lin, Zhilu Zhang, Wenbo Li, Renjing Pei, Hang Xu, Hongzhi Zhang, Wangmeng Zuo</sub> | Arxiv | [Paper](https://arxiv.org/pdf/2412.20157) | [Code](https://github.com/mrluin/UniRestorer) |
 | Multi-dimensional Visual Prompt Enhanced Image Restoration via Mamba-Transformer Aggregation<br><sub>Aiwen Jiang, Hourong Chen, Zhiwen Chen, Jihua Ye, Mingwen Wang</sub> | Arxiv | [Paper](https://arxiv.org/abs/2412.15845) | [Code](https://github.com/12138-chr/MTAIR) |
 | MWFormer: Multi-Weather Image Restoration Using Degradation-Aware Transformers<br><sub>Ruoxi Zhu, Zhengzhong Tu, Jiaming Liu, Alan C. Bovik, Yibo Fan</sub> | TIP2024 | [Paper](https://arxiv.org/abs/2411.17226) | [Code](https://github.com/taco-group/MWFormer) | 
-| FoundIR: Unleashing Million-scale Training Data to Advance Foundation Models for Image Restoration<br><sub>Hao Li, Xiang Chen, Jiangxin Dong, Jinhui Tang, Jinshan Pan</sub> | Arixv | [Paper](https://arxiv.org/abs/2412.01427) | [Code](https://github.com/House-Leo/FoundIR) |
 | Multi-task Image Restoration Guided By Robust DINO Features<br><sub>Xin Lin, Jingtong Yue, Kelvin C.K. Chan, Lu Qi, Chao Ren, Jinshan Pan, Ming-Hsuan Yang</sub> | Arxiv | [Paper](https://arxiv.org/abs/2312.01677) |  |
 | Complexity Experts are Task-Discriminative Learners for Any Image Restoration<br><sub>Eduard Zamfir, Zongwei Wu, Nancy Mehta, Yuedong Tan, Danda Pani Paudel, Yulun Zhang, Radu Timofte</sub> | CVPR2025 | [Paper](https://arxiv.org/abs/2411.18466) | [Code](https://github.com/eduardzamfir/MoCE-IR) |
 | Adaptive Blind All-in-One Image Restoration<br><sub>David Serrano-Lozano, Luis Herranz, Shaolin Su, Javier Vazquez-Corral</sub> | Arxiv | [Paper](https://arxiv.org/abs/2411.18412) | [Code](https://github.com/davidserra9/abair/) |
