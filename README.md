@@ -31,6 +31,7 @@
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
 | FoundIR: Unleashing Million-scale Training Data to Advance Foundation Models for Image Restoration<br><sub>Hao Li, Xiang Chen, Jiangxin Dong, Jinhui Tang, Jinshan Pan</sub> | ICCV2025 | [Paper](https://arxiv.org/abs/2412.01427) | [Code](https://github.com/House-Leo/FoundIR) |
+|UniRestore: Unified Perceptual and Task-Oriented Image Restoration Model Using Diffusion Prior<br><sub>I-Hsiang Chen, Wei-Ting Chen, Yu-Wei Liu, Yuan-Chun Chiang, Sy-Yen Kuo, Ming-Hsuan Yang</sub>|CVPR2025|[Paper](https://arxiv.org/abs/2501.13134)|[Code](https://github.com/unirestore/UniRestore)|
 |Visual-Instructed Degradation Diffusion for All-in-One Image Restoration<br><sub>Haina Qin, Wenyang Luo, Zewen Chen, Yufan Liu, Bing Li, Weiming Hu, libin wang, DanDan Zheng, Yuming Li</sub>|CVPR2025|[Paper](https://arxiv.org/abs/2506.16960)| [Code](https://github.com/luowyang/Defusion) |
 | M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration <br><sub></sub> | Arxiv | [Paper](https://arxiv.org/abs/2506.07814) |  |
 | UniRes: Universal Image Restoration for Complex Degradations <br><sub></sub> | Arxiv | [Paper](https://arxiv.org/abs/2506.05599) |  |
@@ -69,7 +70,6 @@
 | Up-Restorer: When Unrolling Meets Prompts for Unified Image Restoration<br><sub>Minghao Liu, Wenhan Yang, Jinyi Luo, Jiaying Liu</sub> | AAAI2025 | [Paper](https://github.com/StaryMoon/AAAI_2025_UpRestorer_git) |  |
 | Debiased All-in-one Image Restoration with Task Uncertainty Regularization<br><sub>Gang Wu, Junjun Jiang, Yijun Wang, Kui Jiang, Xianming Liu</sub> | AAAI2025 | [Paper](https://openreview.net/forum?id=kx7eyKgEGz) | [Code](https://github.com/Aitical/TUR) |
 | All-in-One Image Compression and Restoration<br><sub>Huimin Zeng, Jiacheng Li, Ziqiang Zheng, Zhiwei Xiong</sub> | WACV2025 | [Paper](https://arxiv.org/abs/2502.03649) | [Code](https://github.com/ZeldaM1/All-in-one) |
-|UniRestore: Unified Perceptual and Task-Oriented Image Restoration Model Using Diffusion Prior<br><sub>I-Hsiang Chen, Wei-Ting Chen, Yu-Wei Liu, Yuan-Chun Chiang, Sy-Yen Kuo, Ming-Hsuan Yang</sub>|CVPR2025|[Paper](https://arxiv.org/abs/2501.13134v1)||
 | RamIR: Reasoning and action prompting with Mamba for all-in-one image restoration<br><sub>Aiqiang Tang, Yan Wu, Yuwei Zhang</sub> | Applied Intelligence | [Paper](https://link.springer.com/article/10.1007/s10489-024-06226-y) |  |
 | Universal Image Restoration Pre-training via Degradation Classification<br><sub>JiaKui Hu, Lujia Jin, Zhengjian Yao, Yanye Lu</sub> | ICLR2025 | [Paper](https://arxiv.org/abs/2501.15510) | [Code](https://github.com/MILab-PKU/dcpt) |
 | UniRestorer: Universal Image Restoration via Adaptively Estimating Image Degradation at Proper Granularity<br><sub>Jingbo Lin, Zhilu Zhang, Wenbo Li, Renjing Pei, Hang Xu, Hongzhi Zhang, Wangmeng Zuo</sub> | Arxiv | [Paper](https://arxiv.org/pdf/2412.20157) | [Code](https://github.com/mrluin/UniRestorer) |
