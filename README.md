@@ -30,6 +30,7 @@
 
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling <br><sub>Huaqiu Li, Yong Wang, Tongwen Huang, Hailang Huang, Haoqian Wang, Xiangxiang Chu</sub> | Arxiv | [Paper](https://arxiv.org/abs/2507.00790) | [Code](https://github.com/AMAP-ML/LD-RPS) |
 | FoundIR: Unleashing Million-scale Training Data to Advance Foundation Models for Image Restoration<br><sub>Hao Li, Xiang Chen, Jiangxin Dong, Jinhui Tang, Jinshan Pan</sub> | ICCV 2025 | [Paper](https://arxiv.org/abs/2412.01427) | [Code](https://github.com/House-Leo/FoundIR) |
 |UniRestore: Unified Perceptual and Task-Oriented Image Restoration Model Using Diffusion Prior<br><sub>I-Hsiang Chen, Wei-Ting Chen, Yu-Wei Liu, Yuan-Chun Chiang, Sy-Yen Kuo, Ming-Hsuan Yang</sub>|CVPR 2025|[Paper](https://arxiv.org/abs/2501.13134)|[Code](https://github.com/unirestore/UniRestore)|
 |Visual-Instructed Degradation Diffusion for All-in-One Image Restoration<br><sub>Haina Qin, Wenyang Luo, Zewen Chen, Yufan Liu, Bing Li, Weiming Hu, libin wang, DanDan Zheng, Yuming Li</sub>|CVPR 2025|[Paper](https://arxiv.org/abs/2506.16960)| [Code](https://github.com/luowyang/Defusion) |
