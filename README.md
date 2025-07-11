@@ -30,6 +30,7 @@
 
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| 4KAgent: Agentic Any Image to 4K Super-Resolution <br><sub>Yushen Zuo, Qi Zheng, Mingyang Wu, Xinrui Jiang, Renjie Li, Jian Wang, Yide Zhang, Gengchen Mai, Lihong V. Wang, James Zou, Xiaoyu Wang, Ming-Hsuan Yang, Zhengzhong Tu</sub> | Arxiv | [Paper](https://arxiv.org/abs/2507.07105) | [Code](https://4kagent.github.io/) |
 | Elucidating and Endowing the Diffusion Training Paradigm for General Image Restoration <br><sub>Xin Lu, Xueyang Fu, Jie Xiao, Zihao Fan, Yurui Zhu, Zheng-Jun Zha</sub> | Arxiv | [Paper](https://arxiv.org/abs/2506.21722) | [Code](https://github.com/xin1u/EEDTP) |
 | LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling <br><sub>Huaqiu Li, Yong Wang, Tongwen Huang, Hailang Huang, Haoqian Wang, Xiangxiang Chu</sub> | Arxiv | [Paper](https://arxiv.org/abs/2507.00790) | [Code](https://github.com/AMAP-ML/LD-RPS) |
 | FoundIR: Unleashing Million-scale Training Data to Advance Foundation Models for Image Restoration<br><sub>Hao Li, Xiang Chen, Jiangxin Dong, Jinhui Tang, Jinshan Pan</sub> | ICCV 2025 | [Paper](https://arxiv.org/abs/2412.01427) | [Code](https://github.com/House-Leo/FoundIR) |
