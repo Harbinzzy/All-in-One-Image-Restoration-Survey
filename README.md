@@ -21,7 +21,7 @@
 </div>
 - [Awesome-AiOIR-Methods](#all-in-one-image-restoration-paper-list)
 - [Awesome-AiOIR-Benchmarks](#all-in-one-image-restoration-performance-comparison)
-- [Citation](#citation)
+- [Citation](#citations)
 - [Contributing](#contributing)
 
 ## News
@@ -170,6 +170,8 @@
 | Pre-Trained Image Processing Transformer<br><sub>Hanting Chen, Yunhe Wang, Tianyu Guo, Chang Xu, Yiping Deng, Zhenhua Liu, Siwei Ma, Chunjing Xu, Chao Xu, Wen Gao</sub> | CVPR2021 | [Paper](https://arxiv.org/abs/2012.00364) | [Code](https://github.com/huawei-noah/Pretrained-IPT) |
 | All in One Bad Weather Removal Using Architectural Search<br><sub>Ruoteng Li, Robby T. Tan, Loong-Fah Cheong</sub> | CVPR2020 | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_All_in_One_Bad_Weather_Removal_Using_Architectural_Search_CVPR_2020_paper.pdf) |  |
 | A General Decoupled Learning Framework for Parameterized Image Operators<br><sub>Qingnan Fan, Dongdong Chen, Lu Yuan, Gang Hua, Nenghai Yu, Baoquan Chen</sub> | TPAMI2019 | [Paper](https://arxiv.org/abs/1907.05852) |  |
+
+## All-in-one Image Restoration Performance Comparison
 
 ## Citations
 If our survey helps your research or work, please consider citing our paper.
