@@ -19,8 +19,8 @@
 <div align="center">
 <a href="https://www.imagehub.cc/image/time.Ii9w56"><img src="https://s1.imagehub.cc/images/2025/06/13/fe9993d34ac1929a437b0bf25ee13570.png" alt="time" border="0"></a>
 </div>
-- [Awesome-AiOIR-Methods](#All-in-One Image Restoration Paper List)
-- [Awesome-AiOIR-Benchmarks](#All-in-one Image Restoration Performance Comparison)
+- [Awesome-AiOIR-Methods](#all-in-one-image-restoration-paper-list)
+- [Awesome-AiOIR-Benchmarks](#all-in-one-image-restoration-performance-comparison)
 - [Citation](#citation)
 - [Contributing](#contributing)
 
