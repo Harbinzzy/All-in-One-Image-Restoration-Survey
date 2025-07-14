@@ -174,6 +174,20 @@
 
 ## All-in-one Image Restoration Performance Comparison
 
+| Type | Method | Venue & Year | Params | Dehazing SOTS | Deraining Rain100L | Denoising σ=15 | Denoising σ=25 | Denoising σ=50 | Average | Approach |
+|------|--------|---------------|--------|----------------|---------------------|-----------------|-----------------|-----------------|---------|----------|
+| Single | LPN | CVPR'19 | 3M | 20.84/0.828 | 24.88/0.784 | 26.47/0.778 | 24.77/0.748 | 21.26/0.552 | 23.64/0.738 | Specific |
+| Single | ADFNet | AAAI'23 | 8M | 28.13/0.961 | 34.24/0.965 | 33.76/0.929 | 30.83/0.871 | 27.75/0.793 | 30.94/0.904 | Specific |
+| Single | DehazeFormer | TIP'23 | 25M | 29.58/0.970 | 35.37/0.969 | 33.01/0.914 | 30.14/0.858 | 27.37/0.779 | 31.09/0.898 | Specific |
+| Single | DRSformer | CVPR'23 | 34M | 29.02/0.968 | 35.89/0.970 | 33.28/0.921 | 30.55/0.862 | 27.58/0.786 | 31.26/0.902 | Specific |
+| Multiple | MPRNet | CVPR'21 | 16M | 28.00/0.958 | 33.86/0.958 | 33.27/0.920 | 30.76/0.871 | 27.29/0.761 | 30.63/0.894 | General |
+| Multiple | Restormer | CVPR'22 | 26M | 27.78/0.958 | 33.78/0.958 | 33.72/0.865 | 30.67/0.865 | 27.63/0.792 | 30.75/0.901 | General |
+| Multiple | NAFNet | ECCV'22 | 17M | 24.11/0.960 | 33.64/0.956 | 33.18/0.918 | 30.47/0.865 | 27.12/0.754 | 29.67/0.844 | General |
+| All-in-One | DL | TPAMI'19 | 2M | 26.92/0.931 | 32.62/0.931 | 33.05/0.914 | 30.41/0.861 | 26.90/0.740 | 29.98/0.875 | parameterized image operator |
+| All-in-One | TKMANet | CVPR'22 | 29M | 30.41/0.973 | 34.94/0.972 | 33.02/0.924 | 30.31/0.820 | 23.80/0.556 | 30.50/0.849 | two-stage knowledge learning |
+| All-in-One | AirNet | CVPR'22 | 9M | 27.94/0.962 | 34.90/0.967 | 33.92/0.933 | 31.26/0.888 | 28.00/0.797 | 31.20/0.910 | contrastive-based & degradation-guided |
+
+
 ## Citations
 If our survey helps your research or work, please consider citing our paper.
 The following are BibTeX references:
