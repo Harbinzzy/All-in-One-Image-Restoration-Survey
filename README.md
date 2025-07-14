@@ -174,17 +174,56 @@
 
 ## All-in-one Image Restoration Performance Comparison
 
-| Method | Venue & Year | Params | Dehazing (SOTS) | Deraining (Rain100L) | Denoising σ=15 | σ=25 | σ=50 | Average |
-|--------|---------------|--------|------------------|-----------------------|-----------------|------|------|---------|
-| **Single**   |
-| LPN | CVPR'19 | 3M | 20.84/0.828 | 24.88/0.784 | 26.47/0.778 | 24.77/0.748 | 21.26/0.552 | 23.64/0.738 |
-| ADFNet | AAAI'23 | 8M | 28.13/0.961 | 34.24/0.965 | 33.76/0.929 | 30.83/0.871 | 27.75/0.793 | 30.94/0.904 |
-| **Multiple**   |
-| MPRNet | CVPR'21 | 16M | 28.00/0.958 | 33.86/0.958 | 33.27/0.920 | 30.76/0.871 | 27.29/0.761 | 30.63/0.894 |
-| Restormer | CVPR'22 | 26M | 27.78/0.958 | 33.78/0.958 | 33.72/0.865 | 30.67/0.865 | 27.63/0.792 | 30.75/0.901 |
-| **All-in-One**  |
-| AirNet | CVPR'22 | 9M | 27.94/0.962 | 34.90/0.967 | 33.92/0.933 | 31.26/0.888 | 28.00/0.797 | 31.20/0.910 |
-| PromptIR | NeurIPS'23 | 36M | 30.58/0.974 | 36.37/0.972 | 33.98/0.933 | 31.31/0.888 | 28.06/0.799 | 32.06/0.913 |
+# 表1 Performance Comparisons of AiOIR Models on Three Challenging Datasets
+
+<details>
+<summary>点击展开完整表格</summary>
+
+| \ | Method                              | Venue & Year  | Params       | Dehazing SOTS [li2019benchmarking] | Deraining Rain100L [yang2017deep-rain100] | Denoising σ=15 | Denoising σ=25 | Denoising σ=50 | Average       | Approach                              |
+|---------------------|-----------------------------------|---------------|--------------|-----------------------------------|--------------------------------------------|----------------|----------------|----------------|---------------|-------------------------------------|
+| **Single**          | LPN [LPN]                        | CVPR'19       | 3M           | 20.84 / 0.828                    | 24.88 / 0.784                             | 26.47 / 0.778 | 24.77 / 0.748 | 21.26 / 0.552 | 23.64 / 0.738 | Specific                           |
+|                     | ADFNet [ADFNet]                  | AAAI'23       | 8M           | 28.13 / 0.961                    | 34.24 / 0.965                             | 33.76 / 0.929 | 30.83 / 0.871 | 27.75 / 0.793 | 30.94 / 0.904 | Specific                           |
+|                     | DehazeFormer [DehazeFormer]      | TIP'23        | 25M          | 29.58 / 0.970                    | 35.37 / 0.969                             | 33.01 / 0.914 | 30.14 / 0.858 | 27.37 / 0.779 | 31.09 / 0.898 | Specific                           |
+|                     | DRSformer [DRSformer]            | CVPR'23       | 34M          | 29.02 / 0.968                    | 35.89 / 0.970                             | 33.28 / 0.921 | 30.55 / 0.862 | 27.58 / 0.786 | 31.26 / 0.902 | Specific                           |
+| **Multiple**        | MPRNet [MPRNet]                  | CVPR'21       | 16M          | 28.00 / 0.958                    | 33.86 / 0.958                             | 33.27 / 0.920 | 30.76 / 0.871 | 27.29 / 0.761 | 30.63 / 0.894 | General                            |
+|                     | Restormer [Zamir2021RestormerET] | CVPR'22       | 26M          | 27.78 / 0.958                    | 33.78 / 0.958                             | 33.72 / 0.865 | 30.67 / 0.865 | 27.63 / 0.792 | 30.75 / 0.901 | General                            |
+|                     | NAFNet [NAFNet]                  | ECCV'22       | 17M          | 24.11 / 0.960                    | 33.64 / 0.956                             | 33.18 / 0.918 | 30.47 / 0.865 | 27.12 / 0.754 | 29.67 / 0.844 | General                            |
+|                     | FSNet [FSNet]                   | TPAMI'23      | 13M          | 29.14 / 0.969                    | 35.61 / 0.969                             | 33.81 / 0.874 | 30.84 / 0.872 | 27.69 / 0.762 | 31.42 / 0.906 | General                            |
+|                     | MambaIR [MambaIR]                | ECCV'24       | 27M          | 29.57 / 0.970                    | 35.42 / 0.969                             | 33.88 / 0.931 | 30.95 / 0.874 | 27.74 / 0.793 | 31.51 / 0.907 | General                            |
+| **All-in-One**      | DL [fan2019general]              | TPAMI'19      | 2M           | 26.92 / 0.931                    | 32.62 / 0.931                             | 33.05 / 0.914 | 30.41 / 0.861 | 26.90 / 0.740 | 29.98 / 0.875 | parameterized image operator       |
+|                     | TKMANet [Unified]                | CVPR'22       | 29M          | 30.41 / 0.973                   | 34.94 / 0.972                             | 33.02 / 0.924 | 30.31 / 0.820 | 23.80 / 0.556 | 30.50 / 0.849 | two-stage knowledge learning       |
+|                     | AirNet [li2022all]              | CVPR'22       | 9M           | 27.94 / 0.962                   | 34.90 / 0.967                             | 33.92 / 0.933 | 31.26 / 0.888 | 28.00 / 0.797 | 31.20 / 0.910 | contrastive-based & degradation-guided |
+|                     | PIP_restormer [li2023prompt]    | arXiv'23     | 27M          | 32.09 / 0.981                   | 38.29 / 0.984                             | 34.24 / 0.936 | 31.60 / 0.893 | 28.35 / 0.806 | 32.91 / 0.920 | prompt-in-prompt learning          |
+|                     | IDR [zhang2023ingredient]       | CVPR'23       | 15M          | 29.87 / 0.970                   | 36.03 / 0.971                             | 33.89 / 0.931 | 31.32 / 0.884 | 28.04 / 0.798 | 31.83 / 0.911 | ingredient-oriented learning       |
+|                     | PromptIR [potlapalli2024promptir] | NeurIPS'23  | 36M          | 30.58 / 0.974                   | 36.37 / 0.972                             | 33.98 / 0.933 | 31.31 / 0.888 | 28.06 / 0.799 | 32.06 / 0.913 | prompt for AiOIR                   |
+|                     | Gridformer [Wang2023GridFormerRD] | IJCV'23     | 34M          | 30.37 / 0.970                   | 37.15 / 0.972                             | 33.93 / 0.931 | 31.37 / 0.887 | 28.11 / 0.801 | 32.19 / 0.912 | transformer with grid structure    |
+|                     | ProRes [ma2023prores]            | arXiv'23     | 371M         | 28.38 / 0.938                   | 33.68 / 0.954                             | 32.10 / 0.907 | 30.18 / 0.863 | 27.58 / 0.779 | 30.38 / 0.888 | degradation-aware visual prompt    |
+|                     | NDR [Yao2023NeuralDR]            | TIP'24       | 28M          | 28.64 / 0.962                   | 35.42 / 0.969                             | 34.01 / 0.932 | 31.36 / 0.887 | 28.10 / 0.798 | 31.51 / 0.910 | neural degradation representation  |
+|                     | Art_PromptIR [wu2024harmony]     | ACM MM'24   | 36M          | 30.83 / 0.979                   | 37.94 / 0.982                             | 34.06 / 0.934 | 31.42 / 0.891 | 28.14 / 0.801 | 32.49 / 0.917 | via multi-task collaboration       |
+|                     | AnyIR [Ren2024AnyIR]             | arXiv'24    | 6M           | 31.38 / 0.979                   | 37.90 / 0.981                             | 33.95 / 0.933 | 31.29 / 0.889 | 28.03 / 0.797 | 32.51 / 0.916 | local-global gated intertwining    |
+|                     | DaAIR [Zamfir2024EfficientDA]    | arXiv'24    | 6M           | 32.30 / 0.981                   | 37.10 / 0.978                             | 33.92 / 0.930 | 31.26 / 0.884 | 28.00 / 0.792 | 32.51 / 0.913 | efficient degradation-aware        |
+|                     | MEASNet [Yu2024MultiExpertAS]    | arXiv'24    | 31M          | 31.61 / 0.981                   | 39.00 / 0.985                             | 34.12 / 0.935 | 31.46 / 0.892 | 28.19 / 0.803 | 32.85 / 0.919 | multi-expert adaptive selection    |
+|                     | U-WADN [Xu2024UnifiedWidthAD]    | arXiv'24    | 6M           | 29.21 / 0.971                   | 35.36 / 0.968                             | 33.73 / 0.931 | 31.14 / 0.886 | 27.92 / 0.793 | 31.47 / 0.910 | unified-width adaptive network     |
+|                     | Shi et al. [Shi2024LearningFD]   | arXiv'24    | -            | 29.20 / 0.972                   | 37.50 / 0.980                             | 34.59 / 0.941 | 31.83 / 0.900 | 28.46 / 0.814 | 32.32 / 0.921 | frequency-aware transformers       |
+|                     | DyNet [Dudhane2024DynamicPT]     | arXiv'24    | 16M          | 31.98 / 0.981                   | 38.71 / 0.983                             | 34.11 / 0.936 | 31.44 / 0.892 | 28.18 / 0.803 | 32.88 / 0.920 | dynamic pre-training               |
+|                     | Hair [Cao2024HAIRHA]             | arXiv'24    | 29M          | 30.98 / 0.979                   | 38.59 / 0.983                             | 34.16 / 0.935 | 31.51 / 0.892 | 28.24 / 0.803 | 32.70 / 0.919 | hypernetworks-based               |
+|                     | LoRA-IR [ai2024taming]           | arXiv'24    | -            | 30.68 / 0.961                   | 37.75 / 0.979                             | 34.06 / 0.935 | 31.42 / 0.891 | 28.18 / 0.803 | 32.42 / 0.914 | mixture of low-rank experts        |
+|                     | Up-Restorer [liu2025up]          | AAAI'25     | 28M          | 30.68 / 0.977                   | 36.74 / 0.978                             | 33.99 / 0.933 | 31.33 / 0.888 | 28.07 / 0.799 | 32.16 / 0.915 | ADMM-solver-based design           |
+|                     | TUR_PromptIR [wu2025debiased]    | AAAI'25     | 36M          | 31.17 / 0.978                   | 38.57 / 0.984                             | 34.06 / 0.932 | 31.40 / 0.887 | 28.13 / 0.797 | 32.67 / 0.916 | a novel loss function              |
+|                     | AdaIR [cui2024adair]             | ICLR'25     | 29M          | 31.06 / 0.980                   | 38.64 / 0.983                             | 34.12 / 0.935 | 31.45 / 0.892 | 28.19 / 0.802 | 32.69 / 0.918 | frequency mining and modulation    |
+|                     | DA-RCOT [tang2024degradation]    | TPAMI'25    | 50M          | 31.26 / 0.977                   | 38.36 / 0.983                             | 33.98 / 0.934 | 31.33 / 0.890 | 28.10 / 0.801 | 32.60 / 0.917 | as an optimal transport problem    |
+|                     | ABAIR [serrano2024adaptive]      | arXiv'24    | 41M          | 33.53 / 0.984                   | 38.69 / 0.982                             | 34.18 / 0.935 | 31.38 / 0.890 | 28.25 / 0.804 | 33.21 / 0.919 | a three-phase approach             |
+|                     | MoCE-IR [zamfir2024complexity]   | CVPR'25     | 25M          | 31.34 / 0.979                   | 38.57 / 0.984                             | 34.11 / 0.932 | 31.45 / 0.888 | 28.18 / 0.800 | 32.73 / 0.917 | mixture-of-complexity-experts framework |
+|                     | MTAIR [jiang2024multi]           | arXiv'24    | -            | 31.34 / 0.983                   | 39.15 / 0.984                             | 34.14 / 0.936 | 31.50 / 0.893 | 28.24 / 0.805 | 32.87 / 0.920 | Mamba-Transformer cross-dimensional |
+|                     | DCPT_PromptIR [hu2025universal] | ICLR'25     | 35M          | 31.91 / 0.981                   | 38.43 / 0.983                             | 34.17 / 0.933 | 31.53 / 0.889 | 28.30 / 0.802 | 32.87 / 0.918 | learn to classify degradation     |
+|                     | RamIR [tang2025ramir]            | APPL INTELL'25 | 22M         | 31.29 / 0.977                   | 38.16 / 0.981                             | 34.04 / 0.931 | 31.61 / 0.891 | 28.19 / 0.801 | 32.65 / 0.916 | prompt-driven Mamba-based          |
+|                     | Cat-AIR [jiang2025cat]           | arXiv'25    | -            | 31.49 / 0.980                   | 38.43 / 0.983                             | 34.11 / 0.935 | 31.44 / 0.892 | 28.14 / 0.803 | 32.72 / 0.919 | content and task-aware framework   |
+|                     | DSwinIR [wu2025content]          | arXiv'25    | 24M          | 31.86 / 0.980                   | 37.73 / 0.983                             | 34.12 / 0.933 | 31.59 / 0.890 | 28.31 / 0.803 | 32.72 / 0.917 | deformable sliding window transformer |
+|                     | CPL_PromptIR [gwu2025]           | arXiv'25    | 36M          | 31.27 / 0.980                   | 38.77 / 0.985                             | 34.15 / 0.933 | 31.50 / 0.889 | 28.23 / 0.800 | 32.78 / 0.917 | contrastive prompt regularization  |
+|                     | AnyIR [ren2025any]               | arXiv'25    | 6M           | 31.75 / 0.981                   | 38.61 / 0.984                             | 34.12 / 0.936 | 31.46 / 0.893 | 28.20 / 0.804 | 32.83 / 0.920 | local-global gated mechanism       |
+|                     | MIRAGE [ren2025manifold]         | arXiv'25    | 10M          | 31.86 / 0.981                   | 38.94 / 0.985                             | 34.12 / 0.935 | 31.46 / 0.891 | 28.19 / 0.803 | 32.91 / 0.919 | within the SPD manifold space      |
+|                     | BaryIR [tang2025baryir]          | arXiv'25    | -            | 31.33 / 0.980                   | 38.95 / 0.984                             | 34.16 / 0.935 | 31.54 / 0.892 | 28.25 /
+
 
 
 
