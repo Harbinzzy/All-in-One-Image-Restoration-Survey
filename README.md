@@ -19,6 +19,10 @@
 <div align="center">
 <a href="https://www.imagehub.cc/image/time.Ii9w56"><img src="https://s1.imagehub.cc/images/2025/06/13/fe9993d34ac1929a437b0bf25ee13570.png" alt="time" border="0"></a>
 </div>
+- [Awesome-AiOIR-Methods](#All-in-One Image Restoration Paper List)
+- [Awesome-AiOIR-Benchmarks](#Awesome All-in-one Image Restoration Performance Comparison)
+- [Citation](#citation)
+- [Contributing](#contributing)
 
 ## News
 - ✅ 🚀 Our comprehensive survey paper on All-in-One Image Restoration has been [released](https://arxiv.org/abs/2410.15067) and is actively maintained.  
@@ -26,7 +30,7 @@
   We will continue to reflect the latest advancements in this evolving field.
 
 
-## Awesome All-in-one Image Restoration Paper List
+## All-in-one Image Restoration Paper List
 
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
