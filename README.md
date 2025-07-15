@@ -38,6 +38,7 @@
 
 ## 📖 All-in-one Image Restoration Paper List
 
+### 2025
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
 | 4KAgent: Agentic Any Image to 4K Super-Resolution <br><sub>Yushen Zuo, Qi Zheng, Mingyang Wu, Xinrui Jiang, Renjie Li, Jian Wang, Yide Zhang, Gengchen Mai, Lihong V. Wang, James Zou, Xiaoyu Wang, Ming-Hsuan Yang, Zhengzhong Tu</sub> | Arxiv | [Paper](https://arxiv.org/abs/2507.07105) | [Code](https://4kagent.github.io/) |
