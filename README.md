@@ -22,10 +22,10 @@
 ## 🧭 Navigation
 
 - **[Awesome-AiOIR-Methods](#all-in-one-image-restoration-paper-list)**
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;[2019](#2019) | [2020](#2020) | [2021](#2021) | [2022](#2022) | [2023](#2023) | [2024](#2024) | [2025](#2025)
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; [2020](#2020) | [2021](#2021) | [2022](#2022) | [2023](#2023) | [2024](#2024) | [2025](#2025)
 
 - **[Awesome-AiOIR-Benchmarks](#all-in-one-image-restoration-performance-comparison)**
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;[Three Challenging Datasets](#three-challenging-datasets) | [Five Challenging Datasets](#five-challenging-datasets) | [All-Weather Datasets](#all-weather-datasets) | [Real-World Weather-Related Datasets](#real-world-weather-related-datasets) | [CDD-11 Datasets](#cdd-11-datasets) | [FoundIR's Real-World Datasets](#foundirs-real-world-datasets)
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;[Three Challenging Datasets](#performance-comparisons-of-aioir-models-on-three-challenging-datasets) | [Five Challenging Datasets](#five-challenging-datasets) | [All-Weather Datasets](#all-weather-datasets) | [Real-World Weather-Related Datasets](#real-world-weather-related-datasets) | [CDD-11 Datasets](#cdd-11-datasets) | [FoundIR's Real-World Datasets](#foundirs-real-world-datasets)
 
 - **[Citation](#citation)** | **[Contributing](#contributing)**
 
