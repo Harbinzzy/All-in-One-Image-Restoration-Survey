@@ -14,12 +14,12 @@
 
 </div>
 
-## Overview
+## 📚 Overview
 <div align="center">
 <a href="https://www.imagehub.cc/image/time.Ii9w56"><img src="https://s1.imagehub.cc/images/2025/06/13/fe9993d34ac1929a437b0bf25ee13570.png" alt="time" border="0"></a>
 </div>
 
-## 📚 Navigation
+## 🧭 Navigation
 
 - **[Awesome-AiOIR-Methods](#all-in-one-image-restoration-paper-list)**
   <br>&nbsp;&nbsp;&nbsp;&nbsp;[2019](#2019) | [2020](#2020) | [2021](#2021) | [2022](#2022) | [2023](#2023) | [2024](#2024) | [2025](#2025)
@@ -30,16 +30,17 @@
 - **[Citation](#citation)** | **[Contributing](#contributing)**
 
 
-## News
-- ✅ 🚀 Our comprehensive survey paper on All-in-One Image Restoration has been [released](https://arxiv.org/abs/2410.15067) and is actively maintained.  
+## 📢 News
+- ✅ Our comprehensive survey paper on All-in-One Image Restoration has been [released](https://arxiv.org/abs/2410.15067) and is actively maintained.  
   📝 **Submitted** on 19 Oct 2024 *(v1)*, **last revised** on 12 Jun 2025 *(v2)* with major updates and reductions.  
   We will continue to reflect the latest advancements in this evolving field.
 
 
-## All-in-one Image Restoration Paper List
+## 📖 All-in-one Image Restoration Paper List
 
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+### 2025(#2025)
 | 4KAgent: Agentic Any Image to 4K Super-Resolution <br><sub>Yushen Zuo, Qi Zheng, Mingyang Wu, Xinrui Jiang, Renjie Li, Jian Wang, Yide Zhang, Gengchen Mai, Lihong V. Wang, James Zou, Xiaoyu Wang, Ming-Hsuan Yang, Zhengzhong Tu</sub> | Arxiv | [Paper](https://arxiv.org/abs/2507.07105) | [Code](https://4kagent.github.io/) |
 | Elucidating and Endowing the Diffusion Training Paradigm for General Image Restoration <br><sub>Xin Lu, Xueyang Fu, Jie Xiao, Zihao Fan, Yurui Zhu, Zheng-Jun Zha</sub> | Arxiv | [Paper](https://arxiv.org/abs/2506.21722) | [Code](https://github.com/xin1u/EEDTP) |
 | LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling <br><sub>Huaqiu Li, Yong Wang, Tongwen Huang, Hailang Huang, Haoqian Wang, Xiangxiang Chu</sub> | Arxiv | [Paper](https://arxiv.org/abs/2507.00790) | [Code](https://github.com/AMAP-ML/LD-RPS) |
@@ -177,7 +178,7 @@
 | All in One Bad Weather Removal Using Architectural Search<br><sub>Ruoteng Li, Robby T. Tan, Loong-Fah Cheong</sub> | CVPR2020 | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_All_in_One_Bad_Weather_Removal_Using_Architectural_Search_CVPR_2020_paper.pdf) |  |
 | A General Decoupled Learning Framework for Parameterized Image Operators<br><sub>Qingnan Fan, Dongdong Chen, Lu Yuan, Gang Hua, Nenghai Yu, Baoquan Chen</sub> | TPAMI2019 | [Paper](https://arxiv.org/abs/1907.05852) |  |
 
-## All-in-one Image Restoration Performance Comparison
+## 📊 All-in-one Image Restoration Performance Comparison
 
 ### Performance Comparisons of AiOIR Models on Three Challenging Datasets
 
