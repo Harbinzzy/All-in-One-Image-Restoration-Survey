@@ -12,6 +12,7 @@
 [![Survey](https://img.shields.io/badge/Survey-AiOIR-blue)](https://github.com/Harbinzzy/All-in-One-Image-Restoration-Survey) 
 [![Hits](https://hits.sh/github.com/Harbinzzy/All-in-One-Image-Restoration-Survey.svg)](https://hits.sh/github.com/Harbinzzy/All-in-One-Image-Restoration-Survey/)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![GitHub Repo stars](https://img.shields.io/github/stars/Harbinzzy/All-in-One-Image-Restoration-Survey?style=social)
 
 </div>
 
@@ -20,11 +21,11 @@
 <a href="https://www.imagehub.cc/image/time.Ii9w56"><img src="https://s1.imagehub.cc/images/2025/06/13/fe9993d34ac1929a437b0bf25ee13570.png" alt="time" border="0"></a>
 </div>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Harbinzzy/All-in-One-Image-Restoration-Survey?style=social)
-
-• [Awesome-AiOIR-Methods](#all-in-one-image-restoration-paper-list) | 
-• [Awesome-AiOIR-Benchmarks](#all-in-one-image-restoration-performance-comparison) | 
-• [Citation](#citations) | 
+• [Awesome-AiOIR-Methods](#all-in-one-image-restoration-paper-list)
+    • [2019](#2019) | [2020](#2020) | [2021](#2021) | [2022](#2022) | [2023](#2023) | [2024](#2024) | [2025](#2025)  
+• [Awesome-AiOIR-Benchmarks](#all-in-one-image-restoration-performance-comparison)
+    • [Three Challenging Datasets](#three-challenging-datasets) | [Five Challenging Datasets](#five-challenging-datasets) | [All-Weather Datasets](#all-weather-datasets) | [Real-World Weather-Related Datasets](#real-world-weather-related-datasets) | [CDD-11 Datasets](#cdd-11-datasets) | [FoundIR's Real-World Datasets](#foundirs-real-world-datasets)  
+• [Citation](#citation)
 • [Contributing](#contributing)
 
 ## News
