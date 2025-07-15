@@ -20,10 +20,7 @@
 <a href="https://www.imagehub.cc/image/time.Ii9w56"><img src="https://s1.imagehub.cc/images/2025/06/13/fe9993d34ac1929a437b0bf25ee13570.png" alt="time" border="0"></a>
 </div>
 
-## ⭐ Star Growth
-
-[![Star History Chart](https://api.star-history.com/svg?repos=YourUsername/YourRepoName&type=Date)](https://star-history.com/#YourUsername/YourRepoName)
-
+![GitHub Repo stars](https://img.shields.io/github/stars/Harbinzzy/All-in-One-Image-Restoration-Survey?style=social)
 
 • [Awesome-AiOIR-Methods](#all-in-one-image-restoration-paper-list) | 
 • [Awesome-AiOIR-Benchmarks](#all-in-one-image-restoration-performance-comparison) | 
