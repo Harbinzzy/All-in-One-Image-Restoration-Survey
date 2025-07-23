@@ -41,8 +41,8 @@
 ### 2025
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| Exploring Scalable Unified Modeling for General Low-Level Vision <br><sub>Xiangyu Chen, Kaiwen Zhu, Yuandong Pu, Shuo Cao, Xiaohui Li, Wenlong Zhang, Yihao Liu, Yu Qiao, Jiantao Zhou, Chao Dong</sub> | arXiv 2025 | [Paper](https://arxiv.org/abs/2507.14801) | |
 | Exploring the Potential of Pooling Techniques for Universal Image Restoration <br><sub>Yuning Cui, Wenqi Ren, Alois Knoll</sub> | TIP 2025 | [Paper](https://ieeexplore.ieee.org/document/11018224) | [Code](https://github.com/c-yn/PoolNet) |
-| IPT-ILR: Image Pyramid Transformer Coupled With Information Loss Regularization for All-in-One Image Restoration <br><sub>Sai Yang, Bin Hu, Fan Liu, Xiaoxin Wu, Weiping Ding, Jun Zhou</sub> | TCSVT 2024 | [Paper](https://doi.org/10.1109/TCSVT.2024.3519352) |  |
 | 4KAgent: Agentic Any Image to 4K Super-Resolution <br><sub>Yushen Zuo, Qi Zheng, Mingyang Wu, Xinrui Jiang, Renjie Li, Jian Wang, Yide Zhang, Gengchen Mai, Lihong V. Wang, James Zou, Xiaoyu Wang, Ming-Hsuan Yang, Zhengzhong Tu</sub> | Arxiv | [Paper](https://arxiv.org/abs/2507.07105) | [Code](https://4kagent.github.io/) |
 | Elucidating and Endowing the Diffusion Training Paradigm for General Image Restoration <br><sub>Xin Lu, Xueyang Fu, Jie Xiao, Zihao Fan, Yurui Zhu, Zheng-Jun Zha</sub> | Arxiv | [Paper](https://arxiv.org/abs/2506.21722) | [Code](https://github.com/xin1u/EEDTP) |
 | LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling <br><sub>Huaqiu Li, Yong Wang, Tongwen Huang, Hailang Huang, Haoqian Wang, Xiangxiang Chu</sub> | Arxiv | [Paper](https://arxiv.org/abs/2507.00790) | [Code](https://github.com/AMAP-ML/LD-RPS) |
@@ -94,6 +94,7 @@
 ### 2024
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| IPT-ILR: Image Pyramid Transformer Coupled With Information Loss Regularization for All-in-One Image Restoration <br><sub>Sai Yang, Bin Hu, Fan Liu, Xiaoxin Wu, Weiping Ding, Jun Zhou</sub> | TCSVT 2024 | [Paper](https://doi.org/10.1109/TCSVT.2024.3519352) |  |
 | Omni-Kernel Modulation for Universal Image Restoration <br><sub>Yuning Cui, Wenqi Ren, Alois Knoll</sub> | TCSVT 2024 | [Paper](https://doi.org/10.1109/TCSVT.2024.3429557) |  |
 | UniRestorer: Universal Image Restoration via Adaptively Estimating Image Degradation at Proper Granularity<br><sub>Jingbo Lin, Zhilu Zhang, Wenbo Li, Renjing Pei, Hang Xu, Hongzhi Zhang, Wangmeng Zuo</sub> | Arxiv | [Paper](https://arxiv.org/pdf/2412.20157) | [Code](https://github.com/mrluin/UniRestorer) |
 | Multi-dimensional Visual Prompt Enhanced Image Restoration via Mamba-Transformer Aggregation<br><sub>Aiwen Jiang, Hourong Chen, Zhiwen Chen, Jihua Ye, Mingwen Wang</sub> | Arxiv | [Paper](https://arxiv.org/abs/2412.15845) | [Code](https://github.com/12138-chr/MTAIR) |
