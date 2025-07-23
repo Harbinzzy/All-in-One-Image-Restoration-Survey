@@ -41,7 +41,7 @@
 ### 2025
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
-| Exploring Scalable Unified Modeling for General Low-Level Vision <br><sub>Xiangyu Chen, Kaiwen Zhu, Yuandong Pu, Shuo Cao, Xiaohui Li, Wenlong Zhang, Yihao Liu, Yu Qiao, Jiantao Zhou, Chao Dong</sub> | arXiv 2025 | [Paper](https://arxiv.org/abs/2507.14801) | |
+| Exploring Scalable Unified Modeling for General Low-Level Vision <br><sub>Xiangyu Chen, Kaiwen Zhu, Yuandong Pu, Shuo Cao, Xiaohui Li, Wenlong Zhang, Yihao Liu, Yu Qiao, Jiantao Zhou, Chao Dong</sub> | Arxiv | [Paper](https://arxiv.org/abs/2507.14801) | |
 | Exploring the Potential of Pooling Techniques for Universal Image Restoration <br><sub>Yuning Cui, Wenqi Ren, Alois Knoll</sub> | TIP 2025 | [Paper](https://ieeexplore.ieee.org/document/11018224) | [Code](https://github.com/c-yn/PoolNet) |
 | 4KAgent: Agentic Any Image to 4K Super-Resolution <br><sub>Yushen Zuo, Qi Zheng, Mingyang Wu, Xinrui Jiang, Renjie Li, Jian Wang, Yide Zhang, Gengchen Mai, Lihong V. Wang, James Zou, Xiaoyu Wang, Ming-Hsuan Yang, Zhengzhong Tu</sub> | Arxiv | [Paper](https://arxiv.org/abs/2507.07105) | [Code](https://4kagent.github.io/) |
 | Elucidating and Endowing the Diffusion Training Paradigm for General Image Restoration <br><sub>Xin Lu, Xueyang Fu, Jie Xiao, Zihao Fan, Yurui Zhu, Zheng-Jun Zha</sub> | Arxiv | [Paper](https://arxiv.org/abs/2506.21722) | [Code](https://github.com/xin1u/EEDTP) |
