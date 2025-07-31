@@ -41,8 +41,8 @@
 ### 2025
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
-| Robust Adverse Weather Removal via Spectral-based Spatial Grouping <br><sub>Yuhwan Jeong, Yunseo Yang, Youngjo Yoon, Kuk-Jin Yoon</sub> | ICCV 2025 | [Paper](https://arxiv.org/abs/2507.22498) | - |
-| All-in-One Medical Image Restoration with Latent Diffusion-Enhanced Vector-Quantized Codebook Prior <br><sub>Haowei Chen, Zhiwen Yang, Haotian Hou, Hui Zhang, Bingzheng Wei, Gang Zhou, Yan Xu</sub> | MICCAI 2025 | [Paper](https://arxiv.org/abs/2507.19874) | - |
+| Robust Adverse Weather Removal via Spectral-based Spatial Grouping <br><sub>Yuhwan Jeong, Yunseo Yang, Youngjo Yoon, Kuk-Jin Yoon</sub> | ICCV 2025 | [Paper](https://arxiv.org/abs/2507.22498) |  |
+| All-in-One Medical Image Restoration with Latent Diffusion-Enhanced Vector-Quantized Codebook Prior <br><sub>Haowei Chen, Zhiwen Yang, Haotian Hou, Hui Zhang, Bingzheng Wei, Gang Zhou, Yan Xu</sub> | MICCAI 2025 | [Paper](https://arxiv.org/abs/2507.19874) |  |
 | Exploring Scalable Unified Modeling for General Low-Level Vision <br><sub>Xiangyu Chen, Kaiwen Zhu, Yuandong Pu, Shuo Cao, Xiaohui Li, Wenlong Zhang, Yihao Liu, Yu Qiao, Jiantao Zhou, Chao Dong</sub> | Arxiv | [Paper](https://arxiv.org/abs/2507.14801) | |
 | Exploring the Potential of Pooling Techniques for Universal Image Restoration <br><sub>Yuning Cui, Wenqi Ren, Alois Knoll</sub> | TIP 2025 | [Paper](https://ieeexplore.ieee.org/document/11018224) | [Code](https://github.com/c-yn/PoolNet) |
 | 4KAgent: Agentic Any Image to 4K Super-Resolution <br><sub>Yushen Zuo, Qi Zheng, Mingyang Wu, Xinrui Jiang, Renjie Li, Jian Wang, Yide Zhang, Gengchen Mai, Lihong V. Wang, James Zou, Xiaoyu Wang, Ming-Hsuan Yang, Zhengzhong Tu</sub> | Arxiv | [Paper](https://arxiv.org/abs/2507.07105) | [Code](https://4kagent.github.io/) |
