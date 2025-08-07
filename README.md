@@ -41,6 +41,7 @@
 ### 2025
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| Diffusion Once and Done: Degradation‑Aware LoRA for Efficient All‑in‑One Image Restoration <br><sub>Ni Tang, Xiaotong Luo, Zihan Cheng, Liangtai Zhou, Dongxiao Zhang, Yanyun Qu</sub> | arXiv | [Paper](https://arxiv.org/abs/2508.03373) |  |
 | UniLDiff: Unlocking the Power of Diffusion Priors for All-in-One Image Restoration <br><sub>Zihan Cheng, Liangtai Zhou, Dian Chen, Ni Tang, Xiaotong Luo, Yanyun Qu</sub> | arXiv| [Paper](https://arxiv.org/abs/2507.23685) | |
 | Robust Adverse Weather Removal via Spectral-based Spatial Grouping <br><sub>Yuhwan Jeong, Yunseo Yang, Youngjo Yoon, Kuk-Jin Yoon</sub> | ICCV 2025 | [Paper](https://arxiv.org/abs/2507.22498) |  |
 | All-in-One Medical Image Restoration with Latent Diffusion-Enhanced Vector-Quantized Codebook Prior <br><sub>Haowei Chen, Zhiwen Yang, Haotian Hou, Hui Zhang, Bingzheng Wei, Gang Zhou, Yan Xu</sub> | MICCAI 2025 | [Paper](https://arxiv.org/abs/2507.19874) |  |
