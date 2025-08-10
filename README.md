@@ -1,6 +1,6 @@
 <div align="center">
 
-# [TPAMI 25] A Survey on All-in-One Image Restoration: Taxonomy, Evaluation and Future Trends
+# (TPAMI 25) A Survey on All-in-One Image Restoration: Taxonomy, Evaluation and Future Trends
 
 [Junjun Jiang](http://homepage.hit.edu.cn/jiangjunjun), [Zengyuan Zuo](),[Gang Wu](https://scholar.google.com/citations?user=JSqb7QIAAAAJ), [Kui Jiang](https://homepage.hit.edu.cn/jiangkui) and [Xianming Liu](http://homepage.hit.edu.cn/xmliu)
 
