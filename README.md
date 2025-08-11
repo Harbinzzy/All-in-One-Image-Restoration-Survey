@@ -17,7 +17,7 @@
 ## 📚 Overview
 <div align="center">
 <!-- <a href="https://www.imagehub.cc/image/time.Ii9w56"><img src="https://s1.imagehub.cc/images/2025/06/13/fe9993d34ac1929a437b0bf25ee13570.png" alt="time" border="0"></a> -->
-<a href="https://www.imagehub.cc/image/time.I2AZ87"><img src="https://s1.imagehub.cc/images/2025/08/12/24fa598864c8683eaefd09bb601e6684.th.png" alt="time" border="0"></a>
+<a href="https://www.imagehub.cc/image/time.I2AZ87"><img src="https://s1.imagehub.cc/images/2025/08/12/24fa598864c8683eaefd09bb601e6684.png" alt="time" border="0"></a>
 </div>
 
 ## 🧭 Navigation
