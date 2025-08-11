@@ -416,8 +416,8 @@ The following are BibTeX references:
 @article{jiang2024survey,
   title={A survey on all-in-one image restoration: Taxonomy, evaluation and future trends},
   author={Jiang, Junjun and Zuo, Zengyuan and Wu, Gang and Jiang, Kui and Liu, Xianming},
-  journal={arXiv preprint arXiv:2410.15067},
-  year={2024}
+  journal={TPAMI},
+  year={2025}
 }
 ```
 
