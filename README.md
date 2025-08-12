@@ -1,6 +1,6 @@
 <div align="center">
 
-# (TPAMI 25) A Survey on All-in-One Image Restoration: Taxonomy, Evaluation and Future Trends
+# (IEEE TPAMI 25) A Survey on All-in-One Image Restoration: Taxonomy, Evaluation and Future Trends
 
 [Junjun Jiang](http://homepage.hit.edu.cn/jiangjunjun), [Zengyuan Zuo](),[Gang Wu](https://scholar.google.com/citations?user=JSqb7QIAAAAJ), [Kui Jiang](https://homepage.hit.edu.cn/jiangkui) and [Xianming Liu](http://homepage.hit.edu.cn/xmliu)
 
@@ -417,7 +417,7 @@ The following are BibTeX references:
 @article{jiang2024survey,
   title={A survey on all-in-one image restoration: Taxonomy, evaluation and future trends},
   author={Jiang, Junjun and Zuo, Zengyuan and Wu, Gang and Jiang, Kui and Liu, Xianming},
-  journal={TPAMI},
+  journal={IEEE TPAMI},
   year={2025}
 }
 ```
