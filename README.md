@@ -42,8 +42,6 @@
 ### 2025
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
-| Paper | Avenue | Link | Code |
-|-------|--------|------|------|
 | TAP: Parameter-efficient Task-Aware Prompting for Adverse Weather Removal <br><sub>Hanting Wang, Shengpeng Ji, Shulei Wang, Hai Huang, Xiao Jin, Qifei Zhang, Tao Jin</sub> | arXiv | [Paper](https://arxiv.org/abs/2508.07878) | – |
 | Diffusion Once and Done: Degradation‑Aware LoRA for Efficient All‑in‑One Image Restoration <br><sub>Ni Tang, Xiaotong Luo, Zihan Cheng, Liangtai Zhou, Dongxiao Zhang, Yanyun Qu</sub> | arXiv | [Paper](https://arxiv.org/abs/2508.03373) |  |
 | UniLDiff: Unlocking the Power of Diffusion Priors for All-in-One Image Restoration <br><sub>Zihan Cheng, Liangtai Zhou, Dian Chen, Ni Tang, Xiaotong Luo, Yanyun Qu</sub> | arXiv| [Paper](https://arxiv.org/abs/2507.23685) | |
