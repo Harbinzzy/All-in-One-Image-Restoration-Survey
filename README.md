@@ -7,7 +7,7 @@
 [AIIA Lab](https://aiialabhit.github.io/team/), Harbin Institute of Technology.
 
 [![Paper2](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2410.15067)
-[![Survey](https://img.shields.io/badge/Survey-AiOIR-blue)](https://github.com/Harbinzzy/All-in-One-Image-Restoration-Survey) 
+[![Survey](https://img.shields.io/badge/Survey-AiOIR-blue)](https://ieeexplore.ieee.org/document/11123156) 
 [![Hits](https://hits.sh/github.com/Harbinzzy/All-in-One-Image-Restoration-Survey.svg)](https://hits.sh/github.com/Harbinzzy/All-in-One-Image-Restoration-Survey/)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Harbinzzy/All-in-One-Image-Restoration-Survey?style=social)
