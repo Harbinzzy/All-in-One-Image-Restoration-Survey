@@ -42,6 +42,7 @@
 ### 2025
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+
 | TAP: Parameter-efficient Task-Aware Prompting for Adverse Weather Removal <br><sub>Hanting Wang, Shengpeng Ji, Shulei Wang, Hai Huang, Xiao Jin, Qifei Zhang, Tao Jin</sub> | arXiv | [Paper](https://arxiv.org/abs/2508.07878) |  |
 | Diffusion Once and Done: Degradation‑Aware LoRA for Efficient All‑in‑One Image Restoration <br><sub>Ni Tang, Xiaotong Luo, Zihan Cheng, Liangtai Zhou, Dongxiao Zhang, Yanyun Qu</sub> | arXiv | [Paper](https://arxiv.org/abs/2508.03373) |  |
 | UniLDiff: Unlocking the Power of Diffusion Priors for All-in-One Image Restoration <br><sub>Zihan Cheng, Liangtai Zhou, Dian Chen, Ni Tang, Xiaotong Luo, Yanyun Qu</sub> | arXiv| [Paper](https://arxiv.org/abs/2507.23685) | |
@@ -123,7 +124,7 @@
 | HAIR: Hypernetworks-based All-in-One Image Restoration<br><sub>Jin Cao, Yi Cao, Li Pang, Deyu Meng, Xiangyong Cao</sub> | arXiv | [Paper](https://arxiv.org/abs/2408.08091) | [Code](https://github.com/toummHus/HAIR) |
 | Review Learning: Advancing All-in-One Ultra-High-Definition Image Restoration Training Method<br><sub>Xin Su, Zhuoran Zheng, Chen Wu</sub> | arXiv | [Paper](https://arxiv.org/abs/2408.06709) |  |
 | UniProcessor: A Text-induced Unified Low-level Image Processor<br><sub>Huiyu Duan, Xiongkuo Min, Sijing Wu, Wei Shen, Guangtao Zhai</sub> | ECCV2024 | [Paper](https://arxiv.org/abs/2407.20928) | [Code](https://github.com/IntMeGroup/UniProcessor) |
-| Multi-Expert Adaptive Selection: Task-Balancing for All-in-One Image Restoration<br><sub>Xiaoyan Yu, Shen Zhou, Huafeng Li, Liehuang Zhu</sub> | arXiv | [Paper](https://arxiv.org/abs/2407.19139) | [Code](https://github.com/zhoushen1/MEASNet) |
+| Multi-Expert Adaptive Selection: Task-Balancing for All-in-One Image Restoration <br><sub>Xiaoyan Yu, Shen Zhou, Huafeng Li, Liehuang Zhu</sub> | TCSVT 2024 | [Paper](https://arxiv.org/abs/2407.19139) | [Code](https://github.com/zhoushen1/MEASNet) |
 | RestoreAgent: Autonomous Image Restoration Agent via Multimodal Large Language Models<br><sub>Haoyu Chen, Wenbo Li, Jinjin Gu, Jingjing Ren, Sixiang Chen, Tian Ye, Renjing Pei, Kaiwen Zhou, Fenglong Song, Lei Zhu</sub> | NIPS2024 | [Paper](https://arxiv.org/abs/2407.18035) | [Code](https://haoyuchen.com/RestoreAgent) |
 | Training-Free Large Model Priors for Multiple-in-One Image Restoration<br><sub>Xuanhua He, Lang Li, Yingying Wang, Hui Zheng, Ke Cao, Keyu Yan, Rui Li, Chengjun Xie, Jie Zhang, Man Zhou</sub> | arXiv | [Paper](https://arxiv.org/abs/2407.13181) |  |
 | Diff-Restorer: Unleashing Visual Prompts for Diffusion-based Universal Image Restoration <br><sub>Yuhong Zhang, Hengsheng Zhang, Xinning Chai, Zhengxue Cheng, Rong Xie, Li Song, Wenjun Zhang</sub> | arXiv | [Paper](https://arxiv.org/abs/2407.03636) | [Code](https://github.com/zyhrainbow/Diff-Restorer) |
