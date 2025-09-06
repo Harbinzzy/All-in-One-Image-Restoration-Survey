@@ -42,6 +42,7 @@
 ### 2025
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| Modumer: Modulating Transformer for Image Restoration <br><sub>Yuning Cui; Mingyu Liu; Wenqi Ren; Alois Knoll</sub> | TNNLS 2025 | [Paper](https://ieeexplore.ieee.org/document/10981804) |  |
 | TAP: Parameter-efficient Task-Aware Prompting for Adverse Weather Removal <br><sub>Hanting Wang, Shengpeng Ji, Shulei Wang, Hai Huang, Xiao Jin, Qifei Zhang, Tao Jin</sub> | arXiv | [Paper](https://arxiv.org/abs/2508.07878) |  |
 | Diffusion Once and Done: Degradation‑Aware LoRA for Efficient All‑in‑One Image Restoration <br><sub>Ni Tang, Xiaotong Luo, Zihan Cheng, Liangtai Zhou, Dongxiao Zhang, Yanyun Qu</sub> | arXiv | [Paper](https://arxiv.org/abs/2508.03373) |  |
 | UniLDiff: Unlocking the Power of Diffusion Priors for All-in-One Image Restoration <br><sub>Zihan Cheng, Liangtai Zhou, Dian Chen, Ni Tang, Xiaotong Luo, Yanyun Qu</sub> | arXiv| [Paper](https://arxiv.org/abs/2507.23685) | |
@@ -66,6 +67,7 @@
 | MODEM: A Morton-Order Degradation Estimation Mechanism for Adverse Weather Image Recovery <br><sub>Hainuo Wang, Qiming Hu, Xiaojie Guo</sub> | arXiv | [Paper](https://arxiv.org/abs/2505.17581) | [Code](https://github.com/hainuo-wang/MODEM) |
 | Clear Nights Ahead: Towards Multi-Weather Nighttime Image Restoration <br><sub>Yuetong Liu, Yunqiu Xu, Yang Wei, Xiuli Bi, Bin Xiao</sub> | arXiv | [Paper](https://arxiv.org/abs/2505.16479) | [Code](https://github.com/henlyta/ClearNight) |
 | RestoreVAR: Visual Autoregressive Generation for All-in-One Image Restoration <br><sub>Sudarshan Rajagopalan, Kartik Narayan, Vishal M. Patel</sub> | arXiv | [Paper](https://arxiv.org/abs/2505.18047) | [Code](https://github.com/sudraj2002/RestoreVAR) |
+| All-in-One Weather-Degraded Image Restoration Via Adaptive Degradation-Aware Self-Prompting Model <br><sub>Yuanbo Wen; Tao Gao; Ziqi Li; Jing Zhang; Kaihao Zhang; Ting Chen</sub> | TMM 2025 | [Paper](https://ieeexplore.ieee.org/document/10855564) | |
 | AWRaCLe: All-Weather Image Restoration using Visual In-Context Learning <br><sub>Sudarshan Rajagopalan, Vishal M. Patel</sub> | AAAI 2025 | [Paper](https://arxiv.org/abs/2409.00263) | [Code](https://github.com/sudraj2002/AWRaCLe) |
 | CMAWRNet: Multiple Adverse Weather Removal via a Unified Quaternion Neural Architecture <br><sub>Vladimir Frants, Sos Agaian, Karen Panetta, Peter Huang</sub> | arXiv | [Paper](https://arxiv.org/pdf/2505.01882) | |
 | DPMambaIR: All-in-One Image Restoration via Degradation-Aware Prompt State Space Model <br><sub>Zhanwen Liu, Sai Zhou, Yuchao Dai, Yang Wang, Yisheng An, Xiangmo Zhao</sub> | arXiv | [Paper](https://arxiv.org/pdf/2504.17732) |  |
