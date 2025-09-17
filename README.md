@@ -42,6 +42,9 @@
 ### 2025
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| JarvisIR: Elevating Autonomous Driving Perception with Intelligent Image Restoration <br><sub>Yunlong Lin, Zixu Lin, Haoyu Chen, Panwang Pan, Chenxin Li, Sixiang Chen, Kairun Wen, Yeying Jin, Wenbo Li, Xinghao Ding</sub> | CVPR 2025 | [Paper](https://arxiv.org/abs/2509.12039) <br> [Project](https://cvpr2025-jarvisir.github.io/) | [Code](https://github.com/LYL1015/JarvisIR) <br> [HuggingFace](https://huggingface.co/LYL1015/JarvisIR) |
+| RAM++: Robust Representation Learning via Adaptive Mask for All-in-One Image Restoration <br><sub>Zilong Zhang, Chujie Qin, Chunle Guo, Yong Zhang, Chao Xue, Ming-Ming Cheng, Chongyi Li</sub> | arXiv | [Paper](https://arxiv.org/abs/2509.12039) | [Code](https://github.com/DragonisCV/RAM) |
+| WeatherBench: A Real-World Benchmark Dataset for All-in-One Adverse Weather Image Restoration <br><sub>Qiyuan Guan, Qianfeng Yang, Xiang Chen, Tianyu Song, Guiyue Jin, Jiyu Jin</sub> | ACMMM 2025 | [Paper](https://arxiv.org/abs/2509.11642) | [Code](https://github.com/guanqiyuan/WeatherBench) |
 | Modumer: Modulating Transformer for Image Restoration <br><sub>Yuning Cui, Mingyu Liu, Wenqi Ren, Alois Knoll</sub> | TNNLS 2025 | [Paper](https://ieeexplore.ieee.org/document/10981804) |  |
 | TAP: Parameter-efficient Task-Aware Prompting for Adverse Weather Removal <br><sub>Hanting Wang, Shengpeng Ji, Shulei Wang, Hai Huang, Xiao Jin, Qifei Zhang, Tao Jin</sub> | arXiv | [Paper](https://arxiv.org/abs/2508.07878) |  |
 | Diffusion Once and Done: Degradation‑Aware LoRA for Efficient All‑in‑One Image Restoration <br><sub>Ni Tang, Xiaotong Luo, Zihan Cheng, Liangtai Zhou, Dongxiao Zhang, Yanyun Qu</sub> | arXiv | [Paper](https://arxiv.org/abs/2508.03373) |  |
@@ -380,7 +383,7 @@
 | One-to-Composite | AllRestorer | arXiv'24 | 33.72 | 0.944 | 12M+88M |
 | One-to-Composite | DA-CLIP_NAFNet | ICLR'24 | 26.56 | 0.860 | 86M+125M |
 | One-to-Composite | MoCE-IR-S | CVPR'25 | 29.05 | 0.881 | 11M |
-| One-to-Composite | DCPT_NAFNet | ICLR'25 | 28.84 | 0.891 | 68M |
+| One-to-Composite | DCPT_NAFNet | ICLR'25 | 30.66 | 0.891 | 68M |
 | One-to-Composite | VL-UR | arXiv'25 | 28.76 | 0.879 | - |
 | One-to-Composite | MIRAGE | arXiv'25 | 29.33 | 0.887 | 10M |
 | Step-by-Step | CoR_HAIR | arXiv'24 | 28.33 | 0.869 | 30M |
