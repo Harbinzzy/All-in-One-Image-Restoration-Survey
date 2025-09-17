@@ -42,7 +42,7 @@
 ### 2025
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
-| JarvisIR: Elevating Autonomous Driving Perception with Intelligent Image Restoration <br><sub>Yunlong Lin, Zixu Lin, Haoyu Chen, Panwang Pan, Chenxin Li, Sixiang Chen, Kairun Wen, Yeying Jin, Wenbo Li, Xinghao Ding</sub> | CVPR 2025 | [Paper](https://arxiv.org/abs/2509.12039) <br> [Project](https://cvpr2025-jarvisir.github.io/) | [Code](https://github.com/LYL1015/JarvisIR) <br> [HuggingFace](https://huggingface.co/LYL1015/JarvisIR) |
+| JarvisIR: Elevating Autonomous Driving Perception with Intelligent Image Restoration <br><sub>Yunlong Lin, Zixu Lin, Haoyu Chen, Panwang Pan, Chenxin Li, Sixiang Chen, Kairun Wen, Yeying Jin, Wenbo Li, Xinghao Ding</sub> | CVPR 2025 | [Paper](https://cvpr2025-jarvisir.github.io/) | [Code](https://github.com/LYL1015/JarvisIR) |
 | RAM++: Robust Representation Learning via Adaptive Mask for All-in-One Image Restoration <br><sub>Zilong Zhang, Chujie Qin, Chunle Guo, Yong Zhang, Chao Xue, Ming-Ming Cheng, Chongyi Li</sub> | arXiv | [Paper](https://arxiv.org/abs/2509.12039) | [Code](https://github.com/DragonisCV/RAM) |
 | WeatherBench: A Real-World Benchmark Dataset for All-in-One Adverse Weather Image Restoration <br><sub>Qiyuan Guan, Qianfeng Yang, Xiang Chen, Tianyu Song, Guiyue Jin, Jiyu Jin</sub> | ACMMM 2025 | [Paper](https://arxiv.org/abs/2509.11642) | [Code](https://github.com/guanqiyuan/WeatherBench) |
 | Modumer: Modulating Transformer for Image Restoration <br><sub>Yuning Cui, Mingyu Liu, Wenqi Ren, Alois Knoll</sub> | TNNLS 2025 | [Paper](https://ieeexplore.ieee.org/document/10981804) |  |
