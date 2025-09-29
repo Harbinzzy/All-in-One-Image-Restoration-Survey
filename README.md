@@ -43,7 +43,7 @@
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
 | Orochi: Versatile Biomedical Image Processor <br><sub>Gaole Dai, Chenghao Zhou, Yu Zhou, Rongyu Zhang, Yuan Zhang, Chengkai Hou, Tiejun Huang, Jianxu Chen, Shanghang Zhang</sub> | NeurIPS 2025 | [Paper](https://arxiv.org/abs/2509.22583) |  |
-| Degradation-Aware All-in-One Image Restoration via Latent Prior Encoding <br><sub>S M A Sharif, Abdur Rehman, Fayaz Ali Dharejo, Radu Timofte, Rizwan Ali Naqvi</sub> | arXiv 2025 | [Paper](https://arxiv.org/abs/2509.17792) | [Code](https://github.com/sharif-apu/DAIR) |
+| Degradation-Aware All-in-One Image Restoration via Latent Prior Encoding <br><sub>S M A Sharif, Abdur Rehman, Fayaz Ali Dharejo, Radu Timofte, Rizwan Ali Naqvi</sub> | arXiv | [Paper](https://arxiv.org/abs/2509.17792) | [Code](https://github.com/sharif-apu/DAIR) |
 | JarvisIR: Elevating Autonomous Driving Perception with Intelligent Image Restoration <br><sub>Yunlong Lin, Zixu Lin, Haoyu Chen, Panwang Pan, Chenxin Li, Sixiang Chen, Kairun Wen, Yeying Jin, Wenbo Li, Xinghao Ding</sub> | CVPR 2025 | [Paper](https://cvpr2025-jarvisir.github.io/) | [Code](https://github.com/LYL1015/JarvisIR) |
 | RAM++: Robust Representation Learning via Adaptive Mask for All-in-One Image Restoration <br><sub>Zilong Zhang, Chujie Qin, Chunle Guo, Yong Zhang, Chao Xue, Ming-Ming Cheng, Chongyi Li</sub> | arXiv | [Paper](https://arxiv.org/abs/2509.12039) | [Code](https://github.com/DragonisCV/RAM) |
 | WeatherBench: A Real-World Benchmark Dataset for All-in-One Adverse Weather Image Restoration <br><sub>Qiyuan Guan, Qianfeng Yang, Xiang Chen, Tianyu Song, Guiyue Jin, Jiyu Jin</sub> | ACMMM 2025 | [Paper](https://arxiv.org/abs/2509.11642) | [Code](https://github.com/guanqiyuan/WeatherBench) |
