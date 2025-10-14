@@ -42,6 +42,8 @@
 ### 2025
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| Clear Roads, Clear Vision: Advancements in Multi-Weather Restoration for Smart Transportation <br><sub>Vijay M. Galshetwar, Praful Hambarde, Prashant W. Patil, Akshay Dudhane, Sachin Chaudhary, Santosh Kumar Vipparathi, Subrahmanyam Murala</sub> | arXiv 2025 | [Paper](https://arxiv.org/abs/2510.09228) | [Code](https://github.com/ChaudharyUPES/A-comprehensive-review-on-Multi-weather-restoration) |
+| PhyDAE: Physics-Guided Degradation-Adaptive Experts for All-in-One Remote Sensing Image Restoration <br><sub>Zhe Dong, Yuzhe Sun, Haochen Jiang, Tianzhu Liu, Yanfeng Gu</sub> | arXiv 2025 | [Paper](https://arxiv.org/abs/2510.08653) | [Code](https://github.com/HIT-SIRS/PhyDAE) |
 | Orochi: Versatile Biomedical Image Processor <br><sub>Gaole Dai, Chenghao Zhou, Yu Zhou, Rongyu Zhang, Yuan Zhang, Chengkai Hou, Tiejun Huang, Jianxu Chen, Shanghang Zhang</sub> | NeurIPS 2025 | [Paper](https://arxiv.org/abs/2509.22583) |  |
 | Degradation-Aware All-in-One Image Restoration via Latent Prior Encoding <br><sub>S M A Sharif, Abdur Rehman, Fayaz Ali Dharejo, Radu Timofte, Rizwan Ali Naqvi</sub> | arXiv | [Paper](https://arxiv.org/abs/2509.17792) | [Code](https://github.com/sharif-apu/DAIR) |
 | JarvisIR: Elevating Autonomous Driving Perception with Intelligent Image Restoration <br><sub>Yunlong Lin, Zixu Lin, Haoyu Chen, Panwang Pan, Chenxin Li, Sixiang Chen, Kairun Wen, Yeying Jin, Wenbo Li, Xinghao Ding</sub> | CVPR 2025 | [Paper](https://cvpr2025-jarvisir.github.io/) | [Code](https://github.com/LYL1015/JarvisIR) |
