@@ -42,6 +42,8 @@
 ### 2025
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| UniUIR: Considering Underwater Image Restoration as An All-in-One Learner <br><sub>Xu Zhang, Huan Zhang, Guoli Wang, Qian Zhang, Lefei Zhang, Bo Du</sub> | TIP 2025 | [Paper](https://ieeexplore.ieee.org/document/11202372/) <br> [Project](https://house-yuyu.github.io/UniUIR/) |  |
+| Frequency-Prompted Image Restoration to Enhance Perception in Intelligent Transportation Systems <br><sub>Yuning Cui, Mingyu Liu, Xiongfei Su, Alois Knoll</sub> | TITS 2025 | [Paper](https://ieeexplore.ieee.org/document/11202661) |  |
 | Pruning Overparameterized Multi-Task Networks for Degraded Web Image Restoration <br><sub>Thomas Katraouras, Dimitrios Rafailidis</sub> | WI-IAT 2025 | [Paper](https://arxiv.org/html/2510.14463v1) | [Code](https://github.com/Thomkat/MIR-L) |
 | Latent Harmony: Synergistic Unified UHD Image Restoration via Latent Space Regularization and Controllable Refinement <br><sub>Yidi Liu, Xueyang Fu, Jie Huang, Jie Xiao, Dong Li, Wenlong Zhang, Lei Bai, Zheng-Jun Zha</sub> | NeurIPS 2025 | [Paper](https://arxiv.org/abs/2510.07961) | [Code](https://github.com/lyd-2022/Latent-Harmony) |
 | UHD-Processor: Unified UHD Image Restoration with Progressive Frequency Learning and Degradation-aware Prompts <br><sub>Yidi Liu, Xueyang Fu, Jie Huang, Jie Xiao, Dong Li, Wenlong Zhang, Lei Bai, Zheng-Jun Zha</sub> | CVPR 2025 | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_UHD-processer_Unified_UHD_Image_Restoration_with_Progressive_Frequency_Learning_and_CVPR_2025_paper.pdf) | [Code](https://github.com/lyd-2022/UHD-processer) |
