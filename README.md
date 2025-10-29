@@ -42,6 +42,7 @@
 ### 2025
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| Residual Diffusion Bridge Model for Image Restoration <br><sub>Hebaixu Wang, Jing Zhang, Haoyang Chen, Haonan Guo, Di Wang, Jiayi Ma, Bo Du</sub> | arXiv | [Paper](https://arxiv.org/abs/2510.23116) | [Code](https://github.com/MiliLab/RDBM) |
 | UniUIR: Considering Underwater Image Restoration as An All-in-One Learner <br><sub>Xu Zhang, Huan Zhang, Guoli Wang, Qian Zhang, Lefei Zhang, Bo Du</sub> | TIP 2025 | [Paper](https://ieeexplore.ieee.org/document/11202372/) | [Code](https://house-yuyu.github.io/UniUIR/) |
 | Frequency-Prompted Image Restoration to Enhance Perception in Intelligent Transportation Systems <br><sub>Yuning Cui, Mingyu Liu, Xiongfei Su, Alois Knoll</sub> | TITS 2025 | [Paper](https://ieeexplore.ieee.org/document/11202661) |  |
 | Pruning Overparameterized Multi-Task Networks for Degraded Web Image Restoration <br><sub>Thomas Katraouras, Dimitrios Rafailidis</sub> | WI-IAT 2025 | [Paper](https://arxiv.org/html/2510.14463v1) | [Code](https://github.com/Thomkat/MIR-L) |
