@@ -42,6 +42,7 @@
 ### 2025
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| EndoIR: Degradation-Agnostic All-in-One Endoscopic Image Restoration via Noise-Aware Routing Diffusion <br><sub>Tong Chen, Xinyu Ma, Long Bai, Wenyang Wang, Yue Sun, Luping Zhou</sub> | AAAI 2026 | [Paper](https://arxiv.org/abs/2511.05873) | [Code](https://github.com/DavisMeee/EndoIR) |
 | A Minimalistic Unified Framework for Incremental Learning across Image Restoration Tasks <br><sub>Xiaoxuan Gong, Jie Ma</sub> | NeurIPS 2025 | [Paper](https://openreview.net/forum?id=MBQZwQ6vFd) |  |
 | Residual Diffusion Bridge Model for Image Restoration <br><sub>Hebaixu Wang, Jing Zhang, Haoyang Chen, Haonan Guo, Di Wang, Jiayi Ma, Bo Du</sub> | arXiv | [Paper](https://arxiv.org/abs/2510.23116) | [Code](https://github.com/MiliLab/RDBM) |
 | UniUIR: Considering Underwater Image Restoration as An All-in-One Learner <br><sub>Xu Zhang, Huan Zhang, Guoli Wang, Qian Zhang, Lefei Zhang, Bo Du</sub> | TIP 2025 | [Paper](https://ieeexplore.ieee.org/document/11202372/) | [Code](https://house-yuyu.github.io/UniUIR/) |
