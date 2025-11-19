@@ -42,6 +42,8 @@
 ### 2025
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| Bio-Inspired Image Restoration <br><sub>Yuning Cui, Wenqi Ren, Alois Knoll</sub> | NeurIPS 2025 | [Paper](https://neurips.cc/virtual/2025/loc/san-diego/poster/117751) | [Code](https://github.com/c-yn/BioIR) |
+| FAPE-IR: Frequency-Aware Planning and Execution Framework for All-in-One Image Restoration <br><sub>Jingren Liu, Shuning Xu, Qirui Yang, Yun Wang, Xiangyu Chen, Zhong Ji</sub> | arXiv | [Paper](https://arxiv.org/abs/2511.14099) |  |
 | EndoIR: Degradation-Agnostic All-in-One Endoscopic Image Restoration via Noise-Aware Routing Diffusion <br><sub>Tong Chen, Xinyu Ma, Long Bai, Wenyang Wang, Yue Sun, Luping Zhou</sub> | AAAI 2026 | [Paper](https://arxiv.org/abs/2511.05873) | [Code](https://github.com/DavisMeee/EndoIR) |
 | A Minimalistic Unified Framework for Incremental Learning across Image Restoration Tasks <br><sub>Xiaoxuan Gong, Jie Ma</sub> | NeurIPS 2025 | [Paper](https://openreview.net/forum?id=MBQZwQ6vFd) |  |
 | Residual Diffusion Bridge Model for Image Restoration <br><sub>Hebaixu Wang, Jing Zhang, Haoyang Chen, Haonan Guo, Di Wang, Jiayi Ma, Bo Du</sub> | arXiv | [Paper](https://arxiv.org/abs/2510.23116) | [Code](https://github.com/MiliLab/RDBM) |
