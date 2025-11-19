@@ -42,6 +42,7 @@
 ### 2025
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| MOERL: When Mixture-of-Experts Meet Reinforcement Learning for Adverse Weather Image Restoration <br><sub>Tao Wang, Peiwen Xia, Bo Li, Peng-Tao Jiang, Zhe Kong, Kaihao Zhang, Tong Lu, Wenhan Luo</sub> | ICCV 2025 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_MOERL_When_Mixture-of-Experts_Meet_Reinforcement_Learning_for_Adverse_Weather_Image_ICCV_2025_paper.pdf) |  |
 | Bio-Inspired Image Restoration <br><sub>Yuning Cui, Wenqi Ren, Alois Knoll</sub> | NeurIPS 2025 | [Paper](https://neurips.cc/virtual/2025/loc/san-diego/poster/117751) | [Code](https://github.com/c-yn/BioIR) |
 | FAPE-IR: Frequency-Aware Planning and Execution Framework for All-in-One Image Restoration <br><sub>Jingren Liu, Shuning Xu, Qirui Yang, Yun Wang, Xiangyu Chen, Zhong Ji</sub> | arXiv | [Paper](https://arxiv.org/abs/2511.14099) |  |
 | EndoIR: Degradation-Agnostic All-in-One Endoscopic Image Restoration via Noise-Aware Routing Diffusion <br><sub>Tong Chen, Xinyu Ma, Long Bai, Wenyang Wang, Yue Sun, Luping Zhou</sub> | AAAI 2026 | [Paper](https://arxiv.org/abs/2511.05873) | [Code](https://github.com/DavisMeee/EndoIR) |
