@@ -42,6 +42,7 @@
 ### 2025
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| Physically Interpretable Multi-Degradation Image Restoration via Deep Unfolding and Explainable Convolution <br><sub>Hu Gao, Xiaoning Lei, Xichen Xu, Depeng Dang, Lizhuang Ma</sub> | arXiv | [Paper](https://arxiv.org/abs/2511.10166) |  |
 | MOERL: When Mixture-of-Experts Meet Reinforcement Learning for Adverse Weather Image Restoration <br><sub>Tao Wang, Peiwen Xia, Bo Li, Peng-Tao Jiang, Zhe Kong, Kaihao Zhang, Tong Lu, Wenhan Luo</sub> | ICCV 2025 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_MOERL_When_Mixture-of-Experts_Meet_Reinforcement_Learning_for_Adverse_Weather_Image_ICCV_2025_paper.pdf) |  |
 | Bio-Inspired Image Restoration <br><sub>Yuning Cui, Wenqi Ren, Alois Knoll</sub> | NeurIPS 2025 | [Paper](https://neurips.cc/virtual/2025/loc/san-diego/poster/117751) | [Code](https://github.com/c-yn/BioIR) |
 | FAPE-IR: Frequency-Aware Planning and Execution Framework for All-in-One Image Restoration <br><sub>Jingren Liu, Shuning Xu, Qirui Yang, Yun Wang, Xiangyu Chen, Zhong Ji</sub> | arXiv | [Paper](https://arxiv.org/abs/2511.14099) |  |
@@ -121,6 +122,7 @@
 ### 2024
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| Reference-Based Multi-Stage Progressive Restoration for Multi-Degraded Images <br><sub>Yi Zhang, Qixue Yang, Damon M. Chandler, Xuanqin Mou</sub> | TIP 2024 | [Paper](https://ieeexplore.ieee.org/abstract/document/10666977) | [Code](https://vinelab.jp/refmdir/) |
 | IPT-ILR: Image Pyramid Transformer Coupled With Information Loss Regularization for All-in-One Image Restoration <br><sub>Sai Yang, Bin Hu, Fan Liu, Xiaoxin Wu, Weiping Ding, Jun Zhou</sub> | TCSVT 2024 | [Paper](https://doi.org/10.1109/TCSVT.2024.3519352) |  |
 | Omni-Kernel Modulation for Universal Image Restoration <br><sub>Yuning Cui, Wenqi Ren, Alois Knoll</sub> | TCSVT 2024 | [Paper](https://doi.org/10.1109/TCSVT.2024.3429557) |  |
 | UniRestorer: Universal Image Restoration via Adaptively Estimating Image Degradation at Proper Granularity<br><sub>Jingbo Lin, Zhilu Zhang, Wenbo Li, Renjing Pei, Hang Xu, Hongzhi Zhang, Wangmeng Zuo</sub> | arXiv | [Paper](https://arxiv.org/pdf/2412.20157) | [Code](https://github.com/mrluin/UniRestorer) |
