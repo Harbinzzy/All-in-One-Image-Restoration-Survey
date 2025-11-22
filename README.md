@@ -42,6 +42,7 @@
 ### 2025
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| Learning to Restore Multi-Degraded Images via Ingredient Decoupling and Task-Aware Path Adaptation <br><sub>Hu Gao, Xiaoning Lei, Ying Zhang, Xichen Xu, Guannan Jiang, Lizhuang Ma</sub> | arXiv | [Paper](https://arxiv.org/abs/2511.04920) |  |
 | Physically Interpretable Multi-Degradation Image Restoration via Deep Unfolding and Explainable Convolution <br><sub>Hu Gao, Xiaoning Lei, Xichen Xu, Depeng Dang, Lizhuang Ma</sub> | arXiv | [Paper](https://arxiv.org/abs/2511.10166) |  |
 | MOERL: When Mixture-of-Experts Meet Reinforcement Learning for Adverse Weather Image Restoration <br><sub>Tao Wang, Peiwen Xia, Bo Li, Peng-Tao Jiang, Zhe Kong, Kaihao Zhang, Tong Lu, Wenhan Luo</sub> | ICCV 2025 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_MOERL_When_Mixture-of-Experts_Meet_Reinforcement_Learning_for_Adverse_Weather_Image_ICCV_2025_paper.pdf) |  |
 | Bio-Inspired Image Restoration <br><sub>Yuning Cui, Wenqi Ren, Alois Knoll</sub> | NeurIPS 2025 | [Paper](https://neurips.cc/virtual/2025/loc/san-diego/poster/117751) | [Code](https://github.com/c-yn/BioIR) |
