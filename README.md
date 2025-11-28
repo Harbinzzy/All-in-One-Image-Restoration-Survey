@@ -432,7 +432,9 @@
 | AutoDIR | 20.31/0.6946 | 36.84/0.9221 | 32.99/0.9280 | 15.23/0.6264 | 25.69/0.7711 | 20.82/0.6687 | 21.90/0.8288 | 21.90/0.7293 | 22.03/0.7088 | 37.55/0.9616 | 14.90/0.4213 | 14.50/0.4456 | 27.15/0.8576 | 19.14/0.6570 | 17.49/0.6900 | 16.14/0.6375 | 18.91/0.6499 | 16.91/0.6761 | 18.78/0.8122 | 22.37/0.6876 | 22.07/0.7187 |
 | FoundIR | 25.93/0.7914 | 38.98/0.9647 | 34.03/0.9427 | 22.19/0.8492 | 34.29/0.9434 | 29.74/0.9160 | 18.98/0.8576 | 23.87/0.7737 | 29.58/0.8544 | 40.43/0.9795 | 21.80/0.7582 | 22.82/0.8048 | 33.96/0.9330 | 24.15/0.7808 | 18.95/0.7454 | 29.08/0.9098 | 23.56/0.7550 | 22.55/0.8181 | 33.46/0.9636 | 27.98/0.7452 | 27.81/0.8529 |
 
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://www.star-history.com/embed?secret=Z2hwXzNwdE5waHZRVEpXcFhNUlVYamJLQmRPdHVSdjNncTFDZURqZg==#Harbinzzy/All-in-One-Image-Restoration-Survey&type=date&legend=top-left" frameBorder="0"></iframe>
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Harbinzzy/All-in-One-Image-Restoration-Survey&type=date&legend=top-left)](https://www.star-history.com/#Harbinzzy/All-in-One-Image-Restoration-Survey&type=date&legend=top-left)
 
 ## Citations
 If our survey helps your research or work, please consider citing our paper.
