@@ -13,6 +13,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/Harbinzzy/All-in-One-Image-Restoration-Survey?style=social)
 
 </div>
+
 ## 📚 Overview
 <div align="center">
 <!-- <a href="https://www.imagehub.cc/image/time.Ii9w56"><img src="https://s1.imagehub.cc/images/2025/06/13/fe9993d34ac1929a437b0bf25ee13570.png" alt="time" border="0"></a> -->
@@ -41,6 +42,7 @@
 ### 2025
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| Beyond Degradation Redundancy: Contrastive Prompt Learning for All-in-One Image Restoration <br><sub>Gang Wu, Junjun Jiang, Kui Jiang, Xianming Liu, Liqiang Nie</sub> | TPAMI 2025 | [Paper](https://arxiv.org/abs/2504.09973) | [Code](https://github.com/Aitical/CPLIR) |
 | Learning to Restore Multi-Degraded Images via Ingredient Decoupling and Task-Aware Path Adaptation <br><sub>Hu Gao, Xiaoning Lei, Ying Zhang, Xichen Xu, Guannan Jiang, Lizhuang Ma</sub> | arXiv | [Paper](https://arxiv.org/abs/2511.04920) |  |
 | Physically Interpretable Multi-Degradation Image Restoration via Deep Unfolding and Explainable Convolution <br><sub>Hu Gao, Xiaoning Lei, Xichen Xu, Depeng Dang, Lizhuang Ma</sub> | arXiv | [Paper](https://arxiv.org/abs/2511.10166) |  |
 | MOERL: When Mixture-of-Experts Meet Reinforcement Learning for Adverse Weather Image Restoration <br><sub>Tao Wang, Peiwen Xia, Bo Li, Peng-Tao Jiang, Zhe Kong, Kaihao Zhang, Tong Lu, Wenhan Luo</sub> | ICCV 2025 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_MOERL_When_Mixture-of-Experts_Meet_Reinforcement_Learning_for_Adverse_Weather_Image_ICCV_2025_paper.pdf) |  |
