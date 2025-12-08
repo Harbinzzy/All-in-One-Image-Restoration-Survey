@@ -42,6 +42,7 @@
 ### 2025
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| EvoIR: Towards All-in-One Image Restoration via Evolutionary Frequency Modulation <br><sub>Jiaqi Ma, Shengkai Hu, Jun Wan, Jiaxing Huang, Lefei Zhang, Salman Khan</sub> | arXiv | [Paper](https://arxiv.org/abs/2512.05104) |  |
 | Beyond Degradation Redundancy: Contrastive Prompt Learning for All-in-One Image Restoration <br><sub>Gang Wu, Junjun Jiang, Kui Jiang, Xianming Liu, Liqiang Nie</sub> | TPAMI 2025 | [Paper](https://arxiv.org/abs/2504.09973) | [Code](https://github.com/Aitical/CPLIR) |
 | Learning to Restore Multi-Degraded Images via Ingredient Decoupling and Task-Aware Path Adaptation <br><sub>Hu Gao, Xiaoning Lei, Ying Zhang, Xichen Xu, Guannan Jiang, Lizhuang Ma</sub> | arXiv | [Paper](https://arxiv.org/abs/2511.04920) |  |
 | Physically Interpretable Multi-Degradation Image Restoration via Deep Unfolding and Explainable Convolution <br><sub>Hu Gao, Xiaoning Lei, Xichen Xu, Depeng Dang, Lizhuang Ma</sub> | arXiv | [Paper](https://arxiv.org/abs/2511.10166) |  |
