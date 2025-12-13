@@ -42,6 +42,9 @@
 ### 2025
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| ClusIR: Towards Cluster-Guided All-in-One Image Restoration <br><sub>Shengkai Hu, Jiaqi Ma, Jun Wan, Wenwen Min, Yongcheng Jing, Lefei Zhang, Dacheng Tao</sub> | arXiv | [Paper](https://arxiv.org/abs/2512.10948) |  |
+| Unleashing Degradation-Carrying Features in Symmetric U-Net: Simpler and Stronger Baselines for All-in-One Image Restoration <br><sub>Wenlong Jiao, Heyang Lee, Ping Wang, Pengfei Zhu, Qinghua Hu, Dongwei Ren</sub> | arXiv | [Paper](https://arxiv.org/abs/2512.10581) | [Code](https://github.com/WenlongJiao/SymUNet) |
+| FoundIR-v2: Optimizing Pre-Training Data Mixtures for Image Restoration Foundation Model <br><sub>Xiang Chen, Jinshan Pan, Jiangxin Dong, Jian Yang, Jinhui Tang</sub> | arXiv | [Paper](https://arxiv.org/pdf/2512.09282) |  |
 | EvoIR: Towards All-in-One Image Restoration via Evolutionary Frequency Modulation <br><sub>Jiaqi Ma, Shengkai Hu, Jun Wan, Jiaxing Huang, Lefei Zhang, Salman Khan</sub> | arXiv | [Paper](https://arxiv.org/abs/2512.05104) |  |
 | Beyond Degradation Redundancy: Contrastive Prompt Learning for All-in-One Image Restoration <br><sub>Gang Wu, Junjun Jiang, Kui Jiang, Xianming Liu, Liqiang Nie</sub> | TPAMI 2025 | [Paper](https://arxiv.org/abs/2504.09973) | [Code](https://github.com/Aitical/CPLIR) |
 | Learning to Restore Multi-Degraded Images via Ingredient Decoupling and Task-Aware Path Adaptation <br><sub>Hu Gao, Xiaoning Lei, Ying Zhang, Xichen Xu, Guannan Jiang, Lizhuang Ma</sub> | arXiv | [Paper](https://arxiv.org/abs/2511.04920) |  |
