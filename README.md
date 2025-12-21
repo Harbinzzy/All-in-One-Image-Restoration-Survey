@@ -1,4 +1,5 @@
 <div align="center">
+  
 # (IEEE TPAMI 25) A Survey on All-in-One Image Restoration: Taxonomy, Evaluation and Future Trends
 
 [Junjun Jiang](http://homepage.hit.edu.cn/jiangjunjun), [Zengyuan Zuo](),[Gang Wu](https://scholar.google.com/citations?user=JSqb7QIAAAAJ), [Kui Jiang](https://homepage.hit.edu.cn/jiangkui) and [Xianming Liu](http://homepage.hit.edu.cn/xmliu)
@@ -10,6 +11,7 @@
 [![Hits](https://hits.sh/github.com/Harbinzzy/All-in-One-Image-Restoration-Survey.svg)](https://hits.sh/github.com/Harbinzzy/All-in-One-Image-Restoration-Survey/)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Harbinzzy/All-in-One-Image-Restoration-Survey?style=social)
+
 </div>
 
 ## 📚 Overview
