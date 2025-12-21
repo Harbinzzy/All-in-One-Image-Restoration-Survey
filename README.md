@@ -43,7 +43,7 @@
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
 | TAT: Task-Adaptive Transformer for All-in-One Medical Image Restoration <br><sub>Zhiwen Yang, Jiaju Zhang, Yang Yi, Jian Liang, Bingzheng Wei, Yan Xu</sub> | MICCAI 2025 | [Paper](https://arxiv.org/abs/2512.14550) | [Code](https://github.com/Yaziwel/TAT) |
-| DSwinIR: Rethinking Window-Based Attention for Image Restoration <br><sub>Gang Wu, Junjun Jiang, Kui Jiang, Xianming Liu, Liqiang Nie</sub> | TPAMI 2025 |  | [Code](https://github.com/Aitical/DSwinIR) |
+| DSwinIR: Rethinking Window-Based Attention for Image Restoration <br><sub>Gang Wu, Junjun Jiang, Kui Jiang, Xianming Liu, Liqiang Nie</sub> | TPAMI 2025 | [Paper](https://arxiv.org/abs/2504.04869) | [Code](https://github.com/Aitical/DSwinIR) |
 | M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration <br><sub></sub> | TIP 2025 | [Paper](https://arxiv.org/abs/2506.07814) |  |
 | ClusIR: Towards Cluster-Guided All-in-One Image Restoration <br><sub>Shengkai Hu, Jiaqi Ma, Jun Wan, Wenwen Min, Yongcheng Jing, Lefei Zhang, Dacheng Tao</sub> | arXiv | [Paper](https://arxiv.org/abs/2512.10948) |  |
 | Unleashing Degradation-Carrying Features in Symmetric U-Net: Simpler and Stronger Baselines for All-in-One Image Restoration <br><sub>Wenlong Jiao, Heyang Lee, Ping Wang, Pengfei Zhu, Qinghua Hu, Dongwei Ren</sub> | arXiv | [Paper](https://arxiv.org/abs/2512.10581) | [Code](https://github.com/WenlongJiao/SymUNet) |
