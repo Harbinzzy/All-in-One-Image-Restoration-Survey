@@ -42,6 +42,9 @@
 ### 2025
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| TAT: Task-Adaptive Transformer for All-in-One Medical Image Restoration <br><sub>Zhiwen Yang, Jiaju Zhang, Yang Yi, Jian Liang, Bingzheng Wei, Yan Xu</sub> | MICCAI 2025 | [Paper](https://arxiv.org/abs/2512.14550) | [Code](https://github.com/Yaziwel/TAT) |
+| DSwinIR: Rethinking Window-Based Attention for Image Restoration <br><sub>Gang Wu, Junjun Jiang, Kui Jiang, Xianming Liu, Liqiang Nie</sub> | TPAMI 2025 |  | [Code](https://github.com/Aitical/DSwinIR) |
+| M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration <br><sub></sub> | TIP 2025 | [Paper](https://arxiv.org/abs/2506.07814) |  |
 | ClusIR: Towards Cluster-Guided All-in-One Image Restoration <br><sub>Shengkai Hu, Jiaqi Ma, Jun Wan, Wenwen Min, Yongcheng Jing, Lefei Zhang, Dacheng Tao</sub> | arXiv | [Paper](https://arxiv.org/abs/2512.10948) |  |
 | Unleashing Degradation-Carrying Features in Symmetric U-Net: Simpler and Stronger Baselines for All-in-One Image Restoration <br><sub>Wenlong Jiao, Heyang Lee, Ping Wang, Pengfei Zhu, Qinghua Hu, Dongwei Ren</sub> | arXiv | [Paper](https://arxiv.org/abs/2512.10581) | [Code](https://github.com/WenlongJiao/SymUNet) |
 | FoundIR-v2: Optimizing Pre-Training Data Mixtures for Image Restoration Foundation Model <br><sub>Xiang Chen, Jinshan Pan, Jiangxin Dong, Jian Yang, Jinhui Tang</sub> | arXiv | [Paper](https://arxiv.org/pdf/2512.09282) |  |
@@ -82,7 +85,6 @@
 | FoundIR: Unleashing Million-scale Training Data to Advance Foundation Models for Image Restoration<br><sub>Hao Li, Xiang Chen, Jiangxin Dong, Jinhui Tang, Jinshan Pan</sub> | ICCV 2025 | [Paper](https://arxiv.org/abs/2412.01427) | [Code](https://github.com/House-Leo/FoundIR) |
 |UniRestore: Unified Perceptual and Task-Oriented Image Restoration Model Using Diffusion Prior<br><sub>I-Hsiang Chen, Wei-Ting Chen, Yu-Wei Liu, Yuan-Chun Chiang, Sy-Yen Kuo, Ming-Hsuan Yang</sub>|CVPR 2025|[Paper](https://arxiv.org/abs/2501.13134)|[Code](https://github.com/unirestore/UniRestore)|
 |Visual-Instructed Degradation Diffusion for All-in-One Image Restoration<br><sub>Haina Qin, Wenyang Luo, Zewen Chen, Yufan Liu, Bing Li, Weiming Hu, libin wang, DanDan Zheng, Yuming Li</sub>|CVPR 2025|[Paper](https://arxiv.org/abs/2506.16960)| [Code](https://github.com/luowyang/Defusion) |
-| M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration <br><sub></sub> | arXiv | [Paper](https://arxiv.org/abs/2506.07814) |  |
 | UniRes: Universal Image Restoration for Complex Degradations <br><sub></sub> | arXiv | [Paper](https://arxiv.org/abs/2506.05599) |  |
 | Boosting All-in-One Image Restoration via Self-Improved Privilege Learning <br><sub></sub> | arXiv | [Paper](https://arxiv.org/abs/2505.24207) | [Code](https://github.com/Aitical/SIPL) |
 | Navigating Image Restoration with VAR's Distribution Alignment Prior <br><sub>Siyang Wang, Feng Zhao</sub> | arXiv | [Paper](https://arxiv.org/abs/2412.21063) | [Code](https://github.com/siywang541/Varformer) |
