@@ -42,6 +42,9 @@
 ### 2025
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| Gradient as Conditions: Rethinking HOG for All-in-one Image Restoration <br><sub>Jiawei Wu, Zhifei Yang, Zhe Wang, Zhi Jin</sub> | AAAI 2026 | [Paper](https://arxiv.org/abs/2504.09377) | [Code](https://github.com/Fire-friend/HOGformer) |
+| SimpleCall: A Lightweight Image Restoration Agent in Label-Free Environments with MLLM Perceptual Feedback <br><sub>Jianglin Lu, Yuanwei Wu, Ziyi Zhao, Hongcheng Wang, Felix Jimenez, Abrar Majeedi, Yun Fu</sub> | arXiv | [Paper](https://arxiv.org/abs/2512.18599) |  |
+| Degradation-Aware Metric Prompting for Hyperspectral Image Restoration <br><sub>Binfeng Wang, Di Wang, Haonan Guo, Ying Fu, Jing Zhang</sub> | arXiv | [Paper](https://arxiv.org/abs/2512.20251) | [Code](https://github.com/MiliLab/DAMP) |
 | TAT: Task-Adaptive Transformer for All-in-One Medical Image Restoration <br><sub>Zhiwen Yang, Jiaju Zhang, Yang Yi, Jian Liang, Bingzheng Wei, Yan Xu</sub> | MICCAI 2025 | [Paper](https://arxiv.org/abs/2512.14550) | [Code](https://github.com/Yaziwel/TAT) |
 | DSwinIR: Rethinking Window-Based Attention for Image Restoration <br><sub>Gang Wu, Junjun Jiang, Kui Jiang, Xianming Liu, Liqiang Nie</sub> | TPAMI 2025 | [Paper](https://arxiv.org/abs/2504.04869) | [Code](https://github.com/Aitical/DSwinIR) |
 | M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration <br><sub></sub> | TIP 2025 | [Paper](https://arxiv.org/abs/2506.07814) |  |
