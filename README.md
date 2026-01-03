@@ -452,10 +452,13 @@ If our survey helps your research or work, please consider citing our paper.
 The following are BibTeX references:
 
 ```
-@article{jiang2024survey,
+@article{jiang2025survey,
   title={A survey on all-in-one image restoration: Taxonomy, evaluation and future trends},
   author={Jiang, Junjun and Zuo, Zengyuan and Wu, Gang and Jiang, Kui and Liu, Xianming},
-  journal={IEEE TPAMI},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  volume={47},
+  number={12},
+  pages={11892--11911},
   year={2025}
 }
 ```
