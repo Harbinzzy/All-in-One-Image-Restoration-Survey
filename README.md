@@ -39,9 +39,14 @@
 
 ## 📖 All-in-one Image Restoration Paper List
 
+### 2026
+| Paper | Avenue | Link | Code |
+|-------|--------|------|------|
+| ClearAIR: A Human-Visual-Perception-Inspired All-in-One Image Restoration <br><sub>Xu Zhang, Huan Zhang, Guoli Wang, Qian Zhang, Lefei Zhang</sub> | AAAI 2026 | [Paper](https://arxiv.org/abs/2601.02763) | [Code](https://github.com/House-yuyu/ClearAIR) |
 ### 2025
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| DaPT: Degradation-Aware Prompt Tuning for Image Restoration <br><sub>Jinbao Wei, Gang Yang, Zhijie Wang, Shimin Tao, Aiping Liu, Xun Chen</sub> | TIP 2025 | [Paper](https://ieeexplore.ieee.org/document/11311443/) | [Code](https://github.com/weijinbao1998/DaPT) |
 | Gradient as Conditions: Rethinking HOG for All-in-one Image Restoration <br><sub>Jiawei Wu, Zhifei Yang, Zhe Wang, Zhi Jin</sub> | AAAI 2026 | [Paper](https://arxiv.org/abs/2504.09377) | [Code](https://github.com/Fire-friend/HOGformer) |
 | SimpleCall: A Lightweight Image Restoration Agent in Label-Free Environments with MLLM Perceptual Feedback <br><sub>Jianglin Lu, Yuanwei Wu, Ziyi Zhao, Hongcheng Wang, Felix Jimenez, Abrar Majeedi, Yun Fu</sub> | arXiv | [Paper](https://arxiv.org/abs/2512.18599) |  |
 | Degradation-Aware Metric Prompting for Hyperspectral Image Restoration <br><sub>Binfeng Wang, Di Wang, Haonan Guo, Ying Fu, Jing Zhang</sub> | arXiv | [Paper](https://arxiv.org/abs/2512.20251) | [Code](https://github.com/MiliLab/DAMP) |
