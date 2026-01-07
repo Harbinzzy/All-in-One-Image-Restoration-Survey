@@ -43,11 +43,12 @@
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
 | ClearAIR: A Human-Visual-Perception-Inspired All-in-One Image Restoration <br><sub>Xu Zhang, Huan Zhang, Guoli Wang, Qian Zhang, Lefei Zhang</sub> | AAAI 2026 | [Paper](https://arxiv.org/abs/2601.02763) | [Code](https://github.com/House-yuyu/ClearAIR) |
+| Gradient as Conditions: Rethinking HOG for All-in-one Image Restoration <br><sub>Jiawei Wu, Zhifei Yang, Zhe Wang, Zhi Jin</sub> | AAAI 2026 | [Paper](https://arxiv.org/abs/2504.09377) | [Code](https://github.com/Fire-friend/HOGformer) |
+| EndoIR: Degradation-Agnostic All-in-One Endoscopic Image Restoration via Noise-Aware Routing Diffusion <br><sub>Tong Chen, Xinyu Ma, Long Bai, Wenyang Wang, Yue Sun, Luping Zhou</sub> | AAAI 2026 | [Paper](https://arxiv.org/abs/2511.05873) | [Code](https://github.com/DavisMeee/EndoIR) |
 ### 2025
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
 | DaPT: Degradation-Aware Prompt Tuning for Image Restoration <br><sub>Jinbao Wei, Gang Yang, Zhijie Wang, Shimin Tao, Aiping Liu, Xun Chen</sub> | TIP 2025 | [Paper](https://ieeexplore.ieee.org/document/11311443/) | [Code](https://github.com/weijinbao1998/DaPT) |
-| Gradient as Conditions: Rethinking HOG for All-in-one Image Restoration <br><sub>Jiawei Wu, Zhifei Yang, Zhe Wang, Zhi Jin</sub> | AAAI 2026 | [Paper](https://arxiv.org/abs/2504.09377) | [Code](https://github.com/Fire-friend/HOGformer) |
 | SimpleCall: A Lightweight Image Restoration Agent in Label-Free Environments with MLLM Perceptual Feedback <br><sub>Jianglin Lu, Yuanwei Wu, Ziyi Zhao, Hongcheng Wang, Felix Jimenez, Abrar Majeedi, Yun Fu</sub> | arXiv | [Paper](https://arxiv.org/abs/2512.18599) |  |
 | Degradation-Aware Metric Prompting for Hyperspectral Image Restoration <br><sub>Binfeng Wang, Di Wang, Haonan Guo, Ying Fu, Jing Zhang</sub> | arXiv | [Paper](https://arxiv.org/abs/2512.20251) | [Code](https://github.com/MiliLab/DAMP) |
 | TAT: Task-Adaptive Transformer for All-in-One Medical Image Restoration <br><sub>Zhiwen Yang, Jiaju Zhang, Yang Yi, Jian Liang, Bingzheng Wei, Yan Xu</sub> | MICCAI 2025 | [Paper](https://arxiv.org/abs/2512.14550) | [Code](https://github.com/Yaziwel/TAT) |
@@ -63,7 +64,6 @@
 | MOERL: When Mixture-of-Experts Meet Reinforcement Learning for Adverse Weather Image Restoration <br><sub>Tao Wang, Peiwen Xia, Bo Li, Peng-Tao Jiang, Zhe Kong, Kaihao Zhang, Tong Lu, Wenhan Luo</sub> | ICCV 2025 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_MOERL_When_Mixture-of-Experts_Meet_Reinforcement_Learning_for_Adverse_Weather_Image_ICCV_2025_paper.pdf) |  |
 | Bio-Inspired Image Restoration <br><sub>Yuning Cui, Wenqi Ren, Alois Knoll</sub> | NeurIPS 2025 | [Paper](https://neurips.cc/virtual/2025/loc/san-diego/poster/117751) | [Code](https://github.com/c-yn/BioIR) |
 | FAPE-IR: Frequency-Aware Planning and Execution Framework for All-in-One Image Restoration <br><sub>Jingren Liu, Shuning Xu, Qirui Yang, Yun Wang, Xiangyu Chen, Zhong Ji</sub> | arXiv | [Paper](https://arxiv.org/abs/2511.14099) |  |
-| EndoIR: Degradation-Agnostic All-in-One Endoscopic Image Restoration via Noise-Aware Routing Diffusion <br><sub>Tong Chen, Xinyu Ma, Long Bai, Wenyang Wang, Yue Sun, Luping Zhou</sub> | AAAI 2026 | [Paper](https://arxiv.org/abs/2511.05873) | [Code](https://github.com/DavisMeee/EndoIR) |
 | A Minimalistic Unified Framework for Incremental Learning across Image Restoration Tasks <br><sub>Xiaoxuan Gong, Jie Ma</sub> | NeurIPS 2025 | [Paper](https://openreview.net/forum?id=MBQZwQ6vFd) |  |
 | Residual Diffusion Bridge Model for Image Restoration <br><sub>Hebaixu Wang, Jing Zhang, Haoyang Chen, Haonan Guo, Di Wang, Jiayi Ma, Bo Du</sub> | arXiv | [Paper](https://arxiv.org/abs/2510.23116) | [Code](https://github.com/MiliLab/RDBM) |
 | UniUIR: Considering Underwater Image Restoration as An All-in-One Learner <br><sub>Xu Zhang, Huan Zhang, Guoli Wang, Qian Zhang, Lefei Zhang, Bo Du</sub> | TIP 2025 | [Paper](https://ieeexplore.ieee.org/document/11202372/) | [Code](https://house-yuyu.github.io/UniUIR/) |
