@@ -42,6 +42,7 @@
 ### 2026
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| Edit2Restore: Few-Shot Image Restoration via Parameter-Efficient Adaptation of Pre-trained Editing Models <br><sub>M. Akın Yılmaz, Ahmet Bilican, Burak Can Biner, A. Murat Tekalp</sub> | arXiv | [Paper](https://arxiv.org/pdf/2601.03391) | [Code](https://github.com/makinyilmaz/Edit2Restore) |
 | ClearAIR: A Human-Visual-Perception-Inspired All-in-One Image Restoration <br><sub>Xu Zhang, Huan Zhang, Guoli Wang, Qian Zhang, Lefei Zhang</sub> | AAAI 2026 | [Paper](https://arxiv.org/abs/2601.02763) | [Code](https://github.com/House-yuyu/ClearAIR) |
 | Gradient as Conditions: Rethinking HOG for All-in-one Image Restoration <br><sub>Jiawei Wu, Zhifei Yang, Zhe Wang, Zhi Jin</sub> | AAAI 2026 | [Paper](https://arxiv.org/abs/2504.09377) | [Code](https://github.com/Fire-friend/HOGformer) |
 | EndoIR: Degradation-Agnostic All-in-One Endoscopic Image Restoration via Noise-Aware Routing Diffusion <br><sub>Tong Chen, Xinyu Ma, Long Bai, Wenyang Wang, Yue Sun, Luping Zhou</sub> | AAAI 2026 | [Paper](https://arxiv.org/abs/2511.05873) | [Code](https://github.com/DavisMeee/EndoIR) |
