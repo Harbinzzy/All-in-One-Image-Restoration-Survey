@@ -42,6 +42,7 @@
 ### 2026
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| From Physical Degradation Models to Task-Aware All-in-One Image Restoration <br><sub>Hu Gao, Xiaoning Lei, Xichen Xu, Xingjian Wang, Lizhuang Ma</sub> | arXiv | [Paper](https://arxiv.org/abs/2601.10192) |  |
 | Edit2Restore: Few-Shot Image Restoration via Parameter-Efficient Adaptation of Pre-trained Editing Models <br><sub>M. Akın Yılmaz, Ahmet Bilican, Burak Can Biner, A. Murat Tekalp</sub> | arXiv | [Paper](https://arxiv.org/pdf/2601.03391) | [Code](https://github.com/makinyilmaz/Edit2Restore) |
 | UDPNet: Unleashing Depth-based Priors for Robust Image Dehazing <br><sub>Zengyuan Zuo, Junjun Jiang, Gang Wu, Xianming Liu</sub> | arXiv | [Paper](https://arxiv.org/abs/2601.06909) | [Code](https://github.com/Harbinzzy/UDPNet) |
 | ClearAIR: A Human-Visual-Perception-Inspired All-in-One Image Restoration <br><sub>Xu Zhang, Huan Zhang, Guoli Wang, Qian Zhang, Lefei Zhang</sub> | AAAI 2026 | [Paper](https://arxiv.org/abs/2601.02763) | [Code](https://github.com/House-yuyu/ClearAIR) |
