@@ -42,6 +42,8 @@
 ### 2026
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| Unifying Heterogeneous Degradations: Uncertainty-Aware Diffusion Bridge Model for All-in-One Image Restoration <br><sub>Luwei Tu, Jiawei Wu, Xing Luo, Zhi Jin</sub> | arXiv | [Paper](https://arxiv.org/abs/2601.21592) |  |
+| TPGDiff: Hierarchical Triple-Prior Guided Diffusion for Image Restoration <br><sub>Yanjie Tu, Qingsen Yan, Axi Niu, Jiacong Tang</sub> | arXiv | [Paper](https://arxiv.org/abs/2601.20306) | [Code](https://github.com/leoyjTu/TPGDiff) |
 | From Physical Degradation Models to Task-Aware All-in-One Image Restoration <br><sub>Hu Gao, Xiaoning Lei, Xichen Xu, Xingjian Wang, Lizhuang Ma</sub> | arXiv | [Paper](https://arxiv.org/abs/2601.10192) |  |
 | Edit2Restore: Few-Shot Image Restoration via Parameter-Efficient Adaptation of Pre-trained Editing Models <br><sub>M. Akın Yılmaz, Ahmet Bilican, Burak Can Biner, A. Murat Tekalp</sub> | arXiv | [Paper](https://arxiv.org/pdf/2601.03391) | [Code](https://github.com/makinyilmaz/Edit2Restore) |
 | UDPNet: Unleashing Depth-based Priors for Robust Image Dehazing <br><sub>Zengyuan Zuo, Junjun Jiang, Gang Wu, Xianming Liu</sub> | arXiv | [Paper](https://arxiv.org/abs/2601.06909) | [Code](https://github.com/Harbinzzy/UDPNet) |
