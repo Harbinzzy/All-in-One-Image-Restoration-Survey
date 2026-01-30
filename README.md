@@ -53,7 +53,7 @@
 ### 2025
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
-| DaPT: Degradation-Aware Prompt Tuning for Image Restoration <br><sub>Jinbao Wei, Gang Yang, Zhijie Wang, Shimin Tao, Aiping Liu, Xun Chen</sub> | TIP 2025 | [Paper](https://ieeexplore.ieee.org/document/11311443/) | [Code](https://github.com/weijinbao1998/DaPT) |
+| Degradation-Aware Prompted Transformer for Unified Medical Image Restoration <br><sub>Jinbao Wei, Gang Yang, Zhijie Wang, Shimin Tao, Aiping Liu, Xun Chen</sub> | TIP 2025 | [Paper](https://ieeexplore.ieee.org/document/11311443/) | [Code](https://github.com/weijinbao1998/DaPT) |
 | SimpleCall: A Lightweight Image Restoration Agent in Label-Free Environments with MLLM Perceptual Feedback <br><sub>Jianglin Lu, Yuanwei Wu, Ziyi Zhao, Hongcheng Wang, Felix Jimenez, Abrar Majeedi, Yun Fu</sub> | arXiv | [Paper](https://arxiv.org/abs/2512.18599) |  |
 | Degradation-Aware Metric Prompting for Hyperspectral Image Restoration <br><sub>Binfeng Wang, Di Wang, Haonan Guo, Ying Fu, Jing Zhang</sub> | arXiv | [Paper](https://arxiv.org/abs/2512.20251) | [Code](https://github.com/MiliLab/DAMP) |
 | TAT: Task-Adaptive Transformer for All-in-One Medical Image Restoration <br><sub>Zhiwen Yang, Jiaju Zhang, Yang Yi, Jian Liang, Bingzheng Wei, Yan Xu</sub> | MICCAI 2025 | [Paper](https://arxiv.org/abs/2512.14550) | [Code](https://github.com/Yaziwel/TAT) |
