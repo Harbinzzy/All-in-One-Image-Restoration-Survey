@@ -42,6 +42,10 @@
 ### 2026
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| HSI-VAR: Rethinking Hyperspectral Restoration through Spatial-Spectral Visual Autoregression <br><sub>Xiangming Wang, Benteng Sun, Yungeng Liu, Haijin Zeng, Yongyong Chen, Jingyong Su, Jie Liu</sub> | arXiv | [Paper](https://arxiv.org/abs/2602.00749) | [Code](https://github.com/xianggkl/HSI-VAR) |
+| Bridging Degradation Discrimination and Generation for Universal Image Restoration <br><sub>JiaKui Hu, Zhengjian Yao, Lujia Jin, Yanye Lu</sub> | ICLR 2026 | [Paper](https://arxiv.org/abs/2602.00579) | [Code](https://github.com/MILab-PKU/BDG) |
+| Vision-Language Controlled Deep Unfolding for Joint Medical Image Restoration and Segmentation <br><sub>Ping Chen, Zicheng Huang, Xiangming Wang, Yungeng Liu, Bingyu Liang, Haijin Zeng, Yongyong Chen</sub> | arXiv | [Paper](https://arxiv.org/abs/2601.23103) | [Code](https://github.com/cipi666/VLDUN) |
+| DELNet: Continuous All-in-One Weather Removal via Dynamic Expert Library <br><sub>Shihong Liu, Kun Zuo, Hanguang Xiao</sub> | ICASSP 2026 | [Paper](https://arxiv.org/abs/2601.22573) |  |
 | Unifying Heterogeneous Degradations: Uncertainty-Aware Diffusion Bridge Model for All-in-One Image Restoration <br><sub>Luwei Tu, Jiawei Wu, Xing Luo, Zhi Jin</sub> | arXiv | [Paper](https://arxiv.org/abs/2601.21592) |  |
 | TPGDiff: Hierarchical Triple-Prior Guided Diffusion for Image Restoration <br><sub>Yanjie Tu, Qingsen Yan, Axi Niu, Jiacong Tang</sub> | arXiv | [Paper](https://arxiv.org/abs/2601.20306) | [Code](https://github.com/leoyjTu/TPGDiff) |
 | From Physical Degradation Models to Task-Aware All-in-One Image Restoration <br><sub>Hu Gao, Xiaoning Lei, Xichen Xu, Xingjian Wang, Lizhuang Ma</sub> | arXiv | [Paper](https://arxiv.org/abs/2601.10192) |  |
