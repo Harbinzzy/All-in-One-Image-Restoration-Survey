@@ -42,6 +42,7 @@
 ### 2026
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| PromptHSI: Universal Hyperspectral Image Restoration Framework for Composite Degradation<br><sub>Chia-Ming Lee, Ching-Heng Cheng, Yu-Fan Lin, Yi-Ching Cheng, Wo-Ting Liao, Chih-Chung Hsu, Fu-En Yang, Yu-Chiang Frank Wang</sub> | TGRS 2026 | [Paper](https://arxiv.org/abs/2411.15922) | [Code](https://github.com/chingheng0808/PromptHSI) |
 | HSI-VAR: Rethinking Hyperspectral Restoration through Spatial-Spectral Visual Autoregression <br><sub>Xiangming Wang, Benteng Sun, Yungeng Liu, Haijin Zeng, Yongyong Chen, Jingyong Su, Jie Liu</sub> | arXiv | [Paper](https://arxiv.org/abs/2602.00749) | [Code](https://github.com/xianggkl/HSI-VAR) |
 | Bridging Degradation Discrimination and Generation for Universal Image Restoration <br><sub>JiaKui Hu, Zhengjian Yao, Lujia Jin, Yanye Lu</sub> | ICLR 2026 | [Paper](https://arxiv.org/abs/2602.00579) | [Code](https://github.com/MILab-PKU/BDG) |
 | Vision-Language Controlled Deep Unfolding for Joint Medical Image Restoration and Segmentation <br><sub>Ping Chen, Zicheng Huang, Xiangming Wang, Yungeng Liu, Bingyu Liang, Haijin Zeng, Yongyong Chen</sub> | arXiv | [Paper](https://arxiv.org/abs/2601.23103) | [Code](https://github.com/cipi666/VLDUN) |
@@ -154,7 +155,6 @@
 | Multi-dimensional Visual Prompt Enhanced Image Restoration via Mamba-Transformer Aggregation<br><sub>Aiwen Jiang, Hourong Chen, Zhiwen Chen, Jihua Ye, Mingwen Wang</sub> | arXiv | [Paper](https://arxiv.org/abs/2412.15845) | [Code](https://github.com/12138-chr/MTAIR) |
 | MWFormer: Multi-Weather Image Restoration Using Degradation-Aware Transformers<br><sub>Ruoxi Zhu, Zhengzhong Tu, Jiaming Liu, Alan C. Bovik, Yibo Fan</sub> | TIP2024 | [Paper](https://arxiv.org/abs/2411.17226) | [Code](https://github.com/taco-group/MWFormer) | 
 | Mixed Degradation Image Restoration via Local Dynamic Optimization and Conditional Embedding<br><sub>Yubin Gu, Yuan Meng, Xiaoshuai Sun, Jiayi Ji, Weijian Ruan, Rongrong Ji</sub> | arXiv | [Paper](https://arxiv.org/abs/2411.16217) |  |
-| PromptHSI: Universal Hyperspectral Image Restoration Framework for Composite Degradation<br><sub>Chia-Ming Lee, Ching-Heng Cheng, Yu-Fan Lin, Yi-Ching Cheng, Wo-Ting Liao, Chih-Chung Hsu, Fu-En Yang, Yu-Chiang Frank Wang</sub> | arXiv | [Paper](https://arxiv.org/abs/2411.15922) | [Code](https://github.com/chingheng0808/PromptHSI) |
 | AllRestorer: All-in-One Transformer for Image Restoration under Composite Degradations<br><sub> Jiawei Mao, Yu Yang, Xuesong Yin, Ling Shao, Hao Tang</sub> |arXiv| [Paper](https://arxiv.org/abs/2411.10708)||
 | All-in-one Weather-degraded Image Restoration via Adaptive Degradation-aware Self-prompting Model<br><sub> Yuanbo Wen, Tao Gao, Ziqi Li, Jing Zhang, Kaihao Zhang, Ting Chen</sub> |arXiv| [Paper](https://arxiv.org/abs/2411.07445)||
 | Degradation-Aware Residual-Conditioned Optimal Transport for Unified Image Restoration<br><sub> Xiaole Tang, Xiang Gu, Xiaoyi He, Xin Hu, Jian Sun</sub> |TPAMI2025| [Paper](https://arxiv.org/abs/2411.01656)| [Code](https://github.com/xl-tang3/DA-RCOT)|
