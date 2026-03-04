@@ -42,6 +42,8 @@
 ### 2026
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| Learning Domain-Aware Task Prompt Representations for Multi-Domain All-in-One Image Restoration <br><sub>Guanglu Dong, Chunlei Li, Chao Ren, Jingliang Hu, Yilei Shi, Xiao Xiang Zhu, Lichao Mou</sub> | ICLR 2026 | [Paper](https://arxiv.org/abs/2603.01725) | [Code](https://github.com/GuangluDong0728/DATPRL-IR) |
+| MiM-DiT: MoE in MoE with Diffusion Transformers for All-in-One Image Restoration <br><sub>Lingshun Kong, Jiawei Zhang, Zhengpeng Duan, Xiaohe Wu, Yueqi Yang, Xiaotao Wang, Dongqing Zou, Lei Lei, Jinshan Pan</sub> | arXiv | [Paper](https://arxiv.org/abs/2603.02710) | [Code](https://github.com/kkkls/MIM-DiT) |
 | Learning Continuous Wasserstein Barycenter Space for Generalized All-in-One Image Restoration <br><sub>Xiaole Tang, Xiaoyi He, Jiayi Xu, Xiang Gu, Jian Sun</sub> | TPAMI 2026 | [Paper](https://arxiv.org/abs/2602.23169) | [Code](https://github.com/xl-tang3/BaryIR) |
 | PromptHSI: Universal Hyperspectral Image Restoration Framework for Composite Degradation<br><sub>Chia-Ming Lee, Ching-Heng Cheng, Yu-Fan Lin, Yi-Ching Cheng, Wo-Ting Liao, Chih-Chung Hsu, Fu-En Yang, Yu-Chiang Frank Wang</sub> | TGRS 2026 | [Paper](https://arxiv.org/abs/2411.15922) | [Code](https://github.com/chingheng0808/PromptHSI) |
 | HSI-VAR: Rethinking Hyperspectral Restoration through Spatial-Spectral Visual Autoregression <br><sub>Xiangming Wang, Benteng Sun, Yungeng Liu, Haijin Zeng, Yongyong Chen, Jingyong Su, Jie Liu</sub> | arXiv | [Paper](https://arxiv.org/abs/2602.00749) | [Code](https://github.com/xianggkl/HSI-VAR) |
