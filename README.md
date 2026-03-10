@@ -2,7 +2,7 @@
   
 # (IEEE TPAMI 25) A Survey on All-in-One Image Restoration: Taxonomy, Evaluation and Future Trends
 
-[Junjun Jiang](http://homepage.hit.edu.cn/jiangjunjun), [Zengyuan Zuo](),[Gang Wu](https://scholar.google.com/citations?user=JSqb7QIAAAAJ), [Kui Jiang](https://homepage.hit.edu.cn/jiangkui) and [Xianming Liu](http://homepage.hit.edu.cn/xmliu)
+[Junjun Jiang](http://homepage.hit.edu.cn/jiangjunjun), [Zengyuan Zuo](https://scholar.google.com/citations?hl=zh-CN&user=jb-4yJgAAAAJ),[Gang Wu](https://scholar.google.com/citations?user=JSqb7QIAAAAJ), [Kui Jiang](https://homepage.hit.edu.cn/jiangkui) and [Xianming Liu](http://homepage.hit.edu.cn/xmliu)
 
 [AIIA Lab](https://aiialabhit.github.io/team/), Harbin Institute of Technology.
 
@@ -42,6 +42,9 @@
 ### 2026
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| UnSCAR: Universal, Scalable, Controllable, and Adaptable Image Restoration <br><sub>Debabrata Mandal, Soumitri Chattopadhyay, Yujie Wang, Marc Niethammer, Praneeth Chakravarthula</sub> | arXiv | [Paper](https://arxiv.org/abs/2603.07406) |  |
+| SLER-IR: Spherical Layer-wise Expert Routing for All-in-One Image Restoration <br><sub>Peng Shurui, Xin Lin, Shi Luo, Jincen Ou, Dizhe Zhang, Lu Qi, Truong Nguyen, Chao Ren</sub> | arXiv | [Paper](https://arxiv.org/abs/2603.05940) |  |
+| All-in-One Image Restoration via Causal-Deconfounding Wavelet-Disentangled Prompt Network <br><sub>Bingnan Wang, Bin Qin, Jiangmeng Li, Fanjiang Xu, Fuchun Sun, Hui Xiong</sub> | TIP 2026 | [Paper](https://arxiv.org/abs/2603.03839) |  |
 | Learning Domain-Aware Task Prompt Representations for Multi-Domain All-in-One Image Restoration <br><sub>Guanglu Dong, Chunlei Li, Chao Ren, Jingliang Hu, Yilei Shi, Xiao Xiang Zhu, Lichao Mou</sub> | ICLR 2026 | [Paper](https://arxiv.org/abs/2603.01725) | [Code](https://github.com/GuangluDong0728/DATPRL-IR) |
 | MiM-DiT: MoE in MoE with Diffusion Transformers for All-in-One Image Restoration <br><sub>Lingshun Kong, Jiawei Zhang, Zhengpeng Duan, Xiaohe Wu, Yueqi Yang, Xiaotao Wang, Dongqing Zou, Lei Lei, Jinshan Pan</sub> | arXiv | [Paper](https://arxiv.org/abs/2603.02710) | [Code](https://github.com/kkkls/MIM-DiT) |
 | Learning Continuous Wasserstein Barycenter Space for Generalized All-in-One Image Restoration <br><sub>Xiaole Tang, Xiaoyi He, Jiayi Xu, Xiang Gu, Jian Sun</sub> | TPAMI 2026 | [Paper](https://arxiv.org/abs/2602.23169) | [Code](https://github.com/xl-tang3/BaryIR) |
@@ -110,7 +113,6 @@
 | Boosting All-in-One Image Restoration via Self-Improved Privilege Learning <br><sub></sub> | arXiv | [Paper](https://arxiv.org/abs/2505.24207) | [Code](https://github.com/Aitical/SIPL) |
 | Navigating Image Restoration with VAR's Distribution Alignment Prior <br><sub>Siyang Wang, Feng Zhao</sub> | arXiv | [Paper](https://arxiv.org/abs/2412.21063) | [Code](https://github.com/siywang541/Varformer) |
 | From Controlled Scenarios to Real-World: Cross-Domain Degradation Pattern Matching for All-in-One Image Restoration <br><sub>Junyu Fan, Chuanlin Liao, Yi Lin</sub> | arXiv | [Paper](https://arxiv.org/abs/2505.22284) |  |
-| BaryIR: Learning Multi-Source Unified Representation in Continuous Barycenter Space for Generalizable All-in-One Image Restoration <br><sub>Xiaole Tang, Xiaoyi He, Xiang Gu, Jian Sun</sub> | arXiv | [Paper](https://arxiv.org/abs/2505.21637) | [Code](https://github.com/xl-tang3/BaryIR) |
 | Manifold-aware Representation Learning for Degradation-agnostic Image Restoration <br><sub>Bin Ren, Yawei Li, Xu Zheng, Yuqian Fu, Danda Pani Paudel, Ming-Hsuan Yang, Luc Van Gool, Nicu Sebe</sub> | arXiv | [Paper](https://arxiv.org/pdf/2505.18679) | [Code](https://amazingren.github.io/MIRAGE/) |
 | Learning Dynamic Prompts for All-in-One Image Restoration <br><sub>Gang Wu, Junjun Jiang, Kui Jiang, Xianming Liu, Liqiang Nie</sub> | TIP 2025 | [Paper](https://ieeexplore.ieee.org/document/11002360) | [Code](https://github.com/Aitical/DPPD) |
 | MODEM: A Morton-Order Degradation Estimation Mechanism for Adverse Weather Image Recovery <br><sub>Hainuo Wang, Qiming Hu, Xiaojie Guo</sub> | arXiv | [Paper](https://arxiv.org/abs/2505.17581) | [Code](https://github.com/hainuo-wang/MODEM) |
