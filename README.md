@@ -42,6 +42,7 @@
 ### 2026
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| M2IR: Proactive All-in-One Image Restoration via Mamba-style Modulation and Mixture-of-Experts <br><sub>Shiwei Wang, Yongzhen Wang, Bingwen Hu, Liyan Zhang, Xiao-Ping Zhang, Mingqiang Wei</sub> | arXiv | [Paper](https://arxiv.org/abs/2603.14816) | [Code](https://github.com/Im34v/M2IR) |
 | UnSCAR: Universal, Scalable, Controllable, and Adaptable Image Restoration <br><sub>Debabrata Mandal, Soumitri Chattopadhyay, Yujie Wang, Marc Niethammer, Praneeth Chakravarthula</sub> | arXiv | [Paper](https://arxiv.org/abs/2603.07406) |  |
 | SLER-IR: Spherical Layer-wise Expert Routing for All-in-One Image Restoration <br><sub>Peng Shurui, Xin Lin, Shi Luo, Jincen Ou, Dizhe Zhang, Lu Qi, Truong Nguyen, Chao Ren</sub> | arXiv | [Paper](https://arxiv.org/abs/2603.05940) |  |
 | All-in-One Image Restoration via Causal-Deconfounding Wavelet-Disentangled Prompt Network <br><sub>Bingnan Wang, Bin Qin, Jiangmeng Li, Fanjiang Xu, Fuchun Sun, Hui Xiong</sub> | TIP 2026 | [Paper](https://arxiv.org/abs/2603.03839) |  |
