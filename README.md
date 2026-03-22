@@ -42,6 +42,8 @@
 ### 2026
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| StarIR: Convolutional Image Restoration With Spatial-Frequency Fusion <br><sub>Yuning Cui, Syed Waqas Zamir, Ming-Hsuan Yang, Alois Knoll, Fahad Shahbaz Khan, Salman Khan</sub> | TPAMI 2026 | [Paper](https://ieeexplore.ieee.org/document/11429607/) |  |
+| Visual-in-Visual: A Unified and Efficient Baseline for Image Restoration <br><sub>Yuning Cui, Wenqi Ren, Boxin Shi, Alois Knoll</sub> | TPAMI 2026 | [Paper](https://ieeexplore.ieee.org/document/11419859/) |  |
 | M2IR: Proactive All-in-One Image Restoration via Mamba-style Modulation and Mixture-of-Experts <br><sub>Shiwei Wang, Yongzhen Wang, Bingwen Hu, Liyan Zhang, Xiao-Ping Zhang, Mingqiang Wei</sub> | arXiv | [Paper](https://arxiv.org/abs/2603.14816) | [Code](https://github.com/Im34v/M2IR) |
 | UnSCAR: Universal, Scalable, Controllable, and Adaptable Image Restoration <br><sub>Debabrata Mandal, Soumitri Chattopadhyay, Yujie Wang, Marc Niethammer, Praneeth Chakravarthula</sub> | arXiv | [Paper](https://arxiv.org/abs/2603.07406) |  |
 | SLER-IR: Spherical Layer-wise Expert Routing for All-in-One Image Restoration <br><sub>Peng Shurui, Xin Lin, Shi Luo, Jincen Ou, Dizhe Zhang, Lu Qi, Truong Nguyen, Chao Ren</sub> | arXiv | [Paper](https://arxiv.org/abs/2603.05940) |  |
