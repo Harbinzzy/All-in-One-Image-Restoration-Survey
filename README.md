@@ -42,6 +42,7 @@
 ### 2026
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| Focal Modulation for Image Restoration <br><sub>Yuning Cui, Wenqi Ren, Alois Knoll</sub> | IJCV 2026 | [Paper](https://link.springer.com/article/10.1007/s11263-025-02589-y) |  |
 | StarIR: Convolutional Image Restoration With Spatial-Frequency Fusion <br><sub>Yuning Cui, Syed Waqas Zamir, Ming-Hsuan Yang, Alois Knoll, Fahad Shahbaz Khan, Salman Khan</sub> | TPAMI 2026 | [Paper](https://ieeexplore.ieee.org/document/11429607/) |  |
 | Visual-in-Visual: A Unified and Efficient Baseline for Image Restoration <br><sub>Yuning Cui, Wenqi Ren, Boxin Shi, Alois Knoll</sub> | TPAMI 2026 | [Paper](https://ieeexplore.ieee.org/document/11419859/) |  |
 | M2IR: Proactive All-in-One Image Restoration via Mamba-style Modulation and Mixture-of-Experts <br><sub>Shiwei Wang, Yongzhen Wang, Bingwen Hu, Liyan Zhang, Xiao-Ping Zhang, Mingqiang Wei</sub> | arXiv | [Paper](https://arxiv.org/abs/2603.14816) | [Code](https://github.com/Im34v/M2IR) |
