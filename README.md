@@ -42,6 +42,7 @@
 ### 2026
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| TIR-Agent: Training an Explorative and Efficient Agent for Image Restoration <br><sub>Yisheng Zhang, Guoli Jia, Haote Hu, Shanxu Zhao, Kaikai Zhao, Long Sun, Xinwei Long, Kai Tian, Che Jiang, Zhaoxiang Liu, Kai Wang, Shiguo Lian, Kaiyan Zhang, Bowen Zhou</sub> | arXiv | [Paper](https://arxiv.org/abs/2603.27742) |  |
 | Restore, Assess, Repeat: A Unified Framework for Iterative Image Restoration <br><sub>I-Hsiang Chen, Isma Hadji, Enrique Sanchez, Adrian Bulat, Sy-Yen Kuo, Radu Timofte, Georgios Tzimiropoulos, Brais Martinez</sub> | CVPR 2026 | [Paper](https://arxiv.org/abs/2603.26385) | [Code](https://github.com/SamsungLabs/RAR) |
 | Focal Modulation for Image Restoration <br><sub>Yuning Cui, Wenqi Ren, Alois Knoll</sub> | IJCV 2026 | [Paper](https://link.springer.com/article/10.1007/s11263-025-02589-y) |  |
 | StarIR: Convolutional Image Restoration With Spatial-Frequency Fusion <br><sub>Yuning Cui, Syed Waqas Zamir, Ming-Hsuan Yang, Alois Knoll, Fahad Shahbaz Khan, Salman Khan</sub> | TPAMI 2026 | [Paper](https://ieeexplore.ieee.org/document/11429607/) |  |
