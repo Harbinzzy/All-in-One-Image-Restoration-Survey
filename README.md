@@ -43,6 +43,7 @@
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
 | Task-Guided Prompting for Unified Remote Sensing Image Restoration <br><sub>Wenli Huang, Yang Wu, Xiaomeng Xin, Zhihong Liu, Jinjun Wang, Ye Deng</sub> | TGRS 2026 | [Paper](https://arxiv.org/abs/2604.02742v1) | [Code](https://github.com/huangwenwenlili/TGPNet) |
+| Your Pre-trained Diffusion Model Secretly Knows Restoration <br><sub>Sudarshan Rajagopalan, Vishal M. Patel</sub> | arXiv | [Paper](https://arxiv.org/abs/2604.04924) | [Code](https://sudraj2002.github.io/yptpage/) |
 | A Unified Foundation Model for All-in-One Multi-Modal Remote Sensing Image Restoration and Fusion with Language Prompting <br><sub>Yongchuan Cui, Peng Liu</sub> | arXiv | [Paper](https://arxiv.org/abs/2604.05629) | [Code](https://github.com/yc-cui/LLaRS) |
 | TIR-Agent: Training an Explorative and Efficient Agent for Image Restoration <br><sub>Yisheng Zhang, Guoli Jia, Haote Hu, Shanxu Zhao, Kaikai Zhao, Long Sun, Xinwei Long, Kai Tian, Che Jiang, Zhaoxiang Liu, Kai Wang, Shiguo Lian, Kaiyan Zhang, Bowen Zhou</sub> | arXiv | [Paper](https://arxiv.org/abs/2603.27742) |  |
 | Restore, Assess, Repeat: A Unified Framework for Iterative Image Restoration <br><sub>I-Hsiang Chen, Isma Hadji, Enrique Sanchez, Adrian Bulat, Sy-Yen Kuo, Radu Timofte, Georgios Tzimiropoulos, Brais Martinez</sub> | CVPR 2026 | [Paper](https://arxiv.org/abs/2603.26385) | [Code](https://github.com/SamsungLabs/RAR) |
