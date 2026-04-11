@@ -42,6 +42,7 @@
 ### 2026
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| WeatherRemover: All-in-one Adverse Weather Removal with Multi-scale Feature Map Compression <br><sub>Weikai Qu, Sijun Liang, Cheng Pan, Zikuan Yang, Guanchi Zhou, Xianjun Fu, Bo Liu, Changmiao Wang, Ahmed Elazab</sub> | TAI 2026 | [Paper](https://arxiv.org/abs/2604.06623) | [Code](https://github.com/RICKand-MORTY/WeatherRemover) |
 | Task-Guided Prompting for Unified Remote Sensing Image Restoration <br><sub>Wenli Huang, Yang Wu, Xiaomeng Xin, Zhihong Liu, Jinjun Wang, Ye Deng</sub> | TGRS 2026 | [Paper](https://arxiv.org/abs/2604.02742v1) | [Code](https://github.com/huangwenwenlili/TGPNet) |
 | Your Pre-trained Diffusion Model Secretly Knows Restoration <br><sub>Sudarshan Rajagopalan, Vishal M. Patel</sub> | arXiv | [Paper](https://arxiv.org/abs/2604.04924) | [Code](https://sudraj2002.github.io/yptpage/) |
 | A Unified Foundation Model for All-in-One Multi-Modal Remote Sensing Image Restoration and Fusion with Language Prompting <br><sub>Yongchuan Cui, Peng Liu</sub> | arXiv | [Paper](https://arxiv.org/abs/2604.05629) | [Code](https://github.com/yc-cui/LLaRS) |
