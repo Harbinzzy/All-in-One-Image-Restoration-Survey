@@ -42,7 +42,7 @@
 ### 2026
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
-| Breaking Degradation Coupling: A Structural Entropy Guided Decoupled Framework and Benchmark for Infrared Enhancement <br><sub>Pu Li, Huafeng Li, Yafei Zhang, Yu Liu, Wen Wang</sub> | CVPR 2026 |  | [Code](https://github.com/Kust-lp/SEGD) |
+| Breaking Degradation Coupling: A Structural Entropy Guided Decoupled Framework and Benchmark for Infrared Enhancement <br><sub>Pu Li, Huafeng Li, Yafei Zhang, Yu Liu, Wen Wang</sub> | CVPR 2026 | [Paper](https://arxiv.org/abs/2604.22886) | [Code](https://github.com/Kust-lp/SEGD) |
 | LoViF 2026 Challenge on Real-World All-in-One Image Restoration: Methods and Results <br><sub>Xiang Chen, Hao Li, Jiangxin Dong, Jinshan Pan, et al.</sub> | CVPR Workshops 2026 | [Paper](https://arxiv.org/abs/2604.19445) |  |
 | CDIR: LoRA-Inspired Attention for Efficient Composite Degradation Image Restoration <br><sub>Yuning Cui, Wenqi Ren, Boxin Shi, Jianhou Gan, Alois Knoll</sub> | TIP 2026 | [Paper](https://ieeexplore.ieee.org/abstract/document/11481578) |  |
 | A Unified Foundation Model for All-in-One Multi-Modal Remote Sensing Image Restoration and Fusion with Language Prompting <br><sub>Yongchuan Cui, Peng Liu</sub> | arXiv | [Paper](https://arxiv.org/abs/2604.05629) | [Code](https://github.com/yc-cui/LLaRS) |
