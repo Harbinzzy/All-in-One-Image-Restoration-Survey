@@ -166,6 +166,7 @@
 | Complexity Experts are Task-Discriminative Learners for Any Image Restoration<br><sub>Eduard Zamfir, Zongwei Wu, Nancy Mehta, Yuedong Tan, Danda Pani Paudel, Yulun Zhang, Radu Timofte</sub> | CVPR2025 | [Paper](https://arxiv.org/abs/2411.18466) | [Code](https://github.com/eduardzamfir/MoCE-IR) |
 | Adaptive Blind All-in-One Image Restoration<br><sub>David Serrano-Lozano, Luis Herranz, Shaolin Su, Javier Vazquez-Corral</sub> | arXiv | [Paper](https://arxiv.org/abs/2411.18412) | [Code](https://github.com/davidserra9/abair/) |
 | GenDeg: Diffusion-Based Degradation Synthesis for Generalizable All-in-One Image Restoration<br><sub>Sudarshan Rajagopalan, Nithin Gopalakrishnan Nair, Jay N. Paranjape, Vishal M. Patel</sub> | CVPR2025 | [Paper](https://arxiv.org/abs/2411.17687) | [Code](https://sudraj2002.github.io/gendegpage/) |
+|OmniRestore: Robust Universal Image Restoration from Combined and Unspecified Degradations<br><sub> Anjusree Karnavar, Yang Li,  Jiajun Liu,  Jun Zhou,  Junhu Wang </sub> |ICME 2025| [Paper] (https://ieeexplore.ieee.org/document/11209899)||
 ### 2024
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
