@@ -42,6 +42,7 @@
 ### 2026
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| Degradation-Aware Adaptive Context Gating for Unified Image Restoration <br><sub>Lei He, Jielei Chu, Fengmao Lv, Weide Liu, Tianrui Li, Jun Cheng, Yuming Fang</sub> | arXiv | [Paper](https://arxiv.org/abs/2605.01236) | [Code](https://github.com/HlHomes/DACG-IR-code) |
 | Breaking Degradation Coupling: A Structural Entropy Guided Decoupled Framework and Benchmark for Infrared Enhancement <br><sub>Pu Li, Huafeng Li, Yafei Zhang, Yu Liu, Wen Wang</sub> | CVPR 2026 | [Paper](https://arxiv.org/abs/2604.22886) | [Code](https://github.com/Kust-lp/SEGD) |
 | LoViF 2026 Challenge on Real-World All-in-One Image Restoration: Methods and Results <br><sub>Xiang Chen, Hao Li, Jiangxin Dong, Jinshan Pan, et al.</sub> | CVPR Workshops 2026 | [Paper](https://arxiv.org/abs/2604.19445) |  |
 | CDIR: LoRA-Inspired Attention for Efficient Composite Degradation Image Restoration <br><sub>Yuning Cui, Wenqi Ren, Boxin Shi, Jianhou Gan, Alois Knoll</sub> | TIP 2026 | [Paper](https://ieeexplore.ieee.org/abstract/document/11481578) |  |
