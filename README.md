@@ -42,7 +42,8 @@
 ### 2026
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
-| UARE: A Unified Vision-Language Model for Image Quality Assessment, Restoration, and Enhancement <br><sub>Weiqi Li, Xuanyu Zhang, Bin Chen, Jingfen Xie, Yan Wang, Kexin Zhang, Junlin Li, Li Zhang, Jian Zhang, Shijie Zhao</sub> | arXiv | [Paper](https://arxiv.org/abs/2512.06750) | [Code](https://github.com/MiliLab/RDBM) |
+| Continuous Expert Assembly: Instance-Conditioned Low-Rank Residuals for All-in-One Image Restoration <br><sub>Haisen He, Xiangyu Zou, SongLin Dong, Heng Li, Yihong Gong, Zhiheng Ma</sub> | arXiv | [Paper](https://arxiv.org/abs/2605.06127) | |
+| UARE: A Unified Vision-Language Model for Image Quality Assessment, Restoration, and Enhancement <br><sub>Weiqi Li, Xuanyu Zhang, Bin Chen, Jingfen Xie, Yan Wang, Kexin Zhang, Junlin Li, Li Zhang, Jian Zhang, Shijie Zhao</sub> | arXiv | [Paper](https://arxiv.org/abs/2512.06750) | [Code](https://github.com/lwq20020127/UARE) |
 | Residual Diffusion Bridge Model for Image Restoration <br><sub>Hebaixu Wang, Jing Zhang, Haoyang Chen, Haonan Guo, Di Wang, Jiayi Ma, Bo Du</sub> | CVPR 2026 | [Paper](https://arxiv.org/abs/2507.23685) | [Code](https://github.com/MiliLab/RDBM) |
 | Hybrid Agents for Image Restoration<br><sub>Bingchen Li, Xin Li, Yiting Lu, Zhibo Chen</sub>| CVPR 2026 |[Paper](https://arxiv.org/abs/2503.10120)|  |  
 | UniLDiff: Unlocking the Power of Diffusion Priors for All-in-One Image Restoration <br><sub>Zihan Cheng, Liangtai Zhou, Dian Chen, Ni Tang, Xiaotong Luo, Yanyun Qu</sub> | CVPR 2026 | [Paper](https://arxiv.org/abs/2507.23685) | |
