@@ -42,6 +42,8 @@
 ### 2026
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| Leveraging Multimodal Large Language Models for All-in-One Image Restoration via a Mixture of Frequency Experts <br><sub>Eunho Lee, Rei Kawakami, Youngbae Hwang</sub> | arXiv | [Paper](https://arxiv.org/abs/2605.11444) |  |
+| DRNet: All-in-One Image Restoration via Prior-Guided Dynamic Reparameterization <br><sub>Ao Li, Xiaoning Liu, Sheng Li, Yapeng Du, Zhen Long, Lei Luo, Le Zhang, Ce Zhu</sub> | TMM 2026 | [Paper](https://arxiv.org/abs/2605.08627) | [Code](https://github.com/AVC2-UESTC/DRNet-AiO) |
 | Continuous Expert Assembly: Instance-Conditioned Low-Rank Residuals for All-in-One Image Restoration <br><sub>Haisen He, Xiangyu Zou, SongLin Dong, Heng Li, Yihong Gong, Zhiheng Ma</sub> | arXiv | [Paper](https://arxiv.org/abs/2605.06127) | |
 | UARE: A Unified Vision-Language Model for Image Quality Assessment, Restoration, and Enhancement <br><sub>Weiqi Li, Xuanyu Zhang, Bin Chen, Jingfen Xie, Yan Wang, Kexin Zhang, Junlin Li, Li Zhang, Jian Zhang, Shijie Zhao</sub> | arXiv | [Paper](https://arxiv.org/abs/2512.06750) | [Code](https://github.com/lwq20020127/UARE) |
 | Residual Diffusion Bridge Model for Image Restoration <br><sub>Hebaixu Wang, Jing Zhang, Haoyang Chen, Haonan Guo, Di Wang, Jiayi Ma, Bo Du</sub> | CVPR 2026 | [Paper](https://arxiv.org/abs/2507.23685) | [Code](https://github.com/MiliLab/RDBM) |
@@ -87,6 +89,7 @@
 ### 2025
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| Enhancing Image Restoration Transformer via Adaptive Translation Equivariance <br><sub>JiaKui Hu, Zhengjian Yao, Lujia Jin, Hangzhou He, Yanye Lu</sub> | ICCV 2025 | [Paper](https://arxiv.org/abs/2506.18520) |  |
 | Degradation-Aware Prompted Transformer for Unified Medical Image Restoration <br><sub>Jinbao Wei, Gang Yang, Zhijie Wang, Shimin Tao, Aiping Liu, Xun Chen</sub> | TIP 2025 | [Paper](https://ieeexplore.ieee.org/document/11311443/) | [Code](https://github.com/weijinbao1998/DaPT) |
 | SimpleCall: A Lightweight Image Restoration Agent in Label-Free Environments with MLLM Perceptual Feedback <br><sub>Jianglin Lu, Yuanwei Wu, Ziyi Zhao, Hongcheng Wang, Felix Jimenez, Abrar Majeedi, Yun Fu</sub> | arXiv | [Paper](https://arxiv.org/abs/2512.18599) |  |
 | Degradation-Aware Metric Prompting for Hyperspectral Image Restoration <br><sub>Binfeng Wang, Di Wang, Haonan Guo, Ying Fu, Jing Zhang</sub> | arXiv | [Paper](https://arxiv.org/abs/2512.20251) | [Code](https://github.com/MiliLab/DAMP) |
