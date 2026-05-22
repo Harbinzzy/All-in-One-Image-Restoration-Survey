@@ -42,6 +42,9 @@
 ### 2026
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| OPERA: An Agent for Image Restoration with End-to-End Joint Planning-Execution Optimization <br><sub>Feng Zhu, Shuyang Xie, Yihan Zeng, Ming Liu, Wangmeng Zuo</sub> | arXiv | [Paper](https://arxiv.org/abs/2605.22104) | [Code](https://github.com/xsyshuishui/Opera) |
+| Degradation Frequency Curve: An Explicit Frequency-Quantified Representation for All-in-One Image Restoration <br><sub>Xinghua Huang, Zhixiong Yang, Chen Wu, Shengxi Li, Shuaifeng Zhi, Yue Zhang, Qibin Hou, Xin Deng, Jingyuan Xia</sub> | arXiv | [Paper](https://arxiv.org/abs/2605.17506) |  |
+| Expandable, Compressible, Mineable: Open-World Thermal Image Restoration <br><sub>Pu Li, Huafeng Li, Yafei Zhang, Wen Wang, Neng Dong, Jie Wen</sub> | ICML 2026 | [Paper](https://arxiv.org/abs/2605.16967) | [Code](https://github.com/Kust-lp/ECMRNet) |
 | Leveraging Multimodal Large Language Models for All-in-One Image Restoration via a Mixture of Frequency Experts <br><sub>Eunho Lee, Rei Kawakami, Youngbae Hwang</sub> | arXiv | [Paper](https://arxiv.org/abs/2605.11444) |  |
 | DRNet: All-in-One Image Restoration via Prior-Guided Dynamic Reparameterization <br><sub>Ao Li, Xiaoning Liu, Sheng Li, Yapeng Du, Zhen Long, Lei Luo, Le Zhang, Ce Zhu</sub> | TMM 2026 | [Paper](https://arxiv.org/abs/2605.08627) | [Code](https://github.com/AVC2-UESTC/DRNet-AiO) |
 | Continuous Expert Assembly: Instance-Conditioned Low-Rank Residuals for All-in-One Image Restoration <br><sub>Haisen He, Xiangyu Zou, SongLin Dong, Heng Li, Yihong Gong, Zhiheng Ma</sub> | arXiv | [Paper](https://arxiv.org/abs/2605.06127) | |
