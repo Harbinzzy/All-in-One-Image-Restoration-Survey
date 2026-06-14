@@ -42,6 +42,7 @@
 ### 2026
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| Hierarchical Physical-Chain Decoupling With Geo-Semantic MoLoRA for All-in-One Multimodal Remote Sensing Image Restoration <br><sub>Zhentao Zou, Jichu Zhan, Yue Zhou, Ran Ding, Jia Fu, Chaofeng Chen, Jianxin Xing, Xiaogang Yu, Xue Jiang</sub> | TGRS 2026 | [Paper](https://ieeexplore.ieee.org/document/11517554/) | [Code](https://github.com/zhentao-zou/HPCD) |
 | Degradation-Consistent Test-Time Adaptation for All-in-One Image Restoration <br><sub>Ni Tang, Shenghao Nie, Xiaotong Luo, Yuan Xie, Yanyun Qu</sub> | CVPR 2026 | [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Tang_Degradation-Consistent_Test-Time_Adaptation_for_All-in-One_Image_Restoration_CVPR_2026_paper.pdf) |  |
 | Retrieve-to-Restore: Efficient All-in-One Image Restoration with a Retrieval-Based Degradation Bank <br><sub>Chenxu Wang, Kai Zhang, Jian Yang</sub> | CVPR 2026 | [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_Retrieve-to-Restore_Efficient_All-in-One_Image_Restoration_with_a_Retrieval-Based_Degradation_Bank_CVPR_2026_paper.pdf) | [Code](https://github.com/cscxwang/R2R) |
 | DiTTo: Scalable Order-aware All-in-One Image Restoration Agent <br><sub>Seungho Choi, Jihyong Oh</sub> | arXiv | [Paper](https://arxiv.org/abs/2605.30915) | [Code](https://cmlab-korea.github.io/DiTTo/) |
