@@ -42,7 +42,7 @@
 ### 2026
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
-| Learning Adaptive Dynamical Features via Multi-τ Liquid-Mamba for All-in-one Image Restoration <br><sub>Hu Gao, Changshuo Wang, Yulong Chen, Lizhuang Ma</sub> | arXiv 2026 | [Paper](https://arxiv.org/abs/2606.22801) |  |
+| Learning Adaptive Dynamical Features via Multi-τ Liquid-Mamba for All-in-one Image Restoration <br><sub>Hu Gao, Changshuo Wang, Yulong Chen, Lizhuang Ma</sub> | arXiv | [Paper](https://arxiv.org/abs/2606.22801) |  |
 | DVANet: Degradation-aware Visual-prior Alignment Network for Image Restoration <br><sub>Yanjie Tu, Qingsen Yan, Axi Niu, Tao Hu, Haokui Zhang, Jiantao Zhou</sub> | arXiv | [Paper](https://arxiv.org/abs/2606.19097) | [Code](https://github.com/leoyjTu/DVANet) |
 | Universal Image Restoration via Internalized Chain-of-Thought Reasoning <br><sub>Yu Guo, Zhengru Fang, Shengfeng He, Senkang Hu, Yihang Tao, Phone Lin, Yuguang Fang</sub> | arXiv | [Paper](https://arxiv.org/abs/2606.17557) | [Code](https://github.com/gy65896/CoTIR) |
 | DDTNet: Degradation Disentanglement and Transfer Network for Test-Time All-in-One De-weathering Adaptation <br><sub>Kuan-Hung Lin, Fu-Jen Tsai, Yan-Tsung Peng, Min-Hung Chen, Chia-Wen Lin, Yen-Yu Lin</sub> | arXiv | [Paper](https://arxiv.org/abs/2606.16298) |  |
