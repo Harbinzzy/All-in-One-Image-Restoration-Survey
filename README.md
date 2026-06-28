@@ -42,6 +42,8 @@
 ### 2026
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| Hierarchical Physical-Chain Decoupling With Geo-Semantic MoLoRA for All-in-One Multimodal Remote Sensing Image Restoration <br><sub>Zhentao Zou, Jichu Zhan, Yue Zhou, Ran Ding, Jia Fu, Chaofeng Chen, Jianxin Xing, Xiaogang Yu, Xue Jiang</sub> | TGRS 2026 | [Paper](https://ieeexplore.ieee.org/document/11517554/) | [Code](https://github.com/zhentao-zou/HPCD) |
+| Learning Dual Transformers for All-in-One Image Restoration From a Frequency Perspective <br><sub>Jie Chu, Tong Su, Pei Liu, Yunpeng Wu, Le Zhang, Zenglin Shi, Meng Wang</sub> | TNNLS 2026 | [Paper](https://ieeexplore.ieee.org/document/11570231/) |  |
 | Learning Adaptive Dynamical Features via Multi-τ Liquid-Mamba for All-in-one Image Restoration <br><sub>Hu Gao, Changshuo Wang, Yulong Chen, Lizhuang Ma</sub> | arXiv | [Paper](https://arxiv.org/abs/2606.22801) |  |
 | DVANet: Degradation-aware Visual-prior Alignment Network for Image Restoration <br><sub>Yanjie Tu, Qingsen Yan, Axi Niu, Tao Hu, Haokui Zhang, Jiantao Zhou</sub> | arXiv | [Paper](https://arxiv.org/abs/2606.19097) | [Code](https://github.com/leoyjTu/DVANet) |
 | Universal Image Restoration via Internalized Chain-of-Thought Reasoning <br><sub>Yu Guo, Zhengru Fang, Shengfeng He, Senkang Hu, Yihang Tao, Phone Lin, Yuguang Fang</sub> | arXiv | [Paper](https://arxiv.org/abs/2606.17557) | [Code](https://github.com/gy65896/CoTIR) |
