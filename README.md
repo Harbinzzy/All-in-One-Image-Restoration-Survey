@@ -42,6 +42,7 @@
 ### 2026
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| Bend the Basics: Degradation-Aware Deformable Tokenization for All-in-One Image Restoration <br><sub>Zihao He, Yunfeng Wu, Xinchao Wang, Songhua Liu</sub> | ICML 2026 | [Paper](https://icml.cc/virtual/2026/poster/63189) |  |
 | Hierarchical Physical-Chain Decoupling With Geo-Semantic MoLoRA for All-in-One Multimodal Remote Sensing Image Restoration <br><sub>Zhentao Zou, Jichu Zhan, Yue Zhou, Ran Ding, Jia Fu, Chaofeng Chen, Jianxin Xing, Xiaogang Yu, Xue Jiang</sub> | TGRS 2026 | [Paper](https://ieeexplore.ieee.org/document/11517554/) | [Code](https://github.com/zhentao-zou/HPCD) |
 | Learning Dual Transformers for All-in-One Image Restoration From a Frequency Perspective <br><sub>Jie Chu, Tong Su, Pei Liu, Yunpeng Wu, Le Zhang, Zenglin Shi, Meng Wang</sub> | TNNLS 2026 | [Paper](https://ieeexplore.ieee.org/document/11570231/) |  |
 | Learning Adaptive Dynamical Features via Multi-τ Liquid-Mamba for All-in-one Image Restoration <br><sub>Hu Gao, Changshuo Wang, Yulong Chen, Lizhuang Ma</sub> | arXiv | [Paper](https://arxiv.org/abs/2606.22801) |  |
