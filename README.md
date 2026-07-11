@@ -503,7 +503,7 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Harbinzzy/All-in-One-Image-Restoration-Survey&type=date&legend=top-left)](https://www.star-history.com/#Harbinzzy/All-in-One-Image-Restoration-Survey&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=Harbinzzy/All-in-One-Image-Restoration-Survey&type=date&legend=top-left)](https://www.star-history.com/?type=date&legend=top-left&repos=Harbinzzy/All-in-One-Image-Restoration-Survey)
 
 ## Citations
 If our survey helps your research or work, please consider citing our paper.
