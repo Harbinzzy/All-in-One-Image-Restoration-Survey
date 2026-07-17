@@ -42,6 +42,7 @@
 ### 2026
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| QuReC: All-in-One Image Restoration with Query-Specific Guidance and Local-Global Response Calibration <br><sub>Shen Zhou, Jinghui Zhang, Wenbo Huang, Xuwei Qian, Zhen Wu, Guangwen Peng, Zhiyuan Li, Ding Ding, Dian Shen, Fang Dong</sub> | ACM MM 2026 | [Paper](https://arxiv.org/abs/2607.15097) | [Code](https://github.com/zhoushen1/QuReC) |
 | Bend the Basics: Degradation-Aware Deformable Tokenization for All-in-One Image Restoration <br><sub>Zihao He, Yunfeng Wu, Xinchao Wang, Songhua Liu</sub> | ICML 2026 | [Paper](https://icml.cc/virtual/2026/poster/63189) |  |
 | Hierarchical Physical-Chain Decoupling With Geo-Semantic MoLoRA for All-in-One Multimodal Remote Sensing Image Restoration <br><sub>Zhentao Zou, Jichu Zhan, Yue Zhou, Ran Ding, Jia Fu, Chaofeng Chen, Jianxin Xing, Xiaogang Yu, Xue Jiang</sub> | TGRS 2026 | [Paper](https://ieeexplore.ieee.org/document/11517554/) | [Code](https://github.com/zhentao-zou/HPCD) |
 | Learning Dual Transformers for All-in-One Image Restoration From a Frequency Perspective <br><sub>Jie Chu, Tong Su, Pei Liu, Yunpeng Wu, Le Zhang, Zenglin Shi, Meng Wang</sub> | TNNLS 2026 | [Paper](https://ieeexplore.ieee.org/document/11570231/) |  |
