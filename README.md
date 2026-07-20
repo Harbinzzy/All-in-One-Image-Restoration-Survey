@@ -43,6 +43,9 @@
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
 | QuReC: All-in-One Image Restoration with Query-Specific Guidance and Local-Global Response Calibration <br><sub>Shen Zhou, Jinghui Zhang, Wenbo Huang, Xuwei Qian, Zhen Wu, Guangwen Peng, Zhiyuan Li, Ding Ding, Dian Shen, Fang Dong</sub> | ACM MM 2026 | [Paper](https://arxiv.org/abs/2607.15097) | [Code](https://github.com/zhoushen1/QuReC) |
+| Virtual Consistency Model for All-in-one Image Restoration <br><sub>Jiawei Wu, Luwei Tu, Zhe Wang, Zhi Jin, Kaihao Zhang, Wenqi Ren, Xiaochun Cao</sub> | TIP 2026 | [Paper](https://ieeexplore.ieee.org/abstract/document/11606308) |  |
+| Transformer-Inspired Convolutional Network for Image Restoration <br><sub>Yuning Cui, Mingyu Liu, Wenqi Ren, Boxin Shi, Alois Knoll</sub> | TCSVT 2026 | [Paper](https://ieeexplore.ieee.org/abstract/document/11595695) |  |
+| Prompt-In-Prompt Learning for Universal Image Restoration<br><sub>Zilong Li, Yiming Lei, Chenglong Ma, Junping Zhang, Hongming Shan</sub> | PR 2026 | [Paper](https://arxiv.org/abs/2312.05038v1) | [Code](https://github.com/longzilicart/pip_universal) |
 | Bend the Basics: Degradation-Aware Deformable Tokenization for All-in-One Image Restoration <br><sub>Zihao He, Yunfeng Wu, Xinchao Wang, Songhua Liu</sub> | ICML 2026 | [Paper](https://icml.cc/virtual/2026/poster/63189) |  |
 | Hierarchical Physical-Chain Decoupling With Geo-Semantic MoLoRA for All-in-One Multimodal Remote Sensing Image Restoration <br><sub>Zhentao Zou, Jichu Zhan, Yue Zhou, Ran Ding, Jia Fu, Chaofeng Chen, Jianxin Xing, Xiaogang Yu, Xue Jiang</sub> | TGRS 2026 | [Paper](https://ieeexplore.ieee.org/document/11517554/) | [Code](https://github.com/zhentao-zou/HPCD) |
 | Learning Dual Transformers for All-in-One Image Restoration From a Frequency Perspective <br><sub>Jie Chu, Tong Su, Pei Liu, Yunpeng Wu, Le Zhang, Zenglin Shi, Meng Wang</sub> | TNNLS 2026 | [Paper](https://ieeexplore.ieee.org/document/11570231/) |  |
@@ -251,7 +254,6 @@
 |-------|--------|------|------|
 | Textual Prompt Guided Image Restoration<br><sub>Qiuhai Yan, Aiwen Jiang, Kang Chen, Long Peng, Qiaosi Yi, Chunjie Zhang</sub> | arXiv | [Paper](https://arxiv.org/abs/2312.06162) | [Code](https://github.com/MoTong-AI-studio/TextPromptIR) |
 | Decoupling Degradation and Content Processing for Adverse Weather Image Restoration<br><sub>Xi Wang, Xueyang Fu, Peng-Tao Jiang, Jie Huang, Mi Zhou, Bo Li, Zheng-Jun Zha</sub> | arXiv | [Paper](https://arxiv.org/abs/2312.05006) |  |
-| Prompt-In-Prompt Learning for Universal Image Restoration<br><sub>Zilong Li, Yiming Lei, Chenglong Ma, Junping Zhang, Hongming Shan</sub> | arXiv | [Paper](https://arxiv.org/abs/2312.05038v1) | [Code](https://github.com/longzilicart/pip_universal) |
 | Multimodal Prompt Perceiver: Empower Adaptiveness, Generalizability and Fidelity for All-in-One Image Restoration<br><sub>Yuang Ai, Huaibo Huang, Xiaoqiang Zhou, Jiexiang Wang, Ran He</sub> | CVPR2024 | [Paper](https://arxiv.org/abs/2312.02918) |  |
 | Language-driven All-in-one Adverse Weather Removal<br><sub>Hao Yang, Liyuan Pan, Yan Yang, Wei Liang</sub> | CVPR2024 | [Paper](https://arxiv.org/abs/2312.01381) |  |
 | Test-Time Degradation Adaptation for Open-Set Image Restoration<br><sub>Yuanbiao Gou, Haiyu Zhao, Boyun Li, Xinyan Xiao, Xi Peng</sub> | ICML2024 | [Paper](https://arxiv.org/abs/2312.02197) | [Code](https://github.com/XLearning-SCU/2024-ICML-TAO) |
