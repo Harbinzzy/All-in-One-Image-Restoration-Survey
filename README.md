@@ -42,6 +42,9 @@
 ### 2026
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| Causal-AgentIR: Self-Evolving Causal Memory for Adaptive Image Restoration Agents <br><sub>Hu Gao, Yulong Chen, Lizhuang Ma</sub> | arXiv | [Paper](https://arxiv.org/abs/2607.21125) |  |
+| Restore-R1: Efficient Image Restoration Agents via Reinforcement Learning with Multimodal LLM Perceptual Feedback <br><sub>Jianglin Lu, Yuanwei Wu, Ziyi Zhao, Hongcheng Wang, Felix Jimenez, Abrar Majeedi, Yun Fu</sub> | CVPR 2026 |  |  |
+| IAMAgent: Toward an Interactive and Adaptive Multi-Agent System for Image Restoration <br><sub>Yanyan Wei, Yilin Zhang, Zhao Zhang, Huan Zheng, Jiahuan Ren, Xiaogang Xu, Meng Wang, Zenglin Shi</sub> | TIP 2026 | [Paper](https://ieeexplore.ieee.org/document/11433514) |  |
 | QuReC: All-in-One Image Restoration with Query-Specific Guidance and Local-Global Response Calibration <br><sub>Shen Zhou, Jinghui Zhang, Wenbo Huang, Xuwei Qian, Zhen Wu, Guangwen Peng, Zhiyuan Li, Ding Ding, Dian Shen, Fang Dong</sub> | ACM MM 2026 | [Paper](https://arxiv.org/abs/2607.15097) | [Code](https://github.com/zhoushen1/QuReC) |
 | Virtual Consistency Model for All-in-one Image Restoration <br><sub>Jiawei Wu, Luwei Tu, Zhe Wang, Zhi Jin, Kaihao Zhang, Wenqi Ren, Xiaochun Cao</sub> | TIP 2026 | [Paper](https://ieeexplore.ieee.org/abstract/document/11606308) |  |
 | Transformer-Inspired Convolutional Network for Image Restoration <br><sub>Yuning Cui, Mingyu Liu, Wenqi Ren, Boxin Shi, Alois Knoll</sub> | TCSVT 2026 | [Paper](https://ieeexplore.ieee.org/abstract/document/11595695) |  |
