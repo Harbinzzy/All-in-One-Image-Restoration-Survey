@@ -42,6 +42,10 @@
 ### 2026
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| SpikeRestormer: Towards Energy-Efficient All-in-One Image Restoration via Unified Event Reasoning <br><sub>Shengkai Hu, Jie Shao, Jiaqi Ma, Xu Zhang, Keying Wu, Qilu Zhu, Beihang Song, Jun Wan</sub> | arXiv | [Paper](https://arxiv.org/abs/2608.02290) |  |
+| MoCRA: Mixture of Compositional Rank-1 Atoms for 4K All-in-One Video Restoration <br><sub>Yongcong Wang, Pu Wang, Hingchin Chen, Runci Bai, Yucheng Xin, Chen Wu, Chengchao Shen, Guangwei Gao, Siyuan Yao, Pengwen Dai, Zhuoran Zheng</sub> | arXiv | [Paper](https://arxiv.org/abs/2608.01829) |  |
+| What to Remove, What to Preserve: Dual-Ambiguity Rectification for All-in-One Image Restoration <br><sub>Cencen Liu, Wen Yin, Dongyang Zhang, Dongmin Li, Shan Zhao, Bing Su, Tao He, Jielei Wang, Guoming Lu</sub> | arXiv | [Paper](https://arxiv.org/abs/2607.28526) |  |
+| CoRE-UIR: Prior-guided Common and Residual Experts for Efficient All-in-One Remote Sensing Image Restoration <br><sub>Zaiyan Zhang, Qiangqiang Yuan, Jie Li, Ziyang Lihe, Yu Wan, Yuzeng Chen, Xin Su, Liangpei Zhang</sub> | arXiv | [Paper](https://arxiv.org/abs/2607.27898) | [Code](https://github.com/zzaiyan/CoRE-UIR) |
 | Causal-AgentIR: Self-Evolving Causal Memory for Adaptive Image Restoration Agents <br><sub>Hu Gao, Yulong Chen, Lizhuang Ma</sub> | arXiv | [Paper](https://arxiv.org/abs/2607.21125) |  |
 | Restore-R1: Efficient Image Restoration Agents via Reinforcement Learning with Multimodal LLM Perceptual Feedback <br><sub>Jianglin Lu, Yuanwei Wu, Ziyi Zhao, Hongcheng Wang, Felix Jimenez, Abrar Majeedi, Yun Fu</sub> | CVPR 2026 |  |  |
 | IAMAgent: Toward an Interactive and Adaptive Multi-Agent System for Image Restoration <br><sub>Yanyan Wei, Yilin Zhang, Zhao Zhang, Huan Zheng, Jiahuan Ren, Xiaogang Xu, Meng Wang, Zenglin Shi</sub> | TIP 2026 | [Paper](https://ieeexplore.ieee.org/document/11433514) |  |
