@@ -42,6 +42,9 @@
 ### 2026
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| Beyond Uniform Restoration: Empowering All-in-One Restoration with Pixel-Level Multimodal Guidance <br><sub>Chunxiao Liu, Wei Liu, Anbin Xiong, Erli Meng</sub> | ACM MM 2026 | [Paper](https://arxiv.org/abs/2608.09482) |  |
+| Degradation-Aware Prompt Learning with Cross-Modal Compensation for Adverse Weather Removal <br><sub>Wanshu Fan, Yunzhe Zhang, Yue Shen, Liyan Wang, Jing Qin, Kin-Man Lam, Cong Wang, Jinshan Pan</sub> | TIP 2026 | [Paper](https://arxiv.org/abs/2608.06939) | [Code](https://github.com/fanamber831/DCMPC-Net) |
+| Bend the Basics: Degradation-Aware Deformable Tokenization for All-in-One Image Restoration <br><sub>Zihao He, Yunfeng Wu, Xinchao Wang, Songhua Liu</sub> | ICML 2026 | [Paper](https://arxiv.org/abs/2608.06832) |  |
 | SpikeRestormer: Towards Energy-Efficient All-in-One Image Restoration via Unified Event Reasoning <br><sub>Shengkai Hu, Jie Shao, Jiaqi Ma, Xu Zhang, Keying Wu, Qilu Zhu, Beihang Song, Jun Wan</sub> | arXiv | [Paper](https://arxiv.org/abs/2608.02290) |  |
 | MoCRA: Mixture of Compositional Rank-1 Atoms for 4K All-in-One Video Restoration <br><sub>Yongcong Wang, Pu Wang, Hingchin Chen, Runci Bai, Yucheng Xin, Chen Wu, Chengchao Shen, Guangwei Gao, Siyuan Yao, Pengwen Dai, Zhuoran Zheng</sub> | arXiv | [Paper](https://arxiv.org/abs/2608.01829) |  |
 | What to Remove, What to Preserve: Dual-Ambiguity Rectification for All-in-One Image Restoration <br><sub>Cencen Liu, Wen Yin, Dongyang Zhang, Dongmin Li, Shan Zhao, Bing Su, Tao He, Jielei Wang, Guoming Lu</sub> | arXiv | [Paper](https://arxiv.org/abs/2607.28526) |  |
