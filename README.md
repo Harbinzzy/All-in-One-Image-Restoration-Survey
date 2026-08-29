@@ -42,6 +42,7 @@
 ### 2026
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| DPC-Net: Dual-Prior Collaborative Network for All-in-One Image Restoration <br><sub>Zhaokun He, Kangbiao Shi, Axi Niu, Jian Jin, Peng Wu, Wei Dong, Qingsen Yan</sub> | arXiv | [Paper](https://arxiv.org/abs/2608.20141) |  |
 | Beyond Uniform Restoration: Empowering All-in-One Restoration with Pixel-Level Multimodal Guidance <br><sub>Chunxiao Liu, Wei Liu, Anbin Xiong, Erli Meng</sub> | ACM MM 2026 | [Paper](https://arxiv.org/abs/2608.09482) |  |
 | Degradation-Aware Prompt Learning with Cross-Modal Compensation for Adverse Weather Removal <br><sub>Wanshu Fan, Yunzhe Zhang, Yue Shen, Liyan Wang, Jing Qin, Kin-Man Lam, Cong Wang, Jinshan Pan</sub> | TIP 2026 | [Paper](https://arxiv.org/abs/2608.06939) | [Code](https://github.com/fanamber831/DCMPC-Net) |
 | Bend the Basics: Degradation-Aware Deformable Tokenization for All-in-One Image Restoration <br><sub>Zihao He, Yunfeng Wu, Xinchao Wang, Songhua Liu</sub> | ICML 2026 | [Paper](https://arxiv.org/abs/2608.06832) |  |
