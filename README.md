@@ -1,6 +1,6 @@
 <div align="center">
   
-# (IEEE TPAMI 25) A Survey on All-in-One Image Restoration: Taxonomy, Evaluation and Future Trends
+# A Survey on All-in-One Image Restoration: Taxonomy, Evaluation and Future Trends
 
 [Junjun Jiang](http://homepage.hit.edu.cn/jiangjunjun), [Zengyuan Zuo](https://scholar.google.com/citations?hl=zh-CN&user=jb-4yJgAAAAJ),[Gang Wu](https://scholar.google.com/citations?user=JSqb7QIAAAAJ), [Kui Jiang](https://homepage.hit.edu.cn/jiangkui) and [Xianming Liu](http://homepage.hit.edu.cn/xmliu)
 
@@ -35,6 +35,7 @@
 - ✅ Our comprehensive survey paper on All-in-One Image Restoration has been [released](https://arxiv.org/abs/2410.15067) and is actively maintained.  
   📝 **Submitted** on 19 Oct 2024 *(v1)*, **last revised** on 12 Jun 2025 *(v2)* with major updates and reductions.  
   We will continue to reflect the latest advancements in this evolving field.
+  (IEEE TPAMI 25) 
 
 
 ## 📖 All-in-one Image Restoration Paper List
