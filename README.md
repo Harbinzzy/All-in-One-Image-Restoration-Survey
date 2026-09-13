@@ -44,8 +44,8 @@
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
 | UniH³: Unifying Hierarchical Homogeneity and Heterogeneity for All-in-One Medical Image Restoration <br><sub>Zhiwen Yang, Jiayin Li, Chengyu Liu, Hui Zhang, Bingzheng Wei, Yan Xu</sub> | ECCV 2026 | [Paper](https://arxiv.org/abs/2609.11156) | [Code](https://github.com/Yaziwel/UniH3.git) |
-| MARR: Decoupling Policy, Execution, and Calibration for All-in-One Medical Image Restoration <br><sub>Haobin Chen, Ao Chang, Heqin Zhu, Rundong Wang, Ting Liu, Shaohua Kevin Zhou</sub> | arXiv 2026 | [Paper](https://arxiv.org/abs/2609.06645) | [Code](https://github.com/CHB-learner/MARR) |
-| Uncertainty-Guided Adverse Weather Restoration via Gated Transformer Network <br><sub>Zheke Jin, Yuning Cui, Tianle Jin, Alois Knoll, Hu Cao</sub> | arXiv 2026 | [Paper](https://arxiv.org/abs/2609.02434) |  |
+| MARR: Decoupling Policy, Execution, and Calibration for All-in-One Medical Image Restoration <br><sub>Haobin Chen, Ao Chang, Heqin Zhu, Rundong Wang, Ting Liu, Shaohua Kevin Zhou</sub> | arXiv | [Paper](https://arxiv.org/abs/2609.06645) | [Code](https://github.com/CHB-learner/MARR) |
+| Uncertainty-Guided Adverse Weather Restoration via Gated Transformer Network <br><sub>Zheke Jin, Yuning Cui, Tianle Jin, Alois Knoll, Hu Cao</sub> | arXiv | [Paper](https://arxiv.org/abs/2609.02434) |  |
 | DPC-Net: Dual-Prior Collaborative Network for All-in-One Image Restoration <br><sub>Zhaokun He, Kangbiao Shi, Axi Niu, Jian Jin, Peng Wu, Wei Dong, Qingsen Yan</sub> | arXiv | [Paper](https://arxiv.org/abs/2608.20141) |  |
 | Beyond Uniform Restoration: Empowering All-in-One Restoration with Pixel-Level Multimodal Guidance <br><sub>Chunxiao Liu, Wei Liu, Anbin Xiong, Erli Meng</sub> | ACM MM 2026 | [Paper](https://arxiv.org/abs/2608.09482) |  |
 | Degradation-Aware Prompt Learning with Cross-Modal Compensation for Adverse Weather Removal <br><sub>Wanshu Fan, Yunzhe Zhang, Yue Shen, Liyan Wang, Jing Qin, Kin-Man Lam, Cong Wang, Jinshan Pan</sub> | TIP 2026 | [Paper](https://arxiv.org/abs/2608.06939) | [Code](https://github.com/fanamber831/DCMPC-Net) |
