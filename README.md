@@ -43,6 +43,9 @@
 ### 2026
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| Breaking Weather-Content Coupling: Type-Severity Guided Progressive Disentanglement for All-in-One Infrared Restoration <br><sub>Xinyao Wang, Lijun He, Zhihan Ren, Fan Li</sub> | arXiv | [Paper](https://arxiv.org/abs/2609.27317) |  |
+| ImIR: Image-Instruction Tuning for All-in-One Image Restoration <br><sub>Süleyman Aslan, Görkay Aydemir, Mısra Yavuz, Yunus Bilge Kurt, Nasrin Rahimi, Ahmet Rasim Emirdağı, Burak Can Biner, M. Akın Yılmaz</sub> | ACCV 2026 | [Paper](https://arxiv.org/abs/2609.25267) |  |
+| GraLoD: Graphics-Inspired Continuous Level-of-Detail Learning for Image Restoration <br><sub>Hu Gao, Lizhuang Ma, Yulong Chen</sub> | arXiv | [Paper](https://arxiv.org/abs/2609.16578) |  |
 | UniH³: Unifying Hierarchical Homogeneity and Heterogeneity for All-in-One Medical Image Restoration <br><sub>Zhiwen Yang, Jiayin Li, Chengyu Liu, Hui Zhang, Bingzheng Wei, Yan Xu</sub> | ECCV 2026 | [Paper](https://arxiv.org/abs/2609.11156) | [Code](https://github.com/Yaziwel/UniH3.git) |
 | MARR: Decoupling Policy, Execution, and Calibration for All-in-One Medical Image Restoration <br><sub>Haobin Chen, Ao Chang, Heqin Zhu, Rundong Wang, Ting Liu, Shaohua Kevin Zhou</sub> | arXiv | [Paper](https://arxiv.org/abs/2609.06645) | [Code](https://github.com/CHB-learner/MARR) |
 | Uncertainty-Guided Adverse Weather Restoration via Gated Transformer Network <br><sub>Zheke Jin, Yuning Cui, Tianle Jin, Alois Knoll, Hu Cao</sub> | arXiv | [Paper](https://arxiv.org/abs/2609.02434) |  |
