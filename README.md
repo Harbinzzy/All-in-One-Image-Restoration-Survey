@@ -44,8 +44,8 @@
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
 | Expert Weaving: Marrying Masked Auto-Regressive and Diffusion Models for Unified Image Restoration <br><sub>Xin Lu, Jie Huang, Jie Xiao, Dong Li, Xueyang Fu</sub> | ECCV 2026 |  | [Code](https://github.com/xin1u/MoSE_PAGE) |
-| SLAIR: Structured Latent Flow Matching for All-in-One Image Restoration | ECCV 2026 |  | [Code](https://github.com/Fightforql/SLAIR) |
-| Pixel Ignores, Superpixel Sees: Adverse Weather Image Restoration via Semantic-Center SSM | ECCV 2026 | [Paper](https://arxiv.org/abs/2608.01760) |  |
+| SLAIR: Structured Latent Flow Matching for All-in-One Image Restoration <br><sub>Shuyi Liang, Yixin Yang, Hanyue Lou, Yuning Cui, Boxin Shi</sub> | ECCV 2026 | [Paper](https://link.springer.com/chapter/10.1007/978-3-032-37517-9_3) | [Code](https://github.com/Fightforql/SLAIR) |
+| Pixel Ignores, Superpixel Sees: Adverse Weather Image Restoration via Semantic-Center SSM <br><sub>Dayu Li, Shihao Zhou, Leizhi Shu, Jin Wu, Chi Man Vong, Jufeng Yang</sub> | ECCV 2026 | [Paper](https://arxiv.org/abs/2608.01760) |  |
 | TIR-Agent: Training an Explorative and Efficient Agent for Image Restoration <br><sub>Yisheng Zhang, Guoli Jia, Haote Hu, Shanxu Zhao, Kaikai Zhao, Long Sun, Xinwei Long, Kai Tian, Che Jiang, Zhaoxiang Liu, Kai Wang, Shiguo Lian, Kaiyan Zhang, Bowen Zhou</sub> | ECCV 2026 | [Paper](https://arxiv.org/abs/2603.27742) |  |
 | SLER-IR: Spherical Layer-wise Expert Routing for All-in-One Image Restoration <br><sub>Peng Shurui, Xin Lin, Shi Luo, Jincen Ou, Dizhe Zhang, Lu Qi, Truong Nguyen, Chao Ren</sub> | ECCV 2026 | [Paper](https://arxiv.org/abs/2603.05940) | [Code](https://github.com/PSR666/SLER-IR) |
 | Breaking Weather-Content Coupling: Type-Severity Guided Progressive Disentanglement for All-in-One Infrared Restoration <br><sub>Xinyao Wang, Lijun He, Zhihan Ren, Fan Li</sub> | arXiv | [Paper](https://arxiv.org/abs/2609.27317) |  |
