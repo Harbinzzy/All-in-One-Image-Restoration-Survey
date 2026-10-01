@@ -43,7 +43,7 @@
 ### 2026
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
-| Expert Weaving: Marrying Masked Auto-Regressive and Diffusion Models for Unified Image Restoration <br><sub>Xin Lu, Jie Huang, Jie Xiao, Dong Li, Xueyang Fu</sub> | ECCV 2026 | [Paper](https://eccv.ecva.net/virtual/2026/poster/3361) | [Code](https://github.com/xin1u/MoSE_PAGE) |
+| Expert Weaving: Marrying Masked Auto-Regressive and Diffusion Models for Unified Image Restoration <br><sub>Xin Lu, Jie Huang, Jie Xiao, Dong Li, Xueyang Fu</sub> | ECCV 2026 | [Paper](https://eccv.ecva.net/virtual/2026/poster/3361) | [Code](https://github.com/xin1u/MoSE_PAGE) |  
 | SLAIR: Structured Latent Flow Matching for All-in-One Image Restoration <br><sub>Shuyi Liang, Yixin Yang, Hanyue Lou, Yuning Cui, Boxin Shi</sub> | ECCV 2026 | [Paper](https://link.springer.com/chapter/10.1007/978-3-032-37517-9_3) | [Code](https://github.com/Fightforql/SLAIR) |
 | Pixel Ignores, Superpixel Sees: Adverse Weather Image Restoration via Semantic-Center SSM <br><sub>Dayu Li, Shihao Zhou, Leizhi Shu, Jin Wu, Chi Man Vong, Jufeng Yang</sub> | ECCV 2026 | [Paper](https://arxiv.org/abs/2608.01760) |  |
 | TIR-Agent: Training an Explorative and Efficient Agent for Image Restoration <br><sub>Yisheng Zhang, Guoli Jia, Haote Hu, Shanxu Zhao, Kaikai Zhao, Long Sun, Xinwei Long, Kai Tian, Che Jiang, Zhaoxiang Liu, Kai Wang, Shiguo Lian, Kaiyan Zhang, Bowen Zhou</sub> | ECCV 2026 | [Paper](https://arxiv.org/abs/2603.27742) |  |
