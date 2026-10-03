@@ -43,6 +43,7 @@
 ### 2026
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| Continuous Expert Assembly: Instance-Conditioned Low-Rank Residuals for All-in-One Image Restoration <br><sub>Haisen He, Xiangyu Zou, SongLin Dong, Heng Li, Yihong Gong, Zhiheng Ma</sub> | NeurIPS 2026 | [Paper](https://arxiv.org/abs/2605.06127) | |
 | Expert Weaving: Marrying Masked Auto-Regressive and Diffusion Models for Unified Image Restoration <br><sub>Xin Lu, Jie Huang, Jie Xiao, Dong Li, Xueyang Fu</sub> | ECCV 2026 | [Paper](https://eccv.ecva.net/virtual/2026/poster/3361) | [Code](https://github.com/xin1u/MoSE_PAGE) |  
 | SLAIR: Structured Latent Flow Matching for All-in-One Image Restoration <br><sub>Shuyi Liang, Yixin Yang, Hanyue Lou, Yuning Cui, Boxin Shi</sub> | ECCV 2026 | [Paper](https://link.springer.com/chapter/10.1007/978-3-032-37517-9_3) | [Code](https://github.com/Fightforql/SLAIR) |
 | Pixel Ignores, Superpixel Sees: Adverse Weather Image Restoration via Semantic-Center SSM <br><sub>Dayu Li, Shihao Zhou, Leizhi Shu, Jin Wu, Chi Man Vong, Jufeng Yang</sub> | ECCV 2026 | [Paper](https://arxiv.org/abs/2608.01760) |  |
@@ -85,7 +86,6 @@
 | Expandable, Compressible, Mineable: Open-World Thermal Image Restoration <br><sub>Pu Li, Huafeng Li, Yafei Zhang, Wen Wang, Neng Dong, Jie Wen</sub> | ICML 2026 | [Paper](https://arxiv.org/abs/2605.16967) | [Code](https://github.com/Kust-lp/ECMRNet) |
 | Leveraging Multimodal Large Language Models for All-in-One Image Restoration via a Mixture of Frequency Experts <br><sub>Eunho Lee, Rei Kawakami, Youngbae Hwang</sub> | arXiv | [Paper](https://arxiv.org/abs/2605.11444) |  |
 | DRNet: All-in-One Image Restoration via Prior-Guided Dynamic Reparameterization <br><sub>Ao Li, Xiaoning Liu, Sheng Li, Yapeng Du, Zhen Long, Lei Luo, Le Zhang, Ce Zhu</sub> | TMM 2026 | [Paper](https://arxiv.org/abs/2605.08627) | [Code](https://github.com/AVC2-UESTC/DRNet-AiO) |
-| Continuous Expert Assembly: Instance-Conditioned Low-Rank Residuals for All-in-One Image Restoration <br><sub>Haisen He, Xiangyu Zou, SongLin Dong, Heng Li, Yihong Gong, Zhiheng Ma</sub> | arXiv | [Paper](https://arxiv.org/abs/2605.06127) | |
 | PVRF: All-in-one Adverse Weather Removal via Prior-modulated and Velocity-constrained Rectified Flow <br><sub>Wei Dong, Han Zhou, Terry Ji, Guanhua Zhao, Shahab Asoodeh, Yulun Zhang, Guangtao Zhai, Jun Chen, Xiaohong Liu</sub> | arXiv | [Paper](https://arxiv.org/abs/2605.14045) | [Code](https://github.com/dongw22/PVRF) |
 | UARE: A Unified Vision-Language Model for Image Quality Assessment, Restoration, and Enhancement <br><sub>Weiqi Li, Xuanyu Zhang, Bin Chen, Jingfen Xie, Yan Wang, Kexin Zhang, Junlin Li, Li Zhang, Jian Zhang, Shijie Zhao</sub> | arXiv | [Paper](https://arxiv.org/abs/2512.06750) | [Code](https://github.com/lwq20020127/UARE) |
 | Residual Diffusion Bridge Model for Image Restoration <br><sub>Hebaixu Wang, Jing Zhang, Haoyang Chen, Haonan Guo, Di Wang, Jiayi Ma, Bo Du</sub> | CVPR 2026 | [Paper](https://arxiv.org/abs/2507.23685) | [Code](https://github.com/MiliLab/RDBM) |
