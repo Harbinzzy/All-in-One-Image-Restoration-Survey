@@ -43,6 +43,8 @@
 ### 2026
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| An all-in-one foundation model for multimodal medical image restoration and enhancement <br><sub>Luyang Cao, Zhijian Wu, Jian Zhang, Lei Qi, Yang Gao, Hairong Zheng, Yefeng Zheng, Yinghuan Shi</sub> | Nature Machine Intelligence 2026 | [Paper](https://www.nature.com/articles/s42256-026-01310-z) | [Code](https://github.com/caoluyang0830/All-in-One-Medical-Image-Restoration) |
+| Multi-Agent Image Restoration<br><sub>Xu Jiang, Gehui Li, Bin Chen, Jian Zhang</sub> | IJCV 2026 | [Paper](https://link.springer.com/article/10.1007/s11263-026-02792-5) |  |
 | Image Restoration via Multi-Domain Learning <br><sub>Xingyu Jiang, Ning Gao, Xiuhui Zhang, Hongkun Dou, Shaowen Fu, Xiaoqing Zhong, Hongjue Li, Yue Deng</sub> | TPAMI 2026 | [Paper](https://doi.org/10.1109/TPAMI.2026.3710409) | [Code](https://github.com/deng-ai-lab/SWFormer) |
 | ClusIR: Towards Cluster-Guided All-in-One Image Restoration <br><sub>Shengkai Hu, Jiaqi Ma, Xu Zhang, Yongcheng Jing, Lefei Zhang, Jun Wan</sub> | ACM MM 2026 | [Paper](https://arxiv.org/abs/2512.10948) | [Code](https://github.com/Husk021118/ClusIR) |
 | Multiscale Spatial-Frequency Learning for Degradation Decoupling in RS Image Restoration <br><sub>Jingwen Zhang, Lingling Li, Licheng Jiao, Xu Liu, Fang Liu, Wenping Ma, Shuyuan Yang</sub> | TMM 2026 | [Paper](https://doi.org/10.1109/TMM.2026.3654414) |  |
@@ -122,6 +124,7 @@
 | ClearAIR: A Human-Visual-Perception-Inspired All-in-One Image Restoration <br><sub>Xu Zhang, Huan Zhang, Guoli Wang, Qian Zhang, Lefei Zhang</sub> | AAAI 2026 | [Paper](https://arxiv.org/abs/2601.02763) | [Code](https://github.com/House-yuyu/ClearAIR) |
 | Gradient as Conditions: Rethinking HOG for All-in-one Image Restoration <br><sub>Jiawei Wu, Zhifei Yang, Zhe Wang, Zhi Jin</sub> | AAAI 2026 | [Paper](https://arxiv.org/abs/2504.09377) | [Code](https://github.com/Fire-friend/HOGformer) |
 | EndoIR: Degradation-Agnostic All-in-One Endoscopic Image Restoration via Noise-Aware Routing Diffusion <br><sub>Tong Chen, Xinyu Ma, Long Bai, Wenyang Wang, Yue Sun, Luping Zhou</sub> | AAAI 2026 | [Paper](https://arxiv.org/abs/2511.05873) | [Code](https://github.com/DavisMeee/EndoIR) |
+| WaFIR: Wavelet-Fourier Mixture-of-Experts with Subband-Adaptive Routing for Blind All-in-One Image Restoration <br><sub>Trong Nhan Nguyen, Vu Hoang Minh Doan, Thanh Dat Le, Truong Tien Vo, Thi Thu Ha Vu, Tan Hung Vo, Jaeyeop Choi, Junghwan Oh, Truong-Son Hy</sub> | arXiv | [Paper](https://arxiv.org/abs/2610.29108) | [Code](https://anonymous.4open.science/r/WaFIR/README.md) |
 | Look Before You Restore: Learning to Predict Before Acting for Agentic Image Restoration <br><sub>Xu Zhang, Jun Wan, Lefei Zhang, Liangpei Zhang</sub> | arXiv | [Paper](https://arxiv.org/abs/2610.20384) | [Code](https://github.com/House-yuyu/PreActIR) |
 | Dynamic Time Step Prediction in Inverse Heat Dissipation for Blur-Like Image Restoration Tasks <br><sub>Cap Dang Xuan Kiet, Tat-Jen Cham</sub> | arXiv | [Paper](https://arxiv.org/abs/2610.03942) |  |
 | SkillIR: Evolving Scene-Aware Skills for Agentic Image Restoration <br><sub>Jie Shao, Shengkai Hu, Xu Zhang, Beihang Song, Yongcheng Jing, Xu Wu, Jun Wan</sub> | arXiv | [Paper](https://arxiv.org/abs/2609.21468) |  |
@@ -166,6 +169,8 @@
 ### 2025
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+| UniRes: Universal Image Restoration for Complex Degradations <br><sub>Mo Zhou, Keren Ye, Mauricio Delbracio, Peyman Milanfar, Vishal M. Patel, Hossein Talebi</sub> | ICCV 2025 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Zhou_UniRes_Universal_Image_Restoration_for_Complex_Degradations_ICCV_2025_paper.html) |  |
+| Prompt to Restore, Restore to Prompt: Cyclic Prompting for Universal Adverse Weather Removal <br><sub>Rongxin Liao, Feng Li, Yanyan Wei, Zenglin Shi, Le Zhang, Huihui Bai, Meng Wang</sub> | TIP 2025 | [Paper](https://doi.org/10.1109/TIP.2025.3627860) | [Code](https://github.com/RongxinL/CyclicPrompt) |
 | LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling <br><sub>Huaqiu Li, Yong Wang, Tongwen Huang, Hailang Huang, Haoqian Wang, Xiangxiang Chu</sub> | ICCV 2025 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Li_LD-RPS_Zero-Shot_Unified_Image_Restoration_via_Latent_Diffusion_Recurrent_Posterior_ICCV_2025_paper.html) | [Code](https://github.com/AMAP-ML/LD-RPS) |
 | Navigating Image Restoration with VAR's Distribution Alignment Prior <br><sub>Siyang Wang, Naishan Zheng, Jie Huang, Feng Zhao</sub> | CVPR 2025 | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Navigating_Image_Restoration_with_VARs_Distribution_Alignment_Prior_CVPR_2025_paper.html) | [Code](https://github.com/siywang541/Varformer) |
 | InstructRestore: Region-Customized Image Restoration with Human Instructions <br><sub>Shuaizheng Liu, Jianqi Ma, Lingchen Sun, Xiangtao Kong, Lei Zhang</sub> | NeurIPS 2025 | [Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/3fb97beb678a1c46bf25f40b3a8c6f98-Abstract-Conference.html) | [Code](https://github.com/shuaizhengliu/InstructRestore) |
@@ -218,7 +223,6 @@
 | TAP: Parameter-efficient Task-Aware Prompting for Adverse Weather Removal <br><sub>Hanting Wang, Shengpeng Ji, Shulei Wang, Hai Huang, Xiao Jin, Qifei Zhang, Tao Jin</sub> | arXiv | [Paper](https://arxiv.org/abs/2508.07878) |  |
 | Exploring Scalable Unified Modeling for General Low-Level Vision <br><sub>Xiangyu Chen, Kaiwen Zhu, Yuandong Pu, Shuo Cao, Xiaohui Li, Wenlong Zhang, Yihao Liu, Yu Qiao, Jiantao Zhou, Chao Dong</sub> | arXiv | [Paper](https://arxiv.org/abs/2507.14801) | |
 | Elucidating and Endowing the Diffusion Training Paradigm for General Image Restoration <br><sub>Xin Lu, Xueyang Fu, Jie Xiao, Zihao Fan, Yurui Zhu, Zheng-Jun Zha</sub> | arXiv | [Paper](https://arxiv.org/abs/2506.21722) | [Code](https://github.com/xin1u/EEDTP) |
-| UniRes: Universal Image Restoration for Complex Degradations <br><sub></sub> | arXiv | [Paper](https://arxiv.org/abs/2506.05599) |  |
 | Boosting All-in-One Image Restoration via Self-Improved Privilege Learning <br><sub></sub> | arXiv | [Paper](https://arxiv.org/abs/2505.24207) | [Code](https://github.com/Aitical/SIPL) |
 | CMAWRNet: Multiple Adverse Weather Removal via a Unified Quaternion Neural Architecture <br><sub>Vladimir Frants, Sos Agaian, Karen Panetta, Peter Huang</sub> | arXiv | [Paper](https://arxiv.org/pdf/2505.01882) | |
 | DPMambaIR: All-in-One Image Restoration via Degradation-Aware Prompt State Space Model <br><sub>Zhanwen Liu, Sai Zhou, Yuchao Dai, Yang Wang, Yisheng An, Xiangmo Zhao</sub> | arXiv | [Paper](https://arxiv.org/pdf/2504.17732) |  |
@@ -227,9 +231,7 @@
 | Q-Agent: Quality-Driven Chain-of-Thought Image Restoration Agent through Robust Multimodal Large Language Model <br><sub>Yingjie Zhou, Jiezhang Cao, Zicheng Zhang, Farong Wen, Yanwei Jiang, Jun Jia, Xiaohong Liu, Xiongkuo Min, Guangtao Zhai</sub> | arXiv | [Paper](https://arxiv.org/abs/2504.07148) |  |
 | DA2Diff: Exploring Degradation-aware Adaptive Diffusion Priors for All-in-One Weather Restoration<br><sub>Jiamei Xiong, Xuefeng Yan, Yongzhen Wang, Wei Zhao, Xiao-Ping Zhang, Mingqiang Wei</sub> | arXiv | [Paper](https://arxiv.org/abs/2504.05135) |  |
 | UniCoRN: Latent Diffusion-based Unified Controllable Image Restoration Network across Multiple Degradations <br><sub>Debabrata Mandal, Soumitri Chattopadhyay, Guansen Tong, Praneeth Chakravarthula</sub> | arXiv | [Paper](https://arxiv.org/abs/2503.15868) | [Code](https://codejaeger.github.io/unicorn-gh) |
-| Prompt to Restore, Restore to Prompt: Cyclic Prompting for Universal Adverse Weather Removal <br><sub>Rongxin Liao, Feng Li, Yanyan Wei, Zenglin Shi, Le Zhang, Huihui Bai, Meng Wang</sub> | arXiv | [Paper](https://arxiv.org/abs/2503.09013) | [Code](https://github.com/RongxinL/CyclicPrompt) |
 | TextDoctor: Unified Document Image Inpainting via Patch Pyramid Diffusion Models <br><sub>Wanglong Lu, Lingming Su, Jingjing Zheng, Vinícius Veloso de Melo, Farzaneh Shoeleh, John Hawkin, Terrence Tricco, Hanli Zhao, Xianta Jiang</sub> | arXiv | [Paper](https://arxiv.org/abs/2503.04021) |  |
-| Multi-Agent Image Restoration<br><sub>Xu Jiang, Gehui Li, Bin Chen, Jian Zhang</sub> | arXiv | [Paper](https://arxiv.org/abs/2503.09403) ||
 | USRNet: Unified Scene Recovery Network for Enhancing Traffic Imaging under Multiple Adverse Weather Conditions<br><sub>Yuxu Lu, Ai Chen, Dong Yang, Ryan Wen Liu</sub> | arXiv| [Paper](https://arxiv.org/abs/2502.07372) | [Code](https://github.com/LouisYxLu/USRNet)|
 
 
