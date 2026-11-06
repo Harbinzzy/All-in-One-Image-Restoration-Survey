@@ -8,6 +8,8 @@
 
 [![Paper2](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2410.15067)
 [![Survey](https://img.shields.io/badge/Survey-AiOIR-blue)](https://ieeexplore.ieee.org/document/11123156) 
+[![Project](https://img.shields.io/badge/Project-Paper_Library-29654d)](https://harbinzzy.github.io/projects/aioir/)
+[![Leaderboard](https://img.shields.io/badge/Leaderboard-5_Benchmarks-102d32)](https://harbinzzy.github.io/projects/aioir/leaderboard.html)
 [![Hits](https://hits.sh/github.com/Harbinzzy/All-in-One-Image-Restoration-Survey.svg)](https://hits.sh/github.com/Harbinzzy/All-in-One-Image-Restoration-Survey/)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Harbinzzy/All-in-One-Image-Restoration-Survey?style=social)
@@ -32,6 +34,7 @@
 
 
 ## 📢 News
+- **2026-11-06:** Launched the [paper library](https://harbinzzy.github.io/projects/aioir/) and [interactive leaderboard](https://harbinzzy.github.io/projects/aioir/leaderboard.html). Added source-verified results for **ClusIR, QuReC, DRNet, SLER-IR, DCMPC-Net and WeatherRemover**, a separate WeatherBench track with PSNR / SSIM / LPIPS, and corrected the InstructIR-5D column order. The README and website share [one data catalogue](data/catalog.json); see [sources and protocol notes](data/SOURCES.md).
 - ✅ Our comprehensive survey paper on All-in-One Image Restoration has been [released](https://arxiv.org/abs/2410.15067) and is actively maintained.  
   📝 **Submitted** on 19 Oct 2024 *(v1)*, **last revised** on 12 Jun 2025 *(v2)* with major updates and reductions.  
   We will continue to reflect the latest advancements in this evolving field.
@@ -349,182 +352,235 @@
 
 ### Performance Comparisons of AiOIR Models on Three Challenging Datasets
 
-| Category    | Method                     | Venue & Year   | Params | Dehazing SOTS  | Deraining Rain100L | Denoising σ=15 | Denoising σ=25 | Denoising σ=50 | Average       | Approach                           |
-|-------------|----------------------------|----------------|--------|----------------|--------------------|----------------|----------------|----------------|---------------|----------------------------------|
-| **Single**  | LPN                        | CVPR'19        | 3M     | 20.84/0.828    | 24.88/0.784        | 26.47/0.778    | 24.77/0.748    | 21.26/0.552    | 23.64/0.738   | Specific                         |
-|             | ADFNet                     | AAAI'23        | 8M     | 28.13/0.961    | 34.24/0.965        | 33.76/0.929    | 30.83/0.871    | 27.75/0.793    | 30.94/0.904   | Specific                         |
-|             | DehazeFormer               | TIP'23         | 25M    | 29.58/0.970    | 35.37/0.969        | 33.01/0.914    | 30.14/0.858    | 27.37/0.779    | 31.09/0.898   | Specific                         |
-|             | DRSformer                  | CVPR'23        | 34M    | 29.02/0.968    | 35.89/0.970        | 33.28/0.921    | 30.55/0.862    | 27.58/0.786    | 31.26/0.902   | Specific                         |
-| **Multiple**| MPRNet                     | CVPR'21        | 16M    | 28.00/0.958    | 33.86/0.958        | 33.27/0.920    | 30.76/0.871    | 27.29/0.761    | 30.63/0.894   | General                         |
-|             | Restormer                  | CVPR'22        | 26M    | 27.78/0.958    | 33.78/0.958        | 33.72/0.865    | 30.67/0.865    | 27.63/0.792    | 30.75/0.901   | General                         |
-|             | NAFNet                     | ECCV'22        | 17M    | 24.11/0.960    | 33.64/0.956        | 33.18/0.918    | 30.47/0.865    | 27.12/0.754    | 29.67/0.844   | General                         |
-|             | FSNet                      | TPAMI'23       | 13M    | 29.14/0.969    | 35.61/0.969        | 33.81/0.874    | 30.84/0.872    | 27.69/0.762    | 31.42/0.906   | General                         |
-|             | MambaIR                    | ECCV'24        | 27M    | 29.57/0.970    | 35.42/0.969        | 33.88/0.931    | 30.95/0.874    | 27.74/0.793    | 31.51/0.907   | General                         |
-| **All-in-One** | DL                       | TPAMI'19       | 2M     | 26.92/0.931    | 32.62/0.931        | 33.05/0.914    | 30.41/0.861    | 26.90/0.740    | 29.98/0.875   | parameterized image operator     |
-|             | TKMANet                    | CVPR'22        | 29M    | 30.41/0.973    | 34.94/0.972        | 33.02/0.924    | 30.31/0.820    | 23.80/0.556    | 30.50/0.849   | two-stage knowledge learning     |
-|             | AirNet                     | CVPR'22        | 9M     | 27.94/0.962    | 34.90/0.967        | 33.92/0.933    | 31.26/0.888    | 28.00/0.797    | 31.20/0.910   | contrastive-based & degradation-guided |
-|             | PIP_restormer              | arXiv'23       | 27M    | 32.09/0.981    | 38.29/0.984        | 34.24/0.936    | 31.60/0.893    | 28.35/0.806    | 32.91/0.920   | prompt-in-prompt learning        |
-|             | IDR                        | CVPR'23        | 15M    | 29.87/0.970    | 36.03/0.971        | 33.89/0.931    | 31.32/0.884    | 28.04/0.798    | 31.83/0.911   | ingredient-oriented learning     |
-|             | PromptIR                   | NeurIPS'23     | 36M    | 30.58/0.974    | 36.37/0.972        | 33.98/0.933    | 31.31/0.888    | 28.06/0.799    | 32.06/0.913   | prompt for AiOIR                 |
-|             | Gridformer                 | IJCV'23        | 34M    | 30.37/0.970    | 37.15/0.972        | 33.93/0.931    | 31.37/0.887    | 28.11/0.801    | 32.19/0.912   | transformer with grid structure  |
-|             | ProRes                     | arXiv'23       | 371M   | 28.38/0.938    | 33.68/0.954        | 32.10/0.907    | 30.18/0.863    | 27.58/0.779    | 30.38/0.888   | degradation-aware visual prompt  |
-|             | NDR                        | TIP'24         | 28M    | 28.64/0.962    | 35.42/0.969        | 34.01/0.932    | 31.36/0.887    | 28.10/0.798    | 31.51/0.910   | neural degradation representation|
-|             | Art_PromptIR               | ACM MM'24      | 36M    | 30.83/0.979    | 37.94/0.982        | 34.06/0.934    | 31.42/0.891    | 28.14/0.801    | 32.49/0.917   | via multi-task collaboration     |
-|             | AnyIR                      | arXiv'24       | 6M     | 31.38/0.979    | 37.90/0.981        | 33.95/0.933    | 31.29/0.889    | 28.03/0.797    | 32.51/0.916   | local-global gated intertwining  |
-|             | DaAIR                      | arXiv'24       | 6M     | 32.30/0.981    | 37.10/0.978        | 33.92/0.930    | 31.26/0.884    | 28.00/0.792    | 32.51/0.913   | efficient degradation-aware      |
-|             | MEASNet                    | arXiv'24       | 31M    | 31.61/0.981    | 39.00/0.985        | 34.12/0.935    | 31.46/0.892    | 28.19/0.803    | 32.85/0.919   | multi-expert adaptive selection  |
-|             | U-WADN                     | arXiv'24       | 6M     | 29.21/0.971    | 35.36/0.968        | 33.73/0.931    | 31.14/0.886    | 27.92/0.793    | 31.47/0.910   | unified-width adaptive network   |
-|             | Shi et al.                 | arXiv'24       | -      | 29.20/0.972    | 37.50/0.980        | 34.59/0.941    | 31.83/0.900    | 28.46/0.814    | 32.32/0.921   | frequency-aware transformers     |
-|             | DyNet                      | arXiv'24       | 16M    | 31.98/0.981    | 38.71/0.983        | 34.11/0.936    | 31.44/0.892    | 28.18/0.803    | 32.88/0.920   | dynamic pre-training             |
-|             | Hair                       | arXiv'24       | 29M    | 30.98/0.979    | 38.59/0.983        | 34.16/0.935    | 31.51/0.892    | 28.24/0.803    | 32.70/0.919   | hypernetworks-based              |
-|             | LoRA-IR                    | arXiv'24       | -      | 30.68/0.961    | 37.75/0.979        | 34.06/0.935    | 31.42/0.891    | 28.18/0.803    | 32.42/0.914   | mixture of low-rank experts      |
-|             | Up-Restorer                | AAAI'25        | 28M    | 30.68/0.977    | 36.74/0.978        | 33.99/0.933    | 31.33/0.888    | 28.07/0.799    | 32.16/0.915   | ADMM-solver-based design         |
-|             | TUR_PromptIR               | AAAI'25        | 36M    | 31.17/0.978    | 38.57/0.984        | 34.06/0.932    | 31.40/0.887    | 28.13/0.797    | 32.67/0.916   | a novel loss function            |
-|             | AdaIR                      | ICLR'25        | 29M    | 31.06/0.980    | 38.64/0.983        | 34.12/0.935    | 31.45/0.892    | 28.19/0.802    | 32.69/0.918   | frequency mining and modulation  |
-|             | DA-RCOT                    | TPAMI'25       | 50M    | 31.26/0.977    | 38.36/0.983        | 33.98/0.934    | 31.33/0.890    | 28.10/0.801    | 32.60/0.917   | as an optimal transport problem  |
-|             | ABAIR                      | arXiv'24       | 41M    | 33.53/0.984    | 38.69/0.982        | 34.18/0.935    | 31.38/0.890    | 28.25/0.804    | 33.21/0.919   | a three-phase approach           |
-|             | MoCE-IR                    | CVPR'25        | 25M    | 31.34/0.979    | 38.57/0.984        | 34.11/0.932    | 31.45/0.888    | 28.18/0.800    | 32.73/0.917   | mixture-of-complexity-experts    |
-|             | MTAIR                      | arXiv'24       | -      | 31.34/0.983    | 39.15/0.984        | 34.14/0.936    | 31.50/0.893    | 28.24/0.805    | 32.87/0.920   | Mamba-Transformer cross-dimensional |
-|             | DCPT_PromptIR              | ICLR'25        | 35M    | 31.91/0.981    | 38.43/0.983        | 34.17/0.933    | 31.53/0.889    | 28.30/0.802    | 32.87/0.918   | learn to classify degradation    |
-|             | RamIR                      | APPL INTELL'25 | 22M    | 31.29/0.977    | 38.16/0.981        | 34.04/0.931    | 31.61/0.891    | 28.19/0.801    | 32.65/0.916   | prompt-driven Mamba-based        |
-|             | Cat-AIR                    | arXiv'25       | -      | 31.49/0.980    | 38.43/0.983        | 34.11/0.935    | 31.44/0.892    | 28.14/0.803    | 32.72/0.919   | content and task-aware framework |
-|             | DSwinIR                    | arXiv'25       | 24M    | 31.86/0.980    | 37.73/0.983        | 34.12/0.933    | 31.59/0.890    | 28.31/0.803    | 32.72/0.917   | deformable sliding window transformer |
-|             | CPL_PromptIR               | arXiv'25       | 36M    | 31.27/0.980    | 38.77/0.985        | 34.15/0.933    | 31.50/0.889    | 28.23/0.800    | 32.78/0.917   | contrastive prompt regularization |
-|             | AnyIR                      | arXiv'25       | 6M     | 31.75/0.981    | 38.61/0.984        | 34.12/0.936    | 31.46/0.893    | 28.20/0.804    | 32.83/0.920   | local-global gated mechanism      |
-|             | MIRAGE                     | arXiv'25       | 10M    | 31.86/0.981    | 38.94/0.985        | 34.12/0.935    | 31.46/0.891    | 28.19/0.803    | 32.91/0.919   | within the SPD manifold space    |
-|             | BaryIR                     | arXiv'25       | -      | 31.33/0.980    | 38.95/0.984        | 34.16/0.935    | 31.54/0.892    | 28.25/0.802    | 32.85/0.919   | in continuous barycenter space   |
-|             | SIPL_PromptIR              | arXiv'25       | 39M    | 31.09/0.977    | 38.43/0.984        | 34.12/0.933    | 31.48/0.889    | 28.22/0.800    | 32.67/0.917   | privilege learning               |
-|             | TextPromptIR               | arXiv'23       | 124M+110M | 31.65/0.978  | 38.41/0.982        | 34.17/0.936    | 31.52/0.893    | 28.26/0.805    | 32.80/0.919   | textual prompt for AiOIR          |
-|             | InstructIR-3D              | ECCV'24        | 16M+17M | 30.22/0.959   | 37.98/0.978        | 34.15/0.933    | 31.52/0.890    | 28.30/0.804    | 32.43/0.913   | natural language prompts         |
-|             | DA-CLIP_IR-SDE             | ICLR'24        | 49M+125M | 26.83/0.962  | 35.85/0.972        | 31.43/0.889    | 25.05/0.605    | 18.33/0.308    | 27.50/0.747   | degradation-aware vision-language model |
-|             | Perceive-IR                | arXiv'24       | 42M+86M | 30.87/0.975   | 38.29/0.980        | 34.13/0.934    | 31.42/0.888    | 28.09/0.797    | 32.56/0.915   | prompt-based foundation model   |
-|             | VLU-Net                  | CVPR'25 | 35M+88M      | 30.71/0.980   | 38.93/0.984        | 34.13/0.935    | 31.48/0.892    | 28.23/0.804    | 32.70/0.919    | vision-language gradient descent-driven  |
-|             | DFPIR                    | CVPR'25  | 31M+63M      | 31.87/0.980   | 38.65/0.982        | 34.14/0.935    | 31.47/0.893    | 28.25/0.806    | 32.88/0.919    | degradation-aware feature perturbation   |
+Metrics are PSNR (dB) / SSIM, higher is better. Updated **2026-11-06**. Results are source-reported, not independently re-evaluated. **NEW** marks newly added rows. [Protocol and source notes](data/SOURCES.md).
+
+| Category | Method | Venue & Year | Params | SOTS · Dehazing | Rain100L · Deraining | BSD68 · σ = 15 | BSD68 · σ = 25 | BSD68 · σ = 50 | Average | Approach | Source |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Single | LPN | CVPR'19 | 3M | 20.84/0.828 | 24.88/0.784 | 26.47/0.778 | 24.77/0.748 | 21.26/0.552 | 23.64/0.738 | Specific | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| Single | ADFNet | AAAI'23 | 8M | 28.13/0.961 | 34.24/0.965 | 33.76/0.929 | 30.83/0.871 | 27.75/0.793 | 30.94/0.904 | Specific | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| Single | DehazeFormer | TIP'23 | 25M | 29.58/0.970 | 35.37/0.969 | 33.01/0.914 | 30.14/0.858 | 27.37/0.779 | 31.09/0.898 | Specific | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| Single | DRSformer | CVPR'23 | 34M | 29.02/0.968 | 35.89/0.970 | 33.28/0.921 | 30.55/0.862 | 27.58/0.786 | 31.26/0.902 | Specific | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| Multiple | MPRNet | CVPR'21 | 16M | 28.00/0.958 | 33.86/0.958 | 33.27/0.920 | 30.76/0.871 | 27.29/0.761 | 30.63/0.894 | General | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| Multiple | Restormer | CVPR'22 | 26M | 27.78/0.958 | 33.78/0.958 | 33.72/0.865 | 30.67/0.865 | 27.63/0.792 | 30.75/0.901 | General | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| Multiple | NAFNet | ECCV'22 | 17M | 24.11/0.960 | 33.64/0.956 | 33.18/0.918 | 30.47/0.865 | 27.12/0.754 | 29.67/0.844 | General | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| Multiple | FSNet | TPAMI'23 | 13M | 29.14/0.969 | 35.61/0.969 | 33.81/0.874 | 30.84/0.872 | 27.69/0.762 | 31.42/0.906 | General | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| Multiple | MambaIR | ECCV'24 | 27M | 29.57/0.970 | 35.42/0.969 | 33.88/0.931 | 30.95/0.874 | 27.74/0.793 | 31.51/0.907 | General | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | DL | TPAMI'19 | 2M | 26.92/0.931 | 32.62/0.931 | 33.05/0.914 | 30.41/0.861 | 26.90/0.740 | 29.98/0.875 | parameterized image operator | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | TKMANet | CVPR'22 | 29M | 30.41/0.973 | 34.94/0.972 | 33.02/0.924 | 30.31/0.820 | 23.80/0.556 | 30.50/0.849 | two-stage knowledge learning | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | AirNet | CVPR'22 | 9M | 27.94/0.962 | 34.90/0.967 | 33.92/0.933 | 31.26/0.888 | 28.00/0.797 | 31.20/0.910 | contrastive-based & degradation-guided | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | PIP_restormer | arXiv'23 | 27M | 32.09/0.981 | 38.29/0.984 | 34.24/0.936 | 31.60/0.893 | 28.35/0.806 | 32.91/0.920 | prompt-in-prompt learning | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | IDR | CVPR'23 | 15M | 29.87/0.970 | 36.03/0.971 | 33.89/0.931 | 31.32/0.884 | 28.04/0.798 | 31.83/0.911 | ingredient-oriented learning | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | PromptIR | NeurIPS'23 | 36M | 30.58/0.974 | 36.37/0.972 | 33.98/0.933 | 31.31/0.888 | 28.06/0.799 | 32.06/0.913 | prompt for AiOIR | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | Gridformer | IJCV'23 | 34M | 30.37/0.970 | 37.15/0.972 | 33.93/0.931 | 31.37/0.887 | 28.11/0.801 | 32.19/0.912 | transformer with grid structure | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | ProRes | arXiv'23 | 371M | 28.38/0.938 | 33.68/0.954 | 32.10/0.907 | 30.18/0.863 | 27.58/0.779 | 30.38/0.888 | degradation-aware visual prompt | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | NDR | TIP'24 | 28M | 28.64/0.962 | 35.42/0.969 | 34.01/0.932 | 31.36/0.887 | 28.10/0.798 | 31.51/0.910 | neural degradation representation | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | Art_PromptIR | ACM MM'24 | 36M | 30.83/0.979 | 37.94/0.982 | 34.06/0.934 | 31.42/0.891 | 28.14/0.801 | 32.49/0.917 | via multi-task collaboration | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | AnyIR | arXiv'24 | 6M | 31.38/0.979 | 37.90/0.981 | 33.95/0.933 | 31.29/0.889 | 28.03/0.797 | 32.51/0.916 | local-global gated intertwining | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | DaAIR | arXiv'24 | 6M | 32.30/0.981 | 37.10/0.978 | 33.92/0.930 | 31.26/0.884 | 28.00/0.792 | 32.51/0.913 | efficient degradation-aware | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | MEASNet | arXiv'24 | 31M | 31.61/0.981 | 39.00/0.985 | 34.12/0.935 | 31.46/0.892 | 28.19/0.803 | 32.85/0.919 | multi-expert adaptive selection | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | U-WADN | arXiv'24 | 6M | 29.21/0.971 | 35.36/0.968 | 33.73/0.931 | 31.14/0.886 | 27.92/0.793 | 31.47/0.910 | unified-width adaptive network | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | Shi et al. | arXiv'24 | - | 29.20/0.972 | 37.50/0.980 | 34.59/0.941 | 31.83/0.900 | 28.46/0.814 | 32.32/0.921 | frequency-aware transformers | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | DyNet | arXiv'24 | 16M | 31.98/0.981 | 38.71/0.983 | 34.11/0.936 | 31.44/0.892 | 28.18/0.803 | 32.88/0.920 | dynamic pre-training | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | Hair | arXiv'24 | 29M | 30.98/0.979 | 38.59/0.983 | 34.16/0.935 | 31.51/0.892 | 28.24/0.803 | 32.70/0.919 | hypernetworks-based | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | LoRA-IR | arXiv'24 | - | 30.68/0.961 | 37.75/0.979 | 34.06/0.935 | 31.42/0.891 | 28.18/0.803 | 32.42/0.914 | mixture of low-rank experts | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | Up-Restorer | AAAI'25 | 28M | 30.68/0.977 | 36.74/0.978 | 33.99/0.933 | 31.33/0.888 | 28.07/0.799 | 32.16/0.915 | ADMM-solver-based design | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | TUR_PromptIR | AAAI'25 | 36M | 31.17/0.978 | 38.57/0.984 | 34.06/0.932 | 31.40/0.887 | 28.13/0.797 | 32.67/0.916 | a novel loss function | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | AdaIR | ICLR'25 | 29M | 31.06/0.980 | 38.64/0.983 | 34.12/0.935 | 31.45/0.892 | 28.19/0.802 | 32.69/0.918 | frequency mining and modulation | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | DA-RCOT | TPAMI'25 | 50M | 31.26/0.977 | 38.36/0.983 | 33.98/0.934 | 31.33/0.890 | 28.10/0.801 | 32.60/0.917 | as an optimal transport problem | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | ABAIR | arXiv'24 | 41M | 33.53/0.984 | 38.69/0.982 | 34.18/0.935 | 31.38/0.890 | 28.25/0.804 | 33.21/0.919 | a three-phase approach | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | MoCE-IR | CVPR'25 | 25M | 31.34/0.979 | 38.57/0.984 | 34.11/0.932 | 31.45/0.888 | 28.18/0.800 | 32.73/0.917 | mixture-of-complexity-experts | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | MTAIR | arXiv'24 | - | 31.34/0.983 | 39.15/0.984 | 34.14/0.936 | 31.50/0.893 | 28.24/0.805 | 32.87/0.920 | Mamba-Transformer cross-dimensional | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | DCPT_PromptIR | ICLR'25 | 35M | 31.91/0.981 | 38.43/0.983 | 34.17/0.933 | 31.53/0.889 | 28.30/0.802 | 32.87/0.918 | learn to classify degradation | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | RamIR | APPL INTELL'25 | 22M | 31.29/0.977 | 38.16/0.981 | 34.04/0.931 | 31.61/0.891 | 28.19/0.801 | 32.65/0.916 | prompt-driven Mamba-based | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | Cat-AIR | arXiv'25 | - | 31.49/0.980 | 38.43/0.983 | 34.11/0.935 | 31.44/0.892 | 28.14/0.803 | 32.72/0.919 | content and task-aware framework | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | DSwinIR | arXiv'25 | 24M | 31.86/0.980 | 37.73/0.983 | 34.12/0.933 | 31.59/0.890 | 28.31/0.803 | 32.72/0.917 | deformable sliding window transformer | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | CPL_PromptIR | arXiv'25 | 36M | 31.27/0.980 | 38.77/0.985 | 34.15/0.933 | 31.50/0.889 | 28.23/0.800 | 32.78/0.917 | contrastive prompt regularization | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | AnyIR | arXiv'25 | 6M | 31.75/0.981 | 38.61/0.984 | 34.12/0.936 | 31.46/0.893 | 28.20/0.804 | 32.83/0.920 | local-global gated mechanism | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | MIRAGE | arXiv'25 | 10M | 31.86/0.981 | 38.94/0.985 | 34.12/0.935 | 31.46/0.891 | 28.19/0.803 | 32.91/0.919 | within the SPD manifold space | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | BaryIR | arXiv'25 | - | 31.33/0.980 | 38.95/0.984 | 34.16/0.935 | 31.54/0.892 | 28.25/0.802 | 32.85/0.919 | in continuous barycenter space | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | SIPL_PromptIR | arXiv'25 | 39M | 31.09/0.977 | 38.43/0.984 | 34.12/0.933 | 31.48/0.889 | 28.22/0.800 | 32.67/0.917 | privilege learning | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | TextPromptIR | arXiv'23 | 124M+110M | 31.65/0.978 | 38.41/0.982 | 34.17/0.936 | 31.52/0.893 | 28.26/0.805 | 32.80/0.919 | textual prompt for AiOIR | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | InstructIR-3D | ECCV'24 | 16M+17M | 30.22/0.959 | 37.98/0.978 | 34.15/0.933 | 31.52/0.890 | 28.30/0.804 | 32.43/0.913 | natural language prompts | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | DA-CLIP_IR-SDE | ICLR'24 | 49M+125M | 26.83/0.962 | 35.85/0.972 | 31.43/0.889 | 25.05/0.605 | 18.33/0.308 | 27.50/0.747 | degradation-aware vision-language model | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | Perceive-IR | arXiv'24 | 42M+86M | 30.87/0.975 | 38.29/0.980 | 34.13/0.934 | 31.42/0.888 | 28.09/0.797 | 32.56/0.915 | prompt-based foundation model | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | VLU-Net | CVPR'25 | 35M+88M | 30.71/0.980 | 38.93/0.984 | 34.13/0.935 | 31.48/0.892 | 28.23/0.804 | 32.70/0.919 | vision-language gradient descent-driven | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | DFPIR | CVPR'25 | 31M+63M | 31.87/0.980 | 38.65/0.982 | 34.14/0.935 | 31.47/0.893 | 28.25/0.806 | 32.88/0.919 | degradation-aware feature perturbation | [Survey · Table II](https://arxiv.org/html/2410.15067v3#S4.T2) |
+| All-in-One | ClusIR | ACM MM 2026 | 54.66M | 32.85/0.983 | 38.71/0.984 | 34.10/0.938 | 31.45/0.897 | 28.19/0.814 | 33.06/0.923 | Cluster-guided restoration | [ClusIR · Table 1](https://arxiv.org/html/2512.10948#S3.T1) **NEW** |
+| All-in-One | QuReC | ACM MM 2026 | 29.61M | 32.77/0.985 | 38.80/0.985 | 34.26/0.934 | 31.60/0.892 | 28.34/0.806 | 33.16/0.920 | Query-specific guidance and response calibration | [QuReC · Table 1](https://arxiv.org/html/2607.15097#S3.T1) **NEW** |
+| All-in-One | DRNet | TMM 2026 | 7.39M | 31.15/0.979 | 38.28/0.983 | 34.20/0.937 | 31.55/0.894 | 28.27/0.807 | 32.69/0.920 | Prior-guided dynamic reparameterization | [DRNet · Table II](https://arxiv.org/html/2605.08627#S3.T2) **NEW** |
+| All-in-One | SLER-IR | ECCV 2026 | — | 33.00/0.982 | 38.34/0.983 | 34.25/0.936 | 31.68/0.897 | 28.45/0.813 | 33.14/0.922 | Spherical layer-wise expert routing | [SLER-IR · Table 1](https://arxiv.org/html/2603.05940#S3.T1) **NEW** |
+
 
 ### Performance Comparisons of AiOIR Models on Five Challenging Datasets
 
-| Type       | Method                     | Venue & Year    | Params | Dehazing (SOTS) | Deraining (Rain100L) | Denoising (BSD68) | Deblurring (Gopro) | Low-light (LOL) | Average         | Approach                         |
-|------------|----------------------------|-----------------|--------|-----------------|----------------------|-------------------|--------------------|-----------------|-----------------|---------------------------------|
-| **Single** | ADFNet                     | AAAI'23         | 8M     | 24.18 / 0.928   | 32.97 / 0.943        | 31.15 / 0.882     | 25.79 / 0.781      | 21.15 / 0.823   | 27.05 / 0.871   | Specific                        |
-|            | DehazeFormer               | TIP'23          | 25M    | 25.31 / 0.937   | 33.68 / 0.954        | 30.89 / 0.880     | 25.93 / 0.785      | 21.31 / 0.819   | 27.42 / 0.875   | Specific                        |
-|            | DRSformer                  | CVPR'23         | 34M    | 24.66 / 0.931   | 33.45 / 0.953        | 30.97 / 0.881     | 25.56 / 0.780      | 21.77 / 0.821   | 27.28 / 0.873   | Specific                        |
-|            | HI-Diff                    | NeurIPS'23      | 24M    | 25.09 / 0.935   | 33.26 / 0.951        | 30.61 / 0.878     | 26.48 / 0.800      | 22.01 / 0.870   | 27.49 / 0.887   | Specific                        |
-|            | Retinexformer              | ICCV'23         | 2M     | 24.81 / 0.933   | 32.68 / 0.940        | 30.84 / 0.880     | 25.09 / 0.779      | 22.76 / 0.863   | 27.24 / 0.873   | Specific                        |
-| **Multiple** | SwinIR                    | ICCVW'21        | 1M     | 21.50 / 0.891   | 30.78 / 0.923        | 30.59 / 0.868     | 24.52 / 0.773      | 17.81 / 0.723   | 25.04 / 0.835   | General                        |
-|            | MIRNet-v2                  | TPAMI'22        | 6M     | 24.03 / 0.927   | 33.89 / 0.954        | 30.97 / 0.881     | 26.30 / 0.799      | 21.52 / 0.815   | 27.34 / 0.875   | General                        |
-|            | DGUNet                     | CVPR'22         | 17M    | 24.78 / 0.940   | 36.62 / 0.971        | 31.10 / 0.883     | 27.25 / 0.837      | 21.87 / 0.823   | 28.32 / 0.891   | General                        |
-|            | Restormer                  | CVPR'22         | 26M    | 24.09 / 0.927   | 34.81 / 0.960        | 31.49 / 0.884     | 27.22 / 0.829      | 20.41 / 0.806   | 27.60 / 0.881   | General                        |
-|            | NAFNet                     | ECCV'22         | 17M    | 25.23 / 0.939   | 35.56 / 0.967        | 31.02 / 0.883     | 26.53 / 0.808      | 20.49 / 0.809   | 27.76 / 0.881   | General                        |
-|            | FSNet                      | TPAMI'23        | 13M    | 25.53 / 0.943   | 36.07 / 0.968        | 31.33 / 0.883     | 28.32 / 0.869      | 22.29 / 0.829   | 28.71 / 0.898   | General                        |
-|            | MambaIR                    | ECCV'24         | 27M    | 25.81 / 0.944   | 36.55 / 0.971        | 31.41 / 0.884     | 28.61 / 0.875      | 22.49 / 0.832   | 28.97 / 0.901   | General                        |
-| **All-in-One** | DL                      | TPAMI'19        | 2M     | 20.54 / 0.826   | 21.96 / 0.762        | 23.09 / 0.745     | 19.86 / 0.672      | 19.83 / 0.712   | 21.05 / 0.743   | parameterized image operator    |
-|            | Transweather               | CVPR'22         | 38M    | 21.32 / 0.885   | 29.43 / 0.905        | 29.00 / 0.841     | 25.12 / 0.757      | 21.21 / 0.792   | 25.22 / 0.836   | weather type queries            |
-|            | TAPE                       | ECCV'22         | 1M     | 22.16 / 0.861   | 29.67 / 0.904        | 30.18 / 0.855     | 24.47 / 0.763      | 18.97 / 0.621   | 25.09 / 0.801   | task-agnostic prior             |
-|            | AirNet                     | CVPR'22         | 9M     | 21.04 / 0.884   | 32.98 / 0.951        | 30.91 / 0.882     | 24.35 / 0.781      | 18.18 / 0.735   | 25.49 / 0.846   | contrastive-based & degradation-guided |
-|            | IDR                        | CVPR'23         | 15M    | 25.24 / 0.943   | 35.63 / 0.965        | 31.60 / 0.887     | 27.87 / 0.846      | 21.34 / 0.826   | 28.34 / 0.893   | ingredient-oriented learning    |
-|            | PIP_Restormer              | arXiv'23        | 27M    | 32.11 / 0.979   | 38.09 / 0.983        | 30.94 / 0.877     | 28.61 / 0.861      | 24.06 / 0.859   | 30.81 / 0.901   | prompt-in-prompt learning       |
-|            | PromptIR                   | NeurIPS'23      | 36M    | 26.54 / 0.949   | 36.37 / 0.970        | 31.47 / 0.886     | 28.71 / 0.881      | 22.68 / 0.832   | 29.15 / 0.904   | prompt for AiOIR                |
-|            | DASL_MPRNet                | arXiv'23        | 15M    | 25.82 / 0.947   | 38.02 / 0.980        | 31.57 / 0.890     | 26.91 / 0.823      | 20.96 / 0.826   | 28.66 / 0.893   | decomposition ascribed synergistic |
-|            | Gridformer                 | IJCV'23         | 34M    | 26.79 / 0.951   | 36.61 / 0.971        | 31.45 / 0.885     | 29.22 / 0.884      | 22.59 / 0.831   | 29.33 / 0.904   | transformer with grid structure |
-|            | Art_PromptIR               | ACM MM'24       | 36M    | 29.93 / 0.908   | 22.09 / 0.891        | 29.43 / 0.843     | 25.61 / 0.776      | 21.99 / 0.811   | 25.81 / 0.846   | via multi-task collaboration   |
-|            | DaAIR                      | arXiv'24        | 6M     | 31.97 / 0.980   | 36.28 / 0.975        | 31.07 / 0.878     | 29.51 / 0.890      | 22.38 / 0.825   | 30.24 / 0.910   | efficient degradation-aware     |
-|            | AnyIR                      | arXiv'24        | 6M     | 29.84 / 0.977   | 36.91 / 0.977        | 31.15 / 0.882     | 26.86 / 0.822      | 23.50 / 0.845   | 29.65 / 0.901   | local-global gated intertwining |
-|            | MEASNet                    | arXiv'24        | 31M    | 31.05 / 0.980   | 38.32 / 0.982        | 31.40 / 0.888     | 29.41 / 0.890      | 23.00 / 0.845   | 30.64 / 0.917   | multi-expert adaptive selection |
-|            | Hair                       | arXiv'24        | 29M    | 30.62 / 0.978   | 38.11 / 0.981        | 31.49 / 0.891     | 28.52 / 0.874      | 23.12 / 0.847   | 30.37 / 0.914   | hypernetworks-based             |
-|            | TUR_Transweather           | AAAI'25         | 38M    | 29.68 / 0.966   | 33.09 / 0.952        | 30.40 / 0.869     | 26.63 / 0.815      | 23.02 / 0.838   | 28.56 / 0.888   | a novel loss function           |
-|            | AdaIR                      | ICLR'25         | 29M    | 30.53 / 0.978   | 38.02 / 0.981        | 31.35 / 0.889     | 28.12 / 0.858      | 23.00 / 0.845   | 30.20 / 0.910   | frequency mining and modulation |
-|            | DA-RCOT                    | TPAMI'25        | 50M    | 30.96 / 0.975   | 37.87 / 0.980        | 31.23 / 0.888     | 28.68 / 0.872      | 23.25 / 0.836   | 30.40 / 0.911   | as an optimal transport problem |
-|            | ABAIR                      | arXiv'24        | 41M    | 33.46 / 0.983   | 38.18 / 0.983        | 31.38 / 0.898     | 29.00 / 0.878      | 24.20 / 0.865   | 31.24 / 0.921   | a three-phase approach          |
-|            | MoCE-IR                    | CVPR'25         | 25M    | 30.48 / 0.974   | 38.04 / 0.982        | 31.34 / 0.887     | 30.05 / 0.899      | 23.00 / 0.852   | 30.58 / 0.919   | mixture-of-complexity-experts framework |
-|            | DCPT_PromptIR              | ICLR'25         | 35M    | 30.72 / 0.977   | 37.32 / 0.978        | 31.32 / 0.885     | 28.84 / 0.877      | 23.35 / 0.840   | 30.31 / 0.911   | learn to classify degradation   |
-|            | RamIR                      | APPL INTELL'25  | 22M    | 31.09 / 0.979   | 37.56 / 0.979        | 31.44 / 0.886     | 28.82 / 0.878      | 22.02 / 0.828   | 30.18 / 0.910   | prompt-driven Mamba-based       |
-|            | D3Net                      | arXiv'25        | 38M    | 32.57 / 0.965   | 38.35 / 0.973        | 31.73 / 0.860     | 32.70 / 0.851      | 26.49 / 0.857   | 32.36 / 0.901   | cross-domain and dynamic decomposition |
-|            | Cat-AIR                    | arXiv'25        | -      | 30.88 / 0.978   | 38.21 / 0.982        | 31.38 / 0.890     | 28.91 / 0.876      | 23.46 / 0.848   | 30.57 / 0.915   | content and task-aware framework |
-|            | DSwinIR                    | arXiv'25        | 24M    | 30.09 / 0.975   | 37.77 / 0.982        | 31.34 / 0.885     | 29.17 / 0.879      | 22.64 / 0.843   | 30.19 / 0.913   | deformable sliding window transformer |
-|            | CPL_PromptIR               | arXiv'25        | 36M    | 30.82 / 0.978   | 38.20 / 0.983        | 31.41 / 0.887     | 28.72 / 0.874      | 23.65 / 0.855   | 30.55 / 0.915   | contrastive prompt regularization |
-|            | AnyIR                      | arXiv'25        | 6M     | 31.41 / 0.980   | 38.51 / 0.983        | 31.37 / 0.891     | 28.85 / 0.883      | 23.11 / 0.856   | 30.65 / 0.919   | local-global gated mechanism    |
-|            | MIRAGE                     | arXiv'25        | 10M    | 31.45 / 0.980   | 38.92 / 0.985        | 31.41 / 0.892     | 28.10 / 0.858      | 23.59 / 0.858   | 30.68 / 0.914   | within the SPD manifold space   |
-|            | BaryIR                     | arXiv'25        | -      | 31.12 / 0.976   | 38.05 / 0.981        | 31.43 / 0.891     | 29.30 / 0.888      | 23.38 / 0.852   | 30.66 / 0.918   | in continuous barycenter space  |
-|            | InstructIR-5D              | ECCV'24         | 16M+17M | 36.84 / 0.973  | 27.10 / 0.956        | 31.40 / 0.887     | 29.40 / 0.886      | 23.00 / 0.836   | 29.55 / 0.907   | natural language prompts        |
-|            | Perceive-IR                | TIP'25          | 42M+86M | 28.19 / 0.964  | 37.25 / 0.977        | 31.44 / 0.887     | 29.46 / 0.886      | 22.88 / 0.833   | 29.84 / 0.909   | quality-aware degradation       |
-|            | VLU-Net                    | CVPR'25         | 35M+88M | 30.84 / 0.980  | 38.54 / 0.982        | 31.43 / 0.891     | 27.46 / 0.840      | 22.29 / 0.833   | 30.11 / 0.905   | vision-language gradient descent-driven |
-|            | DFPIR                      | CVPR'25         | 31M+63M | 31.64 / 0.979  | 37.62 / 0.978        | 31.29 / 0.889     | 28.82 / 0.873      | 23.62 / 0.852   | 30.60 / 0.914   | degradation-aware feature perturbation    |
-|            | CyclicPrompt               |arXiv'25         |30M+486M| 33.02/0.983 | 37.03/0.989 | 31.33/0.941 | 29.42/0.925    |21.79/0.837 | 30.52/0.935 |cyclic prompt-driven universal framework|
+Metrics are PSNR (dB) / SSIM, higher is better. Updated **2026-11-06**. Results are source-reported, not independently re-evaluated. **NEW** marks newly added rows. [Protocol and source notes](data/SOURCES.md).
+
+| Category | Method | Venue & Year | Params | SOTS · Dehazing | Rain100L · Deraining | BSD68 · σ = 25 | GoPro · Deblurring | LOL · Low-light | Average | Approach | Source |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Single | ADFNet | AAAI'23 | 8M | 24.18/0.928 | 32.97/0.943 | 31.15/0.882 | 25.79/0.781 | 21.15/0.823 | 27.05/0.871 | Specific | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| Single | DehazeFormer | TIP'23 | 25M | 25.31/0.937 | 33.68/0.954 | 30.89/0.880 | 25.93/0.785 | 21.31/0.819 | 27.42/0.875 | Specific | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| Single | DRSformer | CVPR'23 | 34M | 24.66/0.931 | 33.45/0.953 | 30.97/0.881 | 25.56/0.780 | 21.77/0.821 | 27.28/0.873 | Specific | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| Single | HI-Diff | NeurIPS'23 | 24M | 25.09/0.935 | 33.26/0.951 | 30.61/0.878 | 26.48/0.800 | 22.01/0.870 | 27.49/0.887 | Specific | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| Single | Retinexformer | ICCV'23 | 2M | 24.81/0.933 | 32.68/0.940 | 30.84/0.880 | 25.09/0.779 | 22.76/0.863 | 27.24/0.873 | Specific | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| Multiple | SwinIR | ICCVW'21 | 1M | 21.50/0.891 | 30.78/0.923 | 30.59/0.868 | 24.52/0.773 | 17.81/0.723 | 25.04/0.835 | General | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| Multiple | MIRNet-v2 | TPAMI'22 | 6M | 24.03/0.927 | 33.89/0.954 | 30.97/0.881 | 26.30/0.799 | 21.52/0.815 | 27.34/0.875 | General | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| Multiple | DGUNet | CVPR'22 | 17M | 24.78/0.940 | 36.62/0.971 | 31.10/0.883 | 27.25/0.837 | 21.87/0.823 | 28.32/0.891 | General | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| Multiple | Restormer | CVPR'22 | 26M | 24.09/0.927 | 34.81/0.960 | 31.49/0.884 | 27.22/0.829 | 20.41/0.806 | 27.60/0.881 | General | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| Multiple | NAFNet | ECCV'22 | 17M | 25.23/0.939 | 35.56/0.967 | 31.02/0.883 | 26.53/0.808 | 20.49/0.809 | 27.76/0.881 | General | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| Multiple | FSNet | TPAMI'23 | 13M | 25.53/0.943 | 36.07/0.968 | 31.33/0.883 | 28.32/0.869 | 22.29/0.829 | 28.71/0.898 | General | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| Multiple | MambaIR | ECCV'24 | 27M | 25.81/0.944 | 36.55/0.971 | 31.41/0.884 | 28.61/0.875 | 22.49/0.832 | 28.97/0.901 | General | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| All-in-One | DL | TPAMI'19 | 2M | 20.54/0.826 | 21.96/0.762 | 23.09/0.745 | 19.86/0.672 | 19.83/0.712 | 21.05/0.743 | parameterized image operator | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| All-in-One | Transweather | CVPR'22 | 38M | 21.32/0.885 | 29.43/0.905 | 29.00/0.841 | 25.12/0.757 | 21.21/0.792 | 25.22/0.836 | weather type queries | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| All-in-One | TAPE | ECCV'22 | 1M | 22.16/0.861 | 29.67/0.904 | 30.18/0.855 | 24.47/0.763 | 18.97/0.621 | 25.09/0.801 | task-agnostic prior | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| All-in-One | AirNet | CVPR'22 | 9M | 21.04/0.884 | 32.98/0.951 | 30.91/0.882 | 24.35/0.781 | 18.18/0.735 | 25.49/0.846 | contrastive-based & degradation-guided | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| All-in-One | IDR | CVPR'23 | 15M | 25.24/0.943 | 35.63/0.965 | 31.60/0.887 | 27.87/0.846 | 21.34/0.826 | 28.34/0.893 | ingredient-oriented learning | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| All-in-One | PIP_Restormer | arXiv'23 | 27M | 32.11/0.979 | 38.09/0.983 | 30.94/0.877 | 28.61/0.861 | 24.06/0.859 | 30.81/0.901 | prompt-in-prompt learning | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| All-in-One | PromptIR | NeurIPS'23 | 36M | 26.54/0.949 | 36.37/0.970 | 31.47/0.886 | 28.71/0.881 | 22.68/0.832 | 29.15/0.904 | prompt for AiOIR | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| All-in-One | DASL_MPRNet | arXiv'23 | 15M | 25.82/0.947 | 38.02/0.980 | 31.57/0.890 | 26.91/0.823 | 20.96/0.826 | 28.66/0.893 | decomposition ascribed synergistic | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| All-in-One | Gridformer | IJCV'23 | 34M | 26.79/0.951 | 36.61/0.971 | 31.45/0.885 | 29.22/0.884 | 22.59/0.831 | 29.33/0.904 | transformer with grid structure | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| All-in-One | Art_PromptIR | ACM MM'24 | 36M | 29.93/0.908 | 22.09/0.891 | 29.43/0.843 | 25.61/0.776 | 21.99/0.811 | 25.81/0.846 | via multi-task collaboration | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| All-in-One | DaAIR | arXiv'24 | 6M | 31.97/0.980 | 36.28/0.975 | 31.07/0.878 | 29.51/0.890 | 22.38/0.825 | 30.24/0.910 | efficient degradation-aware | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| All-in-One | AnyIR | arXiv'24 | 6M | 29.84/0.977 | 36.91/0.977 | 31.15/0.882 | 26.86/0.822 | 23.50/0.845 | 29.65/0.901 | local-global gated intertwining | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| All-in-One | MEASNet | arXiv'24 | 31M | 31.05/0.980 | 38.32/0.982 | 31.40/0.888 | 29.41/0.890 | 23.00/0.845 | 30.64/0.917 | multi-expert adaptive selection | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| All-in-One | Hair | arXiv'24 | 29M | 30.62/0.978 | 38.11/0.981 | 31.49/0.891 | 28.52/0.874 | 23.12/0.847 | 30.37/0.914 | hypernetworks-based | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| All-in-One | TUR_Transweather | AAAI'25 | 38M | 29.68/0.966 | 33.09/0.952 | 30.40/0.869 | 26.63/0.815 | 23.02/0.838 | 28.56/0.888 | a novel loss function | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| All-in-One | AdaIR | ICLR'25 | 29M | 30.53/0.978 | 38.02/0.981 | 31.35/0.889 | 28.12/0.858 | 23.00/0.845 | 30.20/0.910 | frequency mining and modulation | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| All-in-One | DA-RCOT | TPAMI'25 | 50M | 30.96/0.975 | 37.87/0.980 | 31.23/0.888 | 28.68/0.872 | 23.25/0.836 | 30.40/0.911 | as an optimal transport problem | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| All-in-One | ABAIR | arXiv'24 | 41M | 33.46/0.983 | 38.18/0.983 | 31.38/0.898 | 29.00/0.878 | 24.20/0.865 | 31.24/0.921 | a three-phase approach | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| All-in-One | MoCE-IR | CVPR'25 | 25M | 30.48/0.974 | 38.04/0.982 | 31.34/0.887 | 30.05/0.899 | 23.00/0.852 | 30.58/0.919 | mixture-of-complexity-experts framework | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| All-in-One | DCPT_PromptIR | ICLR'25 | 35M | 30.72/0.977 | 37.32/0.978 | 31.32/0.885 | 28.84/0.877 | 23.35/0.840 | 30.31/0.911 | learn to classify degradation | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| All-in-One | RamIR | APPL INTELL'25 | 22M | 31.09/0.979 | 37.56/0.979 | 31.44/0.886 | 28.82/0.878 | 22.02/0.828 | 30.18/0.910 | prompt-driven Mamba-based | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| All-in-One | D3Net | arXiv'25 | 38M | 32.57/0.965 | 38.35/0.973 | 31.73/0.860 | 32.70/0.851 | 26.49/0.857 | 32.36/0.901 | cross-domain and dynamic decomposition | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| All-in-One | Cat-AIR | arXiv'25 | - | 30.88/0.978 | 38.21/0.982 | 31.38/0.890 | 28.91/0.876 | 23.46/0.848 | 30.57/0.915 | content and task-aware framework | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| All-in-One | DSwinIR | arXiv'25 | 24M | 30.09/0.975 | 37.77/0.982 | 31.34/0.885 | 29.17/0.879 | 22.64/0.843 | 30.19/0.913 | deformable sliding window transformer | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| All-in-One | CPL_PromptIR | arXiv'25 | 36M | 30.82/0.978 | 38.20/0.983 | 31.41/0.887 | 28.72/0.874 | 23.65/0.855 | 30.55/0.915 | contrastive prompt regularization | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| All-in-One | AnyIR | arXiv'25 | 6M | 31.41/0.980 | 38.51/0.983 | 31.37/0.891 | 28.85/0.883 | 23.11/0.856 | 30.65/0.919 | local-global gated mechanism | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| All-in-One | MIRAGE | arXiv'25 | 10M | 31.45/0.980 | 38.92/0.985 | 31.41/0.892 | 28.10/0.858 | 23.59/0.858 | 30.68/0.914 | within the SPD manifold space | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| All-in-One | BaryIR | arXiv'25 | - | 31.12/0.976 | 38.05/0.981 | 31.43/0.891 | 29.30/0.888 | 23.38/0.852 | 30.66/0.918 | in continuous barycenter space | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| All-in-One | InstructIR-5D | ECCV'24 | 16M+17M | 27.10/0.956 | 36.84/0.973 | 31.40/0.887 | 29.40/0.886 | 23.00/0.836 | 29.55/0.907 | natural language prompts | [InstructIR · Table 2](https://arxiv.org/html/2401.16468#S4.T2) † |
+| All-in-One | Perceive-IR | TIP'25 | 42M+86M | 28.19/0.964 | 37.25/0.977 | 31.44/0.887 | 29.46/0.886 | 22.88/0.833 | 29.84/0.909 | quality-aware degradation | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| All-in-One | VLU-Net | CVPR'25 | 35M+88M | 30.84/0.980 | 38.54/0.982 | 31.43/0.891 | 27.46/0.840 | 22.29/0.833 | 30.11/0.905 | vision-language gradient descent-driven | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| All-in-One | DFPIR | CVPR'25 | 31M+63M | 31.64/0.979 | 37.62/0.978 | 31.29/0.889 | 28.82/0.873 | 23.62/0.852 | 30.60/0.914 | degradation-aware feature perturbation | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| All-in-One | CyclicPrompt | arXiv'25 | 30M+486M | 33.02/0.983 | 37.03/0.989 | 31.33/0.941 | 29.42/0.925 | 21.79/0.837 | 30.52/0.935 | cyclic prompt-driven universal framework | [Survey · Table III](https://arxiv.org/html/2410.15067v3#S4.T3) |
+| All-in-One | ClusIR | ACM MM 2026 | 54.66M | 31.94/0.982 | 37.28/0.980 | 31.35/0.894 | 28.54/0.872 | 23.78/0.865 | 30.58/0.919 | Cluster-guided restoration | [ClusIR · Table 2](https://arxiv.org/html/2512.10948#S3.T2) **NEW** |
+| All-in-One | QuReC | ACM MM 2026 | 29.61M | 31.72/0.982 | 39.23/0.986 | 31.56/0.891 | 32.50/0.936 | 24.23/0.867 | 31.85/0.932 | Query-specific guidance and response calibration | [QuReC · Table 2](https://arxiv.org/html/2607.15097#S4.T2) **NEW** |
+| All-in-One | DRNet | TMM 2026 | 7.39M | 31.28/0.980 | 38.13/0.982 | 31.54/0.894 | 29.01/0.870 | 22.30/0.846 | 30.45/0.914 | Prior-guided dynamic reparameterization | [DRNet · Table I](https://arxiv.org/html/2605.08627#S3.T1) **NEW** |
+| All-in-One | SLER-IR | ECCV 2026 | — | 33.43/0.985 | 38.47/0.983 | 31.50/0.894 | 31.27/0.918 | 23.96/0.861 | 31.73/0.928 | Spherical layer-wise expert routing | [SLER-IR · Table 2](https://arxiv.org/html/2603.05940#S4.T2) **NEW** |
+
+† InstructIR-5D SOTS and Rain100L columns were swapped in the previous table; corrected from the original paper, Table 2. BSD68 denoising uses σ = 25.
+
 
 ### Performance Comparisons of AiOIR Models on All-Weather Datasets
 
-| Method | Snow | Rain+Fog | Raindrop | Average | Params |
-|--------|------|----------|----------|---------|--------|
-| SwinIR | 28.18/0.880 | 23.23/0.869 | 30.82/0.904 | 27.41/0.884 | 12M |
-| MPRNet | 28.66/0.869 | 30.25/0.914 | 30.99/0.916 | 29.30/0.900 | 16M |
-| Restormer | 29.37/0.881 | 29.22/0.907 | 31.21/0.919 | 29.93/0.902 | 26M |
-| All-in-One | 28.33/0.882 | 24.71/0.898 | 31.12/0.927 | 28.05/0.902 | 44M |
-| Transweather | 29.31/0.888 | 28.83/0.900 | 30.17/0.916 | 29.44/0.901 | 38M |
-| AirNet | 27.92/0.858 | 23.12/0.837 | 28.23/0.892 | 26.42/0.862 | 9M |
-| WGWS-Net | 28.91/0.856 | 29.28/0.922 | 32.01/0.925 | 30.07/0.901 | 6M |
-| WeatherDiff | 30.09/0.904 | 29.64/0.931 | 30.71/0.931 | 30.15/0.922 | 83M |
-| TKMANet | 30.24/0.902 | 29.92/0.917 | 30.99/0.927 | 30.38/0.915 | 29M |
-| UtilityIR | 29.47/0.879 | 31.16/0.927 | 32.01/0.925 | 30.88/0.910 | 26M |
-| AWRCP | 31.92/0.934 | 31.39/0.933 | 31.93/0.931 | 31.75/0.933 | - |
-| Histoformer | 32.16/0.926 | 32.08/0.939 | 33.06/0.944 | 32.43/0.936 | 17M |
-| LoRA-IR | 32.28/0.930 | 32.62/0.945 | 33.39/0.949 | 32.76/0.941 | - |
-| T3-DiffWeather | 32.37/0.936 | 31.99/0.937 | 32.66/0.941 | 32.34/0.938 | 69M+25M |
-| MWFormer | 30.92/0.908 | 30.27/0.912 | 31.91/0.927 | 31.03/0.916 | 170M |
-| TUR_Transweather | 30.62/0.909 | 29.75/0.907 | 31.61/0.933 | 30.66/0.916 | 38M |
-| CyclicPrompt | 32.16/0.927 | 32.81/0.937 | 32.57/0.945 | 32.51/0.936 | 30M+486M |
-| DSwinIR | 32.58/0.931 | 32.76/0.950 | 32.88/0.947 | 32.74/0.943 | 24M |
-| DA2Diff | 31.42/0.916 | 31.58/0.939 | 33.01/0.945 | 31.67/0.933 | - |
-| HOGformer | 32.41/0.930 | 32.89/0.946 | 32.72/0.945 | 32.67/0.940 | 17M |
-| CPL_PromptIR | 32.27/0.928 | 32.16/0.942 | 32.73/0.943 | 32.39/0.938 | 36M |
-| MODEM | 32.52/0.929 | 33.10/0.941 | 33.01/0.943 | 32.87/0.938 | 20M |
+Metrics are PSNR (dB) / SSIM, higher is better. Updated **2026-11-06**. Results are source-reported, not independently re-evaluated. **NEW** marks newly added rows. [Protocol and source notes](data/SOURCES.md).
 
-### Performance Comparisons of AiOIR Models on Real-World Weather-Related Datasets 
+| Method | Snow100K-L | Outdoor-Rain | RainDrop-A | Average | Params | Source |
+| --- | --- | --- | --- | --- | --- | --- |
+| SwinIR | 28.18/0.880 | 23.23/0.869 | 30.82/0.904 | 27.41/0.884 | 12M | [Survey · Table IV](https://arxiv.org/html/2410.15067v3#S4.T4) |
+| MPRNet | 28.66/0.869 | 30.25/0.914 | 30.99/0.916 | 29.30/0.900 | 16M | [Survey · Table IV](https://arxiv.org/html/2410.15067v3#S4.T4) |
+| Restormer | 29.37/0.881 | 29.22/0.907 | 31.21/0.919 | 29.93/0.902 | 26M | [Survey · Table IV](https://arxiv.org/html/2410.15067v3#S4.T4) |
+| All-in-One | 28.33/0.882 | 24.71/0.898 | 31.12/0.927 | 28.05/0.902 | 44M | [Survey · Table IV](https://arxiv.org/html/2410.15067v3#S4.T4) |
+| Transweather | 29.31/0.888 | 28.83/0.900 | 30.17/0.916 | 29.44/0.901 | 38M | [Survey · Table IV](https://arxiv.org/html/2410.15067v3#S4.T4) |
+| AirNet | 27.92/0.858 | 23.12/0.837 | 28.23/0.892 | 26.42/0.862 | 9M | [Survey · Table IV](https://arxiv.org/html/2410.15067v3#S4.T4) |
+| WGWS-Net | 28.91/0.856 | 29.28/0.922 | 32.01/0.925 | 30.07/0.901 | 6M | [Survey · Table IV](https://arxiv.org/html/2410.15067v3#S4.T4) |
+| WeatherDiff | 30.09/0.904 | 29.64/0.931 | 30.71/0.931 | 30.15/0.922 | 83M | [Survey · Table IV](https://arxiv.org/html/2410.15067v3#S4.T4) |
+| TKMANet | 30.24/0.902 | 29.92/0.917 | 30.99/0.927 | 30.38/0.915 | 29M | [Survey · Table IV](https://arxiv.org/html/2410.15067v3#S4.T4) |
+| UtilityIR | 29.47/0.879 | 31.16/0.927 | 32.01/0.925 | 30.88/0.910 | 26M | [Survey · Table IV](https://arxiv.org/html/2410.15067v3#S4.T4) |
+| AWRCP | 31.92/0.934 | 31.39/0.933 | 31.93/0.931 | 31.75/0.933 | - | [Survey · Table IV](https://arxiv.org/html/2410.15067v3#S4.T4) |
+| Histoformer | 32.16/0.926 | 32.08/0.939 | 33.06/0.944 | 32.43/0.936 | 17M | [Survey · Table IV](https://arxiv.org/html/2410.15067v3#S4.T4) |
+| LoRA-IR | 32.28/0.930 | 32.62/0.945 | 33.39/0.949 | 32.76/0.941 | - | [Survey · Table IV](https://arxiv.org/html/2410.15067v3#S4.T4) |
+| T3-DiffWeather | 32.37/0.936 | 31.99/0.937 | 32.66/0.941 | 32.34/0.938 | 69M+25M | [Survey · Table IV](https://arxiv.org/html/2410.15067v3#S4.T4) |
+| MWFormer | 30.92/0.908 | 30.27/0.912 | 31.91/0.927 | 31.03/0.916 | 170M | [Survey · Table IV](https://arxiv.org/html/2410.15067v3#S4.T4) |
+| TUR_Transweather | 30.62/0.909 | 29.75/0.907 | 31.61/0.933 | 30.66/0.916 | 38M | [Survey · Table IV](https://arxiv.org/html/2410.15067v3#S4.T4) |
+| CyclicPrompt | 32.16/0.927 | 32.81/0.937 | 32.57/0.945 | 32.51/0.936 | 30M+486M | [Survey · Table IV](https://arxiv.org/html/2410.15067v3#S4.T4) |
+| DSwinIR | 32.58/0.931 | 32.76/0.950 | 32.88/0.947 | 32.74/0.943 | 24M | [Survey · Table IV](https://arxiv.org/html/2410.15067v3#S4.T4) |
+| DA2Diff | 31.42/0.916 | 31.58/0.939 | 33.01/0.945 | 31.67/0.933 | - | [Survey · Table IV](https://arxiv.org/html/2410.15067v3#S4.T4) |
+| HOGformer | 32.41/0.930 | 32.89/0.946 | 32.72/0.945 | 32.67/0.940 | 17M | [Survey · Table IV](https://arxiv.org/html/2410.15067v3#S4.T4) |
+| CPL_PromptIR | 32.27/0.928 | 32.16/0.942 | 32.73/0.943 | 32.39/0.938 | 36M | [Survey · Table IV](https://arxiv.org/html/2410.15067v3#S4.T4) |
+| MODEM | 32.52/0.929 | 33.10/0.941 | 33.01/0.943 | 32.87/0.938 | 20M | [Survey · Table IV](https://arxiv.org/html/2410.15067v3#S4.T4) |
+| DCMPC-Net | 32.35/0.9302 | 32.49/0.9477 | 33.08/0.9474 | 32.64/0.9418 | 37.60M* | [DCMPC-Net · Table I](https://arxiv.org/html/2608.06939#S4.T1) **NEW** |
+| WeatherRemover | 30.87/0.9121 | 31.52/0.917 | 31.51/0.9307 | 31.30/0.9199 | 24.3M | [WeatherRemover · Tables I–III](https://arxiv.org/html/2604.06623#S4.T1) **NEW** |
 
-| Method | Haze | Rain | Snow | Average | Params |
-|--------|------|------|------|---------|--------|
-| **the WeatherStream Dataset** ||||||
-| NAFNet | 22.20/0.803 | 23.01/0.803 | 22.11/0.826 | 22.44/0.811 | 17M |
-| GRL | 22.88/0.802 | 23.75/0.805 | 22.59/0.829 | 23.07/0.812 | 3M |
-| Restormer | 22.90/0.803 | 23.67/0.804 | 22.51/0.828 | 22.86/0.812 | 26M |
-| MPRNet | 21.73/0.763 | 21.50/0.791 | 20.74/0.801 | 21.32/0.785 | 16M |
-| Transweather | 22.55/0.774 | 22.21/0.772 | 21.79/0.792 | 22.18/0.779 | 38M |
-| AirNet | 21.56/0.770 | 22.52/0.797 | 21.44/0.812 | 21.84/0.793 | 9M |
-| TKMANet | 22.38/0.805 | 23.22/0.795 | 22.25/0.827 | 22.62/0.809 | 29M |
-| WGWS-Net | 22.78/0.800 | 23.80/0.807 | 22.72/0.831 | 23.10/0.813 | 6M |
-| **the Real-World Dataset** ||||||
-| TKMANet | 20.10/0.85 | 37.32/0.97 | 29.37/0.88 | 28.93/0.90 | 29M |
-| TransWeather | 17.33/0.82 | 33.64/0.93 | 26.92/0.86 | 26.71/0.86 | 38M |
-| TUR_Transweather | 20.38/0.88 | 39.78/0.98 | 29.72/0.91 | 29.96/0.92 | 38M |
-| WGWS-Net | 29.46/0.85 | 38.94/0.98 | 33.61/0.93 | 34.01/0.92 | 6M |
-| DSwinIR | 30.14/0.89 | 40.60/0.98 | 33.80/0.93 | 34.85/0.93 | 24M |
+*DCMPC-Net and WeatherRemover averages are arithmetic means over the three displayed datasets, computed here. WeatherRemover uses the **Multi Weather** results from Tables I–III. DCMPC-Net’s original four-dataset average is not used. DCMPC-Net parameter count excludes its vision-language and text encoders. Training mixtures differ; see source notes.*
 
-### Performance Comparisons of AiOIR Models on CDD-11 Datasets 
 
-| Type | Method | Venue & Year | PSNR | SSIM | Params |
-|------|--------|---------------|--------|--------|--------|
-| One-to-One | MPRNet | CVPR'21 | 25.47 | 0.856 | 16M |
-| One-to-One | MIRNetv2 | TPAMI'22 | 25.37 | 0.854 | 6M |
-| One-to-One | Restormer | CVPR'22 | 26.99 | 0.865 | 26M |
-| One-to-One | DGUNet | CVPR'22 | 25.33 | 0.844 | 18M |
-| One-to-One | NAFNet | ECCV'22 | 26.22 | 0.796 | 17M |
-| One-to-One | SRUDC | ICCV'23 | 27.64 | 0.860 | 7M |
-| One-to-One | Fourmer | ICML'23 | 23.44 | 0.789 | 6M |
-| One-to-One | OKNet | AAAI'24 | 26.33 | 0.861 | 6M |
-| One-to-Many | AirNet | CVPR'22 | 23.75 | 0.814 | 9M |
-| One-to-Many | TransWeather | CVPR'22 | 23.13 | 0.804 | 38M |
-| One-to-Many | WeatherDiff | TPAMI'23 | 24.09 | 0.799 | 83M |
-| One-to-Many | PromptIR | NeurIPS'23 | 25.90 | 0.850 | 36M |
-| One-to-Many | WGWS-Net | CVPR'23 | 26.96 | 0.861 | 6M |
-| One-to-Many | HAIR | arXiv'24 | 27.85 | 0.866 | 29M |
-| One-to-Composite | OneRestore | ECCV'24 | 28.47 | 0.878 | 6M |
-| One-to-Composite | AllRestorer | arXiv'24 | 33.72 | 0.944 | 12M+88M |
-| One-to-Composite | DA-CLIP_NAFNet | ICLR'24 | 26.56 | 0.860 | 86M+125M |
-| One-to-Composite | MoCE-IR-S | CVPR'25 | 29.05 | 0.881 | 11M |
-| One-to-Composite | DCPT_NAFNet | ICLR'25 | 30.66 | 0.891 | 68M |
-| One-to-Composite | VL-UR | arXiv'25 | 28.76 | 0.879 | - |
-| One-to-Composite | MIRAGE | arXiv'25 | 29.33 | 0.887 | 10M |
-| Step-by-Step | CoR_HAIR | arXiv'24 | 28.33 | 0.869 | 30M |
-| Step-by-Step | CoR_OneRestore | arXiv'24 | 28.84 | 0.879 | 8M |
+### Performance Comparisons of AiOIR Models on Real-World Weather-Related Datasets
+
+Metrics are PSNR (dB) / SSIM, higher is better. Updated **2026-11-06**. Results are source-reported, not independently re-evaluated. **NEW** marks newly added rows. [Protocol and source notes](data/SOURCES.md).
+
+These tracks use different datasets / settings and must be compared separately.
+
+#### WeatherStream
+
+| Method | Haze | Rain | Snow | Average | Params | Source |
+| --- | --- | --- | --- | --- | --- | --- |
+| NAFNet | 22.20/0.803 | 23.01/0.803 | 22.11/0.826 | 22.44/0.811 | 17M | [Survey · Table V](https://arxiv.org/html/2410.15067v3#S4.T5) |
+| GRL | 22.88/0.802 | 23.75/0.805 | 22.59/0.829 | 23.07/0.812 | 3M | [Survey · Table V](https://arxiv.org/html/2410.15067v3#S4.T5) |
+| Restormer | 22.90/0.803 | 23.67/0.804 | 22.51/0.828 | 22.86/0.812 | 26M | [Survey · Table V](https://arxiv.org/html/2410.15067v3#S4.T5) |
+| MPRNet | 21.73/0.763 | 21.50/0.791 | 20.74/0.801 | 21.32/0.785 | 16M | [Survey · Table V](https://arxiv.org/html/2410.15067v3#S4.T5) |
+| Transweather | 22.55/0.774 | 22.21/0.772 | 21.79/0.792 | 22.18/0.779 | 38M | [Survey · Table V](https://arxiv.org/html/2410.15067v3#S4.T5) |
+| AirNet | 21.56/0.770 | 22.52/0.797 | 21.44/0.812 | 21.84/0.793 | 9M | [Survey · Table V](https://arxiv.org/html/2410.15067v3#S4.T5) |
+| TKMANet | 22.38/0.805 | 23.22/0.795 | 22.25/0.827 | 22.62/0.809 | 29M | [Survey · Table V](https://arxiv.org/html/2410.15067v3#S4.T5) |
+| WGWS-Net | 22.78/0.800 | 23.80/0.807 | 22.72/0.831 | 23.10/0.813 | 6M | [Survey · Table V](https://arxiv.org/html/2410.15067v3#S4.T5) |
+
+#### Real-World (survey)
+
+| Method | Haze | Rain | Snow | Average | Params | Source |
+| --- | --- | --- | --- | --- | --- | --- |
+| TKMANet | 20.10/0.850 | 37.32/0.970 | 29.37/0.880 | 28.93/0.900 | 29M | [Survey · Table V](https://arxiv.org/html/2410.15067v3#S4.T5) |
+| TransWeather | 17.33/0.820 | 33.64/0.930 | 26.92/0.860 | 26.71/0.860 | 38M | [Survey · Table V](https://arxiv.org/html/2410.15067v3#S4.T5) |
+| TUR_Transweather | 20.38/0.880 | 39.78/0.980 | 29.72/0.910 | 29.96/0.920 | 38M | [Survey · Table V](https://arxiv.org/html/2410.15067v3#S4.T5) |
+| WGWS-Net | 29.46/0.850 | 38.94/0.980 | 33.61/0.930 | 34.01/0.920 | 6M | [Survey · Table V](https://arxiv.org/html/2410.15067v3#S4.T5) |
+| DSwinIR | 30.14/0.890 | 40.60/0.980 | 33.80/0.930 | 34.85/0.930 | 24M | [Survey · Table V](https://arxiv.org/html/2410.15067v3#S4.T5) |
+
+#### WeatherBench
+
+Each cell reports **PSNR / SSIM / LPIPS** (LPIPS: lower is better). All values below are from ClusIR Table 5, including reproduced baselines.
+
+| Method | Haze | Rain | Snow | Average | Source |
+| --- | --- | --- | --- | --- | --- |
+| Restormer | 19.30/0.687/0.412 | 34.49/0.945/0.197 | 27.95/0.836/0.197 | 27.25/0.823/0.269 | [ClusIR · Table 5](https://arxiv.org/html/2512.10948#S4.T5) **NEW** |
+| DRSformer | 19.95/0.694/0.404 | 33.98/0.943/0.209 | 28.00/0.836/0.197 | 27.31/0.824/0.270 | [ClusIR · Table 5](https://arxiv.org/html/2512.10948#S4.T5) **NEW** |
+| DCMPNet | 21.18/0.506/0.491 | 32.04/0.876/0.282 | 24.81/0.614/0.546 | 26.01/0.665/0.440 | [ClusIR · Table 5](https://arxiv.org/html/2512.10948#S4.T5) **NEW** |
+| AirNet | 20.94/0.705/0.383 | 33.59/0.942/0.224 | 22.06/0.780/0.291 | 25.53/0.809/0.299 | [ClusIR · Table 5](https://arxiv.org/html/2512.10948#S4.T5) **NEW** |
+| TransWeather | 19.79/0.680/0.397 | 29.34/0.903/0.294 | 24.96/0.796/0.231 | 24.70/0.793/0.307 | [ClusIR · Table 5](https://arxiv.org/html/2512.10948#S4.T5) **NEW** |
+| WGWS-Net | 13.79/0.603/0.535 | 37.08/0.961/0.117 | 20.81/0.780/0.248 | 23.89/0.781/0.300 | [ClusIR · Table 5](https://arxiv.org/html/2512.10948#S4.T5) **NEW** |
+| PromptIR | 21.11/0.713/0.375 | 34.54/0.944/0.198 | 27.93/0.836/0.195 | 27.86/0.831/0.256 | [ClusIR · Table 5](https://arxiv.org/html/2512.10948#S4.T5) **NEW** |
+| Histoformer | 17.69/0.669/0.437 | 30.70/0.916/0.279 | 25.39/0.808/0.225 | 24.59/0.798/0.314 | [ClusIR · Table 5](https://arxiv.org/html/2512.10948#S4.T5) **NEW** |
+| ClusIR | 22.92/0.704/0.383 | 35.00/0.938/0.258 | 27.75/0.821/0.258 | 28.56/0.821/0.299 | [ClusIR · Table 5](https://arxiv.org/html/2512.10948#S4.T5) **NEW** |
+
+
+### Performance Comparisons of AiOIR Models on CDD-11 Datasets
+
+Metrics are PSNR (dB) / SSIM, higher is better. Updated **2026-11-06**. Results are source-reported, not independently re-evaluated. **NEW** marks newly added rows. [Protocol and source notes](data/SOURCES.md).
+
+| Type | Method | Venue & Year | PSNR ↑ | SSIM ↑ | Params | Source |
+| --- | --- | --- | --- | --- | --- | --- |
+| One-to-One | MPRNet | CVPR'21 | 25.47 | 0.856 | 16M | [Survey · Table VI](https://arxiv.org/html/2410.15067v3#S4.T6) |
+| One-to-One | MIRNetv2 | TPAMI'22 | 25.37 | 0.854 | 6M | [Survey · Table VI](https://arxiv.org/html/2410.15067v3#S4.T6) |
+| One-to-One | Restormer | CVPR'22 | 26.99 | 0.865 | 26M | [Survey · Table VI](https://arxiv.org/html/2410.15067v3#S4.T6) |
+| One-to-One | DGUNet | CVPR'22 | 25.33 | 0.844 | 18M | [Survey · Table VI](https://arxiv.org/html/2410.15067v3#S4.T6) |
+| One-to-One | NAFNet | ECCV'22 | 26.22 | 0.796 | 17M | [Survey · Table VI](https://arxiv.org/html/2410.15067v3#S4.T6) |
+| One-to-One | SRUDC | ICCV'23 | 27.64 | 0.860 | 7M | [Survey · Table VI](https://arxiv.org/html/2410.15067v3#S4.T6) |
+| One-to-One | Fourmer | ICML'23 | 23.44 | 0.789 | 6M | [Survey · Table VI](https://arxiv.org/html/2410.15067v3#S4.T6) |
+| One-to-One | OKNet | AAAI'24 | 26.33 | 0.861 | 6M | [Survey · Table VI](https://arxiv.org/html/2410.15067v3#S4.T6) |
+| One-to-Many | AirNet | CVPR'22 | 23.75 | 0.814 | 9M | [Survey · Table VI](https://arxiv.org/html/2410.15067v3#S4.T6) |
+| One-to-Many | TransWeather | CVPR'22 | 23.13 | 0.804 | 38M | [Survey · Table VI](https://arxiv.org/html/2410.15067v3#S4.T6) |
+| One-to-Many | WeatherDiff | TPAMI'23 | 24.09 | 0.799 | 83M | [Survey · Table VI](https://arxiv.org/html/2410.15067v3#S4.T6) |
+| One-to-Many | PromptIR | NeurIPS'23 | 25.90 | 0.850 | 36M | [Survey · Table VI](https://arxiv.org/html/2410.15067v3#S4.T6) |
+| One-to-Many | WGWS-Net | CVPR'23 | 26.96 | 0.861 | 6M | [Survey · Table VI](https://arxiv.org/html/2410.15067v3#S4.T6) |
+| One-to-Many | HAIR | arXiv'24 | 27.85 | 0.866 | 29M | [Survey · Table VI](https://arxiv.org/html/2410.15067v3#S4.T6) |
+| One-to-Composite | OneRestore | ECCV'24 | 28.47 | 0.878 | 6M | [Survey · Table VI](https://arxiv.org/html/2410.15067v3#S4.T6) |
+| One-to-Composite | AllRestorer | arXiv'24 | 33.72 | 0.944 | 12M+88M | [Survey · Table VI](https://arxiv.org/html/2410.15067v3#S4.T6) |
+| One-to-Composite | DA-CLIP_NAFNet | ICLR'24 | 26.56 | 0.860 | 86M+125M | [Survey · Table VI](https://arxiv.org/html/2410.15067v3#S4.T6) |
+| One-to-Composite | MoCE-IR-S | CVPR'25 | 29.05 | 0.881 | 11M | [Survey · Table VI](https://arxiv.org/html/2410.15067v3#S4.T6) |
+| One-to-Composite | DCPT_NAFNet | ICLR'25 | 30.66 | 0.891 | 68M | [Survey · Table VI](https://arxiv.org/html/2410.15067v3#S4.T6) |
+| One-to-Composite | VL-UR | arXiv'25 | 28.76 | 0.879 | - | [Survey · Table VI](https://arxiv.org/html/2410.15067v3#S4.T6) |
+| One-to-Composite | MIRAGE | arXiv'25 | 29.33 | 0.887 | 10M | [Survey · Table VI](https://arxiv.org/html/2410.15067v3#S4.T6) |
+| Step-by-Step | CoR_HAIR | arXiv'24 | 28.33 | 0.869 | 30M | [Survey · Table VI](https://arxiv.org/html/2410.15067v3#S4.T6) |
+| Step-by-Step | CoR_OneRestore | arXiv'24 | 28.84 | 0.879 | 8M | [Survey · Table VI](https://arxiv.org/html/2410.15067v3#S4.T6) |
+| One-to-Composite | ClusIR | ACM MM 2026 | 27.33 | 0.878 | 54.66M | [ClusIR · Table 4](https://arxiv.org/html/2512.10948#S3.T4) **NEW** |
+| One-to-Composite | QuReC | ACM MM 2026 | 30.71 | 0.903 | 29.61M | [QuReC · Table 3](https://arxiv.org/html/2607.15097#S4.T3) **NEW** |
 
 
 ### Performance Comparisons of AiOIR Models on FoundIR's Real-World Datasets
