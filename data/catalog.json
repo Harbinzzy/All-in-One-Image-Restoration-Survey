@@ -2171,7 +2171,7 @@
       "label": "Three Challenging Datasets",
       "short": "Three tasks",
       "title": "Three-task image restoration",
-      "description": "Dehazing on SOTS, deraining on Rain100L, and denoising on BSD68 at three noise levels. The average covers five PSNR / SSIM pairs.",
+      "description": "Dehazing on SOTS, deraining on Rain100L, and denoising on BSD68 at σ = 15, 25 and 50.",
       "table": "S4.T2",
       "columns": [
         {
@@ -4331,7 +4331,7 @@
       "label": "Five Challenging Datasets",
       "short": "Five tasks",
       "title": "Five-task image restoration",
-      "description": "SOTS, Rain100L, BSD68 (σ = 25), GoPro and LOL. Five degradations, one restoration model.",
+      "description": "SOTS, Rain100L, BSD68 (σ = 25), GoPro and LOL.",
       "table": "S4.T3",
       "columns": [
         {
@@ -6332,7 +6332,7 @@
       "label": "All-Weather",
       "short": "All-Weather",
       "title": "All-Weather restoration",
-      "description": "Multi-weather training, evaluated on Snow100K-L, Outdoor-Rain (rain + fog), and RainDrop-A. Training mixtures can differ between publications; inspect each source before making a strict comparison.",
+      "description": "Snow100K-L, Outdoor-Rain (rain + fog), and RainDrop-A.",
       "table": "S4.T4",
       "columns": [
         {
@@ -7132,7 +7132,7 @@
       "label": "Real-World Weather-Related",
       "short": "Real-world",
       "title": "Real-world weather restoration",
-      "description": "WeatherStream, the survey’s Real-World dataset, and WeatherBench are separate evaluation tracks. Scores are ranked only within the selected track.",
+      "description": "WeatherStream, Real-World and WeatherBench.",
       "table": "S4.T5",
       "columns": [
         {
@@ -7163,7 +7163,7 @@
         },
         {
           "id": "weatherbench",
-          "label": "WeatherBench · new"
+          "label": "WeatherBench"
         }
       ],
       "rows": [
@@ -7940,7 +7940,7 @@
       "label": "CDD-11",
       "short": "CDD-11",
       "title": "Composite degradation restoration",
-      "description": "11 single and composite degradation types. The table reports overall PSNR / SSIM, preserving each source’s training category.",
+      "description": "11 single and composite degradation types.",
       "table": "S4.T6",
       "columns": [
         {

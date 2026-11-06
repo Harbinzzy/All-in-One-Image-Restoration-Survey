@@ -62,34 +62,34 @@ def pair(v):
     # Preserve 4-digit SSIM precision where the source provides it.
     ss=f'{v[1]:.4f}' if abs(v[1]*1000-round(v[1]*1000))>1e-6 else f'{v[1]:.3f}'
     return f'{v[0]:.2f}/{ss}'
-def source(r):return f"[{r['sourceLabel']}]({r['source']})"+(' **NEW**' if r['added'] else (' †' if r.get('corrected') else ''))
+def params(r):
+    return r['params'].replace('M*','M (restoration)')
 def table(headers,rows):return '\n'.join(['| '+' | '.join(headers)+' |','| '+' | '.join(['---']*len(headers))+' |']+['| '+' | '.join(str(c).replace('|','&#124;') for c in row)+' |' for row in rows])
 
 def render_group(g,index):
-    introduction=f"Metrics are PSNR (dB) / SSIM, higher is better. Updated **{data['updated']}**. Results are source-reported, not independently re-evaluated. **NEW** marks newly added rows. [Protocol and source notes](data/SOURCES.md).\n\n"
+    introduction='Metrics are PSNR (dB) / SSIM, higher is better.\n\n'
     if index in [0,1]:
-        headers=['Category','Method','Venue & Year','Params']+[c['label'] for c in g['columns']]+['Approach','Source']
-        rows=[[r['category'],r['method'],r['venue'],r['params']]+[pair(r['scores'][c['id']]) for c in g['columns']]+[r['approach'],source(r)] for r in g['rows']]
+        headers=['Category','Method','Venue & Year','Params']+[c['label'] for c in g['columns']]+['Approach']
+        rows=[[r['category'],r['method'],r['venue'],params(r)]+[pair(r['scores'][c['id']]) for c in g['columns']]+[r['approach']] for r in g['rows']]
         result=introduction+table(headers,rows)
-        if index==1:result+='\n\n† InstructIR-5D SOTS and Rain100L columns were swapped in the previous table; corrected from the original paper, Table 2. BSD68 denoising uses σ = 25.'
     elif index==2:
-        headers=['Method']+[c['label'] for c in g['columns']]+['Params','Source']
-        rows=[[r['method']]+[pair(r['scores'][c['id']]) for c in g['columns']]+[r['params'],source(r)] for r in g['rows']]
-        result=introduction+table(headers,rows)+'\n\n*DCMPC-Net and WeatherRemover averages are arithmetic means over the three displayed datasets, computed here. WeatherRemover uses the **Multi Weather** results from Tables I–III. DCMPC-Net’s original four-dataset average is not used. DCMPC-Net parameter count excludes its vision-language and text encoders. Training mixtures differ; see source notes.*'
+        headers=['Method']+[c['label'] for c in g['columns']]+['Params']
+        rows=[[r['method']]+[pair(r['scores'][c['id']]) for c in g['columns']]+[params(r)] for r in g['rows']]
+        result=introduction+table(headers,rows)
     elif index==3:
-        result=introduction+'These tracks use different datasets / settings and must be compared separately.\n'
+        result=introduction
         for track in g['tracks']:
             rows=[r for r in g['rows'] if r['track']==track['id']]
             result+='\n#### '+track['label'].replace(' · new','')+'\n\n'
             if track['id']=='weatherbench':
-                result+='Each cell reports **PSNR / SSIM / LPIPS** (LPIPS: lower is better). All values below are from ClusIR Table 5, including reproduced baselines.\n\n'
-                values=[[r['method']]+['/'.join([f'{v[0]:.2f}',f'{v[1]:.3f}',f'{v[2]:.3f}']) for c in g['columns'] for v in [r['scores'][c['id']]]]+[source(r)] for r in rows]
-                result+=table(['Method']+[c['label'] for c in g['columns']]+['Source'],values)+'\n'
+                result+='Each cell reports **PSNR / SSIM / LPIPS** (LPIPS: lower is better).\n\n'
+                values=[[r['method']]+['/'.join([f'{v[0]:.2f}',f'{v[1]:.3f}',f'{v[2]:.3f}']) for c in g['columns'] for v in [r['scores'][c['id']]]] for r in rows]
+                result+=table(['Method']+[c['label'] for c in g['columns']],values)+'\n'
             else:
-                values=[[r['method']]+[pair(r['scores'][c['id']]) for c in g['columns']]+[r['params'],source(r)] for r in rows]
-                result+=table(['Method']+[c['label'] for c in g['columns']]+['Params','Source'],values)+'\n'
+                values=[[r['method']]+[pair(r['scores'][c['id']]) for c in g['columns']]+[params(r)] for r in rows]
+                result+=table(['Method']+[c['label'] for c in g['columns']]+['Params'],values)+'\n'
     else:
-        result=introduction+table(['Type','Method','Venue & Year','PSNR ↑','SSIM ↑','Params','Source'],[[r['category'],r['method'],r['venue'],f"{r['scores']['avg'][0]:.2f}",f"{r['scores']['avg'][1]:.3f}",r['params'],source(r)] for r in g['rows']])
+        result=introduction+table(['Type','Method','Venue & Year','PSNR ↑','SSIM ↑','Params'],[[r['category'],r['method'],r['venue'],f"{r['scores']['avg'][0]:.2f}",f"{r['scores']['avg'][1]:.3f}",params(r)] for r in g['rows']])
     return result.strip()+'\n\n'
 
 parser=argparse.ArgumentParser(description=__doc__)
