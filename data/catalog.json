@@ -2,8 +2,16 @@
   "schemaVersion": 1,
   "updated": "2026-11-06",
   "repository": "https://github.com/Harbinzzy/All-in-One-Image-Restoration-Survey",
-  "paperCount": 270,
+  "paperCount": 273,
   "papers": [
+    {
+      "title": "Unified-Width Adaptive Dynamic Network for All-In-One Image Restoration",
+      "authors": "Yimin Xu, Nanxi Gao, Zhongyun Shan, Fei Chao, Rongrong Ji",
+      "venue": "Information Sciences 2027",
+      "year": 2027,
+      "paper": "https://doi.org/10.1016/j.ins.2026.123974",
+      "code": "https://github.com/xuyimin0926/U-WADN"
+    },
     {
       "title": "An all-in-one foundation model for multimodal medical image restoration and enhancement",
       "authors": "Luyang Cao, Zhijian Wu, Jian Zhang, Lei Qi, Yang Gao, Hairong Zheng, Yefeng Zheng, Yinghuan Shi",
@@ -257,7 +265,7 @@
       "authors": "David Serrano-Lozano, Luis Herranz, Shaolin Su, Javier Vazquez-Corral",
       "venue": "CVIU 2026",
       "year": 2026,
-      "paper": "https://www.sciencedirect.com/science/article/pii/S1077314226001621",
+      "paper": "https://doi.org/10.1016/j.cviu.2026.104795",
       "code": "https://github.com/davidserra9/abair/"
     },
     {
@@ -413,11 +421,11 @@
       "code": ""
     },
     {
-      "title": "Prompt-In-Prompt Learning for Universal Image Restoration",
+      "title": "Prompt-in-Prompt Learning for All-in-One Image Restoration",
       "authors": "Zilong Li, Yiming Lei, Chenglong Ma, Junping Zhang, Hongming Shan",
       "venue": "PR 2026",
       "year": 2026,
-      "paper": "https://arxiv.org/abs/2312.05038v1",
+      "paper": "https://doi.org/10.1016/j.patcog.2026.114401",
       "code": "https://github.com/longzilicart/pip_universal"
     },
     {
@@ -433,7 +441,7 @@
       "authors": "Jie Chu, Tong Su, Pei Liu, Yunpeng Wu, Le Zhang, Zenglin Shi, Meng Wang",
       "venue": "TNNLS 2026",
       "year": 2026,
-      "paper": "https://ieeexplore.ieee.org/document/11570231/",
+      "paper": "https://doi.org/10.1109/TNNLS.2026.3701139",
       "code": ""
     },
     {
@@ -601,7 +609,7 @@
       "authors": "Xiaole Tang, Xiaoyi He, Jiayi Xu, Xiang Gu, Jian Sun",
       "venue": "TPAMI 2026",
       "year": 2026,
-      "paper": "https://arxiv.org/abs/2602.23169",
+      "paper": "https://doi.org/10.1109/TPAMI.2026.3669121",
       "code": "https://github.com/xl-tang3/BaryIR"
     },
     {
@@ -879,9 +887,9 @@
     {
       "title": "UARE: A Unified Vision-Language Model for Image Quality Assessment, Restoration, and Enhancement",
       "authors": "Weiqi Li, Xuanyu Zhang, Bin Chen, Jingfen Xie, Yan Wang, Kexin Zhang, Junlin Li, Li Zhang, Jian Zhang, Shijie Zhao",
-      "venue": "arXiv",
+      "venue": "CVPR 2026",
       "year": 2026,
-      "paper": "https://arxiv.org/abs/2512.06750",
+      "paper": "https://openaccess.thecvf.com/content/CVPR2026/html/Li_UARE_A_Unified_Vision-Language_Model_for_Image_Quality_Assessment_Restoration_CVPR_2026_paper.html",
       "code": "https://github.com/lwq20020127/UARE"
     },
     {
@@ -973,6 +981,86 @@
       "code": "https://github.com/Harbinzzy/UDPNet"
     },
     {
+      "title": "DSwinIR: Rethinking Window-Based Attention for Image Restoration",
+      "authors": "Gang Wu, Junjun Jiang, Kui Jiang, Xianming Liu, Liqiang Nie",
+      "venue": "TPAMI 2026",
+      "year": 2026,
+      "paper": "https://doi.org/10.1109/TPAMI.2025.3646016",
+      "code": "https://github.com/Aitical/DSwinIR"
+    },
+    {
+      "title": "Beyond Degradation Redundancy: Contrastive Prompt Learning for All-in-One Image Restoration",
+      "authors": "Gang Wu, Junjun Jiang, Kui Jiang, Xianming Liu, Liqiang Nie",
+      "venue": "TPAMI 2026",
+      "year": 2026,
+      "paper": "https://doi.org/10.1109/TPAMI.2025.3642852",
+      "code": "https://github.com/Aitical/CPLIR"
+    },
+    {
+      "title": "PhyDAE: Physics-Guided Degradation-Adaptive Experts for All-in-One Remote Sensing Image Restoration",
+      "authors": "Zhe Dong, Yuzhe Sun, Haochen Jiang, Tianzhu Liu, Yanfeng Gu",
+      "venue": "TGRS 2026",
+      "year": 2026,
+      "paper": "https://doi.org/10.1109/TGRS.2026.3656356",
+      "code": "https://github.com/HIT-SIRS/PhyDAE"
+    },
+    {
+      "title": "DPMambaIR: All-in-One Image Restoration via Degradation-Aware Prompt State Space Model",
+      "authors": "Zhanwen Liu, Sai Zhou, Yuchao Dai, Yang Wang, Yisheng An, Xiangmo Zhao",
+      "venue": "TMM 2026",
+      "year": 2026,
+      "paper": "https://doi.org/10.1109/TMM.2026.3717468",
+      "code": ""
+    },
+    {
+      "title": "Lumina-OmniLV: A Unified Multimodal Framework for General Low-Level Vision",
+      "authors": "Yuandong Pu, Le Zhuo, Kaiwen Zhu, Liangbin Xie, Wenlong Zhang, Xiangyu Chen, Peng Gao, Yu Qiao, Chao Dong, Yihao Liu",
+      "venue": "ECCV 2026",
+      "year": 2026,
+      "paper": "https://link.springer.com/chapter/10.1007/978-3-032-37041-9_22",
+      "code": "https://andrew0613.github.io/OmniLV_page/"
+    },
+    {
+      "title": "UniCoRN: Latent Diffusion-based Unified Controllable Image Restoration Network across Multiple Degradations",
+      "authors": "Debabrata Mandal, Soumitri Chattopadhyay, Guansen Tong, Praneeth Chakravarthula",
+      "venue": "WACV 2026",
+      "year": 2026,
+      "paper": "https://openaccess.thecvf.com/content/WACV2026/html/Mandal_UniCoRN_Latent_Diffusion-based_Unified_Controllable_Image_Restoration_Network_across_Multiple_WACV_2026_paper.html",
+      "code": "https://codejaeger.github.io/unicorn-gh"
+    },
+    {
+      "title": "USRNet: Unified Scene Recovery Network for Image Restoration under Multiple Adverse Weather Conditions",
+      "authors": "Yuxu Lu, Ai Chen, Dong Yang, Ryan Wen Liu",
+      "venue": "PR 2026",
+      "year": 2026,
+      "paper": "https://doi.org/10.1016/j.patcog.2025.112534",
+      "code": "https://github.com/LouisYxLu/USRNet"
+    },
+    {
+      "title": "Perceive-IR: Learning to Perceive Degradation Better for All-in-One Image Restoration",
+      "authors": "Xu Zhang, Jiaqi Ma, Guoli Wang, Qian Zhang, Huan Zhang, Lefei Zhang",
+      "venue": "TIP 2026",
+      "year": 2026,
+      "paper": "https://doi.org/10.1109/TIP.2025.3566300",
+      "code": "https://github.com/House-yuyu/Perceive-IR"
+    },
+    {
+      "title": "Boosting Filter Optimization and Prompt-Guided Decoding for Mixed Degradation Image Restoration",
+      "authors": "Yubin Gu, Yuan Meng, Xiaoshuai Sun, Jiayi Ji, Rongrong Ji",
+      "venue": "IJCV 2026",
+      "year": 2026,
+      "paper": "https://link.springer.com/article/10.1007/s11263-026-02832-0",
+      "code": ""
+    },
+    {
+      "title": "Diff-Restorer: Unleashing Visual Prompts for Diffusion-based Universal Image Restoration",
+      "authors": "Yuhong Zhang, Hengsheng Zhang, Xinning Chai, Zhengxue Cheng, Rong Xie, Li Song, Wenjun Zhang",
+      "venue": "TCSVT 2026",
+      "year": 2026,
+      "paper": "https://doi.org/10.1109/TCSVT.2025.3629686",
+      "code": "https://github.com/zyhrainbow/Diff-Restorer"
+    },
+    {
       "title": "UniRes: Universal Image Restoration for Complex Degradations",
       "authors": "Mo Zhou, Keren Ye, Mauricio Delbracio, Peyman Milanfar, Vishal M. Patel, Hossein Talebi",
       "venue": "ICCV 2025",
@@ -1053,28 +1141,12 @@
       "code": "https://github.com/Yaziwel/TAT"
     },
     {
-      "title": "DSwinIR: Rethinking Window-Based Attention for Image Restoration",
-      "authors": "Gang Wu, Junjun Jiang, Kui Jiang, Xianming Liu, Liqiang Nie",
-      "venue": "TPAMI 2025",
-      "year": 2025,
-      "paper": "https://arxiv.org/abs/2504.04869",
-      "code": "https://github.com/Aitical/DSwinIR"
-    },
-    {
       "title": "M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration",
       "authors": "",
       "venue": "TIP 2025",
       "year": 2025,
       "paper": "https://arxiv.org/abs/2506.07814",
       "code": ""
-    },
-    {
-      "title": "Beyond Degradation Redundancy: Contrastive Prompt Learning for All-in-One Image Restoration",
-      "authors": "Gang Wu, Junjun Jiang, Kui Jiang, Xianming Liu, Liqiang Nie",
-      "venue": "TPAMI 2025",
-      "year": 2025,
-      "paper": "https://arxiv.org/abs/2504.09973",
-      "code": "https://github.com/Aitical/CPLIR"
     },
     {
       "title": "MOERL: When Mixture-of-Experts Meet Reinforcement Learning for Adverse Weather Image Restoration",
@@ -1159,7 +1231,7 @@
     {
       "title": "WeatherBench: A Real-World Benchmark Dataset for All-in-One Adverse Weather Image Restoration",
       "authors": "Qiyuan Guan, Qianfeng Yang, Xiang Chen, Tianyu Song, Guiyue Jin, Jiyu Jin",
-      "venue": "ACMMM 2025",
+      "venue": "ACM MM 2025",
       "year": 2025,
       "paper": "https://arxiv.org/abs/2509.11642",
       "code": "https://github.com/guanqiyuan/WeatherBench"
@@ -1255,7 +1327,7 @@
     {
       "title": "Up-Restorer: When Unrolling Meets Prompts for Unified Image Restoration",
       "authors": "Minghao Liu, Wenhan Yang, Jinyi Luo, Jiaying Liu",
-      "venue": "AAAI2025",
+      "venue": "AAAI 2025",
       "year": 2025,
       "paper": "https://github.com/StaryMoon/AAAI_2025_UpRestorer_git",
       "code": ""
@@ -1263,7 +1335,7 @@
     {
       "title": "Debiased All-in-one Image Restoration with Task Uncertainty Regularization",
       "authors": "Gang Wu, Junjun Jiang, Yijun Wang, Kui Jiang, Xianming Liu",
-      "venue": "AAAI2025",
+      "venue": "AAAI 2025",
       "year": 2025,
       "paper": "https://openreview.net/forum?id=kx7eyKgEGz",
       "code": "https://github.com/Aitical/TUR"
@@ -1271,7 +1343,7 @@
     {
       "title": "All-in-One Image Compression and Restoration",
       "authors": "Huimin Zeng, Jiacheng Li, Ziqiang Zheng, Zhiwei Xiong",
-      "venue": "WACV2025",
+      "venue": "WACV 2025",
       "year": 2025,
       "paper": "https://arxiv.org/abs/2502.03649",
       "code": "https://github.com/ZeldaM1/All-in-one"
@@ -1279,7 +1351,7 @@
     {
       "title": "RamIR: Reasoning and action prompting with Mamba for all-in-one image restoration",
       "authors": "Aiqiang Tang, Yan Wu, Yuwei Zhang",
-      "venue": "Applied Intelligence",
+      "venue": "Applied Intelligence 2025",
       "year": 2025,
       "paper": "https://link.springer.com/article/10.1007/s10489-024-06226-y",
       "code": ""
@@ -1287,7 +1359,7 @@
     {
       "title": "Universal Image Restoration Pre-training via Degradation Classification",
       "authors": "JiaKui Hu, Lujia Jin, Zhengjian Yao, Yanye Lu",
-      "venue": "ICLR2025",
+      "venue": "ICLR 2025",
       "year": 2025,
       "paper": "https://arxiv.org/abs/2501.15510",
       "code": "https://github.com/MILab-PKU/dcpt"
@@ -1295,7 +1367,7 @@
     {
       "title": "Complexity Experts are Task-Discriminative Learners for Any Image Restoration",
       "authors": "Eduard Zamfir, Zongwei Wu, Nancy Mehta, Yuedong Tan, Danda Pani Paudel, Yulun Zhang, Radu Timofte",
-      "venue": "CVPR2025",
+      "venue": "CVPR 2025",
       "year": 2025,
       "paper": "https://arxiv.org/abs/2411.18466",
       "code": "https://github.com/eduardzamfir/MoCE-IR"
@@ -1303,7 +1375,7 @@
     {
       "title": "GenDeg: Diffusion-Based Degradation Synthesis for Generalizable All-in-One Image Restoration",
       "authors": "Sudarshan Rajagopalan, Nithin Gopalakrishnan Nair, Jay N. Paranjape, Vishal M. Patel",
-      "venue": "CVPR2025",
+      "venue": "CVPR 2025",
       "year": 2025,
       "paper": "https://arxiv.org/abs/2411.17687",
       "code": "https://sudraj2002.github.io/gendegpage/"
@@ -1357,14 +1429,6 @@
       "code": "https://github.com/MILab-PKU/MaskDCPT"
     },
     {
-      "title": "PhyDAE: Physics-Guided Degradation-Adaptive Experts for All-in-One Remote Sensing Image Restoration",
-      "authors": "Zhe Dong, Yuzhe Sun, Haochen Jiang, Tianzhu Liu, Yanfeng Gu",
-      "venue": "arXiv",
-      "year": 2025,
-      "paper": "https://arxiv.org/abs/2510.08653",
-      "code": "https://github.com/HIT-SIRS/PhyDAE"
-    },
-    {
       "title": "Degradation-Aware All-in-One Image Restoration via Latent Prior Encoding",
       "authors": "S M A Sharif, Abdur Rehman, Fayaz Ali Dharejo, Radu Timofte, Rizwan Ali Naqvi",
       "venue": "arXiv",
@@ -1383,9 +1447,9 @@
     {
       "title": "TAP: Parameter-efficient Task-Aware Prompting for Adverse Weather Removal",
       "authors": "Hanting Wang, Shengpeng Ji, Shulei Wang, Hai Huang, Xiao Jin, Qifei Zhang, Tao Jin",
-      "venue": "arXiv",
+      "venue": "ACM MM 2025",
       "year": 2025,
-      "paper": "https://arxiv.org/abs/2508.07878",
+      "paper": "https://doi.org/10.1145/3746027.3755866",
       "code": ""
     },
     {
@@ -1415,33 +1479,17 @@
     {
       "title": "CMAWRNet: Multiple Adverse Weather Removal via a Unified Quaternion Neural Architecture",
       "authors": "Vladimir Frants, Sos Agaian, Karen Panetta, Peter Huang",
-      "venue": "arXiv",
+      "venue": "Journal of Imaging 2025",
       "year": 2025,
-      "paper": "https://arxiv.org/pdf/2505.01882",
+      "paper": "https://doi.org/10.3390/jimaging11110382",
       "code": ""
-    },
-    {
-      "title": "DPMambaIR: All-in-One Image Restoration via Degradation-Aware Prompt State Space Model",
-      "authors": "Zhanwen Liu, Sai Zhou, Yuchao Dai, Yang Wang, Yisheng An, Xiangmo Zhao",
-      "venue": "arXiv",
-      "year": 2025,
-      "paper": "https://arxiv.org/pdf/2504.17732",
-      "code": ""
-    },
-    {
-      "title": "Lumina-OmniLV: A Unified Multimodal Framework for General Low-Level Vision",
-      "authors": "Yuandong Pu, Le Zhuo, Kaiwen Zhu, Liangbin Xie, Wenlong Zhang, Xiangyu Chen, Peng Gao, Yu Qiao, Chao Dong, Yihao Liu",
-      "venue": "arXiv",
-      "year": 2025,
-      "paper": "https://arxiv.org/pdf/2504.04903",
-      "code": "https://andrew0613.github.io/OmniLV_page/"
     },
     {
       "title": "VL-UR: Vision-Language-guided Universal Restoration of Images Degraded by Adverse Weather Conditions",
       "authors": "Ziyan Liu, Yuxu Lu, Huashan Yu, Dong Yang",
-      "venue": "arXiv",
+      "venue": "ICME 2025",
       "year": 2025,
-      "paper": "https://arxiv.org/abs/2504.08219",
+      "paper": "https://doi.org/10.1109/ICME59968.2025.11209564",
       "code": ""
     },
     {
@@ -1461,14 +1509,6 @@
       "code": ""
     },
     {
-      "title": "UniCoRN: Latent Diffusion-based Unified Controllable Image Restoration Network across Multiple Degradations",
-      "authors": "Debabrata Mandal, Soumitri Chattopadhyay, Guansen Tong, Praneeth Chakravarthula",
-      "venue": "arXiv",
-      "year": 2025,
-      "paper": "https://arxiv.org/abs/2503.15868",
-      "code": "https://codejaeger.github.io/unicorn-gh"
-    },
-    {
       "title": "TextDoctor: Unified Document Image Inpainting via Patch Pyramid Diffusion Models",
       "authors": "Wanglong Lu, Lingming Su, Jingjing Zheng, Vinícius Veloso de Melo, Farzaneh Shoeleh, John Hawkin, Terrence Tricco, Hanli Zhao, Xianta Jiang",
       "venue": "arXiv",
@@ -1477,12 +1517,100 @@
       "code": ""
     },
     {
-      "title": "USRNet: Unified Scene Recovery Network for Enhancing Traffic Imaging under Multiple Adverse Weather Conditions",
-      "authors": "Yuxu Lu, Ai Chen, Dong Yang, Ryan Wen Liu",
-      "venue": "arXiv",
+      "title": "Degradation-Aware Residual-Conditioned Optimal Transport for Unified Image Restoration",
+      "authors": "Xiaole Tang, Xiang Gu, Xiaoyi He, Xin Hu, Jian Sun",
+      "venue": "TPAMI 2025",
       "year": 2025,
-      "paper": "https://arxiv.org/abs/2502.07372",
-      "code": "https://github.com/LouisYxLu/USRNet"
+      "paper": "https://arxiv.org/abs/2411.01656",
+      "code": "https://github.com/xl-tang3/DA-RCOT"
+    },
+    {
+      "title": "An Intelligent Agentic System for Complex Image Restoration Problems",
+      "authors": "Kaiwen Zhu, Jinjin Gu, Zhiyuan You, Yu Qiao, Chao Dong",
+      "venue": "ICLR 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2410.17809",
+      "code": "https://github.com/Kaiwen-Zhu/AgenticIR"
+    },
+    {
+      "title": "Multi-Expert Adaptive Selection: Task-Balancing for All-in-One Image Restoration",
+      "authors": "Xiaoyan Yu, Shen Zhou, Huafeng Li, Liehuang Zhu",
+      "venue": "TCSVT 2025",
+      "year": 2025,
+      "paper": "https://doi.org/10.1109/TCSVT.2024.3516074",
+      "code": "https://github.com/zhoushen1/MEASNet"
+    },
+    {
+      "title": "AdaIR: Adaptive All-in-One Image Restoration via Frequency Mining and Modulation",
+      "authors": "Yuning Cui, Syed Waqas Zamir, Salman Khan, Alois Knoll, Mubarak Shah, Fahad Shahbaz Khan",
+      "venue": "ICLR 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2403.14614",
+      "code": "https://github.com/c-yn/AdaIR"
+    },
+    {
+      "title": "Referring Flexible Image Restoration",
+      "authors": "Runwei Guan, Rongsheng Hu, Zhuhao Zhou, Tianlang Xue, Ka Lok Man, Jeremy Smith, Eng Gee Lim, Weiping Ding, Yutao Yue",
+      "venue": "Expert Systems with Applications 2025",
+      "year": 2025,
+      "paper": "https://doi.org/10.1016/j.eswa.2025.126857",
+      "code": "https://github.com/GuanRunwei/FIR-CP"
+    },
+    {
+      "title": "Joint Conditional Diffusion Model for Image Restoration with Mixed Degradations",
+      "authors": "Yufeng Yue, Meng Yu, Luojie Yang, Yi Yang",
+      "venue": "Neurocomputing 2025",
+      "year": 2025,
+      "paper": "https://doi.org/10.1016/j.neucom.2025.129512",
+      "code": ""
+    },
+    {
+      "title": "Always Clear Days: Degradation Type and Severity Aware All-In-One Adverse Weather Removal",
+      "authors": "Yu-Wei Chen, Soo-Chang Pei",
+      "venue": "IEEE Access 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2310.18293",
+      "code": "https://github.com/fordevoted/UtilityIR"
+    },
+    {
+      "title": "Textual Prompt Guided Image Restoration",
+      "authors": "Qiuhai Yan, Aiwen Jiang, Kang Chen, Long Peng, Qiaosi Yi, Chunjie Zhang",
+      "venue": "Engineering Applications of Artificial Intelligence 2025",
+      "year": 2025,
+      "paper": "https://doi.org/10.1016/j.engappai.2025.110981",
+      "code": "https://github.com/MoTong-AI-studio/TextPromptIR"
+    },
+    {
+      "title": "DDCNet: Advanced Decoupling of Degradation and Content for Adverse Weather Image Restoration",
+      "authors": "Xi Wang, Xueyang Fu, Yurui Zhu, Zheng-Jun Zha",
+      "venue": "TNNLS 2025",
+      "year": 2025,
+      "paper": "https://doi.org/10.1109/TNNLS.2025.3594492",
+      "code": ""
+    },
+    {
+      "title": "Vision-Language Gradient Descent-driven All-in-One Deep Unfolding Networks",
+      "authors": "Haijin Zeng, Xiangming Wang, Yongyong Chen, Jingyong Su, Jie Liu",
+      "venue": "CVPR 2025",
+      "year": 2025,
+      "paper": "https://openaccess.thecvf.com/content/CVPR2025/html/Zeng_Vision-Language_Gradient_Descent-driven_All-in-One_Deep_Unfolding_Networks_CVPR_2025_paper.html",
+      "code": ""
+    },
+    {
+      "title": "Degradation-Aware Feature Perturbation for All-in-One Image Restoration",
+      "authors": "Xiangpeng Tian, Xiangyu Liao, Xiao Liu, Meng Li, Chao Ren",
+      "venue": "CVPR 2025",
+      "year": 2025,
+      "paper": "https://openaccess.thecvf.com/content/CVPR2025/html/Tian_Degradation-Aware_Feature_Perturbation_for_All-in-One_Image_Restoration_CVPR_2025_paper.html",
+      "code": ""
+    },
+    {
+      "title": "Dynamic Degradation Decomposition Network for All-in-One Image Restoration",
+      "authors": "Huiqiang Wang, Mingchen Song, Guoqiang Zhong",
+      "venue": "arXiv 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2502.19068",
+      "code": ""
     },
     {
       "title": "Reference-Based Multi-Stage Progressive Restoration for Multi-Degraded Images",
@@ -1511,26 +1639,10 @@
     {
       "title": "MWFormer: Multi-Weather Image Restoration Using Degradation-Aware Transformers",
       "authors": "Ruoxi Zhu, Zhengzhong Tu, Jiaming Liu, Alan C. Bovik, Yibo Fan",
-      "venue": "TIP2024",
+      "venue": "TIP 2024",
       "year": 2024,
       "paper": "https://arxiv.org/abs/2411.17226",
       "code": "https://github.com/taco-group/MWFormer"
-    },
-    {
-      "title": "Degradation-Aware Residual-Conditioned Optimal Transport for Unified Image Restoration",
-      "authors": "Xiaole Tang, Xiang Gu, Xiaoyi He, Xin Hu, Jian Sun",
-      "venue": "TPAMI2025",
-      "year": 2024,
-      "paper": "https://arxiv.org/abs/2411.01656",
-      "code": "https://github.com/xl-tang3/DA-RCOT"
-    },
-    {
-      "title": "An Intelligent Agentic System for Complex Image Restoration Problems",
-      "authors": "Kaiwen Zhu, Jinjin Gu, Zhiyuan You, Yu Qiao, Chao Dong",
-      "venue": "ICLR2025",
-      "year": 2024,
-      "paper": "https://arxiv.org/abs/2410.17809",
-      "code": "https://github.com/Kaiwen-Zhu/AgenticIR"
     },
     {
       "title": "Adaptive Fuzzy Degradation Perception Based on CLIP Prior for All-in-One Image Restoration",
@@ -1543,7 +1655,7 @@
     {
       "title": "TANet: Triplet Attention Network for All-In-One Adverse Weather Image Restoration",
       "authors": "Hsing-Hua Wang, Fu-Jen Tsai, Yen-Yu Lin, Chia-Wen Lin",
-      "venue": "ACCV2024",
+      "venue": "ACCV 2024",
       "year": 2024,
       "paper": "https://arxiv.org/abs/2410.08177",
       "code": "https://github.com/xhuachris/TANet-ACCV-2024"
@@ -1551,7 +1663,7 @@
     {
       "title": "Restore Anything with Masks: Leveraging Mask Image Modeling for Blind All-in-One Image Restoration",
       "authors": "Chu-Jie Qin, Rui-Qi Wu, Zikun Liu, Xin Lin, Chun-Le Guo, Hyun Hee Park, Chongyi Li",
-      "venue": "ECCV2024",
+      "venue": "ECCV 2024",
       "year": 2024,
       "paper": "https://arxiv.org/abs/2409.19403",
       "code": "https://github.com/Dragonisss/RAM"
@@ -1559,23 +1671,15 @@
     {
       "title": "Teaching Tailored to Talent: Adverse Weather Restoration via Prompt Pool and Depth-Anything Constraint",
       "authors": "Sixiang Chen, Tian Ye, Kai Zhang, Zhaohu Xing, Yunlong Lin, Lei Zhu",
-      "venue": "ECCV2024",
+      "venue": "ECCV 2024",
       "year": 2024,
       "paper": "https://arxiv.org/abs/2409.15739",
       "code": "https://github.com/Ephemeral182/ECCV24_T3-DiffWeather"
     },
     {
-      "title": "Perceive-IR: Learning to Perceive Degradation Better for All-in-One Image Restoration",
-      "authors": "Xu Zhang, Jiaqi Ma, Guoli Wang, Qian Zhang, Huan Zhang, Lefei Zhang",
-      "venue": "TIP2025",
-      "year": 2024,
-      "paper": "https://arxiv.org/abs/2408.15994",
-      "code": "https://github.com/House-yuyu/Perceive-IR"
-    },
-    {
       "title": "Learning A Low-Level Vision Generalist via Visual Task Prompt",
       "authors": "Xiangyu Chen, Yihao Liu, Yuandong Pu, Wenlong Zhang, Jiantao Zhou, Yu Qiao, Chao Dong",
-      "venue": "ACMMM2024",
+      "venue": "ACM MM 2024",
       "year": 2024,
       "paper": "https://arxiv.org/abs/2408.08601",
       "code": "https://github.com/chxy95/GenLV"
@@ -1583,23 +1687,15 @@
     {
       "title": "UniProcessor: A Text-induced Unified Low-level Image Processor",
       "authors": "Huiyu Duan, Xiongkuo Min, Sijing Wu, Wei Shen, Guangtao Zhai",
-      "venue": "ECCV2024",
+      "venue": "ECCV 2024",
       "year": 2024,
       "paper": "https://arxiv.org/abs/2407.20928",
       "code": "https://github.com/IntMeGroup/UniProcessor"
     },
     {
-      "title": "Multi-Expert Adaptive Selection: Task-Balancing for All-in-One Image Restoration",
-      "authors": "Xiaoyan Yu, Shen Zhou, Huafeng Li, Liehuang Zhu",
-      "venue": "TCSVT 2024",
-      "year": 2024,
-      "paper": "https://arxiv.org/abs/2407.19139",
-      "code": "https://github.com/zhoushen1/MEASNet"
-    },
-    {
       "title": "RestoreAgent: Autonomous Image Restoration Agent via Multimodal Large Language Models",
       "authors": "Haoyu Chen, Wenbo Li, Jinjin Gu, Jingjing Ren, Sixiang Chen, Tian Ye, Renjing Pei, Kaiwen Zhou, Fenglong Song, Lei Zhu",
-      "venue": "NIPS2024",
+      "venue": "NeurIPS 2024",
       "year": 2024,
       "paper": "https://arxiv.org/abs/2407.18035",
       "code": "https://haoyuchen.com/RestoreAgent"
@@ -1615,7 +1711,7 @@
     {
       "title": "GRIDS: Grouped Multiple-Degradation Restoration with Image Degradation Similarity",
       "authors": "Shuo Cao, Yihao Liu, Wenlong Zhang, Yu Qiao, Chao Dong",
-      "venue": "ECCV2024",
+      "venue": "ECCV 2024",
       "year": 2024,
       "paper": "https://arxiv.org/abs/2407.12273",
       "code": ""
@@ -1623,7 +1719,7 @@
     {
       "title": "OneRestore: A Universal Restoration Framework for Composite Degradation",
       "authors": "Yu Guo, Yuan Gao, Yuxu Lu, Huilin Zhu, Ryan Wen Liu, Shengfeng He",
-      "venue": "ECCV2024",
+      "venue": "ECCV 2024",
       "year": 2024,
       "paper": "https://arxiv.org/abs/2407.04621",
       "code": "https://github.com/gy65896/OneRestore"
@@ -1631,7 +1727,7 @@
     {
       "title": "All-In-One Medical Image Restoration via Task-Adaptive Routing",
       "authors": "Zhiwen Yang, Haowei Chen, Ziniu Qian, Yang Yi, Hui Zhang, Dan Zhao, Bingzheng Wei, Yan Xu",
-      "venue": "MICCAI2024",
+      "venue": "MICCAI 2024",
       "year": 2024,
       "paper": "https://arxiv.org/abs/2405.19769",
       "code": "https://github.com/Yaziwel/All-In-One-Medical-Image-Restoration-via-Task-Adaptive-Routing.git"
@@ -1639,7 +1735,7 @@
     {
       "title": "Harmony in Diversity: Improving All-in-One Image Restoration via Multi-Task Collaboration",
       "authors": "Gang Wu, Junjun Jiang, Kui Jiang, Xianming Liu",
-      "venue": "ACMMM2024",
+      "venue": "ACM MM 2024",
       "year": 2024,
       "paper": "https://openreview.net/pdf?id=aMgbnUqSHv",
       "code": "https://github.com/Aitical/Art"
@@ -1647,18 +1743,10 @@
     {
       "title": "Photo-Realistic Image Restoration in the Wild with Controlled Vision-Language Models",
       "authors": "Ziwei Luo, Fredrik K. Gustafsson, Zheng Zhao, Jens Sjölund, Thomas B. Schön",
-      "venue": "CVPRW2024",
+      "venue": "CVPRW 2024",
       "year": 2024,
       "paper": "https://arxiv.org/abs/2404.09732",
       "code": "https://github.com/Algolzw/daclip-uir"
-    },
-    {
-      "title": "AdaIR: Adaptive All-in-One Image Restoration via Frequency Mining and Modulation",
-      "authors": "Yuning Cui, Syed Waqas Zamir, Salman Khan, Alois Knoll, Mubarak Shah, Fahad Shahbaz Khan",
-      "venue": "ICLR2025",
-      "year": 2024,
-      "paper": "https://arxiv.org/abs/2403.14614",
-      "code": "https://github.com/c-yn/AdaIR"
     },
     {
       "title": "DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks",
@@ -1671,7 +1759,7 @@
     {
       "title": "Selective Hourglass Mapping for Universal Image Restoration Based on Diffusion Model",
       "authors": "Dian Zheng, Xiao-Ming Wu, Shuzhou Yang, Jian Zhang, Jian-Fang Hu, Wei-Shi Zheng",
-      "venue": "CVPR2024",
+      "venue": "CVPR 2024",
       "year": 2024,
       "paper": "https://arxiv.org/abs/2403.11157",
       "code": "https://github.com/iSEE-Laboratory/DiffUIR"
@@ -1687,7 +1775,7 @@
     {
       "title": "InstructIR: High-Quality Image Restoration Following Human Instructions",
       "authors": "Marcos V. Conde, Gregor Geigle, Radu Timofte",
-      "venue": "ECCV2024",
+      "venue": "ECCV 2024",
       "year": 2024,
       "paper": "https://arxiv.org/abs/2401.16468",
       "code": "https://github.com/mv-lab/InstructIR"
@@ -1695,7 +1783,7 @@
     {
       "title": "Improving Image Restoration through Removing Degradations in Textual Representations",
       "authors": "Jingbo Lin, Zhilu Zhang, Yuxiang Wei, Dongwei Ren, Dongsheng Jiang, Wangmeng Zuo",
-      "venue": "CVPR2024",
+      "venue": "CVPR 2024",
       "year": 2024,
       "paper": "https://arxiv.org/pdf/2312.17334",
       "code": "https://github.com/mrluin/TextualDegRemoval"
@@ -1703,7 +1791,7 @@
     {
       "title": "Efficient Deweather Mixture-of-Experts with Uncertainty-aware Feature-wise Linear Modulation",
       "authors": "Rongyu Zhang, Yulin Luo, Jiaming Liu, Huanrui Yang, Zhen Dong, Denis Gudovskiy, Tomoyuki Okuno, Yohei Nakata, Kurt Keutzer, Yuan Du, Shanghang Zhang",
-      "venue": "AAAI2024",
+      "venue": "AAAI 2024",
       "year": 2024,
       "paper": "https://arxiv.org/abs/2312.16610",
       "code": "https://github.com/RoyZry98/MoFME-Pytorch"
@@ -1715,14 +1803,6 @@
       "year": 2024,
       "paper": "https://arxiv.org/abs/2412.15845",
       "code": "https://github.com/12138-chr/MTAIR"
-    },
-    {
-      "title": "Mixed Degradation Image Restoration via Local Dynamic Optimization and Conditional Embedding",
-      "authors": "Yubin Gu, Yuan Meng, Xiaoshuai Sun, Jiayi Ji, Weijian Ruan, Rongrong Ji",
-      "venue": "arXiv",
-      "year": 2024,
-      "paper": "https://arxiv.org/abs/2411.16217",
-      "code": ""
     },
     {
       "title": "Chain-of-Restoration: Multi-Task Image Restoration Models are Zero-Shot Step-by-Step Universal Image Restorers",
@@ -1773,14 +1853,6 @@
       "code": ""
     },
     {
-      "title": "Diff-Restorer: Unleashing Visual Prompts for Diffusion-based Universal Image Restoration",
-      "authors": "Yuhong Zhang, Hengsheng Zhang, Xinning Chai, Zhengxue Cheng, Rong Xie, Li Song, Wenjun Zhang",
-      "venue": "arXiv",
-      "year": 2024,
-      "paper": "https://arxiv.org/abs/2407.03636",
-      "code": "https://github.com/zyhrainbow/Diff-Restorer"
-    },
-    {
       "title": "Any Image Restoration with Efficient Automatic Degradation Adaptation",
       "authors": "Bin Ren, Eduard Zamfir, Yawei Li, Zongwei Wu, Danda Pani Paudel, Radu Timofte, Nicu Sebe, Luc Van Gool",
       "venue": "arXiv",
@@ -1821,22 +1893,6 @@
       "code": "https://eduardzamfir.github.io/daair/"
     },
     {
-      "title": "Referring Flexible Image Restoration",
-      "authors": "Runwei Guan, Rongsheng Hu, Zhuhao Zhou, Tianlang Xue, Ka Lok Man, Jeremy Smith, Eng Gee Lim, Weiping Ding, Yutao Yue",
-      "venue": "arXiv",
-      "year": 2024,
-      "paper": "https://arxiv.org/abs/2404.10342",
-      "code": "https://github.com/GuanRunwei/FIR-CP"
-    },
-    {
-      "title": "Joint Conditional Diffusion Model for Image Restoration with Mixed Degradations",
-      "authors": "Yufeng Yue, Meng Yu, Luojie Yang, Yi Yang",
-      "venue": "arXiv",
-      "year": 2024,
-      "paper": "https://arxiv.org/abs/2404.07770",
-      "code": ""
-    },
-    {
       "title": "Dynamic Pre-training: Towards Efficient and Scalable All-in-One Image Restoration",
       "authors": "Akshay Dudhane, Omkar Thawakar, Syed Waqas Zamir, Salman Khan, Fahad Shahbaz Khan, Ming-Hsuan Yang",
       "venue": "arXiv",
@@ -1855,18 +1911,10 @@
     {
       "title": "AoSRNet: All-in-One Scene Recovery Networks via Multi-knowledge Integration",
       "authors": "Yuxu Lu, Dong Yang, Yuan Gao, Ryan Wen Liu, Jun Liu, Yu Guo",
-      "venue": "arXiv",
+      "venue": "Knowledge-Based Systems 2024",
       "year": 2024,
-      "paper": "https://arxiv.org/abs/2402.03738",
+      "paper": "https://doi.org/10.1016/j.knosys.2024.111786",
       "code": "https://github.com/LouisYuxuLu/AoSRNet"
-    },
-    {
-      "title": "Unified-Width Adaptive Dynamic Network for All-In-One Image Restoration",
-      "authors": "Yimin Xu, Nanxi Gao, Zhongyun Shan, Fei Chao, Rongrong Ji",
-      "venue": "arXiv",
-      "year": 2024,
-      "paper": "https://arxiv.org/abs/2401.13221",
-      "code": "https://github.com/xuyimin0926/U-WADN"
     },
     {
       "title": "Towards Effective Multiple-in-One Image Restoration: A Sequential and Prompt Learning Strategy",
@@ -1879,119 +1927,111 @@
     {
       "title": "Multimodal Prompt Perceiver: Empower Adaptiveness, Generalizability and Fidelity for All-in-One Image Restoration",
       "authors": "Yuang Ai, Huaibo Huang, Xiaoqiang Zhou, Jiexiang Wang, Ran He",
-      "venue": "CVPR2024",
-      "year": 2023,
+      "venue": "CVPR 2024",
+      "year": 2024,
       "paper": "https://arxiv.org/abs/2312.02918",
       "code": ""
     },
     {
       "title": "Language-driven All-in-one Adverse Weather Removal",
       "authors": "Hao Yang, Liyuan Pan, Yan Yang, Wei Liang",
-      "venue": "CVPR2024",
-      "year": 2023,
+      "venue": "CVPR 2024",
+      "year": 2024,
       "paper": "https://arxiv.org/abs/2312.01381",
       "code": ""
     },
     {
       "title": "Test-Time Degradation Adaptation for Open-Set Image Restoration",
       "authors": "Yuanbiao Gou, Haiyu Zhao, Boyun Li, Xinyan Xiao, Xi Peng",
-      "venue": "ICML2024",
-      "year": 2023,
+      "venue": "ICML 2024",
+      "year": 2024,
       "paper": "https://arxiv.org/abs/2312.02197",
       "code": "https://github.com/XLearning-SCU/2024-ICML-TAO"
     },
     {
-      "title": "Always Clear Days: Degradation Type and Severity Aware All-In-One Adverse Weather Removal",
-      "authors": "Yu-Wei Chen, Soo-Chang Pei",
-      "venue": "IEEE Access2025",
-      "year": 2023,
-      "paper": "https://arxiv.org/abs/2310.18293",
-      "code": "https://github.com/fordevoted/UtilityIR"
-    },
-    {
       "title": "Neural Degradation Representation Learning for All-In-One Image Restoration",
       "authors": "Mingde Yao, Ruikang Xu, Yuanshen Guan, Jie Huang, Zhiwei Xiong",
-      "venue": "TIP2024",
-      "year": 2023,
+      "venue": "TIP 2024",
+      "year": 2024,
       "paper": "https://arxiv.org/abs/2310.12848",
       "code": ""
     },
     {
       "title": "AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion",
       "authors": "Yitong Jiang, Zhaoyang Zhang, Tianfan Xue, Jinwei Gu",
-      "venue": "ECCV2024",
-      "year": 2023,
+      "venue": "ECCV 2024",
+      "year": 2024,
       "paper": "https://arxiv.org/abs/2310.10123",
       "code": "https://jiangyitong.github.io/AutoDIR_webpage/"
     },
     {
       "title": "Unifying Image Processing as Visual Prompting Question Answering",
       "authors": "Yihao Liu, Xiangyu Chen, Xianzheng Ma, Xintao Wang, Jiantao Zhou, Yu Qiao, Chao Dong",
-      "venue": "ICML2024",
-      "year": 2023,
+      "venue": "ICML 2024",
+      "year": 2024,
       "paper": "https://arxiv.org/abs/2310.10513",
       "code": ""
     },
     {
       "title": "Controlling Vision-Language Models for Universal Image Restoration",
       "authors": "Ziwei Luo, Zheng Zhao, Thomas B. Schön",
-      "venue": "ICLR2024",
-      "year": 2023,
+      "venue": "ICLR 2024",
+      "year": 2024,
       "paper": "https://arxiv.org/abs/2310.01018",
       "code": "https://github.com/Algolzw/daclip-uir"
     },
     {
-      "title": "Fill the K-Space and Refine the Image: Prompting for Dynamic and Multi-Contrast MRI Reconstruction",
-      "authors": "Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas",
-      "venue": "STACOM2023",
-      "year": 2023,
-      "paper": "https://arxiv.org/pdf/2309.13839",
-      "code": "https://github.com/hellopipu/PromptMR"
-    },
-    {
       "title": "Prompt-based Ingredient-Oriented All-in-One Image Restoration",
       "authors": "Hu Gao, Depeng Dang",
-      "venue": "TCSVT2024",
-      "year": 2023,
+      "venue": "TCSVT 2024",
+      "year": 2024,
       "paper": "https://arxiv.org/abs/2309.03063",
-      "code": ""
-    },
-    {
-      "title": "All-in-one Multi-degradation Image Restoration Network via Hierarchical Degradation Representation",
-      "authors": "Cheng Zhang, Yu Zhu, Qingsen Yan, Jinqiu Sun, Yanning Zhang",
-      "venue": "ACMMM2023",
-      "year": 2023,
-      "paper": "https://arxiv.org/abs/2308.03021",
       "code": ""
     },
     {
       "title": "RDM-IR: Task-Adaptive Deep Unfolding Network for All-In-One Image Restoration",
       "authors": "Yuanshuo Cheng, Mingwen Shao, Yecong Wan, Chao Wang",
-      "venue": "Knowledge-Based Systems2024",
-      "year": 2023,
+      "venue": "Knowledge-Based Systems 2024",
+      "year": 2024,
       "paper": "https://arxiv.org/abs/2307.07688",
       "code": "https://github.com/YuanshuoCheng/RDM-IR"
     },
     {
+      "title": "GridFormer: Residual Dense Transformer with Grid Structure for Image Restoration in Adverse Weather Conditions",
+      "authors": "Tao Wang, Kaihao Zhang, Ziqian Shao, Wenhan Luo, Bjorn Stenger, Tong Lu, Tae-Kyun Kim, Wei Liu, Hongdong Li",
+      "venue": "IJCV 2024",
+      "year": 2024,
+      "paper": "https://arxiv.org/abs/2305.17863v2",
+      "code": "https://github.com/TaoWangzj/GridFormer"
+    },
+    {
+      "title": "Fill the K-Space and Refine the Image: Prompting for Dynamic and Multi-Contrast MRI Reconstruction",
+      "authors": "Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas",
+      "venue": "STACOM 2023",
+      "year": 2023,
+      "paper": "https://arxiv.org/pdf/2309.13839",
+      "code": "https://github.com/hellopipu/PromptMR"
+    },
+    {
+      "title": "All-in-one Multi-degradation Image Restoration Network via Hierarchical Degradation Representation",
+      "authors": "Cheng Zhang, Yu Zhu, Qingsen Yan, Jinqiu Sun, Yanning Zhang",
+      "venue": "ACM MM 2023",
+      "year": 2023,
+      "paper": "https://arxiv.org/abs/2308.03021",
+      "code": ""
+    },
+    {
       "title": "PromptIR: Prompting for All-in-One Blind Image Restoration",
       "authors": "Vaishnav Potlapalli, Syed Waqas Zamir, Salman Khan, Fahad Shahbaz Khan",
-      "venue": "NeurIPS2023",
+      "venue": "NeurIPS 2023",
       "year": 2023,
       "paper": "https://arxiv.org/abs/2306.13090",
       "code": "https://github.com/va1shn9v/PromptIR"
     },
     {
-      "title": "GridFormer: Residual Dense Transformer with Grid Structure for Image Restoration in Adverse Weather Conditions",
-      "authors": "Tao Wang, Kaihao Zhang, Ziqian Shao, Wenhan Luo, Bjorn Stenger, Tong Lu, Tae-Kyun Kim, Wei Liu, Hongdong Li",
-      "venue": "IJCV2024",
-      "year": 2023,
-      "paper": "https://arxiv.org/abs/2305.17863v2",
-      "code": "https://github.com/TaoWangzj/GridFormer"
-    },
-    {
       "title": "Generative Diffusion Prior for Unified Image Restoration and Enhancement",
       "authors": "Ben Fei, Zhaoyang Lyu, Liang Pan, Junzhe Zhang, Weidong Yang, Tianyue Luo, Bo Zhang, Bo Dai",
-      "venue": "CVPR2023",
+      "venue": "CVPR 2023",
       "year": 2023,
       "paper": "https://arxiv.org/abs/2304.01247",
       "code": "https://github.com/Fayeben/GenerativeDiffusionPrior"
@@ -1999,7 +2039,7 @@
     {
       "title": "Context-aware Pretraining for Efficient Blind Image Decomposition",
       "authors": "Chao Wang, Zhedong Zheng, Ruijie Quan, Yifan Sun, Yi Yang",
-      "venue": "CVPR2023",
+      "venue": "CVPR 2023",
       "year": 2023,
       "paper": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Context-Aware_Pretraining_for_Efficient_Blind_Image_Decomposition_CVPR_2023_paper.pdf",
       "code": ""
@@ -2007,7 +2047,7 @@
     {
       "title": "Ingredient-oriented Multi-Degradation Learning for Image Restoration",
       "authors": "Jinghao Zhang, Jie Huang, Mingde Yao, Zizheng Yang, Hu Yu, Man Zhou, Feng Zhao",
-      "venue": "CVPR2023",
+      "venue": "CVPR 2023",
       "year": 2023,
       "paper": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Ingredient-Oriented_Multi-Degradation_Learning_for_Image_Restoration_CVPR_2023_paper.pdf",
       "code": ""
@@ -2015,7 +2055,7 @@
     {
       "title": "Learning Weather-General and Weather-Specific Features for Image Restoration Under Multiple Adverse Weather Conditions",
       "authors": "Yurui Zhu, Tianyu Wang, Xueyang Fu, Xuanyu Yang, Xin Guo, Jifeng Dai, Yu Qiao, Xiaowei Hu",
-      "venue": "CVPR2023",
+      "venue": "CVPR 2023",
       "year": 2023,
       "paper": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Learning_Weather-General_and_Weather-Specific_Features_for_Image_Restoration_Under_Multiple_CVPR_2023_paper.pdf",
       "code": "https://github.com/zhuyr97/WGWS-Net"
@@ -2023,7 +2063,7 @@
     {
       "title": "Adverse Weather Removal with Codebook Priors",
       "authors": "Tian Ye, Sixiang Chen, Jinbin Bai, Jun Shi, Chenghao Xue, Jingxia Jiang, Junjie Yin, Erkang Chen, Yun Liu",
-      "venue": "ICCV2023",
+      "venue": "ICCV 2023",
       "year": 2023,
       "paper": "https://openaccess.thecvf.com/content/ICCV2023/papers/Ye_Adverse_Weather_Removal_with_Codebook_Priors_ICCV_2023_paper.pdf",
       "code": ""
@@ -2031,7 +2071,7 @@
     {
       "title": "Restoring Vision in Adverse Weather Conditions with Patch-Based Denoising Diffusion Models",
       "authors": "Ozan Özdenizci, Robert Legenstein",
-      "venue": "TPAMI2023",
+      "venue": "TPAMI 2023",
       "year": 2023,
       "paper": "https://arxiv.org/abs/2207.14626",
       "code": ""
@@ -2039,26 +2079,10 @@
     {
       "title": "Images Speak in Images: A Generalist Painter for In-Context Visual Learning",
       "authors": "Xinlong Wang, Wen Wang, Yue Cao, Chunhua Shen, Tiejun Huang",
-      "venue": "CVPR2023",
+      "venue": "CVPR 2023",
       "year": 2023,
       "paper": "https://arxiv.org/abs/2212.02499",
       "code": "https://github.com/baaivision/Painter"
-    },
-    {
-      "title": "Textual Prompt Guided Image Restoration",
-      "authors": "Qiuhai Yan, Aiwen Jiang, Kang Chen, Long Peng, Qiaosi Yi, Chunjie Zhang",
-      "venue": "arXiv",
-      "year": 2023,
-      "paper": "https://arxiv.org/abs/2312.06162",
-      "code": "https://github.com/MoTong-AI-studio/TextPromptIR"
-    },
-    {
-      "title": "Decoupling Degradation and Content Processing for Adverse Weather Image Restoration",
-      "authors": "Xi Wang, Xueyang Fu, Peng-Tao Jiang, Jie Huang, Mi Zhou, Bo Li, Zheng-Jun Zha",
-      "venue": "arXiv",
-      "year": 2023,
-      "paper": "https://arxiv.org/abs/2312.05006",
-      "code": ""
     },
     {
       "title": "Clarity ChatGPT: An Interactive and Adaptive Processing System for Image Restoration and Enhancement",
@@ -2093,9 +2117,17 @@
       "code": ""
     },
     {
+      "title": "On Efficient Transformer-Based Image Pre-training for Low-Level Vision",
+      "authors": "Wenbo Li, Xin Lu, Shengju Qian, Jiangbo Lu, Xiangyu Zhang, Jiaya Jia",
+      "venue": "IJCAI 2023",
+      "year": 2023,
+      "paper": "https://www.ijcai.org/proceedings/2023/121",
+      "code": "https://github.com/fenglinglwb/EDT"
+    },
+    {
       "title": "All-In-One Image Restoration for Unknown Corruption",
       "authors": "Boyun Li, Xiao Liu, Peng Hu, Zhongqin Wu, Jiancheng Lv, Xi Peng",
-      "venue": "CVPR2022",
+      "venue": "CVPR 2022",
       "year": 2022,
       "paper": "http://pengxi.me/wp-content/uploads/2022/03/All-In-One-Image-Restoration-for-Unknown-Corruption.pdf",
       "code": "https://github.com/XLearning-SCU/2022-CVPR-AirNet.git"
@@ -2103,15 +2135,15 @@
     {
       "title": "TAPE: Task-Agnostic Prior Embedding for Image Restoration",
       "authors": "Lin Liu, Lingxi Xie, Xiaopeng Zhang, Shanxin Yuan, Xiangyu Chen, Wengang Zhou, Houqiang Li, Qi Tian",
-      "venue": "CVPR2022",
+      "venue": "ECCV 2022",
       "year": 2022,
-      "paper": "https://arxiv.org/abs/2203.06074",
+      "paper": "https://link.springer.com/chapter/10.1007/978-3-031-19797-0_26",
       "code": ""
     },
     {
       "title": "Learning Multiple Adverse Weather Removal via Two-stage Knowledge Learning and Multi-contrastive Regularization: Toward a Unified Model",
       "authors": "Wei-Ting Chen, Zhi-Kai Huang, Cheng-Che Tsai, Hao-Hsiang Yang, Jian-Jiun Ding, Sy-Yen Kuo",
-      "venue": "CVPR2022",
+      "venue": "CVPR 2022",
       "year": 2022,
       "paper": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Learning_Multiple_Adverse_Weather_Removal_via_Two-Stage_Knowledge_Learning_and_CVPR_2022_paper.pdf",
       "code": "https://github.com/fingerk28/Two-stage-Knowledge-For-Multiple-Adverse-Weather-Removal"
@@ -2119,7 +2151,7 @@
     {
       "title": "TransWeather: Transformer-based Restoration of Images Degraded by Adverse Weather Conditions",
       "authors": "Jeya Maria Jose Valanarasu, Rajeev Yasarla, Vishal M. Patel",
-      "venue": "CVPR2022",
+      "venue": "CVPR 2022",
       "year": 2022,
       "paper": "https://arxiv.org/abs/2111.14813",
       "code": "https://github.com/jeya-maria-jose/TransWeather"
@@ -2127,7 +2159,7 @@
     {
       "title": "Blind Image Decomposition",
       "authors": "Junlin Han, Weihao Li, Pengfei Fang, Chunyi Sun, Jie Hong, Mohammad Ali Armin, Lars Petersson, Hongdong Li",
-      "venue": "ECCV2022",
+      "venue": "ECCV 2022",
       "year": 2022,
       "paper": "https://arxiv.org/abs/2108.11364",
       "code": "https://github.com/JunlinHan/BID"
@@ -2135,23 +2167,15 @@
     {
       "title": "Pre-Trained Image Processing Transformer",
       "authors": "Hanting Chen, Yunhe Wang, Tianyu Guo, Chang Xu, Yiping Deng, Zhenhua Liu, Siwei Ma, Chunjing Xu, Chao Xu, Wen Gao",
-      "venue": "CVPR2021",
+      "venue": "CVPR 2021",
       "year": 2021,
       "paper": "https://arxiv.org/abs/2012.00364",
       "code": "https://github.com/huawei-noah/Pretrained-IPT"
     },
     {
-      "title": "On Efficient Transformer-Based Image Pre-training for Low-Level Vision",
-      "authors": "Wenbo Li, Xin Lu, Shengju Qian, Jiangbo Lu, Xiangyu Zhang, Jiaya Jia",
-      "venue": "arXiv",
-      "year": 2021,
-      "paper": "https://arxiv.org/abs/2112.10175",
-      "code": "https://github.com/fenglinglwb/EDT"
-    },
-    {
       "title": "All in One Bad Weather Removal Using Architectural Search",
       "authors": "Ruoteng Li, Robby T. Tan, Loong-Fah Cheong",
-      "venue": "CVPR2020",
+      "venue": "CVPR 2020",
       "year": 2020,
       "paper": "https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_All_in_One_Bad_Weather_Removal_Using_Architectural_Search_CVPR_2020_paper.pdf",
       "code": ""
@@ -2159,8 +2183,8 @@
     {
       "title": "A General Decoupled Learning Framework for Parameterized Image Operators",
       "authors": "Qingnan Fan, Dongdong Chen, Lu Yuan, Gang Hua, Nenghai Yu, Baoquan Chen",
-      "venue": "TPAMI2019",
-      "year": 2020,
+      "venue": "TPAMI 2019",
+      "year": 2019,
       "paper": "https://arxiv.org/abs/1907.05852",
       "code": ""
     }
@@ -2322,7 +2346,7 @@
         },
         {
           "method": "DRSformer",
-          "venue": "CVPR'23",
+          "venue": "CVPR 2023",
           "params": "34M",
           "category": "Single",
           "approach": "Specific",
@@ -2352,7 +2376,7 @@
               0.902
             ]
           },
-          "paper": "https://arxiv.org/html/2410.15067v3#bib.bib19",
+          "paper": "https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Learning_a_Sparse_Transformer_Network_for_Effective_Image_Deraining_CVPR_2023_paper.html",
           "code": "",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T2",
           "sourceLabel": "Survey · Table II",
@@ -2362,7 +2386,7 @@
         },
         {
           "method": "MPRNet",
-          "venue": "CVPR'21",
+          "venue": "CVPR 2021",
           "params": "16M",
           "category": "Multiple",
           "approach": "General",
@@ -2392,7 +2416,7 @@
               0.894
             ]
           },
-          "paper": "https://link.springer.com/article/10.1007/s11263-026-02792-5",
+          "paper": "https://openaccess.thecvf.com/content/CVPR2021/html/Zamir_Multi-Stage_Progressive_Image_Restoration_CVPR_2021_paper.html",
           "code": "",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T2",
           "sourceLabel": "Survey · Table II",
@@ -2402,7 +2426,7 @@
         },
         {
           "method": "Restormer",
-          "venue": "CVPR'22",
+          "venue": "CVPR 2022",
           "params": "26M",
           "category": "Multiple",
           "approach": "General",
@@ -2432,7 +2456,7 @@
               0.901
             ]
           },
-          "paper": "https://arxiv.org/html/2410.15067v3#bib.bib51",
+          "paper": "https://arxiv.org/abs/2111.09881",
           "code": "",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T2",
           "sourceLabel": "Survey · Table II",
@@ -2442,7 +2466,7 @@
         },
         {
           "method": "NAFNet",
-          "venue": "ECCV'22",
+          "venue": "ECCV 2022",
           "params": "17M",
           "category": "Multiple",
           "approach": "General",
@@ -2472,7 +2496,7 @@
               0.844
             ]
           },
-          "paper": "https://arxiv.org/abs/2503.10120",
+          "paper": "https://arxiv.org/abs/2204.04676",
           "code": "",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T2",
           "sourceLabel": "Survey · Table II",
@@ -2522,7 +2546,7 @@
         },
         {
           "method": "MambaIR",
-          "venue": "ECCV'24",
+          "venue": "ECCV 2024",
           "params": "27M",
           "category": "Multiple",
           "approach": "General",
@@ -2552,7 +2576,7 @@
               0.907
             ]
           },
-          "paper": "https://arxiv.org/pdf/2504.17732",
+          "paper": "https://arxiv.org/abs/2402.15648",
           "code": "",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T2",
           "sourceLabel": "Survey · Table II",
@@ -2562,7 +2586,7 @@
         },
         {
           "method": "DL",
-          "venue": "TPAMI'19",
+          "venue": "TPAMI 2019",
           "params": "2M",
           "category": "All-in-One",
           "approach": "parameterized image operator",
@@ -2598,11 +2622,12 @@
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-10"
+          "id": "three-10",
+          "paperTitle": "A General Decoupled Learning Framework for Parameterized Image Operators"
         },
         {
           "method": "TKMANet",
-          "venue": "CVPR'22",
+          "venue": "CVPR 2022",
           "params": "29M",
           "category": "All-in-One",
           "approach": "two-stage knowledge learning",
@@ -2638,11 +2663,12 @@
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-11"
+          "id": "three-11",
+          "paperTitle": "Learning Multiple Adverse Weather Removal via Two-stage Knowledge Learning and Multi-contrastive Regularization: Toward a Unified Model"
         },
         {
           "method": "AirNet",
-          "venue": "CVPR'22",
+          "venue": "CVPR 2022",
           "params": "9M",
           "category": "All-in-One",
           "approach": "contrastive-based & degradation-guided",
@@ -2678,11 +2704,12 @@
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-12"
+          "id": "three-12",
+          "paperTitle": "All-In-One Image Restoration for Unknown Corruption"
         },
         {
           "method": "PIP_restormer",
-          "venue": "arXiv'23",
+          "venue": "PR 2026",
           "params": "27M",
           "category": "All-in-One",
           "approach": "prompt-in-prompt learning",
@@ -2712,17 +2739,18 @@
               0.92
             ]
           },
-          "paper": "",
-          "code": "",
+          "paper": "https://doi.org/10.1016/j.patcog.2026.114401",
+          "code": "https://github.com/longzilicart/pip_universal",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T2",
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-13"
+          "id": "three-13",
+          "paperTitle": "Prompt-in-Prompt Learning for All-in-One Image Restoration"
         },
         {
           "method": "IDR",
-          "venue": "CVPR'23",
+          "venue": "CVPR 2023",
           "params": "15M",
           "category": "All-in-One",
           "approach": "ingredient-oriented learning",
@@ -2758,11 +2786,12 @@
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-14"
+          "id": "three-14",
+          "paperTitle": "Ingredient-oriented Multi-Degradation Learning for Image Restoration"
         },
         {
           "method": "PromptIR",
-          "venue": "NeurIPS'23",
+          "venue": "NeurIPS 2023",
           "params": "36M",
           "category": "All-in-One",
           "approach": "prompt for AiOIR",
@@ -2798,11 +2827,12 @@
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-15"
+          "id": "three-15",
+          "paperTitle": "PromptIR: Prompting for All-in-One Blind Image Restoration"
         },
         {
           "method": "Gridformer",
-          "venue": "IJCV'23",
+          "venue": "IJCV 2024",
           "params": "34M",
           "category": "All-in-One",
           "approach": "transformer with grid structure",
@@ -2838,11 +2868,12 @@
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-16"
+          "id": "three-16",
+          "paperTitle": "GridFormer: Residual Dense Transformer with Grid Structure for Image Restoration in Adverse Weather Conditions"
         },
         {
           "method": "ProRes",
-          "venue": "arXiv'23",
+          "venue": "arXiv 2023",
           "params": "371M",
           "category": "All-in-One",
           "approach": "degradation-aware visual prompt",
@@ -2878,11 +2909,12 @@
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-17"
+          "id": "three-17",
+          "paperTitle": "ProRes: Exploring Degradation-aware Visual Prompt for Universal Image Restoration"
         },
         {
           "method": "NDR",
-          "venue": "TIP'24",
+          "venue": "TIP 2024",
           "params": "28M",
           "category": "All-in-One",
           "approach": "neural degradation representation",
@@ -2918,11 +2950,12 @@
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-18"
+          "id": "three-18",
+          "paperTitle": "Neural Degradation Representation Learning for All-In-One Image Restoration"
         },
         {
           "method": "Art_PromptIR",
-          "venue": "ACM MM'24",
+          "venue": "ACM MM 2024",
           "params": "36M",
           "category": "All-in-One",
           "approach": "via multi-task collaboration",
@@ -2952,17 +2985,18 @@
               0.917
             ]
           },
-          "paper": "",
-          "code": "",
+          "paper": "https://openreview.net/pdf?id=aMgbnUqSHv",
+          "code": "https://github.com/Aitical/Art",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T2",
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-19"
+          "id": "three-19",
+          "paperTitle": "Harmony in Diversity: Improving All-in-One Image Restoration via Multi-Task Collaboration"
         },
         {
           "method": "AnyIR",
-          "venue": "arXiv'24",
+          "venue": "arXiv 2024",
           "params": "6M",
           "category": "All-in-One",
           "approach": "local-global gated intertwining",
@@ -2992,17 +3026,18 @@
               0.916
             ]
           },
-          "paper": "https://openreview.net/pdf?id=RObgCpdDqr",
+          "paper": "https://arxiv.org/abs/2407.13372",
           "code": "https://github.com/Amazingren/AnyIR",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T2",
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-20"
+          "id": "three-20",
+          "paperTitle": "Any Image Restoration with Efficient Automatic Degradation Adaptation"
         },
         {
           "method": "DaAIR",
-          "venue": "arXiv'24",
+          "venue": "arXiv 2024",
           "params": "6M",
           "category": "All-in-One",
           "approach": "efficient degradation-aware",
@@ -3038,11 +3073,12 @@
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-21"
+          "id": "three-21",
+          "paperTitle": "Efficient Degradation-aware Any Image Restoration"
         },
         {
           "method": "MEASNet",
-          "venue": "arXiv'24",
+          "venue": "TCSVT 2025",
           "params": "31M",
           "category": "All-in-One",
           "approach": "multi-expert adaptive selection",
@@ -3072,17 +3108,18 @@
               0.919
             ]
           },
-          "paper": "https://arxiv.org/abs/2407.19139",
+          "paper": "https://doi.org/10.1109/TCSVT.2024.3516074",
           "code": "https://github.com/zhoushen1/MEASNet",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T2",
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-22"
+          "id": "three-22",
+          "paperTitle": "Multi-Expert Adaptive Selection: Task-Balancing for All-in-One Image Restoration"
         },
         {
           "method": "U-WADN",
-          "venue": "arXiv'24",
+          "venue": "Information Sciences 2027",
           "params": "6M",
           "category": "All-in-One",
           "approach": "unified-width adaptive network",
@@ -3112,17 +3149,18 @@
               0.91
             ]
           },
-          "paper": "https://arxiv.org/abs/2401.13221",
+          "paper": "https://doi.org/10.1016/j.ins.2026.123974",
           "code": "https://github.com/xuyimin0926/U-WADN",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T2",
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-23"
+          "id": "three-23",
+          "paperTitle": "Unified-Width Adaptive Dynamic Network for All-In-One Image Restoration"
         },
         {
           "method": "Shi et al.",
-          "venue": "arXiv'24",
+          "venue": "TNNLS 2026",
           "params": "-",
           "category": "All-in-One",
           "approach": "frequency-aware transformers",
@@ -3152,17 +3190,18 @@
               0.921
             ]
           },
-          "paper": "https://ieeexplore.ieee.org/document/11002360",
-          "code": "https://github.com/Aitical/DPPD",
+          "paper": "https://doi.org/10.1109/TNNLS.2026.3701139",
+          "code": "",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T2",
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-24"
+          "id": "three-24",
+          "paperTitle": "Learning Dual Transformers for All-in-One Image Restoration From a Frequency Perspective"
         },
         {
           "method": "DyNet",
-          "venue": "arXiv'24",
+          "venue": "arXiv 2024",
           "params": "16M",
           "category": "All-in-One",
           "approach": "dynamic pre-training",
@@ -3198,11 +3237,12 @@
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-25"
+          "id": "three-25",
+          "paperTitle": "Dynamic Pre-training: Towards Efficient and Scalable All-in-One Image Restoration"
         },
         {
           "method": "Hair",
-          "venue": "arXiv'24",
+          "venue": "arXiv 2024",
           "params": "29M",
           "category": "All-in-One",
           "approach": "hypernetworks-based",
@@ -3238,11 +3278,12 @@
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-26"
+          "id": "three-26",
+          "paperTitle": "HAIR: Hypernetworks-based All-in-One Image Restoration"
         },
         {
           "method": "LoRA-IR",
-          "venue": "arXiv'24",
+          "venue": "arXiv 2024",
           "params": "-",
           "category": "All-in-One",
           "approach": "mixture of low-rank experts",
@@ -3278,11 +3319,12 @@
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-27"
+          "id": "three-27",
+          "paperTitle": "LoRA-IR: Taming Low-Rank Experts for Efficient All-in-One Image Restoration"
         },
         {
           "method": "Up-Restorer",
-          "venue": "AAAI'25",
+          "venue": "AAAI 2025",
           "params": "28M",
           "category": "All-in-One",
           "approach": "ADMM-solver-based design",
@@ -3318,11 +3360,12 @@
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-28"
+          "id": "three-28",
+          "paperTitle": "Up-Restorer: When Unrolling Meets Prompts for Unified Image Restoration"
         },
         {
           "method": "TUR_PromptIR",
-          "venue": "AAAI'25",
+          "venue": "AAAI 2025",
           "params": "36M",
           "category": "All-in-One",
           "approach": "a novel loss function",
@@ -3352,17 +3395,18 @@
               0.916
             ]
           },
-          "paper": "",
-          "code": "",
+          "paper": "https://openreview.net/forum?id=kx7eyKgEGz",
+          "code": "https://github.com/Aitical/TUR",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T2",
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-29"
+          "id": "three-29",
+          "paperTitle": "Debiased All-in-one Image Restoration with Task Uncertainty Regularization"
         },
         {
           "method": "AdaIR",
-          "venue": "ICLR'25",
+          "venue": "ICLR 2025",
           "params": "29M",
           "category": "All-in-One",
           "approach": "frequency mining and modulation",
@@ -3398,11 +3442,12 @@
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-30"
+          "id": "three-30",
+          "paperTitle": "AdaIR: Adaptive All-in-One Image Restoration via Frequency Mining and Modulation"
         },
         {
           "method": "DA-RCOT",
-          "venue": "TPAMI'25",
+          "venue": "TPAMI 2025",
           "params": "50M",
           "category": "All-in-One",
           "approach": "as an optimal transport problem",
@@ -3438,11 +3483,12 @@
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-31"
+          "id": "three-31",
+          "paperTitle": "Degradation-Aware Residual-Conditioned Optimal Transport for Unified Image Restoration"
         },
         {
           "method": "ABAIR",
-          "venue": "arXiv'24",
+          "venue": "CVIU 2026",
           "params": "41M",
           "category": "All-in-One",
           "approach": "a three-phase approach",
@@ -3472,17 +3518,18 @@
               0.919
             ]
           },
-          "paper": "https://www.sciencedirect.com/science/article/pii/S1077314226001621",
+          "paper": "https://doi.org/10.1016/j.cviu.2026.104795",
           "code": "https://github.com/davidserra9/abair/",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T2",
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-32"
+          "id": "three-32",
+          "paperTitle": "Adaptive Blind All-in-One Image Restoration"
         },
         {
           "method": "MoCE-IR",
-          "venue": "CVPR'25",
+          "venue": "CVPR 2025",
           "params": "25M",
           "category": "All-in-One",
           "approach": "mixture-of-complexity-experts",
@@ -3518,11 +3565,12 @@
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-33"
+          "id": "three-33",
+          "paperTitle": "Complexity Experts are Task-Discriminative Learners for Any Image Restoration"
         },
         {
           "method": "MTAIR",
-          "venue": "arXiv'24",
+          "venue": "arXiv 2024",
           "params": "-",
           "category": "All-in-One",
           "approach": "Mamba-Transformer cross-dimensional",
@@ -3558,11 +3606,12 @@
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-34"
+          "id": "three-34",
+          "paperTitle": "Multi-dimensional Visual Prompt Enhanced Image Restoration via Mamba-Transformer Aggregation"
         },
         {
           "method": "DCPT_PromptIR",
-          "venue": "ICLR'25",
+          "venue": "ICLR 2025",
           "params": "35M",
           "category": "All-in-One",
           "approach": "learn to classify degradation",
@@ -3592,17 +3641,18 @@
               0.918
             ]
           },
-          "paper": "",
-          "code": "",
+          "paper": "https://arxiv.org/abs/2501.15510",
+          "code": "https://github.com/MILab-PKU/dcpt",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T2",
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-35"
+          "id": "three-35",
+          "paperTitle": "Universal Image Restoration Pre-training via Degradation Classification"
         },
         {
           "method": "RamIR",
-          "venue": "APPL INTELL'25",
+          "venue": "Applied Intelligence 2025",
           "params": "22M",
           "category": "All-in-One",
           "approach": "prompt-driven Mamba-based",
@@ -3638,11 +3688,12 @@
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-36"
+          "id": "three-36",
+          "paperTitle": "RamIR: Reasoning and action prompting with Mamba for all-in-one image restoration"
         },
         {
           "method": "Cat-AIR",
-          "venue": "arXiv'25",
+          "venue": "NeurIPS 2026",
           "params": "-",
           "category": "All-in-One",
           "approach": "content and task-aware framework",
@@ -3672,17 +3723,18 @@
               0.919
             ]
           },
-          "paper": "https://arxiv.org/abs/2601.10192",
+          "paper": "https://arxiv.org/abs/2503.17915",
           "code": "",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T2",
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-37"
+          "id": "three-37",
+          "paperTitle": "Learning Where and What to Restore for Composite Image Restoration"
         },
         {
           "method": "DSwinIR",
-          "venue": "arXiv'25",
+          "venue": "TPAMI 2026",
           "params": "24M",
           "category": "All-in-One",
           "approach": "deformable sliding window transformer",
@@ -3712,17 +3764,18 @@
               0.917
             ]
           },
-          "paper": "https://arxiv.org/abs/2406.18242",
-          "code": "https://github.com/Dongqi-Fan/ConStyle_v2",
+          "paper": "https://doi.org/10.1109/TPAMI.2025.3646016",
+          "code": "https://github.com/Aitical/DSwinIR",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T2",
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-38"
+          "id": "three-38",
+          "paperTitle": "DSwinIR: Rethinking Window-Based Attention for Image Restoration"
         },
         {
           "method": "CPL_PromptIR",
-          "venue": "arXiv'25",
+          "venue": "TPAMI 2026",
           "params": "36M",
           "category": "All-in-One",
           "approach": "contrastive prompt regularization",
@@ -3752,17 +3805,18 @@
               0.917
             ]
           },
-          "paper": "",
-          "code": "",
+          "paper": "https://doi.org/10.1109/TPAMI.2025.3642852",
+          "code": "https://github.com/Aitical/CPLIR",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T2",
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-39"
+          "id": "three-39",
+          "paperTitle": "Beyond Degradation Redundancy: Contrastive Prompt Learning for All-in-One Image Restoration"
         },
         {
           "method": "AnyIR",
-          "venue": "arXiv'25",
+          "venue": "TMLR 2026",
           "params": "6M",
           "category": "All-in-One",
           "approach": "local-global gated mechanism",
@@ -3798,11 +3852,12 @@
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-40"
+          "id": "three-40",
+          "paperTitle": "Any Image Restoration via Efficient Spatial-Frequency Degradation Adaptation"
         },
         {
           "method": "MIRAGE",
-          "venue": "arXiv'25",
+          "venue": "ICLR 2026",
           "params": "10M",
           "category": "All-in-One",
           "approach": "within the SPD manifold space",
@@ -3832,17 +3887,18 @@
               0.919
             ]
           },
-          "paper": "https://arxiv.org/abs/2310.12848",
-          "code": "",
+          "paper": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/cd1da8043ba5c1c144ab4e10a8de6e53-Abstract-Conference.html",
+          "code": "https://amazingren.github.io/MIRAGE/",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T2",
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-41"
+          "id": "three-41",
+          "paperTitle": "Efficient Degradation-agnostic Image Restoration via Channel-Wise Functional Decomposition and Manifold Regularization"
         },
         {
           "method": "BaryIR",
-          "venue": "arXiv'25",
+          "venue": "TPAMI 2026",
           "params": "-",
           "category": "All-in-One",
           "approach": "in continuous barycenter space",
@@ -3872,17 +3928,18 @@
               0.919
             ]
           },
-          "paper": "https://arxiv.org/abs/2602.23169",
+          "paper": "https://doi.org/10.1109/TPAMI.2026.3669121",
           "code": "https://github.com/xl-tang3/BaryIR",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T2",
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-42"
+          "id": "three-42",
+          "paperTitle": "Learning Continuous Wasserstein Barycenter Space for Generalized All-in-One Image Restoration"
         },
         {
           "method": "SIPL_PromptIR",
-          "venue": "arXiv'25",
+          "venue": "arXiv 2025",
           "params": "39M",
           "category": "All-in-One",
           "approach": "privilege learning",
@@ -3912,17 +3969,18 @@
               0.917
             ]
           },
-          "paper": "",
-          "code": "",
+          "paper": "https://arxiv.org/abs/2505.24207",
+          "code": "https://github.com/Aitical/SIPL",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T2",
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-43"
+          "id": "three-43",
+          "paperTitle": "Boosting All-in-One Image Restoration via Self-Improved Privilege Learning"
         },
         {
           "method": "TextPromptIR",
-          "venue": "arXiv'23",
+          "venue": "Engineering Applications of Artificial Intelligence 2025",
           "params": "124M+110M",
           "category": "All-in-One",
           "approach": "textual prompt for AiOIR",
@@ -3952,17 +4010,18 @@
               0.919
             ]
           },
-          "paper": "https://arxiv.org/abs/2312.06162",
+          "paper": "https://doi.org/10.1016/j.engappai.2025.110981",
           "code": "https://github.com/MoTong-AI-studio/TextPromptIR",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T2",
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-44"
+          "id": "three-44",
+          "paperTitle": "Textual Prompt Guided Image Restoration"
         },
         {
           "method": "InstructIR-3D",
-          "venue": "ECCV'24",
+          "venue": "ECCV 2024",
           "params": "16M+17M",
           "category": "All-in-One",
           "approach": "natural language prompts",
@@ -3998,11 +4057,12 @@
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-45"
+          "id": "three-45",
+          "paperTitle": "InstructIR: High-Quality Image Restoration Following Human Instructions"
         },
         {
           "method": "DA-CLIP_IR-SDE",
-          "venue": "ICLR'24",
+          "venue": "ICLR 2024",
           "params": "49M+125M",
           "category": "All-in-One",
           "approach": "degradation-aware vision-language model",
@@ -4032,17 +4092,18 @@
               0.747
             ]
           },
-          "paper": "",
-          "code": "",
+          "paper": "https://arxiv.org/abs/2310.01018",
+          "code": "https://github.com/Algolzw/daclip-uir",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T2",
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-46"
+          "id": "three-46",
+          "paperTitle": "Controlling Vision-Language Models for Universal Image Restoration"
         },
         {
           "method": "Perceive-IR",
-          "venue": "arXiv'24",
+          "venue": "TIP 2026",
           "params": "42M+86M",
           "category": "All-in-One",
           "approach": "prompt-based foundation model",
@@ -4072,17 +4133,18 @@
               0.915
             ]
           },
-          "paper": "https://arxiv.org/abs/2408.15994",
+          "paper": "https://doi.org/10.1109/TIP.2025.3566300",
           "code": "https://github.com/House-yuyu/Perceive-IR",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T2",
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-47"
+          "id": "three-47",
+          "paperTitle": "Perceive-IR: Learning to Perceive Degradation Better for All-in-One Image Restoration"
         },
         {
           "method": "VLU-Net",
-          "venue": "CVPR'25",
+          "venue": "CVPR 2025",
           "params": "35M+88M",
           "category": "All-in-One",
           "approach": "vision-language gradient descent-driven",
@@ -4112,17 +4174,18 @@
               0.919
             ]
           },
-          "paper": "https://arxiv.org/html/2410.15067v3#bib.bib153",
+          "paper": "https://openaccess.thecvf.com/content/CVPR2025/html/Zeng_Vision-Language_Gradient_Descent-driven_All-in-One_Deep_Unfolding_Networks_CVPR_2025_paper.html",
           "code": "",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T2",
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-48"
+          "id": "three-48",
+          "paperTitle": "Vision-Language Gradient Descent-driven All-in-One Deep Unfolding Networks"
         },
         {
           "method": "DFPIR",
-          "venue": "CVPR'25",
+          "venue": "CVPR 2025",
           "params": "31M+63M",
           "category": "All-in-One",
           "approach": "degradation-aware feature perturbation",
@@ -4152,13 +4215,14 @@
               0.919
             ]
           },
-          "paper": "https://arxiv.org/abs/2310.12848",
+          "paper": "https://openaccess.thecvf.com/content/CVPR2025/html/Tian_Degradation-Aware_Feature_Perturbation_for_All-in-One_Image_Restoration_CVPR_2025_paper.html",
           "code": "",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T2",
           "sourceLabel": "Survey · Table II",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "three-49"
+          "id": "three-49",
+          "paperTitle": "Degradation-Aware Feature Perturbation for All-in-One Image Restoration"
         },
         {
           "method": "ClusIR",
@@ -4198,7 +4262,8 @@
           "sourceLabel": "ClusIR · Table 1",
           "added": true,
           "note": "Base model; main Table 1 results, parameters from Table S2. The paper calls the denoising dataset CBSD68; the legacy survey calls it BSD68.",
-          "id": "three-50"
+          "id": "three-50",
+          "paperTitle": "ClusIR: Towards Cluster-Guided All-in-One Image Restoration"
         },
         {
           "method": "QuReC",
@@ -4238,7 +4303,8 @@
           "sourceLabel": "QuReC · Table 1",
           "added": true,
           "note": "Author-reported result from the original paper; not independently re-evaluated.",
-          "id": "three-51"
+          "id": "three-51",
+          "paperTitle": "QuReC: All-in-One Image Restoration with Query-Specific Guidance and Local-Global Response Calibration"
         },
         {
           "method": "DRNet",
@@ -4278,7 +4344,8 @@
           "sourceLabel": "DRNet · Table II",
           "added": true,
           "note": "Author-reported result from the original paper; not independently re-evaluated.",
-          "id": "three-52"
+          "id": "three-52",
+          "paperTitle": "DRNet: All-in-One Image Restoration via Prior-Guided Dynamic Reparameterization"
         },
         {
           "method": "SLER-IR",
@@ -4318,7 +4385,8 @@
           "sourceLabel": "SLER-IR · Table 1",
           "added": true,
           "note": "Total / active parameter count is not stated in the main comparison table; left unreported. Denoising is called CBSD68 in the original paper.",
-          "id": "three-53"
+          "id": "three-53",
+          "paperTitle": "SLER-IR: Spherical Layer-wise Expert Routing for All-in-One Image Restoration"
         }
       ],
       "metrics": [
@@ -4442,7 +4510,7 @@
         },
         {
           "method": "DRSformer",
-          "venue": "CVPR'23",
+          "venue": "CVPR 2023",
           "params": "34M",
           "category": "Single",
           "approach": "Specific",
@@ -4472,7 +4540,7 @@
               0.873
             ]
           },
-          "paper": "https://arxiv.org/html/2410.15067v3#bib.bib19",
+          "paper": "https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Learning_a_Sparse_Transformer_Network_for_Effective_Image_Deraining_CVPR_2023_paper.html",
           "code": "",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T3",
           "sourceLabel": "Survey · Table III",
@@ -4642,7 +4710,7 @@
         },
         {
           "method": "DGUNet",
-          "venue": "CVPR'22",
+          "venue": "CVPR 2022",
           "params": "17M",
           "category": "Multiple",
           "approach": "General",
@@ -4672,8 +4740,8 @@
               0.891
             ]
           },
-          "paper": "https://arxiv.org/abs/2307.07688",
-          "code": "https://github.com/YuanshuoCheng/RDM-IR",
+          "paper": "https://openaccess.thecvf.com/content/CVPR2022/html/Mou_Deep_Generalized_Unfolding_Networks_for_Image_Restoration_CVPR_2022_paper.html",
+          "code": "",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T3",
           "sourceLabel": "Survey · Table III",
           "added": false,
@@ -4682,7 +4750,7 @@
         },
         {
           "method": "Restormer",
-          "venue": "CVPR'22",
+          "venue": "CVPR 2022",
           "params": "26M",
           "category": "Multiple",
           "approach": "General",
@@ -4712,7 +4780,7 @@
               0.881
             ]
           },
-          "paper": "https://arxiv.org/html/2410.15067v3#bib.bib51",
+          "paper": "https://arxiv.org/abs/2111.09881",
           "code": "",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T3",
           "sourceLabel": "Survey · Table III",
@@ -4722,7 +4790,7 @@
         },
         {
           "method": "NAFNet",
-          "venue": "ECCV'22",
+          "venue": "ECCV 2022",
           "params": "17M",
           "category": "Multiple",
           "approach": "General",
@@ -4752,7 +4820,7 @@
               0.881
             ]
           },
-          "paper": "https://arxiv.org/abs/2503.10120",
+          "paper": "https://arxiv.org/abs/2204.04676",
           "code": "",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T3",
           "sourceLabel": "Survey · Table III",
@@ -4802,7 +4870,7 @@
         },
         {
           "method": "MambaIR",
-          "venue": "ECCV'24",
+          "venue": "ECCV 2024",
           "params": "27M",
           "category": "Multiple",
           "approach": "General",
@@ -4832,7 +4900,7 @@
               0.901
             ]
           },
-          "paper": "https://arxiv.org/pdf/2504.17732",
+          "paper": "https://arxiv.org/abs/2402.15648",
           "code": "",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T3",
           "sourceLabel": "Survey · Table III",
@@ -4842,7 +4910,7 @@
         },
         {
           "method": "DL",
-          "venue": "TPAMI'19",
+          "venue": "TPAMI 2019",
           "params": "2M",
           "category": "All-in-One",
           "approach": "parameterized image operator",
@@ -4878,11 +4946,12 @@
           "sourceLabel": "Survey · Table III",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "five-13"
+          "id": "five-13",
+          "paperTitle": "A General Decoupled Learning Framework for Parameterized Image Operators"
         },
         {
           "method": "Transweather",
-          "venue": "CVPR'22",
+          "venue": "CVPR 2022",
           "params": "38M",
           "category": "All-in-One",
           "approach": "weather type queries",
@@ -4918,11 +4987,12 @@
           "sourceLabel": "Survey · Table III",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "five-14"
+          "id": "five-14",
+          "paperTitle": "TransWeather: Transformer-based Restoration of Images Degraded by Adverse Weather Conditions"
         },
         {
           "method": "TAPE",
-          "venue": "ECCV'22",
+          "venue": "ECCV 2022",
           "params": "1M",
           "category": "All-in-One",
           "approach": "task-agnostic prior",
@@ -4952,17 +5022,18 @@
               0.801
             ]
           },
-          "paper": "https://arxiv.org/abs/2203.06074",
+          "paper": "https://link.springer.com/chapter/10.1007/978-3-031-19797-0_26",
           "code": "",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T3",
           "sourceLabel": "Survey · Table III",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "five-15"
+          "id": "five-15",
+          "paperTitle": "TAPE: Task-Agnostic Prior Embedding for Image Restoration"
         },
         {
           "method": "AirNet",
-          "venue": "CVPR'22",
+          "venue": "CVPR 2022",
           "params": "9M",
           "category": "All-in-One",
           "approach": "contrastive-based & degradation-guided",
@@ -4998,11 +5069,12 @@
           "sourceLabel": "Survey · Table III",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "five-16"
+          "id": "five-16",
+          "paperTitle": "All-In-One Image Restoration for Unknown Corruption"
         },
         {
           "method": "IDR",
-          "venue": "CVPR'23",
+          "venue": "CVPR 2023",
           "params": "15M",
           "category": "All-in-One",
           "approach": "ingredient-oriented learning",
@@ -5038,11 +5110,12 @@
           "sourceLabel": "Survey · Table III",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "five-17"
+          "id": "five-17",
+          "paperTitle": "Ingredient-oriented Multi-Degradation Learning for Image Restoration"
         },
         {
           "method": "PIP_Restormer",
-          "venue": "arXiv'23",
+          "venue": "PR 2026",
           "params": "27M",
           "category": "All-in-One",
           "approach": "prompt-in-prompt learning",
@@ -5072,17 +5145,18 @@
               0.901
             ]
           },
-          "paper": "",
-          "code": "",
+          "paper": "https://doi.org/10.1016/j.patcog.2026.114401",
+          "code": "https://github.com/longzilicart/pip_universal",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T3",
           "sourceLabel": "Survey · Table III",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "five-18"
+          "id": "five-18",
+          "paperTitle": "Prompt-in-Prompt Learning for All-in-One Image Restoration"
         },
         {
           "method": "PromptIR",
-          "venue": "NeurIPS'23",
+          "venue": "NeurIPS 2023",
           "params": "36M",
           "category": "All-in-One",
           "approach": "prompt for AiOIR",
@@ -5118,11 +5192,12 @@
           "sourceLabel": "Survey · Table III",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "five-19"
+          "id": "five-19",
+          "paperTitle": "PromptIR: Prompting for All-in-One Blind Image Restoration"
         },
         {
           "method": "DASL_MPRNet",
-          "venue": "arXiv'23",
+          "venue": "arXiv 2023",
           "params": "15M",
           "category": "All-in-One",
           "approach": "decomposition ascribed synergistic",
@@ -5152,17 +5227,18 @@
               0.893
             ]
           },
-          "paper": "",
+          "paper": "https://arxiv.org/abs/2308.00759",
           "code": "",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T3",
           "sourceLabel": "Survey · Table III",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "five-20"
+          "id": "five-20",
+          "paperTitle": "Decomposition Ascribed Synergistic Learning for Unified Image Restoration"
         },
         {
           "method": "Gridformer",
-          "venue": "IJCV'23",
+          "venue": "IJCV 2024",
           "params": "34M",
           "category": "All-in-One",
           "approach": "transformer with grid structure",
@@ -5198,11 +5274,12 @@
           "sourceLabel": "Survey · Table III",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "five-21"
+          "id": "five-21",
+          "paperTitle": "GridFormer: Residual Dense Transformer with Grid Structure for Image Restoration in Adverse Weather Conditions"
         },
         {
           "method": "Art_PromptIR",
-          "venue": "ACM MM'24",
+          "venue": "ACM MM 2024",
           "params": "36M",
           "category": "All-in-One",
           "approach": "via multi-task collaboration",
@@ -5232,17 +5309,18 @@
               0.846
             ]
           },
-          "paper": "",
-          "code": "",
+          "paper": "https://openreview.net/pdf?id=aMgbnUqSHv",
+          "code": "https://github.com/Aitical/Art",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T3",
           "sourceLabel": "Survey · Table III",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "five-22"
+          "id": "five-22",
+          "paperTitle": "Harmony in Diversity: Improving All-in-One Image Restoration via Multi-Task Collaboration"
         },
         {
           "method": "DaAIR",
-          "venue": "arXiv'24",
+          "venue": "arXiv 2024",
           "params": "6M",
           "category": "All-in-One",
           "approach": "efficient degradation-aware",
@@ -5278,11 +5356,12 @@
           "sourceLabel": "Survey · Table III",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "five-23"
+          "id": "five-23",
+          "paperTitle": "Efficient Degradation-aware Any Image Restoration"
         },
         {
           "method": "AnyIR",
-          "venue": "arXiv'24",
+          "venue": "arXiv 2024",
           "params": "6M",
           "category": "All-in-One",
           "approach": "local-global gated intertwining",
@@ -5312,17 +5391,18 @@
               0.901
             ]
           },
-          "paper": "https://openreview.net/pdf?id=RObgCpdDqr",
+          "paper": "https://arxiv.org/abs/2407.13372",
           "code": "https://github.com/Amazingren/AnyIR",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T3",
           "sourceLabel": "Survey · Table III",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "five-24"
+          "id": "five-24",
+          "paperTitle": "Any Image Restoration with Efficient Automatic Degradation Adaptation"
         },
         {
           "method": "MEASNet",
-          "venue": "arXiv'24",
+          "venue": "TCSVT 2025",
           "params": "31M",
           "category": "All-in-One",
           "approach": "multi-expert adaptive selection",
@@ -5352,17 +5432,18 @@
               0.917
             ]
           },
-          "paper": "https://arxiv.org/abs/2407.19139",
+          "paper": "https://doi.org/10.1109/TCSVT.2024.3516074",
           "code": "https://github.com/zhoushen1/MEASNet",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T3",
           "sourceLabel": "Survey · Table III",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "five-25"
+          "id": "five-25",
+          "paperTitle": "Multi-Expert Adaptive Selection: Task-Balancing for All-in-One Image Restoration"
         },
         {
           "method": "Hair",
-          "venue": "arXiv'24",
+          "venue": "arXiv 2024",
           "params": "29M",
           "category": "All-in-One",
           "approach": "hypernetworks-based",
@@ -5398,11 +5479,12 @@
           "sourceLabel": "Survey · Table III",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "five-26"
+          "id": "five-26",
+          "paperTitle": "HAIR: Hypernetworks-based All-in-One Image Restoration"
         },
         {
           "method": "TUR_Transweather",
-          "venue": "AAAI'25",
+          "venue": "AAAI 2025",
           "params": "38M",
           "category": "All-in-One",
           "approach": "a novel loss function",
@@ -5432,17 +5514,18 @@
               0.888
             ]
           },
-          "paper": "",
-          "code": "",
+          "paper": "https://openreview.net/forum?id=kx7eyKgEGz",
+          "code": "https://github.com/Aitical/TUR",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T3",
           "sourceLabel": "Survey · Table III",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "five-27"
+          "id": "five-27",
+          "paperTitle": "Debiased All-in-one Image Restoration with Task Uncertainty Regularization"
         },
         {
           "method": "AdaIR",
-          "venue": "ICLR'25",
+          "venue": "ICLR 2025",
           "params": "29M",
           "category": "All-in-One",
           "approach": "frequency mining and modulation",
@@ -5478,11 +5561,12 @@
           "sourceLabel": "Survey · Table III",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "five-28"
+          "id": "five-28",
+          "paperTitle": "AdaIR: Adaptive All-in-One Image Restoration via Frequency Mining and Modulation"
         },
         {
           "method": "DA-RCOT",
-          "venue": "TPAMI'25",
+          "venue": "TPAMI 2025",
           "params": "50M",
           "category": "All-in-One",
           "approach": "as an optimal transport problem",
@@ -5518,11 +5602,12 @@
           "sourceLabel": "Survey · Table III",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "five-29"
+          "id": "five-29",
+          "paperTitle": "Degradation-Aware Residual-Conditioned Optimal Transport for Unified Image Restoration"
         },
         {
           "method": "ABAIR",
-          "venue": "arXiv'24",
+          "venue": "CVIU 2026",
           "params": "41M",
           "category": "All-in-One",
           "approach": "a three-phase approach",
@@ -5552,17 +5637,18 @@
               0.921
             ]
           },
-          "paper": "https://www.sciencedirect.com/science/article/pii/S1077314226001621",
+          "paper": "https://doi.org/10.1016/j.cviu.2026.104795",
           "code": "https://github.com/davidserra9/abair/",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T3",
           "sourceLabel": "Survey · Table III",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "five-30"
+          "id": "five-30",
+          "paperTitle": "Adaptive Blind All-in-One Image Restoration"
         },
         {
           "method": "MoCE-IR",
-          "venue": "CVPR'25",
+          "venue": "CVPR 2025",
           "params": "25M",
           "category": "All-in-One",
           "approach": "mixture-of-complexity-experts framework",
@@ -5598,11 +5684,12 @@
           "sourceLabel": "Survey · Table III",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "five-31"
+          "id": "five-31",
+          "paperTitle": "Complexity Experts are Task-Discriminative Learners for Any Image Restoration"
         },
         {
           "method": "DCPT_PromptIR",
-          "venue": "ICLR'25",
+          "venue": "ICLR 2025",
           "params": "35M",
           "category": "All-in-One",
           "approach": "learn to classify degradation",
@@ -5632,17 +5719,18 @@
               0.911
             ]
           },
-          "paper": "",
-          "code": "",
+          "paper": "https://arxiv.org/abs/2501.15510",
+          "code": "https://github.com/MILab-PKU/dcpt",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T3",
           "sourceLabel": "Survey · Table III",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "five-32"
+          "id": "five-32",
+          "paperTitle": "Universal Image Restoration Pre-training via Degradation Classification"
         },
         {
           "method": "RamIR",
-          "venue": "APPL INTELL'25",
+          "venue": "Applied Intelligence 2025",
           "params": "22M",
           "category": "All-in-One",
           "approach": "prompt-driven Mamba-based",
@@ -5678,11 +5766,12 @@
           "sourceLabel": "Survey · Table III",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "five-33"
+          "id": "five-33",
+          "paperTitle": "RamIR: Reasoning and action prompting with Mamba for all-in-one image restoration"
         },
         {
           "method": "D3Net",
-          "venue": "arXiv'25",
+          "venue": "arXiv 2025",
           "params": "38M",
           "category": "All-in-One",
           "approach": "cross-domain and dynamic decomposition",
@@ -5712,17 +5801,18 @@
               0.901
             ]
           },
-          "paper": "https://arxiv.org/abs/2307.07688",
-          "code": "https://github.com/YuanshuoCheng/RDM-IR",
+          "paper": "https://arxiv.org/abs/2502.19068",
+          "code": "",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T3",
           "sourceLabel": "Survey · Table III",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "five-34"
+          "id": "five-34",
+          "paperTitle": "Dynamic Degradation Decomposition Network for All-in-One Image Restoration"
         },
         {
           "method": "Cat-AIR",
-          "venue": "arXiv'25",
+          "venue": "NeurIPS 2026",
           "params": "-",
           "category": "All-in-One",
           "approach": "content and task-aware framework",
@@ -5752,17 +5842,18 @@
               0.915
             ]
           },
-          "paper": "https://arxiv.org/abs/2601.10192",
+          "paper": "https://arxiv.org/abs/2503.17915",
           "code": "",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T3",
           "sourceLabel": "Survey · Table III",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "five-35"
+          "id": "five-35",
+          "paperTitle": "Learning Where and What to Restore for Composite Image Restoration"
         },
         {
           "method": "DSwinIR",
-          "venue": "arXiv'25",
+          "venue": "TPAMI 2026",
           "params": "24M",
           "category": "All-in-One",
           "approach": "deformable sliding window transformer",
@@ -5792,17 +5883,18 @@
               0.913
             ]
           },
-          "paper": "https://arxiv.org/abs/2406.18242",
-          "code": "https://github.com/Dongqi-Fan/ConStyle_v2",
+          "paper": "https://doi.org/10.1109/TPAMI.2025.3646016",
+          "code": "https://github.com/Aitical/DSwinIR",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T3",
           "sourceLabel": "Survey · Table III",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "five-36"
+          "id": "five-36",
+          "paperTitle": "DSwinIR: Rethinking Window-Based Attention for Image Restoration"
         },
         {
           "method": "CPL_PromptIR",
-          "venue": "arXiv'25",
+          "venue": "TPAMI 2026",
           "params": "36M",
           "category": "All-in-One",
           "approach": "contrastive prompt regularization",
@@ -5832,17 +5924,18 @@
               0.915
             ]
           },
-          "paper": "",
-          "code": "",
+          "paper": "https://doi.org/10.1109/TPAMI.2025.3642852",
+          "code": "https://github.com/Aitical/CPLIR",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T3",
           "sourceLabel": "Survey · Table III",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "five-37"
+          "id": "five-37",
+          "paperTitle": "Beyond Degradation Redundancy: Contrastive Prompt Learning for All-in-One Image Restoration"
         },
         {
           "method": "AnyIR",
-          "venue": "arXiv'25",
+          "venue": "TMLR 2026",
           "params": "6M",
           "category": "All-in-One",
           "approach": "local-global gated mechanism",
@@ -5878,11 +5971,12 @@
           "sourceLabel": "Survey · Table III",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "five-38"
+          "id": "five-38",
+          "paperTitle": "Any Image Restoration via Efficient Spatial-Frequency Degradation Adaptation"
         },
         {
           "method": "MIRAGE",
-          "venue": "arXiv'25",
+          "venue": "ICLR 2026",
           "params": "10M",
           "category": "All-in-One",
           "approach": "within the SPD manifold space",
@@ -5912,17 +6006,18 @@
               0.914
             ]
           },
-          "paper": "https://arxiv.org/abs/2310.12848",
-          "code": "",
+          "paper": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/cd1da8043ba5c1c144ab4e10a8de6e53-Abstract-Conference.html",
+          "code": "https://amazingren.github.io/MIRAGE/",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T3",
           "sourceLabel": "Survey · Table III",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "five-39"
+          "id": "five-39",
+          "paperTitle": "Efficient Degradation-agnostic Image Restoration via Channel-Wise Functional Decomposition and Manifold Regularization"
         },
         {
           "method": "BaryIR",
-          "venue": "arXiv'25",
+          "venue": "TPAMI 2026",
           "params": "-",
           "category": "All-in-One",
           "approach": "in continuous barycenter space",
@@ -5952,17 +6047,18 @@
               0.918
             ]
           },
-          "paper": "https://arxiv.org/abs/2602.23169",
+          "paper": "https://doi.org/10.1109/TPAMI.2026.3669121",
           "code": "https://github.com/xl-tang3/BaryIR",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T3",
           "sourceLabel": "Survey · Table III",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "five-40"
+          "id": "five-40",
+          "paperTitle": "Learning Continuous Wasserstein Barycenter Space for Generalized All-in-One Image Restoration"
         },
         {
           "method": "InstructIR-5D",
-          "venue": "ECCV'24",
+          "venue": "ECCV 2024",
           "params": "16M+17M",
           "category": "All-in-One",
           "approach": "natural language prompts",
@@ -5999,11 +6095,12 @@
           "added": false,
           "note": "Corrected swapped dehazing / deraining columns against the original paper, Table 2. Parameter notation remains the survey’s image + text convention.",
           "corrected": true,
-          "id": "five-41"
+          "id": "five-41",
+          "paperTitle": "InstructIR: High-Quality Image Restoration Following Human Instructions"
         },
         {
           "method": "Perceive-IR",
-          "venue": "TIP'25",
+          "venue": "TIP 2026",
           "params": "42M+86M",
           "category": "All-in-One",
           "approach": "quality-aware degradation",
@@ -6033,17 +6130,18 @@
               0.909
             ]
           },
-          "paper": "https://arxiv.org/abs/2408.15994",
+          "paper": "https://doi.org/10.1109/TIP.2025.3566300",
           "code": "https://github.com/House-yuyu/Perceive-IR",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T3",
           "sourceLabel": "Survey · Table III",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "five-42"
+          "id": "five-42",
+          "paperTitle": "Perceive-IR: Learning to Perceive Degradation Better for All-in-One Image Restoration"
         },
         {
           "method": "VLU-Net",
-          "venue": "CVPR'25",
+          "venue": "CVPR 2025",
           "params": "35M+88M",
           "category": "All-in-One",
           "approach": "vision-language gradient descent-driven",
@@ -6073,17 +6171,18 @@
               0.905
             ]
           },
-          "paper": "https://arxiv.org/html/2410.15067v3#bib.bib153",
+          "paper": "https://openaccess.thecvf.com/content/CVPR2025/html/Zeng_Vision-Language_Gradient_Descent-driven_All-in-One_Deep_Unfolding_Networks_CVPR_2025_paper.html",
           "code": "",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T3",
           "sourceLabel": "Survey · Table III",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "five-43"
+          "id": "five-43",
+          "paperTitle": "Vision-Language Gradient Descent-driven All-in-One Deep Unfolding Networks"
         },
         {
           "method": "DFPIR",
-          "venue": "CVPR'25",
+          "venue": "CVPR 2025",
           "params": "31M+63M",
           "category": "All-in-One",
           "approach": "degradation-aware feature perturbation",
@@ -6113,17 +6212,18 @@
               0.914
             ]
           },
-          "paper": "https://arxiv.org/abs/2310.12848",
+          "paper": "https://openaccess.thecvf.com/content/CVPR2025/html/Tian_Degradation-Aware_Feature_Perturbation_for_All-in-One_Image_Restoration_CVPR_2025_paper.html",
           "code": "",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T3",
           "sourceLabel": "Survey · Table III",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "five-44"
+          "id": "five-44",
+          "paperTitle": "Degradation-Aware Feature Perturbation for All-in-One Image Restoration"
         },
         {
           "method": "CyclicPrompt",
-          "venue": "arXiv'25",
+          "venue": "TIP 2025",
           "params": "30M+486M",
           "category": "All-in-One",
           "approach": "cyclic prompt-driven universal framework",
@@ -6159,7 +6259,8 @@
           "sourceLabel": "Survey · Table III",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "five-45"
+          "id": "five-45",
+          "paperTitle": "Prompt to Restore, Restore to Prompt: Cyclic Prompting for Universal Adverse Weather Removal"
         },
         {
           "method": "ClusIR",
@@ -6199,7 +6300,8 @@
           "sourceLabel": "ClusIR · Table 2",
           "added": true,
           "note": "Author-reported result from the original paper; not independently re-evaluated.",
-          "id": "five-46"
+          "id": "five-46",
+          "paperTitle": "ClusIR: Towards Cluster-Guided All-in-One Image Restoration"
         },
         {
           "method": "QuReC",
@@ -6239,7 +6341,8 @@
           "sourceLabel": "QuReC · Table 2",
           "added": true,
           "note": "Author-reported result from the original paper; not independently re-evaluated.",
-          "id": "five-47"
+          "id": "five-47",
+          "paperTitle": "QuReC: All-in-One Image Restoration with Query-Specific Guidance and Local-Global Response Calibration"
         },
         {
           "method": "DRNet",
@@ -6279,7 +6382,8 @@
           "sourceLabel": "DRNet · Table I",
           "added": true,
           "note": "Author-reported result from the original paper; not independently re-evaluated.",
-          "id": "five-48"
+          "id": "five-48",
+          "paperTitle": "DRNet: All-in-One Image Restoration via Prior-Guided Dynamic Reparameterization"
         },
         {
           "method": "SLER-IR",
@@ -6319,7 +6423,8 @@
           "sourceLabel": "SLER-IR · Table 2",
           "added": true,
           "note": "Author-reported result from the original paper; not independently re-evaluated.",
-          "id": "five-49"
+          "id": "five-49",
+          "paperTitle": "SLER-IR: Spherical Layer-wise Expert Routing for All-in-One Image Restoration"
         }
       ],
       "metrics": [
@@ -6387,7 +6492,7 @@
         },
         {
           "method": "MPRNet",
-          "venue": "",
+          "venue": "CVPR 2021",
           "params": "16M",
           "category": "",
           "approach": "",
@@ -6409,7 +6514,7 @@
               0.9
             ]
           },
-          "paper": "https://link.springer.com/article/10.1007/s11263-026-02792-5",
+          "paper": "https://openaccess.thecvf.com/content/CVPR2021/html/Zamir_Multi-Stage_Progressive_Image_Restoration_CVPR_2021_paper.html",
           "code": "",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T4",
           "sourceLabel": "Survey · Table IV",
@@ -6419,7 +6524,7 @@
         },
         {
           "method": "Restormer",
-          "venue": "",
+          "venue": "CVPR 2022",
           "params": "26M",
           "category": "",
           "approach": "",
@@ -6441,7 +6546,7 @@
               0.902
             ]
           },
-          "paper": "https://arxiv.org/html/2410.15067v3#bib.bib51",
+          "paper": "https://arxiv.org/abs/2111.09881",
           "code": "",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T4",
           "sourceLabel": "Survey · Table IV",
@@ -6451,7 +6556,7 @@
         },
         {
           "method": "All-in-One",
-          "venue": "",
+          "venue": "CVPR 2020",
           "params": "44M",
           "category": "",
           "approach": "",
@@ -6479,11 +6584,12 @@
           "sourceLabel": "Survey · Table IV",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "allweather-4"
+          "id": "allweather-4",
+          "paperTitle": "All in One Bad Weather Removal Using Architectural Search"
         },
         {
           "method": "Transweather",
-          "venue": "",
+          "venue": "CVPR 2022",
           "params": "38M",
           "category": "",
           "approach": "",
@@ -6511,11 +6617,12 @@
           "sourceLabel": "Survey · Table IV",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "allweather-5"
+          "id": "allweather-5",
+          "paperTitle": "TransWeather: Transformer-based Restoration of Images Degraded by Adverse Weather Conditions"
         },
         {
           "method": "AirNet",
-          "venue": "",
+          "venue": "CVPR 2022",
           "params": "9M",
           "category": "",
           "approach": "",
@@ -6543,11 +6650,12 @@
           "sourceLabel": "Survey · Table IV",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "allweather-6"
+          "id": "allweather-6",
+          "paperTitle": "All-In-One Image Restoration for Unknown Corruption"
         },
         {
           "method": "WGWS-Net",
-          "venue": "",
+          "venue": "CVPR 2023",
           "params": "6M",
           "category": "",
           "approach": "",
@@ -6575,11 +6683,12 @@
           "sourceLabel": "Survey · Table IV",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "allweather-7"
+          "id": "allweather-7",
+          "paperTitle": "Learning Weather-General and Weather-Specific Features for Image Restoration Under Multiple Adverse Weather Conditions"
         },
         {
           "method": "WeatherDiff",
-          "venue": "",
+          "venue": "TPAMI 2023",
           "params": "83M",
           "category": "",
           "approach": "",
@@ -6607,11 +6716,12 @@
           "sourceLabel": "Survey · Table IV",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "allweather-8"
+          "id": "allweather-8",
+          "paperTitle": "Restoring Vision in Adverse Weather Conditions with Patch-Based Denoising Diffusion Models"
         },
         {
           "method": "TKMANet",
-          "venue": "",
+          "venue": "CVPR 2022",
           "params": "29M",
           "category": "",
           "approach": "",
@@ -6639,11 +6749,12 @@
           "sourceLabel": "Survey · Table IV",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "allweather-9"
+          "id": "allweather-9",
+          "paperTitle": "Learning Multiple Adverse Weather Removal via Two-stage Knowledge Learning and Multi-contrastive Regularization: Toward a Unified Model"
         },
         {
           "method": "UtilityIR",
-          "venue": "",
+          "venue": "IEEE Access 2025",
           "params": "26M",
           "category": "",
           "approach": "",
@@ -6671,11 +6782,12 @@
           "sourceLabel": "Survey · Table IV",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "allweather-10"
+          "id": "allweather-10",
+          "paperTitle": "Always Clear Days: Degradation Type and Severity Aware All-In-One Adverse Weather Removal"
         },
         {
           "method": "AWRCP",
-          "venue": "",
+          "venue": "ICCV 2023",
           "params": "-",
           "category": "",
           "approach": "",
@@ -6703,11 +6815,12 @@
           "sourceLabel": "Survey · Table IV",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "allweather-11"
+          "id": "allweather-11",
+          "paperTitle": "Adverse Weather Removal with Codebook Priors"
         },
         {
           "method": "Histoformer",
-          "venue": "",
+          "venue": "ECCV 2024",
           "params": "17M",
           "category": "",
           "approach": "",
@@ -6735,11 +6848,12 @@
           "sourceLabel": "Survey · Table IV",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "allweather-12"
+          "id": "allweather-12",
+          "paperTitle": "Restoring Images in Adverse Weather Conditions via Histogram Transformer"
         },
         {
           "method": "LoRA-IR",
-          "venue": "",
+          "venue": "arXiv 2024",
           "params": "-",
           "category": "",
           "approach": "",
@@ -6767,11 +6881,12 @@
           "sourceLabel": "Survey · Table IV",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "allweather-13"
+          "id": "allweather-13",
+          "paperTitle": "LoRA-IR: Taming Low-Rank Experts for Efficient All-in-One Image Restoration"
         },
         {
           "method": "T3-DiffWeather",
-          "venue": "",
+          "venue": "ECCV 2024",
           "params": "69M+25M",
           "category": "",
           "approach": "",
@@ -6793,17 +6908,18 @@
               0.938
             ]
           },
-          "paper": "",
-          "code": "",
+          "paper": "https://arxiv.org/abs/2409.15739",
+          "code": "https://github.com/Ephemeral182/ECCV24_T3-DiffWeather",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T4",
           "sourceLabel": "Survey · Table IV",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "allweather-14"
+          "id": "allweather-14",
+          "paperTitle": "Teaching Tailored to Talent: Adverse Weather Restoration via Prompt Pool and Depth-Anything Constraint"
         },
         {
           "method": "MWFormer",
-          "venue": "",
+          "venue": "TIP 2024",
           "params": "170M",
           "category": "",
           "approach": "",
@@ -6831,11 +6947,12 @@
           "sourceLabel": "Survey · Table IV",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "allweather-15"
+          "id": "allweather-15",
+          "paperTitle": "MWFormer: Multi-Weather Image Restoration Using Degradation-Aware Transformers"
         },
         {
           "method": "TUR_Transweather",
-          "venue": "",
+          "venue": "AAAI 2025",
           "params": "38M",
           "category": "",
           "approach": "",
@@ -6857,17 +6974,18 @@
               0.916
             ]
           },
-          "paper": "",
-          "code": "",
+          "paper": "https://openreview.net/forum?id=kx7eyKgEGz",
+          "code": "https://github.com/Aitical/TUR",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T4",
           "sourceLabel": "Survey · Table IV",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "allweather-16"
+          "id": "allweather-16",
+          "paperTitle": "Debiased All-in-one Image Restoration with Task Uncertainty Regularization"
         },
         {
           "method": "CyclicPrompt",
-          "venue": "",
+          "venue": "TIP 2025",
           "params": "30M+486M",
           "category": "",
           "approach": "",
@@ -6895,11 +7013,12 @@
           "sourceLabel": "Survey · Table IV",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "allweather-17"
+          "id": "allweather-17",
+          "paperTitle": "Prompt to Restore, Restore to Prompt: Cyclic Prompting for Universal Adverse Weather Removal"
         },
         {
           "method": "DSwinIR",
-          "venue": "",
+          "venue": "TPAMI 2026",
           "params": "24M",
           "category": "",
           "approach": "",
@@ -6921,17 +7040,18 @@
               0.943
             ]
           },
-          "paper": "https://arxiv.org/abs/2406.18242",
-          "code": "https://github.com/Dongqi-Fan/ConStyle_v2",
+          "paper": "https://doi.org/10.1109/TPAMI.2025.3646016",
+          "code": "https://github.com/Aitical/DSwinIR",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T4",
           "sourceLabel": "Survey · Table IV",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "allweather-18"
+          "id": "allweather-18",
+          "paperTitle": "DSwinIR: Rethinking Window-Based Attention for Image Restoration"
         },
         {
           "method": "DA2Diff",
-          "venue": "",
+          "venue": "arXiv 2025",
           "params": "-",
           "category": "",
           "approach": "",
@@ -6959,11 +7079,12 @@
           "sourceLabel": "Survey · Table IV",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "allweather-19"
+          "id": "allweather-19",
+          "paperTitle": "DA2Diff: Exploring Degradation-aware Adaptive Diffusion Priors for All-in-One Weather Restoration"
         },
         {
           "method": "HOGformer",
-          "venue": "",
+          "venue": "AAAI 2026",
           "params": "17M",
           "category": "",
           "approach": "",
@@ -6986,16 +7107,17 @@
             ]
           },
           "paper": "https://arxiv.org/abs/2504.09377",
-          "code": "",
+          "code": "https://github.com/Fire-friend/HOGformer",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T4",
           "sourceLabel": "Survey · Table IV",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "allweather-20"
+          "id": "allweather-20",
+          "paperTitle": "Gradient as Conditions: Rethinking HOG for All-in-one Image Restoration"
         },
         {
           "method": "CPL_PromptIR",
-          "venue": "",
+          "venue": "TPAMI 2026",
           "params": "36M",
           "category": "",
           "approach": "",
@@ -7017,17 +7139,18 @@
               0.938
             ]
           },
-          "paper": "",
-          "code": "",
+          "paper": "https://doi.org/10.1109/TPAMI.2025.3642852",
+          "code": "https://github.com/Aitical/CPLIR",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T4",
           "sourceLabel": "Survey · Table IV",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "allweather-21"
+          "id": "allweather-21",
+          "paperTitle": "Beyond Degradation Redundancy: Contrastive Prompt Learning for All-in-One Image Restoration"
         },
         {
           "method": "MODEM",
-          "venue": "",
+          "venue": "NeurIPS 2025",
           "params": "20M",
           "category": "",
           "approach": "",
@@ -7055,7 +7178,8 @@
           "sourceLabel": "Survey · Table IV",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "allweather-22"
+          "id": "allweather-22",
+          "paperTitle": "MODEM: A Morton-Order Degradation Estimation Mechanism for Adverse Weather Image Recovery"
         },
         {
           "method": "DCMPC-Net",
@@ -7087,7 +7211,8 @@
           "sourceLabel": "DCMPC-Net · Table I",
           "added": true,
           "note": "Three-dataset arithmetic mean computed here from Snow100K-L, Outdoor-Rain and RainDrop-A; the original four-dataset mean also includes Snow100K-S and is not used. *37.60M is restoration-stage parameters only; excludes the vision-language / text encoders (Table XI). Training uses 18,069 mixed-weather images.",
-          "id": "allweather-23"
+          "id": "allweather-23",
+          "paperTitle": "Degradation-Aware Prompt Learning with Cross-Modal Compensation for Adverse Weather Removal"
         },
         {
           "method": "WeatherRemover",
@@ -7119,7 +7244,8 @@
           "sourceLabel": "WeatherRemover · Tables I–III",
           "added": true,
           "note": "Uses the Multi Weather rows in Tables I–III, not the higher single-weather results. Three-dataset arithmetic mean computed here. Training mixture: 9,000 snow + 1,069 raindrop + 9,000 outdoor-rain images.",
-          "id": "allweather-24"
+          "id": "allweather-24",
+          "paperTitle": "WeatherRemover: All-in-one Adverse Weather Removal with Multi-scale Feature Map Compression"
         }
       ],
       "metrics": [
@@ -7169,7 +7295,7 @@
       "rows": [
         {
           "method": "NAFNet",
-          "venue": "",
+          "venue": "ECCV 2022",
           "params": "17M",
           "category": "",
           "approach": "",
@@ -7191,7 +7317,7 @@
               0.811
             ]
           },
-          "paper": "https://arxiv.org/abs/2503.10120",
+          "paper": "https://arxiv.org/abs/2204.04676",
           "code": "",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T5",
           "sourceLabel": "Survey · Table V",
@@ -7235,7 +7361,7 @@
         },
         {
           "method": "Restormer",
-          "venue": "",
+          "venue": "CVPR 2022",
           "params": "26M",
           "category": "",
           "approach": "",
@@ -7257,7 +7383,7 @@
               0.812
             ]
           },
-          "paper": "https://arxiv.org/html/2410.15067v3#bib.bib51",
+          "paper": "https://arxiv.org/abs/2111.09881",
           "code": "",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T5",
           "sourceLabel": "Survey · Table V",
@@ -7268,7 +7394,7 @@
         },
         {
           "method": "MPRNet",
-          "venue": "",
+          "venue": "CVPR 2021",
           "params": "16M",
           "category": "",
           "approach": "",
@@ -7290,7 +7416,7 @@
               0.785
             ]
           },
-          "paper": "https://link.springer.com/article/10.1007/s11263-026-02792-5",
+          "paper": "https://openaccess.thecvf.com/content/CVPR2021/html/Zamir_Multi-Stage_Progressive_Image_Restoration_CVPR_2021_paper.html",
           "code": "",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T5",
           "sourceLabel": "Survey · Table V",
@@ -7301,7 +7427,7 @@
         },
         {
           "method": "Transweather",
-          "venue": "",
+          "venue": "CVPR 2022",
           "params": "38M",
           "category": "",
           "approach": "",
@@ -7330,11 +7456,12 @@
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
           "track": "weatherstream",
-          "id": "realworld-5"
+          "id": "realworld-5",
+          "paperTitle": "TransWeather: Transformer-based Restoration of Images Degraded by Adverse Weather Conditions"
         },
         {
           "method": "AirNet",
-          "venue": "",
+          "venue": "CVPR 2022",
           "params": "9M",
           "category": "",
           "approach": "",
@@ -7363,11 +7490,12 @@
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
           "track": "weatherstream",
-          "id": "realworld-6"
+          "id": "realworld-6",
+          "paperTitle": "All-In-One Image Restoration for Unknown Corruption"
         },
         {
           "method": "TKMANet",
-          "venue": "",
+          "venue": "CVPR 2022",
           "params": "29M",
           "category": "",
           "approach": "",
@@ -7396,11 +7524,12 @@
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
           "track": "weatherstream",
-          "id": "realworld-7"
+          "id": "realworld-7",
+          "paperTitle": "Learning Multiple Adverse Weather Removal via Two-stage Knowledge Learning and Multi-contrastive Regularization: Toward a Unified Model"
         },
         {
           "method": "WGWS-Net",
-          "venue": "",
+          "venue": "CVPR 2023",
           "params": "6M",
           "category": "",
           "approach": "",
@@ -7429,11 +7558,12 @@
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
           "track": "weatherstream",
-          "id": "realworld-8"
+          "id": "realworld-8",
+          "paperTitle": "Learning Weather-General and Weather-Specific Features for Image Restoration Under Multiple Adverse Weather Conditions"
         },
         {
           "method": "TKMANet",
-          "venue": "",
+          "venue": "CVPR 2022",
           "params": "29M",
           "category": "",
           "approach": "",
@@ -7462,11 +7592,12 @@
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
           "track": "real-world",
-          "id": "realworld-9"
+          "id": "realworld-9",
+          "paperTitle": "Learning Multiple Adverse Weather Removal via Two-stage Knowledge Learning and Multi-contrastive Regularization: Toward a Unified Model"
         },
         {
           "method": "TransWeather",
-          "venue": "",
+          "venue": "CVPR 2022",
           "params": "38M",
           "category": "",
           "approach": "",
@@ -7495,11 +7626,12 @@
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
           "track": "real-world",
-          "id": "realworld-10"
+          "id": "realworld-10",
+          "paperTitle": "TransWeather: Transformer-based Restoration of Images Degraded by Adverse Weather Conditions"
         },
         {
           "method": "TUR_Transweather",
-          "venue": "",
+          "venue": "AAAI 2025",
           "params": "38M",
           "category": "",
           "approach": "",
@@ -7521,18 +7653,19 @@
               0.92
             ]
           },
-          "paper": "",
-          "code": "",
+          "paper": "https://openreview.net/forum?id=kx7eyKgEGz",
+          "code": "https://github.com/Aitical/TUR",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T5",
           "sourceLabel": "Survey · Table V",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
           "track": "real-world",
-          "id": "realworld-11"
+          "id": "realworld-11",
+          "paperTitle": "Debiased All-in-one Image Restoration with Task Uncertainty Regularization"
         },
         {
           "method": "WGWS-Net",
-          "venue": "",
+          "venue": "CVPR 2023",
           "params": "6M",
           "category": "",
           "approach": "",
@@ -7561,11 +7694,12 @@
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
           "track": "real-world",
-          "id": "realworld-12"
+          "id": "realworld-12",
+          "paperTitle": "Learning Weather-General and Weather-Specific Features for Image Restoration Under Multiple Adverse Weather Conditions"
         },
         {
           "method": "DSwinIR",
-          "venue": "",
+          "venue": "TPAMI 2026",
           "params": "24M",
           "category": "",
           "approach": "",
@@ -7587,18 +7721,19 @@
               0.93
             ]
           },
-          "paper": "https://arxiv.org/abs/2406.18242",
-          "code": "https://github.com/Dongqi-Fan/ConStyle_v2",
+          "paper": "https://doi.org/10.1109/TPAMI.2025.3646016",
+          "code": "https://github.com/Aitical/DSwinIR",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T5",
           "sourceLabel": "Survey · Table V",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
           "track": "real-world",
-          "id": "realworld-13"
+          "id": "realworld-13",
+          "paperTitle": "DSwinIR: Rethinking Window-Based Attention for Image Restoration"
         },
         {
           "method": "Restormer",
-          "venue": "CVPR’22",
+          "venue": "CVPR 2022",
           "params": "—",
           "category": "Multiple",
           "approach": "",
@@ -7624,7 +7759,7 @@
               0.269
             ]
           },
-          "paper": "https://arxiv.org/abs/2608.02290",
+          "paper": "https://arxiv.org/abs/2111.09881",
           "code": "",
           "source": "https://arxiv.org/html/2512.10948#S4.T5",
           "sourceLabel": "ClusIR · Table 5",
@@ -7635,7 +7770,7 @@
         },
         {
           "method": "DRSformer",
-          "venue": "CVPR’23",
+          "venue": "CVPR 2023",
           "params": "—",
           "category": "Multiple",
           "approach": "",
@@ -7661,8 +7796,8 @@
               0.27
             ]
           },
-          "paper": "https://arxiv.org/abs/2512.10948",
-          "code": "https://github.com/Husk021118/ClusIR",
+          "paper": "https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Learning_a_Sparse_Transformer_Network_for_Effective_Image_Deraining_CVPR_2023_paper.html",
+          "code": "",
           "source": "https://arxiv.org/html/2512.10948#S4.T5",
           "sourceLabel": "ClusIR · Table 5",
           "added": true,
@@ -7698,7 +7833,7 @@
               0.44
             ]
           },
-          "paper": "https://arxiv.org/abs/2512.10948",
+          "paper": "https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Depth_Information_Assisted_Collaborative_Mutual_Promotion_Network_for_Single_Image_CVPR_2024_paper.html",
           "code": "https://github.com/Husk021118/ClusIR",
           "source": "https://arxiv.org/html/2512.10948#S4.T5",
           "sourceLabel": "ClusIR · Table 5",
@@ -7709,7 +7844,7 @@
         },
         {
           "method": "AirNet",
-          "venue": "CVPR’22",
+          "venue": "CVPR 2022",
           "params": "—",
           "category": "All-in-One",
           "approach": "",
@@ -7735,18 +7870,19 @@
               0.299
             ]
           },
-          "paper": "https://arxiv.org/abs/2512.10948",
-          "code": "https://github.com/Husk021118/ClusIR",
+          "paper": "http://pengxi.me/wp-content/uploads/2022/03/All-In-One-Image-Restoration-for-Unknown-Corruption.pdf",
+          "code": "https://github.com/XLearning-SCU/2022-CVPR-AirNet.git",
           "source": "https://arxiv.org/html/2512.10948#S4.T5",
           "sourceLabel": "ClusIR · Table 5",
           "added": true,
           "note": "WeatherBench protocol reproduced in ClusIR Table 5. PSNR / SSIM / LPIPS are reported by that paper; separate training / evaluation track from WeatherStream and the survey Real-World dataset.",
           "track": "weatherbench",
-          "id": "realworld-17"
+          "id": "realworld-17",
+          "paperTitle": "All-In-One Image Restoration for Unknown Corruption"
         },
         {
           "method": "TransWeather",
-          "venue": "CVPR’22",
+          "venue": "CVPR 2022",
           "params": "—",
           "category": "All-in-One",
           "approach": "",
@@ -7779,11 +7915,12 @@
           "added": true,
           "note": "WeatherBench protocol reproduced in ClusIR Table 5. PSNR / SSIM / LPIPS are reported by that paper; separate training / evaluation track from WeatherStream and the survey Real-World dataset.",
           "track": "weatherbench",
-          "id": "realworld-18"
+          "id": "realworld-18",
+          "paperTitle": "TransWeather: Transformer-based Restoration of Images Degraded by Adverse Weather Conditions"
         },
         {
           "method": "WGWS-Net",
-          "venue": "CVPR’23",
+          "venue": "CVPR 2023",
           "params": "—",
           "category": "All-in-One",
           "approach": "",
@@ -7809,18 +7946,19 @@
               0.3
             ]
           },
-          "paper": "https://arxiv.org/abs/2512.10948",
-          "code": "https://github.com/Husk021118/ClusIR",
+          "paper": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Learning_Weather-General_and_Weather-Specific_Features_for_Image_Restoration_Under_Multiple_CVPR_2023_paper.pdf",
+          "code": "https://github.com/zhuyr97/WGWS-Net",
           "source": "https://arxiv.org/html/2512.10948#S4.T5",
           "sourceLabel": "ClusIR · Table 5",
           "added": true,
           "note": "WeatherBench protocol reproduced in ClusIR Table 5. PSNR / SSIM / LPIPS are reported by that paper; separate training / evaluation track from WeatherStream and the survey Real-World dataset.",
           "track": "weatherbench",
-          "id": "realworld-19"
+          "id": "realworld-19",
+          "paperTitle": "Learning Weather-General and Weather-Specific Features for Image Restoration Under Multiple Adverse Weather Conditions"
         },
         {
           "method": "PromptIR",
-          "venue": "NeurIPS’23",
+          "venue": "NeurIPS 2023",
           "params": "—",
           "category": "All-in-One",
           "approach": "",
@@ -7853,11 +7991,12 @@
           "added": true,
           "note": "WeatherBench protocol reproduced in ClusIR Table 5. PSNR / SSIM / LPIPS are reported by that paper; separate training / evaluation track from WeatherStream and the survey Real-World dataset.",
           "track": "weatherbench",
-          "id": "realworld-20"
+          "id": "realworld-20",
+          "paperTitle": "PromptIR: Prompting for All-in-One Blind Image Restoration"
         },
         {
           "method": "Histoformer",
-          "venue": "ECCV’24",
+          "venue": "ECCV 2024",
           "params": "—",
           "category": "All-in-One",
           "approach": "",
@@ -7883,14 +8022,15 @@
               0.314
             ]
           },
-          "paper": "https://arxiv.org/abs/2512.10948",
-          "code": "https://github.com/Husk021118/ClusIR",
+          "paper": "https://arxiv.org/abs/2407.10172",
+          "code": "https://github.com/sunshangquan/Histoformer",
           "source": "https://arxiv.org/html/2512.10948#S4.T5",
           "sourceLabel": "ClusIR · Table 5",
           "added": true,
           "note": "WeatherBench protocol reproduced in ClusIR Table 5. PSNR / SSIM / LPIPS are reported by that paper; separate training / evaluation track from WeatherStream and the survey Real-World dataset.",
           "track": "weatherbench",
-          "id": "realworld-21"
+          "id": "realworld-21",
+          "paperTitle": "Restoring Images in Adverse Weather Conditions via Histogram Transformer"
         },
         {
           "method": "ClusIR",
@@ -7927,7 +8067,8 @@
           "added": true,
           "note": "WeatherBench protocol reproduced in ClusIR Table 5. PSNR / SSIM / LPIPS are reported by that paper; separate training / evaluation track from WeatherStream and the survey Real-World dataset.",
           "track": "weatherbench",
-          "id": "realworld-22"
+          "id": "realworld-22",
+          "paperTitle": "ClusIR: Towards Cluster-Guided All-in-One Image Restoration"
         }
       ],
       "metrics": [
@@ -7951,7 +8092,7 @@
       "rows": [
         {
           "method": "MPRNet",
-          "venue": "CVPR'21",
+          "venue": "CVPR 2021",
           "params": "16M",
           "category": "One-to-One",
           "approach": "",
@@ -7961,7 +8102,7 @@
               0.856
             ]
           },
-          "paper": "https://link.springer.com/article/10.1007/s11263-026-02792-5",
+          "paper": "https://openaccess.thecvf.com/content/CVPR2021/html/Zamir_Multi-Stage_Progressive_Image_Restoration_CVPR_2021_paper.html",
           "code": "",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T6",
           "sourceLabel": "Survey · Table VI",
@@ -7991,7 +8132,7 @@
         },
         {
           "method": "Restormer",
-          "venue": "CVPR'22",
+          "venue": "CVPR 2022",
           "params": "26M",
           "category": "One-to-One",
           "approach": "",
@@ -8001,7 +8142,7 @@
               0.865
             ]
           },
-          "paper": "https://arxiv.org/html/2410.15067v3#bib.bib51",
+          "paper": "https://arxiv.org/abs/2111.09881",
           "code": "",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T6",
           "sourceLabel": "Survey · Table VI",
@@ -8011,7 +8152,7 @@
         },
         {
           "method": "DGUNet",
-          "venue": "CVPR'22",
+          "venue": "CVPR 2022",
           "params": "18M",
           "category": "One-to-One",
           "approach": "",
@@ -8021,8 +8162,8 @@
               0.844
             ]
           },
-          "paper": "https://arxiv.org/abs/2307.07688",
-          "code": "https://github.com/YuanshuoCheng/RDM-IR",
+          "paper": "https://openaccess.thecvf.com/content/CVPR2022/html/Mou_Deep_Generalized_Unfolding_Networks_for_Image_Restoration_CVPR_2022_paper.html",
+          "code": "",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T6",
           "sourceLabel": "Survey · Table VI",
           "added": false,
@@ -8031,7 +8172,7 @@
         },
         {
           "method": "NAFNet",
-          "venue": "ECCV'22",
+          "venue": "ECCV 2022",
           "params": "17M",
           "category": "One-to-One",
           "approach": "",
@@ -8041,7 +8182,7 @@
               0.796
             ]
           },
-          "paper": "https://arxiv.org/abs/2503.10120",
+          "paper": "https://arxiv.org/abs/2204.04676",
           "code": "",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T6",
           "sourceLabel": "Survey · Table VI",
@@ -8091,7 +8232,7 @@
         },
         {
           "method": "OKNet",
-          "venue": "AAAI'24",
+          "venue": "AAAI 2024",
           "params": "6M",
           "category": "One-to-One",
           "approach": "",
@@ -8101,7 +8242,7 @@
               0.861
             ]
           },
-          "paper": "https://doi.org/10.1109/TCSVT.2024.3429557",
+          "paper": "https://doi.org/10.1609/aaai.v38i2.27907",
           "code": "",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T6",
           "sourceLabel": "Survey · Table VI",
@@ -8111,7 +8252,7 @@
         },
         {
           "method": "AirNet",
-          "venue": "CVPR'22",
+          "venue": "CVPR 2022",
           "params": "9M",
           "category": "One-to-Many",
           "approach": "",
@@ -8127,11 +8268,12 @@
           "sourceLabel": "Survey · Table VI",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "cdd11-9"
+          "id": "cdd11-9",
+          "paperTitle": "All-In-One Image Restoration for Unknown Corruption"
         },
         {
           "method": "TransWeather",
-          "venue": "CVPR'22",
+          "venue": "CVPR 2022",
           "params": "38M",
           "category": "One-to-Many",
           "approach": "",
@@ -8147,11 +8289,12 @@
           "sourceLabel": "Survey · Table VI",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "cdd11-10"
+          "id": "cdd11-10",
+          "paperTitle": "TransWeather: Transformer-based Restoration of Images Degraded by Adverse Weather Conditions"
         },
         {
           "method": "WeatherDiff",
-          "venue": "TPAMI'23",
+          "venue": "TPAMI 2023",
           "params": "83M",
           "category": "One-to-Many",
           "approach": "",
@@ -8167,11 +8310,12 @@
           "sourceLabel": "Survey · Table VI",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "cdd11-11"
+          "id": "cdd11-11",
+          "paperTitle": "Restoring Vision in Adverse Weather Conditions with Patch-Based Denoising Diffusion Models"
         },
         {
           "method": "PromptIR",
-          "venue": "NeurIPS'23",
+          "venue": "NeurIPS 2023",
           "params": "36M",
           "category": "One-to-Many",
           "approach": "",
@@ -8187,11 +8331,12 @@
           "sourceLabel": "Survey · Table VI",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "cdd11-12"
+          "id": "cdd11-12",
+          "paperTitle": "PromptIR: Prompting for All-in-One Blind Image Restoration"
         },
         {
           "method": "WGWS-Net",
-          "venue": "CVPR'23",
+          "venue": "CVPR 2023",
           "params": "6M",
           "category": "One-to-Many",
           "approach": "",
@@ -8207,11 +8352,12 @@
           "sourceLabel": "Survey · Table VI",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "cdd11-13"
+          "id": "cdd11-13",
+          "paperTitle": "Learning Weather-General and Weather-Specific Features for Image Restoration Under Multiple Adverse Weather Conditions"
         },
         {
           "method": "HAIR",
-          "venue": "arXiv'24",
+          "venue": "arXiv 2024",
           "params": "29M",
           "category": "One-to-Many",
           "approach": "",
@@ -8227,11 +8373,12 @@
           "sourceLabel": "Survey · Table VI",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "cdd11-14"
+          "id": "cdd11-14",
+          "paperTitle": "HAIR: Hypernetworks-based All-in-One Image Restoration"
         },
         {
           "method": "OneRestore",
-          "venue": "ECCV'24",
+          "venue": "ECCV 2024",
           "params": "6M",
           "category": "One-to-Composite",
           "approach": "",
@@ -8247,11 +8394,12 @@
           "sourceLabel": "Survey · Table VI",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "cdd11-15"
+          "id": "cdd11-15",
+          "paperTitle": "OneRestore: A Universal Restoration Framework for Composite Degradation"
         },
         {
           "method": "AllRestorer",
-          "venue": "arXiv'24",
+          "venue": "TPAMI 2026",
           "params": "12M+88M",
           "category": "One-to-Composite",
           "approach": "",
@@ -8267,11 +8415,12 @@
           "sourceLabel": "Survey · Table VI",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "cdd11-16"
+          "id": "cdd11-16",
+          "paperTitle": "All-in-One Transformer for Image Restoration Under Adverse Weather Degradations"
         },
         {
           "method": "DA-CLIP_NAFNet",
-          "venue": "ICLR'24",
+          "venue": "ICLR 2024",
           "params": "86M+125M",
           "category": "One-to-Composite",
           "approach": "",
@@ -8281,17 +8430,18 @@
               0.86
             ]
           },
-          "paper": "",
-          "code": "",
+          "paper": "https://arxiv.org/abs/2310.01018",
+          "code": "https://github.com/Algolzw/daclip-uir",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T6",
           "sourceLabel": "Survey · Table VI",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "cdd11-17"
+          "id": "cdd11-17",
+          "paperTitle": "Controlling Vision-Language Models for Universal Image Restoration"
         },
         {
           "method": "MoCE-IR-S",
-          "venue": "CVPR'25",
+          "venue": "CVPR 2025",
           "params": "11M",
           "category": "One-to-Composite",
           "approach": "",
@@ -8307,11 +8457,12 @@
           "sourceLabel": "Survey · Table VI",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "cdd11-18"
+          "id": "cdd11-18",
+          "paperTitle": "Complexity Experts are Task-Discriminative Learners for Any Image Restoration"
         },
         {
           "method": "DCPT_NAFNet",
-          "venue": "ICLR'25",
+          "venue": "ICLR 2025",
           "params": "68M",
           "category": "One-to-Composite",
           "approach": "",
@@ -8321,17 +8472,18 @@
               0.891
             ]
           },
-          "paper": "",
-          "code": "",
+          "paper": "https://arxiv.org/abs/2501.15510",
+          "code": "https://github.com/MILab-PKU/dcpt",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T6",
           "sourceLabel": "Survey · Table VI",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "cdd11-19"
+          "id": "cdd11-19",
+          "paperTitle": "Universal Image Restoration Pre-training via Degradation Classification"
         },
         {
           "method": "VL-UR",
-          "venue": "arXiv'25",
+          "venue": "ICME 2025",
           "params": "-",
           "category": "One-to-Composite",
           "approach": "",
@@ -8341,17 +8493,18 @@
               0.879
             ]
           },
-          "paper": "https://arxiv.org/abs/2504.08219",
+          "paper": "https://doi.org/10.1109/ICME59968.2025.11209564",
           "code": "",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T6",
           "sourceLabel": "Survey · Table VI",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "cdd11-20"
+          "id": "cdd11-20",
+          "paperTitle": "VL-UR: Vision-Language-guided Universal Restoration of Images Degraded by Adverse Weather Conditions"
         },
         {
           "method": "MIRAGE",
-          "venue": "arXiv'25",
+          "venue": "ICLR 2026",
           "params": "10M",
           "category": "One-to-Composite",
           "approach": "",
@@ -8361,17 +8514,18 @@
               0.887
             ]
           },
-          "paper": "https://arxiv.org/abs/2310.12848",
-          "code": "",
+          "paper": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/cd1da8043ba5c1c144ab4e10a8de6e53-Abstract-Conference.html",
+          "code": "https://amazingren.github.io/MIRAGE/",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T6",
           "sourceLabel": "Survey · Table VI",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "cdd11-21"
+          "id": "cdd11-21",
+          "paperTitle": "Efficient Degradation-agnostic Image Restoration via Channel-Wise Functional Decomposition and Manifold Regularization"
         },
         {
           "method": "CoR_HAIR",
-          "venue": "arXiv'24",
+          "venue": "arXiv 2024",
           "params": "30M",
           "category": "Step-by-Step",
           "approach": "",
@@ -8381,17 +8535,18 @@
               0.869
             ]
           },
-          "paper": "",
-          "code": "",
+          "paper": "https://arxiv.org/abs/2410.08688",
+          "code": "https://github.com/toummHus/Chain-of-Restoration",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T6",
           "sourceLabel": "Survey · Table VI",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "cdd11-22"
+          "id": "cdd11-22",
+          "paperTitle": "Chain-of-Restoration: Multi-Task Image Restoration Models are Zero-Shot Step-by-Step Universal Image Restorers"
         },
         {
           "method": "CoR_OneRestore",
-          "venue": "arXiv'24",
+          "venue": "arXiv 2024",
           "params": "8M",
           "category": "Step-by-Step",
           "approach": "",
@@ -8401,13 +8556,14 @@
               0.879
             ]
           },
-          "paper": "",
-          "code": "",
+          "paper": "https://arxiv.org/abs/2410.08688",
+          "code": "https://github.com/toummHus/Chain-of-Restoration",
           "source": "https://arxiv.org/html/2410.15067v3#S4.T6",
           "sourceLabel": "Survey · Table VI",
           "added": false,
           "note": "Reported in the survey (arXiv v3); not independently re-evaluated.",
-          "id": "cdd11-23"
+          "id": "cdd11-23",
+          "paperTitle": "Chain-of-Restoration: Multi-Task Image Restoration Models are Zero-Shot Step-by-Step Universal Image Restorers"
         },
         {
           "method": "ClusIR",
@@ -8427,7 +8583,8 @@
           "sourceLabel": "ClusIR · Table 4",
           "added": true,
           "note": "CDD11 full RGB average from Table 4; base-model parameters from Table S2.",
-          "id": "cdd11-24"
+          "id": "cdd11-24",
+          "paperTitle": "ClusIR: Towards Cluster-Guided All-in-One Image Restoration"
         },
         {
           "method": "QuReC",
@@ -8447,7 +8604,8 @@
           "sourceLabel": "QuReC · Table 3",
           "added": true,
           "note": "Author-reported result from the original paper; not independently re-evaluated.",
-          "id": "cdd11-25"
+          "id": "cdd11-25",
+          "paperTitle": "QuReC: All-in-One Image Restoration with Query-Specific Guidance and Local-Global Response Calibration"
         }
       ],
       "metrics": [

@@ -7,7 +7,7 @@ Updated 6 November 2026. The project page’s [Library](https://harbinzzy.github
 - Added ClusIR, QuReC, DRNet, SLER-IR, DCMPC-Net and WeatherRemover to their matching benchmark settings: 12 result rows.
 - Added a separate **WeatherBench** real-world track with ClusIR and eight reproduced baselines, including PSNR, SSIM and LPIPS: 9 rows.
 - Corrected the swapped **InstructIR-5D SOTS / Rain100L columns**. Original Table 2 orders deraining before dehazing; the README orders dehazing first. Correct values are SOTS **27.10 / 0.956** and Rain100L **36.84 / 0.973**. Average remains **29.55 / 0.907**.
-- Imported the maintained year-grouped paper list (270 distinct titles) without inventing missing paper or code links.
+- Imported the maintained year-grouped paper list (273 distinct titles) without inventing missing paper or code links.
 
 ## Original sources used for additions
 
@@ -50,3 +50,41 @@ python scripts/sync_catalog.py --check --site ../Harbinzzy.github.io/projects/ai
 ```
 
 The live website reads the public JSON after rendering its local snapshot. No credentials, write-enabled browser tokens or framework build service are needed.
+
+## Publication metadata
+
+Publication venues are checked against publisher DOI records, official proceedings and the TMLR paper catalogue. Journal years use the final publisher citation year when a volume has been assigned; an earlier preprint, acceptance, DOI suffix or early-access year can differ. For example, U-WADN is assigned to the January 2027 Information Sciences issue, while its DOI was registered in 2026.
+
+| Paper | Publication | Record |
+| --- | --- | --- |
+| Adaptive Blind All-in-One Image Restoration | CVIU 2026 | [Publication](https://doi.org/10.1016/j.cviu.2026.104795) |
+| Prompt-in-Prompt Learning for All-in-One Image Restoration | PR 2026 | [Publication](https://doi.org/10.1016/j.patcog.2026.114401) |
+| Any Image Restoration via Efficient Spatial-Frequency Degradation Adaptation | TMLR 2026 | [Publication](https://jmlr.org/tmlr/papers/bib/RObgCpdDqr.bib) |
+| Learning Continuous Wasserstein Barycenter Space for Generalized All-in-One Image Restoration | TPAMI 2026 | [Publication](https://doi.org/10.1109/TPAMI.2026.3669121) |
+| DSwinIR: Rethinking Window-Based Attention for Image Restoration | TPAMI 2026 | [Publication](https://doi.org/10.1109/TPAMI.2025.3646016) |
+| Beyond Degradation Redundancy: Contrastive Prompt Learning for All-in-One Image Restoration | TPAMI 2026 | [Publication](https://doi.org/10.1109/TPAMI.2025.3642852) |
+| Perceive-IR: Learning to Perceive Degradation Better for All-in-One Image Restoration | TIP 2026 | [Publication](https://doi.org/10.1109/TIP.2025.3566300) |
+| Multi-Expert Adaptive Selection: Task-Balancing for All-in-One Image Restoration | TCSVT 2025 | [Publication](https://doi.org/10.1109/TCSVT.2024.3516074) |
+| UARE: A Unified Vision-Language Model for Image Quality Assessment, Restoration, and Enhancement | CVPR 2026 | [Publication](https://openaccess.thecvf.com/content/CVPR2026/html/Li_UARE_A_Unified_Vision-Language_Model_for_Image_Quality_Assessment_Restoration_CVPR_2026_paper.html) |
+| PhyDAE: Physics-Guided Degradation-Adaptive Experts for All-in-One Remote Sensing Image Restoration | TGRS 2026 | [Publication](https://doi.org/10.1109/TGRS.2026.3656356) |
+| TAP: Parameter-efficient Task-Aware Prompting for Adverse Weather Removal | ACM MM 2025 | [Publication](https://doi.org/10.1145/3746027.3755866) |
+| CMAWRNet: Multiple Adverse Weather Removal via a Unified Quaternion Neural Architecture | Journal of Imaging 2025 | [Publication](https://doi.org/10.3390/jimaging11110382) |
+| DPMambaIR: All-in-One Image Restoration via Degradation-Aware Prompt State Space Model | TMM 2026 | [Publication](https://doi.org/10.1109/TMM.2026.3717468) |
+| Lumina-OmniLV: A Unified Multimodal Framework for General Low-Level Vision | ECCV 2026 | [Publication](https://link.springer.com/chapter/10.1007/978-3-032-37041-9_22) |
+| VL-UR: Vision-Language-guided Universal Restoration of Images Degraded by Adverse Weather Conditions | ICME 2025 | [Publication](https://doi.org/10.1109/ICME59968.2025.11209564) |
+| UniCoRN: Latent Diffusion-based Unified Controllable Image Restoration Network across Multiple Degradations | WACV 2026 | [Publication](https://openaccess.thecvf.com/content/WACV2026/html/Mandal_UniCoRN_Latent_Diffusion-based_Unified_Controllable_Image_Restoration_Network_across_Multiple_WACV_2026_paper.html) |
+| USRNet: Unified Scene Recovery Network for Image Restoration under Multiple Adverse Weather Conditions | PR 2026 | [Publication](https://doi.org/10.1016/j.patcog.2025.112534) |
+| Boosting Filter Optimization and Prompt-Guided Decoding for Mixed Degradation Image Restoration | IJCV 2026 | [Publication](https://link.springer.com/article/10.1007/s11263-026-02832-0) |
+| Diff-Restorer: Unleashing Visual Prompts for Diffusion-based Universal Image Restoration | TCSVT 2026 | [Publication](https://doi.org/10.1109/TCSVT.2025.3629686) |
+| Referring Flexible Image Restoration | Expert Systems with Applications 2025 | [Publication](https://doi.org/10.1016/j.eswa.2025.126857) |
+| Joint Conditional Diffusion Model for Image Restoration with Mixed Degradations | Neurocomputing 2025 | [Publication](https://doi.org/10.1016/j.neucom.2025.129512) |
+| AoSRNet: All-in-One Scene Recovery Networks via Multi-knowledge Integration | Knowledge-Based Systems 2024 | [Publication](https://doi.org/10.1016/j.knosys.2024.111786) |
+| Unified-Width Adaptive Dynamic Network for All-In-One Image Restoration | Information Sciences 2027 | [Publication](https://doi.org/10.1016/j.ins.2026.123974) |
+| Textual Prompt Guided Image Restoration | Engineering Applications of Artificial Intelligence 2025 | [Publication](https://doi.org/10.1016/j.engappai.2025.110981) |
+| DDCNet: Advanced Decoupling of Degradation and Content for Adverse Weather Image Restoration | TNNLS 2025 | [Publication](https://doi.org/10.1109/TNNLS.2025.3594492) |
+| On Efficient Transformer-Based Image Pre-training for Low-Level Vision | IJCAI 2023 | [Publication](https://www.ijcai.org/proceedings/2023/121) |
+| TAPE: Task-Agnostic Prior Embedding for Image Restoration | ECCV 2022 | [Publication](https://link.springer.com/chapter/10.1007/978-3-031-19797-0_26) |
+| RamIR: Reasoning and action prompting with Mamba for all-in-one image restoration | Applied Intelligence 2025 | [Publication](https://link.springer.com/article/10.1007/s10489-024-06226-y) |
+| Learning Dual Transformers for All-in-One Image Restoration From a Frequency Perspective | TNNLS 2026 | [Publication](https://doi.org/10.1109/TNNLS.2026.3701139) |
+
+The 2024 AnyIR preprint (2407.13372) and the later spatial-frequency paper (2504.14249, TMLR 2026) remain distinct entries. Shared code repositories do not establish publication identity. Benchmark rows use an explicit `paperTitle` reference: `sync_catalog.py` propagates the linked paper's venue, paper URL and code URL, and `--check` rejects stale metadata. Baseline result values and training settings are preserved.

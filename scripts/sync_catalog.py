@@ -40,6 +40,19 @@ def import_papers(readme):
         papers.append(dict(title=title,authors=authors,venue=text(cells[1]),year=year,paper=find_url(cells[2]),code=find_url(cells[3])))
     return papers
 
+def sync_publications(data):
+    """Resolve explicit paper titles; method-name substring matching is unsafe."""
+    papers={p['title']:p for p in data['papers']}
+    for group in data['benchmarks']:
+        for row in group['rows']:
+            if not row.get('paperTitle'):continue
+            assert row['paperTitle'] in papers, f"Unknown paper for {row['id']}: {row['paperTitle']}"
+            paper=papers[row['paperTitle']]
+            venue=re.sub(r'(?<=\D)(20\d\d)$',r' \1',paper['venue']).strip()
+            venue=re.sub(r'\s+',' ',venue)
+            if not re.search(r'20\d\d',venue):venue+=f" {paper['year']}"
+            row.update(venue=venue,paper=paper['paper'],code=paper['code'])
+
 def validate(data):
     assert data['schemaVersion']==1
     assert len(data['benchmarks'])==5
@@ -99,8 +112,10 @@ parser.add_argument('--site',type=Path,help='optional aioir page directory for t
 args=parser.parse_args()
 readme=(ROOT/'README.md').read_text(encoding='utf8')
 data=json.loads((ROOT/'data/catalog.json').read_text(encoding='utf8'))
+original_data=json.loads(json.dumps(data))
 if args.import_papers:
     data['papers']=import_papers(readme);data['paperCount']=len(data['papers'])
+sync_publications(data)
 count=validate(data)
 rendered=readme
 for i,(g,heading) in enumerate(zip(data['benchmarks'],HEADINGS)):
@@ -109,6 +124,7 @@ for i,(g,heading) in enumerate(zip(data['benchmarks'],HEADINGS)):
     assert n==1,heading
 snapshot='window.AIOIR_CATALOG = '+json.dumps(data,ensure_ascii=False,separators=(',',':'))+';\n'
 if args.check:
+    if data!=original_data:sys.exit('Paper and benchmark publication metadata differ; run scripts/sync_catalog.py')
     if readme!=rendered:sys.exit('README benchmark tables differ; run scripts/sync_catalog.py')
     if args.site and (args.site/'catalog.js').read_text(encoding='utf8')!=snapshot:sys.exit('Website fallback differs; run sync with --site')
 else:
