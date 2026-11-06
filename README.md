@@ -644,14 +644,14 @@ The following are BibTeX references:
 *Yuhong Zhang, Hengsheng Zhang, Xinning Chai, Zhengxue Cheng, Rong Xie, Li Song, Wenjun Zhang*
 - Paper: https://arxiv.org/abs/2407.03636
 - Code: https://github.com/zyhrainbow/Diff-Restorer
-#### `[arXiv]`**From Controlled Scenarios to Real-World: Cross-Domain Degradation Pattern Matching for All-in-One Image Restoration**
+#### `[Research 2026]`**From Controlled Scenarios to Real-World: Cross-Domain Degradation Pattern Matching for All-in-One Image Restoration**
 *Junyu Fan, Chuanlin Liao, Yi Lin*
 - Paper: https://arxiv.org/abs/2505.22284
-#### `[arXiv]`**BaryIR: Learning Multi-Source Unified Representation in Continuous Barycenter Space for Generalizable All-in-One Image Restoration**
+#### `[TPAMI 2026]`**BaryIR: Learning Multi-Source Unified Representation in Continuous Barycenter Space for Generalizable All-in-One Image Restoration**
 *Xiaole Tang, Xiaoyi He, Xiang Gu, Jian Sun*
 - Paper: https://arxiv.org/abs/2505.21637
 - Code: https://github.com/xl-tang3/BaryIR
-#### `[arXiv]`**Manifold-aware Representation Learning for Degradation-agnostic Image Restoration**
+#### `[ICLR 2026]`**Manifold-aware Representation Learning for Degradation-agnostic Image Restoration**
 *Bin Ren, Yawei Li, Xu Zheng, Yuqian Fu, Danda Pani Paudel, Ming-Hsuan Yang, Luc Van Gool, Nicu Sebe*
 - Paper: https://arxiv.org/pdf/2505.18679
 - Code: https://amazingren.github.io/MIRAGE/
@@ -678,7 +678,7 @@ The following are BibTeX references:
 #### `[Journal of Imaging 2025]`**CMAWRNet: Multiple Adverse Weather Removal via a Unified Quaternion Neural Architecture**
 *Vladimir Frants, Sos Agaian, Karen Panetta, Peter Huang*
 - Paper: https://arxiv.org/pdf/2505.01882
-#### `[arXiv]`**DPMambaIR:All-in-One Image Restoration via Degradation-Aware Prompt State Space Model**
+#### `[TMM 2026]`**DPMambaIR:All-in-One Image Restoration via Degradation-Aware Prompt State Space Model**
 *Zhanwen Liu, Sai Zhou, Yuchao Dai, Yang Wang, Yisheng An, Xiangmo Zhao*
 - Paper: https://arxiv.org/pdf/2504.17732
 #### `[TMLR 2026]`**Any Image Restoration via Efficient Spatial-Frequency Degradation Adaptation**
@@ -689,7 +689,7 @@ The following are BibTeX references:
 *Gang Wu, Junjun Jiang, Kui Jiang, Xianming Liu, Liqiang Nie*
 - Paper: https://arxiv.org/pdf/2504.09973
 - Code: https://github.com/Aitical/CPLIR
-#### `[arXiv]`**Beyond Degradation Conditions: All-in-One Image Restoration via HOG Transformers**
+#### `[AAAI 2026]`**Beyond Degradation Conditions: All-in-One Image Restoration via HOG Transformers**
 *Jiawei Wu, Zhifei Yang, Zhe Wang, Zhi Jin*
 - Paper: https://arxiv.org/abs/2504.09377
 - Code: https://github.com/Fire-friend/HOGformer
@@ -710,11 +710,11 @@ The following are BibTeX references:
 #### `[arXiv]`**DA2Diff: Exploring Degradation-aware Adaptive Diffusion Priors for All-in-One Weather Restoration**
 *Jiamei Xiong, Xuefeng Yan, Yongzhen Wang, Wei Zhao, Xiao-Ping Zhang, Mingqiang Wei*
 - Paper: https://arxiv.org/abs/2504.05135
-#### `[arXiv]`**Content-Aware Transformer for All-in-one Image Restoration**
+#### `[TPAMI 2026]`**Content-Aware Transformer for All-in-one Image Restoration**
 *Gang Wu, Junjun Jiang, Kui Jiang, Xianming Liu*
 - Paper: https://arxiv.org/abs/2504.04869
 - Code: https://github.com/Aitical/DSwinIR
-#### `[arXiv]`**Cat-AIR: Content and Task-Aware All-in-One Image Restoration**
+#### `[NeurIPS 2026]`**Cat-AIR: Content and Task-Aware All-in-One Image Restoration**
 *Jiachen Jiang, Tianyu Ding, Ke Zhang, Jinxin Zhou, Tianyi Chen, Ilya Zharkov, Zhihui Zhu, Luming Liang*
 - Paper: https://arxiv.org/abs/2503.17915
 - Code: https://kongwanbianjinyu.github.io/Cat-AIR/
@@ -816,10 +816,10 @@ The following are BibTeX references:
 *Chia-Ming Lee, Ching-Heng Cheng, Yu-Fan Lin, Yi-Ching Cheng, Wo-Ting Liao, Chih-Chung Hsu, Fu-En Yang, Yu-Chiang Frank Wang*
 - Paper: https://arxiv.org/abs/2411.15922
 - Code: https://github.com/chingheng0808/PromptHSI
-#### `[arXiv]`**AllRestorer: All-in-One Transformer for Image Restoration under Composite Degradations**
+#### `[TPAMI 2026]`**AllRestorer: All-in-One Transformer for Image Restoration under Composite Degradations**
 *Jiawei Mao, Yu Yang, Xuesong Yin, Ling Shao, Hao Tang*
 - Paper: https://arxiv.org/abs/2411.10708
-#### `[arXiv]`**All-in-one Weather-degraded Image Restoration via Adaptive Degradation-aware Self-prompting Model**
+#### `[TMM 2025]`**All-in-one Weather-degraded Image Restoration via Adaptive Degradation-aware Self-prompting Model**
 *Yuanbo Wen, Tao Gao, Ziqi Li, Jing Zhang, Kaihao Zhang, Ting Chen*
 - Paper: https://arxiv.org/abs/2411.07445
 #### `[TPAMI2025]`**Degradation-Aware Residual-Conditioned Optimal Transport for Unified Image Restoration**
@@ -897,7 +897,7 @@ The following are BibTeX references:
 *Yu Guo, Yuan Gao, Yuxu Lu, Huilin Zhu, Ryan Wen Liu, Shengfeng He*
 - Paper: https://arxiv.org/abs/2407.04621
 - Code: https://github.com/gy65896/OneRestore
-#### `[arXiv]`**Learning Frequency-Aware Dynamic Transformers for All-In-One Image Restoration**
+#### `[TNNLS 2026]`**Learning Frequency-Aware Dynamic Transformers for All-In-One Image Restoration**
 *Zenglin Shi, Tong Su, Pei Liu, Yunpeng Wu, Le Zhang, Meng Wang*
 - Paper: https://arxiv.org/abs/2407.01636
 #### `[arXiv]`**Instruct-IPT: All-in-One Image Processing Transformer via Weight Modulation**
