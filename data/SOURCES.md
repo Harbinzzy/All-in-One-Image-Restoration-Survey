@@ -1,6 +1,6 @@
 # Benchmark sources and update notes
 
-Updated 6 November 2026. The [paper library](https://harbinzzy.github.io/projects/aioir/) and [leaderboard](https://harbinzzy.github.io/projects/aioir/leaderboard.html) share [`catalog.json`](catalog.json). The website fetches this public file and uses a checked-in snapshot if GitHub is unavailable. README tables are generated from the same file with [`scripts/sync_catalog.py`](../scripts/sync_catalog.py).
+Updated 6 November 2026. The project page’s [Library](https://harbinzzy.github.io/projects/aioir/#library) and [Leaderboard](https://harbinzzy.github.io/projects/aioir/#leaderboard) share [`catalog.json`](catalog.json). The website fetches this public file and uses a checked-in snapshot if GitHub is unavailable. README tables are generated from the same file with [`scripts/sync_catalog.py`](../scripts/sync_catalog.py).
 
 ## What was updated
 

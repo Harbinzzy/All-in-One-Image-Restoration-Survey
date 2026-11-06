@@ -8,8 +8,7 @@
 
 [![Paper2](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2410.15067)
 [![Survey](https://img.shields.io/badge/Survey-AiOIR-blue)](https://ieeexplore.ieee.org/document/11123156) 
-[![Project](https://img.shields.io/badge/Project-Paper_Library-29654d)](https://harbinzzy.github.io/projects/aioir/)
-[![Leaderboard](https://img.shields.io/badge/Leaderboard-5_Benchmarks-102d32)](https://harbinzzy.github.io/projects/aioir/leaderboard.html)
+[![Project Page](https://img.shields.io/badge/Project-Page-29654d)](https://harbinzzy.github.io/projects/aioir/)
 [![Hits](https://hits.sh/github.com/Harbinzzy/All-in-One-Image-Restoration-Survey.svg)](https://hits.sh/github.com/Harbinzzy/All-in-One-Image-Restoration-Survey/)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Harbinzzy/All-in-One-Image-Restoration-Survey?style=social)
@@ -34,7 +33,7 @@
 
 
 ## 📢 News
-- **2026-11-06:** Launched the [paper library](https://harbinzzy.github.io/projects/aioir/) and [interactive leaderboard](https://harbinzzy.github.io/projects/aioir/leaderboard.html). Added source-verified results for **ClusIR, QuReC, DRNet, SLER-IR, DCMPC-Net and WeatherRemover**, a separate WeatherBench track with PSNR / SSIM / LPIPS, and corrected the InstructIR-5D column order. The README and website share [one data catalogue](data/catalog.json); see [sources and protocol notes](data/SOURCES.md).
+- **2026-11-06:** Launched the [paper library](https://harbinzzy.github.io/projects/aioir/) and [interactive leaderboard](https://harbinzzy.github.io/projects/aioir/#leaderboard). Added source-verified results for **ClusIR, QuReC, DRNet, SLER-IR, DCMPC-Net and WeatherRemover**, a separate WeatherBench track with PSNR / SSIM / LPIPS, and corrected the InstructIR-5D column order. The README and website share [one data catalogue](data/catalog.json); see [sources and protocol notes](data/SOURCES.md).
 - ✅ Our comprehensive survey paper on All-in-One Image Restoration has been [released](https://arxiv.org/abs/2410.15067) and is actively maintained.  
   📝 **Submitted** on 19 Oct 2024 *(v1)*, **last revised** on 12 Jun 2025 *(v2)* with major updates and reductions.  
   We will continue to reflect the latest advancements in this evolving field.
