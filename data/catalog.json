@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-11-06",
+  "updated": "2026-11-16",
   "repository": "https://github.com/Harbinzzy/All-in-One-Image-Restoration-Survey",
-  "paperCount": 273,
+  "paperCount": 284,
   "papers": [
     {
       "title": "Unified-Width Adaptive Dynamic Network for All-In-One Image Restoration",
@@ -11,6 +11,94 @@
       "year": 2027,
       "paper": "https://doi.org/10.1016/j.ins.2026.123974",
       "code": "https://github.com/xuyimin0926/U-WADN"
+    },
+    {
+      "title": "What to Remove, What to Preserve: Dual-Ambiguity Rectification for All-in-One Image Restoration",
+      "authors": "Cencen Liu, Wen Yin, Dongyang Zhang, Dongmin Li, Shan Zhao, Bing Su, Tao He, Jielei Wang, Guoming Lu",
+      "venue": "ACM MM 2026",
+      "year": 2026,
+      "paper": "https://arxiv.org/abs/2607.28526",
+      "code": ""
+    },
+    {
+      "title": "MoDEIR: Mixture of Timestep-Specific Diffusion Experts for All-in-One Image Restoration",
+      "authors": "Yufeng Wang, Dongsheng Guo, Haoru Zhao, Haiyong Zheng",
+      "venue": "ACM MM 2026",
+      "year": 2026,
+      "paper": "",
+      "code": ""
+    },
+    {
+      "title": "PolaRestore: Polarization-Guided Frequency Priors for Diffusion-Based All-in-One Image Restoration",
+      "authors": "Yicong Zhu, Sijia Wen, Yu Qiu, Zhigong Cui, Zhiming Zheng",
+      "venue": "ACM MM 2026",
+      "year": 2026,
+      "paper": "https://doi.org/10.1145/3767308.3835329",
+      "code": ""
+    },
+    {
+      "title": "GARF-IR: Guided Adaptive Residual-Frequency Calibration for All-in-One Image Restoration",
+      "authors": "Muhammad Ali Iqbal, Yeo Chan Yoon, Gyeongmin Kim, In-Chul Han, Soo Kyun Kim",
+      "venue": "ACCV 2026",
+      "year": 2026,
+      "paper": "",
+      "code": ""
+    },
+    {
+      "title": "Spectral Descriptor Conditioning: Efficient and Interpretable All-in-One Image Restoration via Polar Frequency Signatures",
+      "authors": "Jungwoo Bae, Gyutae Oh, Hyunmin Kong, Jitae Shin",
+      "venue": "ACCV 2026",
+      "year": 2026,
+      "paper": "https://openreview.net/forum?id=tlJXhWFLaw",
+      "code": ""
+    },
+    {
+      "title": "PRISM-IR: Fine-Grained Expert Selection for All-in-One Image Restoration",
+      "authors": "Aiping Zhang, Zongsheng Yue, Yuning Cui, Alois Knoll, Renjing Pei, Wenqi Ren, Xiaochun Cao",
+      "venue": "TIP 2026",
+      "year": 2026,
+      "paper": "https://doi.org/10.1109/TIP.2026.3740358",
+      "code": ""
+    },
+    {
+      "title": "UFSIR: Uncovering Frequency-Domain Secrets for Unified Image Restoration",
+      "authors": "Yuan Meng, Yubin Gu, Wenting Luo, Jiayi Ji, Xiaoshuai Sun, Weijian Ruan, Rongrong Ji",
+      "venue": "TCSVT 2026",
+      "year": 2026,
+      "paper": "https://doi.org/10.1109/TCSVT.2026.3728473",
+      "code": ""
+    },
+    {
+      "title": "HPP-IR: Hierarchical Progressive Prompting for All-in-One Weather-Degraded Image Restoration",
+      "authors": "Jiafeng Li, Tongyu Jia, Meng Zhou, Jing Zhang, Li Zhuo",
+      "venue": "TCSVT 2026",
+      "year": 2026,
+      "paper": "https://doi.org/10.1109/TCSVT.2026.3716423",
+      "code": ""
+    },
+    {
+      "title": "Universal image restoration via task-adaptive diffusion degradation oriented model",
+      "authors": "Junxi Wu, Sicheng Pan, Naiqi Li, Bin Chen, Baoyi An, Zhi Wang, Yaowei Wang, Shu-Tao Xia",
+      "venue": "PR 2026",
+      "year": 2026,
+      "paper": "https://doi.org/10.1016/j.patcog.2026.113193",
+      "code": "https://github.com/creator-xi/Diffusion-Degradation-Oriented-Model"
+    },
+    {
+      "title": "AdaPrompt-IR: Adaptive learning to perceive degradation semantic and prompting for all-in-one image restoration",
+      "authors": "Wei Sun, Qianzhou Wang, Yaqi Wang, Zhiqiang Hou, Qingsen Yan, Yanning Zhang",
+      "venue": "PR 2026",
+      "year": 2026,
+      "paper": "https://doi.org/10.1016/j.patcog.2025.111875",
+      "code": ""
+    },
+    {
+      "title": "All-In-One medical image restoration via Text-Guided prompting and Dual-Domain modeling",
+      "authors": "Jiaqi Cui, Bo Liu, Xi Wu, Jiliu Zhou, Luping Zhou, Dinggang Shen, Yan Wang",
+      "venue": "Information Fusion 2026",
+      "year": 2026,
+      "paper": "https://doi.org/10.1016/j.inffus.2026.104558",
+      "code": "https://github.com/gluucose/UniMedIR"
     },
     {
       "title": "An all-in-one foundation model for multimodal medical image restoration and enhancement",
@@ -421,6 +509,14 @@
       "code": ""
     },
     {
+      "title": "Crafting Degradation-Aware Task Affinity Graph for All-in-One Image Restoration",
+      "authors": "Yuxuan Zheng, Man Liu, Feng Li, Yanyan Wei, Runmin Cong, Yao Zhao, Huihui Bai",
+      "venue": "TCSVT 2026",
+      "year": 2026,
+      "paper": "https://doi.org/10.1109/TCSVT.2026.3722683",
+      "code": "https://github.com/zhengyuxuan614/PalRestorer"
+    },
+    {
       "title": "Prompt-in-Prompt Learning for All-in-One Image Restoration",
       "authors": "Zilong Li, Yiming Lei, Chenglong Ma, Junping Zhang, Hongming Shan",
       "venue": "PR 2026",
@@ -810,14 +906,6 @@
       "venue": "arXiv",
       "year": 2026,
       "paper": "https://arxiv.org/abs/2608.01829",
-      "code": ""
-    },
-    {
-      "title": "What to Remove, What to Preserve: Dual-Ambiguity Rectification for All-in-One Image Restoration",
-      "authors": "Cencen Liu, Wen Yin, Dongyang Zhang, Dongmin Li, Shan Zhao, Bing Su, Tao He, Jielei Wang, Guoming Lu",
-      "venue": "arXiv",
-      "year": 2026,
-      "paper": "https://arxiv.org/abs/2607.28526",
       "code": ""
     },
     {
