@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-11-16",
+  "updated": "2026-11-23",
   "repository": "https://github.com/Harbinzzy/All-in-One-Image-Restoration-Survey",
-  "paperCount": 284,
+  "paperCount": 293,
   "papers": [
     {
       "title": "Unified-Width Adaptive Dynamic Network for All-In-One Image Restoration",
@@ -11,6 +11,30 @@
       "year": 2027,
       "paper": "https://doi.org/10.1016/j.ins.2026.123974",
       "code": "https://github.com/xuyimin0926/U-WADN"
+    },
+    {
+      "title": "SASFormer: Stage-Aware Selective Attention Transformer for All-in-One Blind Image Restoration",
+      "authors": "Xiangpeng Tian, Mingyang Li, Fajing Liu, Xiaofeng Wang, Xiaohai He, Chao Ren",
+      "venue": "TCSVT 2026",
+      "year": 2026,
+      "paper": "https://doi.org/10.1109/TCSVT.2026.3745786",
+      "code": "https://github.com/TxpHome/SASFormer"
+    },
+    {
+      "title": "IRCDG: Adaptive all-in-one image restoration via component-divided guidance",
+      "authors": "Wei Sun, Xinbo Gao, Haotian Li, Yibao Zhao, Xueling Chen, Zhiqiang Hou, Yanning Zhang",
+      "venue": "PR 2026",
+      "year": 2026,
+      "paper": "https://doi.org/10.1016/j.patcog.2026.114488",
+      "code": ""
+    },
+    {
+      "title": "Towards maximizing feature efficiency: All-in-one image restoration via radial basis attention",
+      "authors": "Cheol Hoon Park, Hyun Duck Choi",
+      "venue": "PR 2026",
+      "year": 2026,
+      "paper": "https://doi.org/10.1016/j.patcog.2025.112815",
+      "code": "https://github.com/towardsDLCV/RBaIR"
     },
     {
       "title": "What to Remove, What to Preserve: Dual-Ambiguity Rectification for All-in-One Image Restoration",
@@ -426,7 +450,7 @@
       "venue": "ACCV 2026",
       "year": 2026,
       "paper": "https://arxiv.org/abs/2609.25267",
-      "code": ""
+      "code": "https://github.com/suleymanaslan/imir"
     },
     {
       "title": "UniH³: Unifying Hierarchical Homogeneity and Heterogeneity for All-in-One Medical Image Restoration",
@@ -569,7 +593,7 @@
       "authors": "Ao Li, Xiaoning Liu, Sheng Li, Yapeng Du, Zhen Long, Lei Luo, Le Zhang, Ce Zhu",
       "venue": "TMM 2026",
       "year": 2026,
-      "paper": "https://arxiv.org/abs/2605.08627",
+      "paper": "https://doi.org/10.1109/TMM.2026.3710082",
       "code": "https://github.com/AVC2-UESTC/DRNet-AiO"
     },
     {
@@ -689,7 +713,7 @@
       "authors": "Bingnan Wang, Bin Qin, Jiangmeng Li, Fanjiang Xu, Fuchun Sun, Hui Xiong",
       "venue": "TIP 2026",
       "year": 2026,
-      "paper": "https://arxiv.org/abs/2603.03839",
+      "paper": "https://doi.org/10.1109/TIP.2026.3675478",
       "code": ""
     },
     {
@@ -757,6 +781,46 @@
       "code": "https://github.com/DavisMeee/EndoIR"
     },
     {
+      "title": "PrismRestore: A Compact Restoration Toolbox for Agentic Image Restoration",
+      "authors": "Zhaocheng Yu, Kui Jiang, Jing Cao, Yiang Chen, Xiaocheng Feng, Junjun Jiang, Xianming Liu",
+      "venue": "arXiv",
+      "year": 2026,
+      "paper": "https://arxiv.org/abs/2611.24915",
+      "code": ""
+    },
+    {
+      "title": "Beyond Additive Composition: Interventional Modeling of State-Dependent Cross-Degradation Responses for Composite Image Restoration",
+      "authors": "Zongda Tang, Jie Feng, Wenda Zhao, Mingtao Feng, Yuping Liang, Ronghua Shang, Weisheng Dong",
+      "venue": "arXiv",
+      "year": 2026,
+      "paper": "https://arxiv.org/abs/2611.23889",
+      "code": ""
+    },
+    {
+      "title": "ExplicitIR: Explicit Spatial Policy Fields for All-in-One Image Restoration",
+      "authors": "Dezhi Zhang, Shangrong Yang, Yudong Liang, Wenjian Wang",
+      "venue": "arXiv",
+      "year": 2026,
+      "paper": "https://arxiv.org/abs/2611.22222",
+      "code": ""
+    },
+    {
+      "title": "RecurIR: Learning When and How to Revise Restoration Policies via Recursive Self-Improvement",
+      "authors": "Hu Gao, Haoran Zhang, Yulong Chen, Lizhuang Ma",
+      "venue": "arXiv",
+      "year": 2026,
+      "paper": "https://arxiv.org/abs/2611.18006",
+      "code": ""
+    },
+    {
+      "title": "UniRestorer++: Scalable Universal Image Restoration with Multi-Granularity Degradation Modeling",
+      "authors": "Jingbo Lin, Zhilu Zhang, Fan Li, Renjing Pei, Wenbo Li, Hang Xu, Hongzhi Zhang, Wangmeng Zuo",
+      "venue": "arXiv",
+      "year": 2026,
+      "paper": "https://arxiv.org/abs/2611.06042",
+      "code": "https://github.com/mrluin/UniRestorer_plusplus"
+    },
+    {
       "title": "WaFIR: Wavelet-Fourier Mixture-of-Experts with Subband-Adaptive Routing for Blind All-in-One Image Restoration",
       "authors": "Trong Nhan Nguyen, Vu Hoang Minh Doan, Thanh Dat Le, Truong Tien Vo, Thi Thu Ha Vu, Tan Hung Vo, Jaeyeop Choi, Junghwan Oh, Truong-Son Hy",
       "venue": "arXiv",
@@ -798,7 +862,7 @@
     },
     {
       "title": "HarnessIR: Harnessing Multimodal Foundation Models for Universal Real-World Image Restoration",
-      "authors": "Xiangtao Kong, Shuaizheng Liu, Rongyuan Wu, Lingchen Sun, Zhengqiang Zhang, Jinxin Zhao, Yuhui Wu, Lei Zhang",
+      "authors": "Xiangtao Kong, Shuaizheng Liu, Rongyuan Wu, Lingchen Sun, Zhengqiang Zhang, Jixin Zhao, Yuhui Wu, Lei Zhang",
       "venue": "arXiv",
       "year": 2026,
       "paper": "https://arxiv.org/abs/2610.10133",
@@ -891,6 +955,14 @@
       "year": 2026,
       "paper": "https://arxiv.org/abs/2608.20141",
       "code": ""
+    },
+    {
+      "title": "PixRestore: Unified Image Restoration via Pixel Diffusion Transformer",
+      "authors": "Lingchen Sun, Rongyuan Wu, Xiangtao Kong, Jixin Zhao, Qiaosi Yi, Yujing Sun, Shuaizheng Liu, Zhengqiang Zhang, Lei Zhang",
+      "venue": "arXiv",
+      "year": 2026,
+      "paper": "https://arxiv.org/abs/2608.16793",
+      "code": "https://github.com/csslc/PixRestore"
     },
     {
       "title": "SpikeRestormer: Towards Energy-Efficient All-in-One Image Restoration via Unified Event Reasoning",
@@ -2480,7 +2552,7 @@
           "approach": "General",
           "scores": {
             "haze": [
-              28.0,
+              28,
               0.958
             ],
             "rain": [
@@ -2778,7 +2850,7 @@
               0.888
             ],
             "noise50": [
-              28.0,
+              28,
               0.797
             ],
             "avg": [
@@ -3147,7 +3219,7 @@
               0.884
             ],
             "noise50": [
-              28.0,
+              28,
               0.792
             ],
             "avg": [
@@ -3176,7 +3248,7 @@
               0.981
             ],
             "rain": [
-              39.0,
+              39,
               0.985
             ],
             "noise15": [
@@ -4426,7 +4498,7 @@
               0.92
             ]
           },
-          "paper": "https://arxiv.org/abs/2605.08627",
+          "paper": "https://doi.org/10.1109/TMM.2026.3710082",
           "code": "https://github.com/AVC2-UESTC/DRNet-AiO",
           "source": "https://arxiv.org/html/2605.08627#S3.T2",
           "sourceLabel": "DRNet · Table II",
@@ -4443,7 +4515,7 @@
           "approach": "Spherical layer-wise expert routing",
           "scores": {
             "haze": [
-              33.0,
+              33,
               0.982
             ],
             "rain": [
@@ -5053,7 +5125,7 @@
               0.905
             ],
             "noise25": [
-              29.0,
+              29,
               0.841
             ],
             "blur": [
@@ -5512,7 +5584,7 @@
               0.89
             ],
             "low": [
-              23.0,
+              23,
               0.845
             ],
             "avg": [
@@ -5635,7 +5707,7 @@
               0.858
             ],
             "low": [
-              23.0,
+              23,
               0.845
             ],
             "avg": [
@@ -5713,7 +5785,7 @@
               0.898
             ],
             "blur": [
-              29.0,
+              29,
               0.878
             ],
             "low": [
@@ -5758,7 +5830,7 @@
               0.899
             ],
             "low": [
-              23.0,
+              23,
               0.852
             ],
             "avg": [
@@ -6168,7 +6240,7 @@
               0.886
             ],
             "low": [
-              23.0,
+              23,
               0.836
             ],
             "avg": [
@@ -6464,7 +6536,7 @@
               0.914
             ]
           },
-          "paper": "https://arxiv.org/abs/2605.08627",
+          "paper": "https://doi.org/10.1109/TMM.2026.3710082",
           "code": "https://github.com/AVC2-UESTC/DRNet-AiO",
           "source": "https://arxiv.org/html/2605.08627#S3.T1",
           "sourceLabel": "DRNet · Table I",
@@ -7874,7 +7946,7 @@
               0.209
             ],
             "snowReal": [
-              28.0,
+              28,
               0.836,
               0.197
             ],
@@ -8133,7 +8205,7 @@
               0.383
             ],
             "rainReal": [
-              35.0,
+              35,
               0.938,
               0.258
             ],
